@@ -1,302 +1,224 @@
 [
   {
     "number": 1,
-    "question": "A river is a large stream of",
-    "options": ["fire", "water", "air", "sand"],
-    "answer": "water"
+    "question": "What is the motto of Sun Dream International School?",
+    "options": [
+      "Learning Today, Leading Tomorrow",
+      "Knowledge for Excellence",
+      "Wisdom, Knowledge and Service",
+      "Inspiring the Future"
+    ],
+    "answer": "Wisdom, Knowledge and Service"
   },
   {
     "number": 2,
-    "question": "Rivers usually flow into",
-    "options": ["trees", "mountains", "oceans", "houses"],
-    "answer": "oceans"
+    "question": "Which of the following colors is part of the official Sun Dream School uniform?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Purple"
+    ],
+    "answer": "Blue"
   },
   {
     "number": 3,
-    "question": "A lake is a body of water surrounded by",
-    "options": ["water", "trees", "land", "sky"],
-    "answer": "land"
+    "question": "What is the name of the school's annual inter-house sports competition?",
+    "options": [
+      "Sun Dream Olympics",
+      "DreamFit Games",
+      "Sun Dream Inter-House Fiesta",
+      "Sun Sprint Classic"
+    ],
+    "answer": "Sun Dream Inter-House Fiesta"
   },
   {
     "number": 4,
-    "question": "Which of these is a natural lake?",
-    "options": ["Kainji Lake", "Lake Victoria", "River Niger", "Atlantic Lake"],
-    "answer": "Lake Victoria"
+    "question": "In what year was Sun Dream International School established?",
+    "options": [
+      "2010",
+      "2012",
+      "2018",
+      "2017"
+    ],
+    "answer": "2018"
   },
   {
     "number": 5,
-    "question": "When rivers overflow, they cause",
-    "options": ["earthquakes", "floods", "volcanoes", "snow"],
-    "answer": "floods"
+    "question": "Which house won the last inter-house sports competition?",
+    "options": [
+      "Ruby House",
+      "Emerald House",
+      "Sapphire House",
+      "Topaz House"
+    ],
+    "answer": "Emerald House"
   },
   {
     "number": 6,
-    "question": "Rocks are made up of",
-    "options": ["books", "minerals", "plastics", "wood"],
-    "answer": "minerals"
+    "question": "What is the name of the student-led media group in Sun Dream School?",
+    "options": [
+      "DreamCast",
+      "The Sunshine Press Club",
+      "Sun Dream Media House",
+      "Sun Dream Reporters"
+    ],
+    "answer": "Sun Dream Media House"
   },
   {
     "number": 7,
-    "question": "The three main types of rocks are sedimentary, igneous, and",
-    "options": ["metallic", "volcanic", "metamorphic", "underwater"],
-    "answer": "metamorphic"
+    "question": "Which subject is Sun Dream School especially known for winning competitions in?",
+    "options": [
+      "Mathematics",
+      "ICT",
+      "Civic Education",
+      "Home Economics"
+    ],
+    "answer": "ICT"
   },
   {
     "number": 8,
-    "question": "Igneous rocks are formed from",
-    "options": ["ice", "clay", "molten magma", "plastic"],
-    "answer": "molten magma"
+    "question": "Which of these is a core value promoted by Sun Dream International School?",
+    "options": [
+      "Fame",
+      "Humility",
+      "Power",
+      "Popularity"
+    ],
+    "answer": "Humility"
   },
   {
     "number": 9,
-    "question": "Which of these is a type of rock?",
-    "options": ["Marble", "Paper", "Iron", "Nail"],
-    "answer": "Marble"
+    "question": "How many campuses does Sun Dream School currently have?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two"
   },
   {
     "number": 10,
-    "question": "Rocks are used for making",
-    "options": ["food", "buildings", "toys", "clothes"],
-    "answer": "buildings"
+    "question": "Which club is responsible for environmental cleanliness and awareness in the school?",
+    "options": [
+      "Jet Club",
+      "Press Club",
+      "Green Club",
+      "Creative Arts Club"
+    ],
+    "answer": "Green Club"
   },
   {
     "number": 11,
-    "question": "Metamorphic rocks are formed through",
-    "options": ["magic", "heat and pressure", "air", "rain"],
-    "answer": "heat and pressure"
+    "question": "Who is the current Head Girl of Sun Dream International School (as of this session)?",
+    "options": [
+      "Adaora M.",
+      "Christabel U.",
+      "Amarachi O.",
+      "Blessing A."
+    ],
+    "answer": "Christabel U."
   },
   {
     "number": 12,
-    "question": "A soft rock used for writing on blackboards is",
-    "options": ["granite", "chalk", "clay", "coal"],
-    "answer": "chalk"
+    "question": "Which of the following is a tradition during the school’s end-of-year party?",
+    "options": [
+      "Talent Hunt",
+      "Principal’s Debate",
+      "Cultural Dance Parade",
+      "Parents vs Teachers Football Match"
+    ],
+    "answer": "Cultural Dance Parade"
   },
   {
     "number": 13,
-    "question": "Which of these is NOT a type of rock?",
-    "options": ["Sandstone", "Diamond", "Coal", "Sponge"],
-    "answer": "Sponge"
+    "question": "What is the title of the school anthem?",
+    "options": [
+      "Dream Beyond the Stars",
+      "Great Sun Dream",
+      "Light of the Future",
+      "Together We Rise"
+    ],
+    "answer": "Great Sun Dream"
   },
   {
     "number": 14,
-    "question": "The largest ocean in the world is the __________ Ocean.",
-    "options": ["Pacific", "Indian", "Arctic", "Atlantic"],
-    "answer": "Pacific"
+    "question": "What language is taught as a second language in Sun Dream School?",
+    "options": [
+      "French",
+      "Spanish",
+      "Chinese",
+      "German"
+    ],
+    "answer": "French"
   },
   {
     "number": 15,
-    "question": "Oceans cover a large part of the Earth’s",
-    "options": ["mountains", "sky", "surface", "forest"],
-    "answer": "surface"
+    "question": "Which award is usually given to the most disciplined student?",
+    "options": [
+      "Star Award",
+      "Model Student Award",
+      "Dream Ambassador",
+      "Excellence Badge"
+    ],
+    "answer": "Model Student Award"
   },
   {
     "number": 16,
-    "question": "The Earth moves around the",
-    "options": ["Moon", "Sun", "Stars", "Ocean"],
-    "answer": "Sun"
+    "question": "What is the name of the weekly assembly presentation organized by students?",
+    "options": [
+      "Dream Talk",
+      "Value Time",
+      "Sunrise Spotlight",
+      "Assembly Showcase"
+    ],
+    "answer": "Dream Talk"
   },
   {
     "number": 17,
-    "question": "The movement of the Earth around the Sun causes",
-    "options": ["night and day", "seasons", "rain", "clouds"],
-    "answer": "seasons"
+    "question": "Which of these activities is held every Friday afternoon?",
+    "options": [
+      "School Sanitation",
+      "House Meetings",
+      "PTA Forum",
+      "Club Activities"
+    ],
+    "answer": "Club Activities"
   },
   {
     "number": 18,
-    "question": "The spinning of the Earth on its axis is called",
-    "options": ["rotation", "rolling", "floating", "shifting"],
-    "answer": "rotation"
+    "question": "Which member of staff is popularly known as 'Mr. Techie'?",
+    "options": [
+      "Mr. Joshua",
+      "Mr. Samuel",
+      "Mr. Mfoniso",
+      "Mr. Emeka"
+    ],
+    "answer": "Mr. Mfoniso"
   },
   {
     "number": 19,
-    "question": "The Earth rotates once every",
-    "options": ["week", "month", "year", "24 hours"],
-    "answer": "24 hours"
+    "question": "Which major ICT competition did Sun Dream represent Imo State in?",
+    "options": [
+      "National Girls in ICT Competition",
+      "Junior Tech Stars",
+      "Code Nigeria Hackathon",
+      "Digital Youth Challenge"
+    ],
+    "answer": "National Girls in ICT Competition"
   },
   {
     "number": 20,
-    "question": "The movement of the Earth around the Sun is called __________.",
-    "options": ["flying", "revolution", "spinning", "shifting"],
-    "answer": "revolution"
-  },
-  {
-    "number": 21,
-    "question": "A mountain is a very high piece of",
-    "options": ["cloth", "furniture", "land", "cloud"],
-    "answer": "land"
-  },
-  {
-    "number": 22,
-    "question": "The highest mountain in the world is __________.",
-    "options": ["Mount Kilimanjaro", "Mount Everest", "Mount Kenya", "Mount Abuja"],
-    "answer": "Mount Everest"
-  },
-  {
-    "number": 23,
-    "question": "Which of these bodies of water is the smallest?",
-    "options": ["Ocean", "Sea", "River", "Lake"],
-    "answer": "Lake"
-  },
-  {
-    "number": 24,
-    "question": "Water is a",
-    "options": ["gas", "solid", "liquid", "metal"],
-    "answer": "liquid"
-  },
-  {
-    "number": 25,
-    "question": "Which of the following is not a source of water?",
-    "options": ["Rain", "Tap", "Sun", "River"],
-    "answer": "Sun"
-  },
-  {
-    "number": 26,
-    "question": "What happens to water when it is heated?",
-    "options": ["It freezes", "It evaporates", "It becomes solid", "It condenses"],
-    "answer": "It evaporates"
-  },
-  {
-    "number": 27,
-    "question": "The change of water into vapour is called",
-    "options": ["condensation", "melting", "evaporation", "filtration"],
-    "answer": "evaporation"
-  },
-  {
-    "number": 28,
-    "question": "Water vapour turns back into liquid by",
-    "options": ["heating", "melting", "condensation", "drying"],
-    "answer": "condensation"
-  },
-  {
-    "number": 29,
-    "question": "Water can exist in how many forms?",
-    "options": ["2", "3", "4", "5"],
-    "answer": "3"
-  },
-  {
-    "number": 30,
-    "question": "What is the solid form of water called?",
-    "options": ["Ice", "Snow", "Dew", "Rain"],
-    "answer": "Ice"
-  },
-  {
-    "number": 31,
-    "question": "What is the main source of natural water on Earth?",
-    "options": ["Moon", "Sun", "Rain", "Fire"],
-    "answer": "Rain"
-  },
-  {
-    "number": 32,
-    "question": "A mixture is made up of",
-    "options": ["One substance", "Two or more substances", "Only water", "Only solid"],
-    "answer": "Two or more substances"
-  },
-  {
-    "number": 33,
-    "question": "Which of the following is a mixture?",
-    "options": ["Salt", "Water", "Sand and salt", "Sugar"],
-    "answer": "Sand and salt"
-  },
-  {
-    "number": 34,
-    "question": "The process of separating a solid from a liquid using a sieve is called",
-    "options": ["Sieving", "Mixing", "Melting", "Grinding"],
-    "answer": "Sieving"
-  },
-  {
-    "number": 35,
-    "question": "Which mixture can be separated by picking?",
-    "options": ["Salt and water", "Beans and stones", "Sugar and water", "Milk and water"],
-    "answer": "Beans and stones"
-  },
-  {
-    "number": 36,
-    "question": "Which of these is not a method of separating mixtures?",
-    "options": ["Filtering", "Picking", "Cutting", "Sieving"],
-    "answer": "Cutting"
-  },
-  {
-    "number": 37,
-    "question": "Salt and water can be separated by",
-    "options": ["Freezing", "Evaporation", "Filtering", "Picking"],
-    "answer": "Evaporation"
-  },
-  {
-    "number": 38,
-    "question": "What does ICT stand for?",
-    "options": ["Information Computer Table", "Information Communication Technology", "Internet Cable Telecommunication", "Internet Contact Tool"],
-    "answer": "Information Communication Technology"
-  },
-  {
-    "number": 39,
-    "question": "Which device is used to type into a computer?",
-    "options": ["Monitor", "Mouse", "Keyboard", "Printer"],
-    "answer": "Keyboard"
-  },
-  {
-    "number": 40,
-    "question": "A computer without the internet cannot",
-    "options": ["Save work", "Store data", "Connect with the world", "Show pictures"],
-    "answer": "Connect with the world"
-  },
-  {
-    "number": 41,
-    "question": "A popular web browser is",
-    "options": ["Google Chrome", "Calculator", "Paint", "Excel"],
-    "answer": "Google Chrome"
-  },
-  {
-    "number": 42,
-    "question": "One benefit of community mobilisation is",
-    "options": ["Fighting", "Development", "Sickness", "Pollution"],
-    "answer": "Development"
-  },
-  {
-    "number": 43,
-    "question": "A successful community must be",
-    "options": ["Divided", "Violent", "United", "Lazy"],
-    "answer": "United"
-  },
-  {
-    "number": 44,
-    "question": "Puberty starts when a child becomes a",
-    "options": ["Baby", "Teenager", "Teacher", "Parent"],
-    "answer": "Teenager"
-  },
-  {
-    "number": 45,
-    "question": "During puberty, a boy’s voice becomes",
-    "options": ["High", "Deep", "Light", "Sharp"],
-    "answer": "Deep"
-  },
-  {
-    "number": 46,
-    "question": "What are cables used for?",
-    "options": ["Cleaning", "Tying books", "Connecting devices", "Drawing"],
-    "answer": "Connecting devices"
-  },
-  {
-    "number": 47,
-    "question": "A USB cable is used to",
-    "options": ["Eat", "Charge phones", "Cook", "Write"],
-    "answer": "Charge phones"
-  },
-  {
-    "number": 48,
-    "question": "Cables can be dangerous if they are",
-    "options": ["Covered", "Broken", "New", "Clean"],
-    "answer": "Broken"
-  },
-  {
-    "number": 49,
-    "question": "Electric cables are often covered with",
-    "options": ["Paper", "Cloth", "Plastic", "Wood"],
-    "answer": "Plastic"
-  },
-  {
-    "number": 50,
-    "question": "Cables should be kept",
-    "options": ["Wet", "Tied together", "Neatly and safely", "On the floor"],
-    "answer": "Neatly and safely"
+    "question": "What is the nickname often used by students for the school?",
+    "options": [
+      "SD Nation",
+      "Sunshine City",
+      "Dreamers' Den",
+      "SDIS"
+    ],
+    "answer": "SDIS"
   }
 ]
+
+
