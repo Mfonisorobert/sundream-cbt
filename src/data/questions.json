@@ -1,224 +1,302 @@
 [
   {
     "number": 1,
-    "question": "What is the motto of Sun Dream International School?",
-    "options": [
-      "Learning Today, Leading Tomorrow",
-      "Knowledge for Excellence",
-      "Wisdom, Knowledge and Service",
-      "Inspiring the Future"
-    ],
-    "answer": "Wisdom, Knowledge and Service"
+    "question": "He ___ to school every morning.",
+    "options": ["go", "goes", "gone", "going"],
+    "answer": "goes"
   },
   {
     "number": 2,
-    "question": "Which of the following colors is part of the official Sun Dream School uniform?",
-    "options": [
-      "Red",
-      "Blue",
-      "Green",
-      "Purple"
-    ],
-    "answer": "Blue"
+    "question": "They ___ in the garden.",
+    "options": ["is working", "are working", "was working", "working"],
+    "answer": "are working"
   },
   {
     "number": 3,
-    "question": "What is the name of the school's annual inter-house sports competition?",
-    "options": [
-      "Sun Dream Olympics",
-      "DreamFit Games",
-      "Sun Dream Inter-House Fiesta",
-      "Sun Sprint Classic"
-    ],
-    "answer": "Sun Dream Inter-House Fiesta"
+    "question": "Choose the correct verb: The dog ___ loudly.",
+    "options": ["bark", "barking", "barks", "barked"],
+    "answer": "barks"
   },
   {
     "number": 4,
-    "question": "In what year was Sun Dream International School established?",
-    "options": [
-      "2010",
-      "2012",
-      "2018",
-      "2017"
-    ],
-    "answer": "2018"
+    "question": "We ___ to the market yesterday.",
+    "options": ["goes", "gone", "went", "going"],
+    "answer": "went"
   },
   {
     "number": 5,
-    "question": "Which house won the last inter-house sports competition?",
-    "options": [
-      "Ruby House",
-      "Emerald House",
-      "Sapphire House",
-      "Topaz House"
-    ],
-    "answer": "Emerald House"
+    "question": "She ___ a beautiful song.",
+    "options": ["sing", "sang", "singing", "sings"],
+    "answer": "sang"
   },
   {
     "number": 6,
-    "question": "What is the name of the student-led media group in Sun Dream School?",
-    "options": [
-      "DreamCast",
-      "The Sunshine Press Club",
-      "Sun Dream Media House",
-      "Sun Dream Reporters"
-    ],
-    "answer": "Sun Dream Media House"
+    "question": "He ___ for an hour.",
+    "options": ["sleeps", "is sleeping", "slept", "has slept"],
+    "answer": "has slept"
   },
   {
     "number": 7,
-    "question": "Which subject is Sun Dream School especially known for winning competitions in?",
-    "options": [
-      "Mathematics",
-      "ICT",
-      "Civic Education",
-      "Home Economics"
-    ],
-    "answer": "ICT"
+    "question": "We ___ cricket every Saturday.",
+    "options": ["plays", "play", "played", "playing"],
+    "answer": "play"
   },
   {
     "number": 8,
-    "question": "Which of these is a core value promoted by Sun Dream International School?",
-    "options": [
-      "Fame",
-      "Humility",
-      "Power",
-      "Popularity"
-    ],
-    "answer": "Humility"
+    "question": "They ___ in the park right now.",
+    "options": ["plays", "played", "are playing", "is playing"],
+    "answer": "are playing"
   },
   {
     "number": 9,
-    "question": "How many campuses does Sun Dream School currently have?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "answer": "Two"
+    "question": "I ___ my homework before dinner.",
+    "options": ["finished", "finishes", "finish", "finishing"],
+    "answer": "finished"
   },
   {
     "number": 10,
-    "question": "Which club is responsible for environmental cleanliness and awareness in the school?",
-    "options": [
-      "Jet Club",
-      "Press Club",
-      "Green Club",
-      "Creative Arts Club"
-    ],
-    "answer": "Green Club"
+    "question": "He ___ a book when I called him.",
+    "options": ["was reading", "is reading", "read", "reads"],
+    "answer": "was reading"
   },
   {
     "number": 11,
-    "question": "Who is the current Head Girl of Sun Dream International School (as of this session)?",
-    "options": [
-      "Adaora M.",
-      "Christabel U.",
-      "Amarachi O.",
-      "Blessing A."
-    ],
-    "answer": "Christabel U."
+    "question": "Identify the declarative sentence:",
+    "options": ["Do you like ice cream?", "What a beautiful view!", "I am going to the market.", "Get out!"],
+    "answer": "I am going to the market."
   },
   {
     "number": 12,
-    "question": "Which of the following is a tradition during the school’s end-of-year party?",
-    "options": [
-      "Talent Hunt",
-      "Principal’s Debate",
-      "Cultural Dance Parade",
-      "Parents vs Teachers Football Match"
-    ],
-    "answer": "Cultural Dance Parade"
+    "question": "Which one is an interrogative sentence?",
+    "options": ["The cat is sleeping.", "Is the cat sleeping?", "The cat sleeps every day.", "The cat has slept."],
+    "answer": "Is the cat sleeping?"
   },
   {
     "number": 13,
-    "question": "What is the title of the school anthem?",
-    "options": [
-      "Dream Beyond the Stars",
-      "Great Sun Dream",
-      "Light of the Future",
-      "Together We Rise"
-    ],
-    "answer": "Great Sun Dream"
+    "question": "Choose the exclamatory sentence:",
+    "options": ["He is very happy.", "Is he happy?", "What a happy boy he is!", "He is happy."],
+    "answer": "What a happy boy he is!"
   },
   {
     "number": 14,
-    "question": "What language is taught as a second language in Sun Dream School?",
-    "options": [
-      "French",
-      "Spanish",
-      "Chinese",
-      "German"
-    ],
-    "answer": "French"
+    "question": "Identify the imperative sentence:",
+    "options": ["You are my best friend.", "Do your homework now.", "What a lovely dress!", "Do you like pizza?"],
+    "answer": "Do your homework now."
   },
   {
     "number": 15,
-    "question": "Which award is usually given to the most disciplined student?",
-    "options": [
-      "Star Award",
-      "Model Student Award",
-      "Dream Ambassador",
-      "Excellence Badge"
-    ],
-    "answer": "Model Student Award"
+    "question": "Which of the following is a compound sentence?",
+    "options": ["He went to the park.", "He went to the park, and she stayed at home.", "He is going to the park.", "The park is nearby."],
+    "answer": "He went to the park, and she stayed at home."
   },
   {
     "number": 16,
-    "question": "What is the name of the weekly assembly presentation organized by students?",
-    "options": [
-      "Dream Talk",
-      "Value Time",
-      "Sunrise Spotlight",
-      "Assembly Showcase"
-    ],
-    "answer": "Dream Talk"
+    "question": "Identify the complex sentence:",
+    "options": ["He went to the shop.", "He went to the shop because he needed bread.", "The shop was open.", "He likes going to the shop."],
+    "answer": "He went to the shop because he needed bread."
   },
   {
     "number": 17,
-    "question": "Which of these activities is held every Friday afternoon?",
-    "options": [
-      "School Sanitation",
-      "House Meetings",
-      "PTA Forum",
-      "Club Activities"
-    ],
-    "answer": "Club Activities"
+    "question": "Choose the simple sentence:",
+    "options": ["We went to the park, and she came too.", "We went to the park.", "When she came, we went to the park.", "We went to the park although it was raining."],
+    "answer": "We went to the park."
   },
   {
     "number": 18,
-    "question": "Which member of staff is popularly known as 'Mr. Techie'?",
-    "options": [
-      "Mr. Joshua",
-      "Mr. Samuel",
-      "Mr. Mfoniso",
-      "Mr. Emeka"
-    ],
-    "answer": "Mr. Mfoniso"
+    "question": "Which one is an exclamatory sentence?",
+    "options": ["What a beautiful morning!", "What is the time?", "Do your work.", "He is a doctor."],
+    "answer": "What a beautiful morning!"
   },
   {
     "number": 19,
-    "question": "Which major ICT competition did Sun Dream represent Imo State in?",
-    "options": [
-      "National Girls in ICT Competition",
-      "Junior Tech Stars",
-      "Code Nigeria Hackathon",
-      "Digital Youth Challenge"
-    ],
-    "answer": "National Girls in ICT Competition"
+    "question": "Identify the declarative sentence:",
+    "options": ["Will you come with me?", "He likes swimming.", "What a lovely view!", "Don’t make noise."],
+    "answer": "He likes swimming."
   },
   {
     "number": 20,
-    "question": "What is the nickname often used by students for the school?",
-    "options": [
-      "SD Nation",
-      "Sunshine City",
-      "Dreamers' Den",
-      "SDIS"
-    ],
-    "answer": "SDIS"
+    "question": "What is the sentence type? “Please help me with this task.”",
+    "options": ["Declarative", "Exclamatory", "Imperative", "Interrogative"],
+    "answer": "Imperative"
+  },
+  {
+    "number": 21,
+    "question": "Choose the correct contraction for \"do not\":",
+    "options": ["don't", "do'nt", "doesnt", "dont"],
+    "answer": "don't"
+  },
+  {
+    "number": 22,
+    "question": "Choose the contraction for \"is not\":",
+    "options": ["isn't", "is'nt", "isnt'", "is not"],
+    "answer": "isn't"
+  },
+  {
+    "number": 23,
+    "question": "What is the contracted form of \"they are\"?",
+    "options": ["they're", "there", "their", "the're"],
+    "answer": "they're"
+  },
+  {
+    "number": 24,
+    "question": "Choose the correct form for \"you will\":",
+    "options": ["you'll", "youll", "you'ill", "you'l"],
+    "answer": "you'll"
+  },
+  {
+    "number": 25,
+    "question": "What is the contraction for \"I am\"?",
+    "options": ["I'am", "Im", "I'm", "Iam"],
+    "answer": "I'm"
+  },
+  {
+    "number": 26,
+    "question": "What is the contraction for \"she is\"?",
+    "options": ["she're", "she's", "sheis", "she'll"],
+    "answer": "she's"
+  },
+  {
+    "number": 27,
+    "question": "What is the contraction for \"we have\"?",
+    "options": ["we've", "we'ave", "weve", "we'ha"],
+    "answer": "we've"
+  },
+  {
+    "number": 28,
+    "question": "What is the contracted form of \"would not\"?",
+    "options": ["wouldn't", "would'nt", "wouldnot", "woudn't"],
+    "answer": "wouldn't"
+  },
+  {
+    "number": 29,
+    "question": "What is the contraction for \"cannot\"?",
+    "options": ["cann't", "cant", "can't", "canot"],
+    "answer": "can't"
+  },
+  {
+    "number": 30,
+    "question": "What is the contracted form of \"they will\"?",
+    "options": ["they'll", "the'll", "theyll", "the'yll"],
+    "answer": "they'll"
+  },
+  {
+    "number": 31,
+    "question": "Choose the affirmative form:",
+    "options": ["He is not coming.", "He is coming.", "He doesn’t come.", "He didn’t come."],
+    "answer": "He is coming."
+  },
+  {
+    "number": 32,
+    "question": "Choose the negative form of: \"She likes pizza.\"",
+    "options": ["She doesn’t like pizza.", "She didn’t like pizza.", "She is not liking pizza.", "She hasn’t liked pizza."],
+    "answer": "She doesn’t like pizza."
+  },
+  {
+    "number": 33,
+    "question": "Choose the affirmative form of: \"He doesn’t play football.\"",
+    "options": ["He plays football.", "He play football.", "He didn’t play football.", "He is not playing football."],
+    "answer": "He plays football."
+  },
+  {
+    "number": 34,
+    "question": "Choose the negative form of: \"They are singing.\"",
+    "options": ["They are not singing.", "They doesn’t sing.", "They didn’t singing.", "They aren’t sang."],
+    "answer": "They are not singing."
+  },
+  {
+    "number": 35,
+    "question": "Choose the affirmative form of: \"We are not going.\"",
+    "options": ["We are going.", "We didn’t go.", "We aren’t going.", "We don’t go."],
+    "answer": "We are going."
+  },
+  {
+    "number": 36,
+    "question": "Choose the negative form of: \"I will help you.\"",
+    "options": ["I will not help you.", "I don’t help you.", "I didn’t help you.", "I am not helping you."],
+    "answer": "I will not help you."
+  },
+  {
+    "number": 37,
+    "question": "Choose the affirmative form of: \"He doesn’t like ice cream.\"",
+    "options": ["He likes ice cream.", "He liked ice cream.", "He is liking ice cream.", "He didn’t like ice cream."],
+    "answer": "He likes ice cream."
+  },
+  {
+    "number": 38,
+    "question": "Choose the negative form of: \"They came late.\"",
+    "options": ["They didn’t come late.", "They aren’t coming late.", "They don’t come late.", "They didn’t came late."],
+    "answer": "They didn’t come late."
+  },
+  {
+    "number": 39,
+    "question": "Choose the affirmative form of: \"She is not working.\"",
+    "options": ["She is working.", "She worked.", "She doesn’t work.", "She didn’t work."],
+    "answer": "She is working."
+  },
+  {
+    "number": 40,
+    "question": "Choose the negative form of: \"He plays cricket.\"",
+    "options": ["He doesn’t play cricket.", "He didn’t play cricket.", "He doesn’t plays cricket.", "He aren’t play cricket."],
+    "answer": "He doesn’t play cricket."
+  },
+  {
+    "number": 41,
+    "question": "Choose the passive form of: \"The cat drank the milk.\"",
+    "options": ["The milk was drunk by the cat.", "The cat drinks the milk.", "The cat is drinking the milk.", "The milk drank the cat."],
+    "answer": "The milk was drunk by the cat."
+  },
+  {
+    "number": 42,
+    "question": "Choose the active form of: \"The book was read by him.\"",
+    "options": ["He read the book.", "He is read the book.", "The book reads him.", "He is reading the book."],
+    "answer": "He read the book."
+  },
+  {
+    "number": 43,
+    "question": "Choose the passive form of: \"He is cleaning the room.\"",
+    "options": ["The room is being cleaned by him.", "The room was cleaned by him.", "The room is cleaning him.", "The room cleans him."],
+    "answer": "The room is being cleaned by him."
+  },
+  {
+    "number": 44,
+    "question": "Choose the active form of: \"The car was washed by John.\"",
+    "options": ["John washed the car.", "John is washing the car.", "John washes the car.", "John has washed the car."],
+    "answer": "John washed the car."
+  },
+  {
+    "number": 45,
+    "question": "Choose the passive form of: \"They play football every Sunday.\"",
+    "options": ["Football is played every Sunday.", "Football plays every Sunday.", "They are played by football every Sunday.", "They have played football every Sunday."],
+    "answer": "Football is played every Sunday."
+  },
+  {
+    "number": 46,
+    "question": "Choose the active form of: \"The song was sung by her.\"",
+    "options": ["She sang the song.", "She is singing the song.", "The song sang her.", "She was singing the song."],
+    "answer": "She sang the song."
+  },
+  {
+    "number": 47,
+    "question": "Choose the passive form of: \"He will write the letter.\"",
+    "options": ["The letter will be written by him.", "The letter will write him.", "The letter is being written by him.", "The letter writes him."],
+    "answer": "The letter will be written by him."
+  },
+  {
+    "number": 48,
+    "question": "Choose the active form of: \"The pizza is eaten by the boy.\"",
+    "options": ["The boy is eating the pizza.", "The boy ate the pizza.", "The boy will eat the pizza.", "The boy has eaten the pizza."],
+    "answer": "The boy is eating the pizza."
+  },
+  {
+    "number": 49,
+    "question": "Choose the passive form of: \"My sister cleans the room.\"",
+    "options": ["The room is cleaned by my sister.", "The room cleans my sister.", "The room was cleaned by my sister.", "The room is being cleaned by my sister."],
+    "answer": "The room is cleaned by my sister."
+  },
+  {
+    "number": 50,
+    "question": "Choose the active form of: \"The ball was thrown by the player.\"",
+    "options": ["The player threw the ball.", "The player is throwing the ball.", "The player throws the ball.", "The player has thrown the ball."],
+    "answer": "The player threw the ball."
   }
 ]
-
-
