@@ -1,304 +1,302 @@
 [
   {
     "number": 1,
-    "question": "Clothes help us to",
-    "options": ["cook food", "stay clean and warm", "wash plates", "harvest crops"],
-    "answer": "stay clean and warm"
+    "question": "What is 4/10 in decimals?",
+    "options": ["0.04", "0.040", "0.4", "0.5"],
+    "answer": "0.4"
   },
   {
     "number": 2,
-    "question": "We wear raincoats during",
-    "options": ["sunny weather", "Harmattan", "rainy season", "dry season"],
-    "answer": "rainy season"
+    "question": "Identify the missing number in 1/7 = 5/?",
+    "options": ["49", "35", "21", "17"],
+    "answer": "35"
   },
   {
     "number": 3,
-    "question": "______ is an example of personal clothing.",
-    "options": ["Fork", "Shirt", "Hoe", "Phone"],
-    "answer": "Shirt"
+    "question": "Identify the missing number in 2/7 = 4/?",
+    "options": ["21", "14", "7", "5"],
+    "answer": "14"
   },
   {
     "number": 4,
-    "question": "School uniform is worn to",
-    "options": ["play games", "swim", "school", "church"],
-    "answer": "school"
+    "question": "Compare: 7/19 and 6/9 using < or >",
+    "options": ["<", "=", ">", "≤"],
+    "answer": "<"
   },
   {
     "number": 5,
-    "question": "A shoe is worn on the",
-    "options": ["head", "hand", "foot", "neck"],
-    "answer": "foot"
+    "question": "Compare: 1/3 and 2/4 using < or >",
+    "options": [">", "<", "=", "≤"],
+    "answer": "<"
   },
   {
     "number": 6,
-    "question": "Clothes should be kept",
-    "options": ["dirty", "in the dustbin", "in the wardrobe", "in the kitchen"],
-    "answer": "in the wardrobe"
+    "question": "Compare: 3/5 and 1/8 using < or >",
+    "options": ["<", ">", "=", "≤"],
+    "answer": ">"
   },
   {
     "number": 7,
-    "question": "Clothes should be washed with",
-    "options": ["oil", "water and soap", "paint", "petrol"],
-    "answer": "water and soap"
+    "question": "Add 3357 + 2549 + 4211",
+    "options": ["10,117", "10,217", "10,118", "10,312"],
+    "answer": "10,117"
   },
   {
     "number": 8,
-    "question": "We wear ______ to bed at night.",
-    "options": ["pajamas", "raincoat", "wedding dress", "jeans"],
-    "answer": "pajamas"
+    "question": "5490 + 1900 + 2175",
+    "options": ["9,585", "9,660", "9658", "9565"],
+    "answer": "9565"
   },
   {
     "number": 9,
-    "question": "Which of these is NOT a clothing item?",
-    "options": ["Cap", "Blouse", "Radio", "Trousers"],
-    "answer": "Radio"
+    "question": "Subtract 1032 from 9734",
+    "options": ["8102", "8103", "8702", "8104"],
+    "answer": "8702"
   },
   {
     "number": 10,
-    "question": "Clothes should be ironed to",
-    "options": ["burn them", "clean them", "make them smooth", "hang them"],
-    "answer": "make them smooth"
+    "question": "13,574 – 6464",
+    "options": ["7111", "7110", "7109", "7120"],
+    "answer": "7110"
   },
   {
     "number": 11,
-    "question": "Which of these is a personal belonging?",
-    "options": ["Broom", "Cup", "School bag", "Table"],
-    "answer": "School bag"
+    "question": "Find the total population of a Town containing: 5450 women, 4003 men, 740 children",
+    "options": ["8968", "8878", "8978", "10,193"],
+    "answer": "10,193"
   },
   {
     "number": 12,
-    "question": "We use a toothbrush to",
-    "options": ["comb hair", "sweep floor", "clean shoes", "brush teeth"],
-    "answer": "brush teeth"
+    "question": "Subtract the largest 2-digit number from the greatest 3-digit number",
+    "options": ["901", "900", "1099", "1090"],
+    "answer": "900"
   },
   {
     "number": 13,
-    "question": "A personal belonging is something we",
-    "options": ["borrow", "steal", "own and use", "throw away"],
-    "answer": "own and use"
+    "question": "Out of 3798 decorative ribbons 2996 are silver and the rest are golden. How many are golden",
+    "options": ["822", "6774", "802", "988"],
+    "answer": "802"
   },
   {
     "number": 14,
-    "question": "Which of these is NOT a personal belonging?",
-    "options": ["Slippers", "Water bottle", "Blanket", "Chalkboard"],
-    "answer": "Chalkboard"
+    "question": "LCM of 10 and 16",
+    "options": ["40", "48", "60", "80"],
+    "answer": "80"
   },
   {
     "number": 15,
-    "question": "Our belongings should be kept",
-    "options": ["in the gutter", "carefully", "in the dustbin", "outside"],
-    "answer": "carefully"
+    "question": "Common factors of 6 and 12",
+    "options": ["1, 2, 4 and 6", "1, 2, 3 and 6", "1, 2, 5 and 6", "1, 2,3 and 5"],
+    "answer": "1, 2, 3 and 6"
   },
   {
     "number": 16,
-    "question": "Which item is used to tell time?",
-    "options": ["Belt", "Watch", "Comb", "Cup"],
-    "answer": "Watch"
+    "question": "Translate 752 to Roman numerals",
+    "options": ["DLXXII", "DCXXII", "CLXXII", "DCCLII"],
+    "answer": "DCCLII"
   },
   {
     "number": 17,
-    "question": "We use a pen to",
-    "options": ["cook food", "write", "brush hair", "draw water"],
-    "answer": "write"
+    "question": "x + 4 = 14. What is the value of x?",
+    "options": ["8", "10", "12", "5"],
+    "answer": "10"
   },
   {
     "number": 18,
-    "question": "A comb is used to",
-    "options": ["wear clothes", "wash shoes", "brush hair", "bathe"],
-    "answer": "brush hair"
+    "question": "15 + y = 34. What is the value of y?",
+    "options": ["30", "25", "15", "19"],
+    "answer": "19"
   },
   {
     "number": 19,
-    "question": "______ is used to carry books to school.",
-    "options": ["Spoon", "Bag", "Fan", "Plate"],
-    "answer": "Bag"
+    "question": "13 × 5 =",
+    "options": ["65", "75", "95", "55"],
+    "answer": "65"
   },
   {
     "number": 20,
-    "question": "To keep personal items safe, we should",
-    "options": ["give them away", "hide them in the bush", "take good care of them", "throw them away"],
-    "answer": "take good care of them"
+    "question": "What is the HCF of 16 and 24",
+    "options": ["4", "6", "8", "10"],
+    "answer": "8"
   },
   {
     "number": 21,
-    "question": "Preservation means",
-    "options": ["cooking food", "storing food to last longer", "wasting food", "eating food quickly"],
-    "answer": "storing food to last longer"
+    "question": "550 × 5 =",
+    "options": ["1750", "2750", "3750", "2550"],
+    "answer": "2750"
   },
   {
     "number": 22,
-    "question": "Grains are often dried in the",
-    "options": ["sun", "rain", "water", "cold"],
-    "answer": "sun"
+    "question": "200 × 4",
+    "options": ["104", "140", "400", "800"],
+    "answer": "800"
   },
   {
     "number": 23,
-    "question": "Smoking is used to preserve",
-    "options": ["yam", "fish", "mango", "banana"],
-    "answer": "fish"
+    "question": "What is DXIX in Arabic numerals",
+    "options": ["519", "619", "629", "599"],
+    "answer": "519"
   },
   {
     "number": 24,
-    "question": "Which method is used to preserve vegetables?",
-    "options": ["Grinding", "Freezing", "Peeling", "Boiling"],
-    "answer": "Freezing"
+    "question": "What is Meaning of 34 < 63?",
+    "options": ["34 is less than 63", "34 is greater than 63", "34 is equal to 63", "34 minus 63"],
+    "answer": "34 is less than 63"
   },
   {
     "number": 25,
-    "question": "Perishable food gets bad",
-    "options": ["slowly", "after many years", "quickly", "never"],
-    "answer": "quickly"
+    "question": "If you divide 100 mangoes among 50 boys, what will one of them get?",
+    "options": ["2", "6", "8", "10"],
+    "answer": "2"
   },
   {
     "number": 26,
-    "question": "We preserve food to prevent",
-    "options": ["waste", "cooking", "planting", "eating"],
-    "answer": "waste"
+    "question": "Write in figure: six million, seven hundred and sixty six",
+    "options": ["6,000766", "600066", "606600", "600766"],
+    "answer": "6,000766"
   },
   {
     "number": 27,
-    "question": "What is used to preserve meat for a long time?",
-    "options": ["Sugar", "Salt", "Paper", "Paint"],
-    "answer": "Salt"
+    "question": "Three hundred and one thousand seven hundred and sixty eight",
+    "options": ["30 768", "300 768", "30 768", "301 768"],
+    "answer": "301 768"
   },
   {
     "number": 28,
-    "question": "Beans can be stored in a",
-    "options": ["tank", "basket", "sack", "glass"],
-    "answer": "sack"
+    "question": "4 groups of 600 oranges is",
+    "options": ["2250", "2130", "2150", "2400"],
+    "answer": "2400"
   },
   {
     "number": 29,
-    "question": "Tomatoes can be preserved by",
-    "options": ["frying", "washing", "drying", "throwing"],
-    "answer": "drying"
+    "question": "What is the place value of 7 in the number 7682?",
+    "options": ["hundred", "unit", "thousand", "tens"],
+    "answer": "thousand"
   },
   {
     "number": 30,
-    "question": "Which of these is NOT a method of food preservation?",
-    "options": ["Drying", "Smoking", "Spoiling", "Freezing"],
-    "answer": "Spoiling"
+    "question": "There are 758 girls and 549 boys in a school, what is the population of the school?",
+    "options": ["1307", "2009", "1058", "1068"],
+    "answer": "1307"
   },
   {
     "number": 31,
-    "question": "Which of the following is used for cutting grass?",
-    "options": ["Hoe", "Cutlass", "Spoon", "Broom"],
-    "answer": "Cutlass"
+    "question": "What is 1/2 + 1/4?",
+    "options": ["2/4", "3/4", "2/3", "1/6"],
+    "answer": "3/4"
   },
   {
     "number": 32,
-    "question": "A hoe is used for",
-    "options": ["sweeping", "weeding", "planting", "dancing"],
-    "answer": "planting"
+    "question": "What is 7/10 - 2/10?",
+    "options": ["5/10", "6/10", "4/10", "9/10"],
+    "answer": "5/10"
   },
   {
     "number": 33,
-    "question": "A watering can is used to",
-    "options": ["eat", "fetch sand", "pour water on plants", "dig holes"],
-    "answer": "pour water on plants"
+    "question": "0.5 + 0.25",
+    "options": ["0.75", "0.8", "1.0", "0.5"],
+    "answer": "0.75"
   },
   {
     "number": 34,
-    "question": "A sickle is used to",
-    "options": ["sweep", "harvest crops", "drink water", "fry food"],
-    "answer": "harvest crops"
+    "question": "1.2 - 0.7",
+    "options": ["0.3", "0.5", "0.6", "1.0"],
+    "answer": "0.5"
   },
   {
     "number": 35,
-    "question": "A wheelbarrow helps to",
-    "options": ["move farm produce", "brush teeth", "wash clothes", "carry people"],
-    "answer": "move farm produce"
+    "question": "0.75 + 0.25",
+    "options": ["0.9", "1.0", "1.2", "1.5"],
+    "answer": "1.0"
   },
   {
     "number": 36,
-    "question": "Which of these is a digging tool?",
-    "options": ["Plate", "Rake", "Hoe", "Jug"],
-    "answer": "Hoe"
+    "question": "4.5 - 3.2",
+    "options": ["1.3", "2.1", "2.2", "2.4"],
+    "answer": "1.3"
   },
   {
     "number": 37,
-    "question": "The tool used for tilling the soil is",
-    "options": ["Knife", "Rake", "Axe", "Hoe"],
-    "answer": "Axe"
+    "question": "12 × 11",
+    "options": ["132", "121", "124", "142"],
+    "answer": "132"
   },
   {
     "number": 38,
-    "question": "Which is NOT a farm tool?",
-    "options": ["Cutlass", "Hoe", "Bag", "Rake"],
-    "answer": "Bag"
+    "question": "Simplify: 6 + 2 × 3",
+    "options": ["24", "12", "14", "18"],
+    "answer": "12"
   },
   {
     "number": 39,
-    "question": "A rake is used to gather",
-    "options": ["firewood", "water", "leaves", "fruits"],
-    "answer": "leaves"
+    "question": "(4 + 2) × 3",
+    "options": ["18", "20", "16", "12"],
+    "answer": "18"
   },
   {
     "number": 40,
-    "question": "Which of these tools has a sharp blade?",
-    "options": ["Cutlass", "Bucket", "Broom", "Towel"],
-    "answer": "Cutlass"
+    "question": "20 ÷ (5 - 3)",
+    "options": ["6", "9", "12", "10"],
+    "answer": "10"
   },
   {
     "number": 41,
-    "question": "We use a pot to",
-    "options": ["play", "wash", "cook", "draw"],
-    "answer": "cook"
+    "question": "Evaluate 6²",
+    "options": ["12", "16", "36", "24"],
+    "answer": "36"
   },
   {
     "number": 42,
-    "question": "A frying pan is used to",
-    "options": ["bake bread", "fry food", "cut meat", "wash clothes"],
-    "answer": "fry food"
+    "question": "3² + 2^3?",
+    "options": ["27", "17", "37", "56"],
+    "answer": "17"
   },
   {
     "number": 43,
-    "question": "A knife is used for",
-    "options": ["sweeping", "cutting", "brushing", "ironing"],
-    "answer": "cutting"
+    "question": "What is √169?",
+    "options": ["14", "13", "15", "17"],
+    "answer": "13"
   },
   {
     "number": 44,
-    "question": "A refrigerator is used to keep food",
-    "options": ["hot", "sweet", "cold and fresh", "sour"],
-    "answer": "cold and fresh"
+    "question": "An electric gadget purchased for ₦2500 was sold for ₦1750. Find the profit/loss.",
+    "options": ["₦750", "₦3750", "₦4250", "₦5350"],
+    "answer": "₦750"
   },
   {
     "number": 45,
-    "question": "A spoon is used to",
-    "options": ["cut trees", "eat food", "wash clothes", "bake bread"],
-    "answer": "eat food"
+    "question": "Convert 9kg to grams",
+    "options": ["900g", "9000g", "90000g", "90g"],
+    "answer": "9000g"
   },
   {
     "number": 46,
-    "question": "A kettle is used for boiling",
-    "options": ["meat", "plant", "water", "rice"],
-    "answer": "water"
+    "question": "Convert 64000g to Kilogram",
+    "options": ["64kg", "640kg", "6400kg", "64000kg"],
+    "answer": "64kg"
   },
   {
     "number": 47,
-    "question": "A gas cooker helps us to",
-    "options": ["drive", "fly", "cook", "sweep"],
-    "answer": "cook"
+    "question": "The total weight of 6 bags of onions is 24kg 666g. All the six bags are eqaul in weight. What is the weight of each bag??",
+    "options": ["4kg 6g", "4kg 111g", "4kg", "4kg 101g"],
+    "answer": "4kg 111g"
   },
   {
     "number": 48,
-    "question": "A sieve is used for",
-    "options": ["mixing", "boiling", "separating particles", "frying"],
-    "answer": "separating particles"
+    "question": "If x = 3, what is the value of x?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
   },
   {
     "number": 49,
-    "question": "A tray is used to",
-    "options": ["plant crops", "carry food", "dig the ground", "wash plates"],
-    "answer": "carry food"
+    "question": "If x = 4, what is the value of x²?",
+    "options": ["16", "8", "12", "20"],
+    "answer": "16"
   },
   {
     "number": 50,
-    "question": "We use a chopping board to",
-    "options": ["cook rice", "serve food", "cut food items", "wash plates"],
-    "answer": "cut food items"
+    "question": "If M = 6, what is 3M - 2?",
+    "options": ["16", "18", "12", "10"],
+    "answer": "16"
   }
 ]
-
-
