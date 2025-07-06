@@ -1,302 +1,224 @@
 [
   {
     "number": 1,
-    "question": "What is 4/10 in decimals?",
-    "options": ["0.04", "0.040", "0.4", "0.5"],
-    "answer": "0.4"
+    "question": "What is the motto of Sun Dream International School?",
+    "options": [
+      "Learning Today, Leading Tomorrow",
+      "Knowledge for Excellence",
+      "Wisdom, Knowledge and Service",
+      "Inspiring the Future"
+    ],
+    "answer": "Wisdom, Knowledge and Service"
   },
   {
     "number": 2,
-    "question": "Identify the missing number in 1/7 = 5/?",
-    "options": ["49", "35", "21", "17"],
-    "answer": "35"
+    "question": "Which of the following colors is part of the official Sun Dream School uniform?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Purple"
+    ],
+    "answer": "Blue"
   },
   {
     "number": 3,
-    "question": "Identify the missing number in 2/7 = 4/?",
-    "options": ["21", "14", "7", "5"],
-    "answer": "14"
+    "question": "What is the name of the school's annual inter-house sports competition?",
+    "options": [
+      "Sun Dream Olympics",
+      "DreamFit Games",
+      "Sun Dream Inter-House Fiesta",
+      "Sun Sprint Classic"
+    ],
+    "answer": "Sun Dream Inter-House Fiesta"
   },
   {
     "number": 4,
-    "question": "Compare: 7/19 and 6/9 using < or >",
-    "options": ["<", "=", ">", "≤"],
-    "answer": "<"
+    "question": "In what year was Sun Dream International School established?",
+    "options": [
+      "2010",
+      "2012",
+      "2018",
+      "2017"
+    ],
+    "answer": "2018"
   },
   {
     "number": 5,
-    "question": "Compare: 1/3 and 2/4 using < or >",
-    "options": [">", "<", "=", "≤"],
-    "answer": "<"
+    "question": "Which house won the last inter-house sports competition?",
+    "options": [
+      "Ruby House",
+      "Emerald House",
+      "Sapphire House",
+      "Topaz House"
+    ],
+    "answer": "Emerald House"
   },
   {
     "number": 6,
-    "question": "Compare: 3/5 and 1/8 using < or >",
-    "options": ["<", ">", "=", "≤"],
-    "answer": ">"
+    "question": "What is the name of the student-led media group in Sun Dream School?",
+    "options": [
+      "DreamCast",
+      "The Sunshine Press Club",
+      "Sun Dream Media House",
+      "Sun Dream Reporters"
+    ],
+    "answer": "Sun Dream Media House"
   },
   {
     "number": 7,
-    "question": "Add 3357 + 2549 + 4211",
-    "options": ["10,117", "10,217", "10,118", "10,312"],
-    "answer": "10,117"
+    "question": "Which subject is Sun Dream School especially known for winning competitions in?",
+    "options": [
+      "Mathematics",
+      "ICT",
+      "Civic Education",
+      "Home Economics"
+    ],
+    "answer": "ICT"
   },
   {
     "number": 8,
-    "question": "5490 + 1900 + 2175",
-    "options": ["9,585", "9,660", "9658", "9565"],
-    "answer": "9565"
+    "question": "Which of these is a core value promoted by Sun Dream International School?",
+    "options": [
+      "Fame",
+      "Humility",
+      "Power",
+      "Popularity"
+    ],
+    "answer": "Humility"
   },
   {
     "number": 9,
-    "question": "Subtract 1032 from 9734",
-    "options": ["8102", "8103", "8702", "8104"],
-    "answer": "8702"
+    "question": "How many campuses does Sun Dream School currently have?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two"
   },
   {
     "number": 10,
-    "question": "13,574 – 6464",
-    "options": ["7111", "7110", "7109", "7120"],
-    "answer": "7110"
+    "question": "Which club is responsible for environmental cleanliness and awareness in the school?",
+    "options": [
+      "Jet Club",
+      "Press Club",
+      "Green Club",
+      "Creative Arts Club"
+    ],
+    "answer": "Green Club"
   },
   {
     "number": 11,
-    "question": "Find the total population of a Town containing: 5450 women, 4003 men, 740 children",
-    "options": ["8968", "8878", "8978", "10,193"],
-    "answer": "10,193"
+    "question": "Who is the current Head Girl of Sun Dream International School (as of this session)?",
+    "options": [
+      "Adaora M.",
+      "Christabel U.",
+      "Amarachi O.",
+      "Blessing A."
+    ],
+    "answer": "Christabel U."
   },
   {
     "number": 12,
-    "question": "Subtract the largest 2-digit number from the greatest 3-digit number",
-    "options": ["901", "900", "1099", "1090"],
-    "answer": "900"
+    "question": "Which of the following is a tradition during the school’s end-of-year party?",
+    "options": [
+      "Talent Hunt",
+      "Principal’s Debate",
+      "Cultural Dance Parade",
+      "Parents vs Teachers Football Match"
+    ],
+    "answer": "Cultural Dance Parade"
   },
   {
     "number": 13,
-    "question": "Out of 3798 decorative ribbons 2996 are silver and the rest are golden. How many are golden",
-    "options": ["822", "6774", "802", "988"],
-    "answer": "802"
+    "question": "What is the title of the school anthem?",
+    "options": [
+      "Dream Beyond the Stars",
+      "Great Sun Dream",
+      "Light of the Future",
+      "Together We Rise"
+    ],
+    "answer": "Great Sun Dream"
   },
   {
     "number": 14,
-    "question": "LCM of 10 and 16",
-    "options": ["40", "48", "60", "80"],
-    "answer": "80"
+    "question": "What language is taught as a second language in Sun Dream School?",
+    "options": [
+      "French",
+      "Spanish",
+      "Chinese",
+      "German"
+    ],
+    "answer": "French"
   },
   {
     "number": 15,
-    "question": "Common factors of 6 and 12",
-    "options": ["1, 2, 4 and 6", "1, 2, 3 and 6", "1, 2, 5 and 6", "1, 2,3 and 5"],
-    "answer": "1, 2, 3 and 6"
+    "question": "Which award is usually given to the most disciplined student?",
+    "options": [
+      "Star Award",
+      "Model Student Award",
+      "Dream Ambassador",
+      "Excellence Badge"
+    ],
+    "answer": "Model Student Award"
   },
   {
     "number": 16,
-    "question": "Translate 752 to Roman numerals",
-    "options": ["DLXXII", "DCXXII", "CLXXII", "DCCLII"],
-    "answer": "DCCLII"
+    "question": "What is the name of the weekly assembly presentation organized by students?",
+    "options": [
+      "Dream Talk",
+      "Value Time",
+      "Sunrise Spotlight",
+      "Assembly Showcase"
+    ],
+    "answer": "Dream Talk"
   },
   {
     "number": 17,
-    "question": "x + 4 = 14. What is the value of x?",
-    "options": ["8", "10", "12", "5"],
-    "answer": "10"
+    "question": "Which of these activities is held every Friday afternoon?",
+    "options": [
+      "School Sanitation",
+      "House Meetings",
+      "PTA Forum",
+      "Club Activities"
+    ],
+    "answer": "Club Activities"
   },
   {
     "number": 18,
-    "question": "15 + y = 34. What is the value of y?",
-    "options": ["30", "25", "15", "19"],
-    "answer": "19"
+    "question": "Which member of staff is popularly known as 'Mr. Techie'?",
+    "options": [
+      "Mr. Joshua",
+      "Mr. Samuel",
+      "Mr. Mfoniso",
+      "Mr. Emeka"
+    ],
+    "answer": "Mr. Mfoniso"
   },
   {
     "number": 19,
-    "question": "13 × 5 =",
-    "options": ["65", "75", "95", "55"],
-    "answer": "65"
+    "question": "Which major ICT competition did Sun Dream represent Imo State in?",
+    "options": [
+      "National Girls in ICT Competition",
+      "Junior Tech Stars",
+      "Code Nigeria Hackathon",
+      "Digital Youth Challenge"
+    ],
+    "answer": "National Girls in ICT Competition"
   },
   {
     "number": 20,
-    "question": "What is the HCF of 16 and 24",
-    "options": ["4", "6", "8", "10"],
-    "answer": "8"
-  },
-  {
-    "number": 21,
-    "question": "550 × 5 =",
-    "options": ["1750", "2750", "3750", "2550"],
-    "answer": "2750"
-  },
-  {
-    "number": 22,
-    "question": "200 × 4",
-    "options": ["104", "140", "400", "800"],
-    "answer": "800"
-  },
-  {
-    "number": 23,
-    "question": "What is DXIX in Arabic numerals",
-    "options": ["519", "619", "629", "599"],
-    "answer": "519"
-  },
-  {
-    "number": 24,
-    "question": "What is Meaning of 34 < 63?",
-    "options": ["34 is less than 63", "34 is greater than 63", "34 is equal to 63", "34 minus 63"],
-    "answer": "34 is less than 63"
-  },
-  {
-    "number": 25,
-    "question": "If you divide 100 mangoes among 50 boys, what will one of them get?",
-    "options": ["2", "6", "8", "10"],
-    "answer": "2"
-  },
-  {
-    "number": 26,
-    "question": "Write in figure: six million, seven hundred and sixty six",
-    "options": ["6,000766", "600066", "606600", "600766"],
-    "answer": "6,000766"
-  },
-  {
-    "number": 27,
-    "question": "Three hundred and one thousand seven hundred and sixty eight",
-    "options": ["30 768", "300 768", "30 768", "301 768"],
-    "answer": "301 768"
-  },
-  {
-    "number": 28,
-    "question": "4 groups of 600 oranges is",
-    "options": ["2250", "2130", "2150", "2400"],
-    "answer": "2400"
-  },
-  {
-    "number": 29,
-    "question": "What is the place value of 7 in the number 7682?",
-    "options": ["hundred", "unit", "thousand", "tens"],
-    "answer": "thousand"
-  },
-  {
-    "number": 30,
-    "question": "There are 758 girls and 549 boys in a school, what is the population of the school?",
-    "options": ["1307", "2009", "1058", "1068"],
-    "answer": "1307"
-  },
-  {
-    "number": 31,
-    "question": "What is 1/2 + 1/4?",
-    "options": ["2/4", "3/4", "2/3", "1/6"],
-    "answer": "3/4"
-  },
-  {
-    "number": 32,
-    "question": "What is 7/10 - 2/10?",
-    "options": ["5/10", "6/10", "4/10", "9/10"],
-    "answer": "5/10"
-  },
-  {
-    "number": 33,
-    "question": "0.5 + 0.25",
-    "options": ["0.75", "0.8", "1.0", "0.5"],
-    "answer": "0.75"
-  },
-  {
-    "number": 34,
-    "question": "1.2 - 0.7",
-    "options": ["0.3", "0.5", "0.6", "1.0"],
-    "answer": "0.5"
-  },
-  {
-    "number": 35,
-    "question": "0.75 + 0.25",
-    "options": ["0.9", "1.0", "1.2", "1.5"],
-    "answer": "1.0"
-  },
-  {
-    "number": 36,
-    "question": "4.5 - 3.2",
-    "options": ["1.3", "2.1", "2.2", "2.4"],
-    "answer": "1.3"
-  },
-  {
-    "number": 37,
-    "question": "12 × 11",
-    "options": ["132", "121", "124", "142"],
-    "answer": "132"
-  },
-  {
-    "number": 38,
-    "question": "Simplify: 6 + 2 × 3",
-    "options": ["24", "12", "14", "18"],
-    "answer": "12"
-  },
-  {
-    "number": 39,
-    "question": "(4 + 2) × 3",
-    "options": ["18", "20", "16", "12"],
-    "answer": "18"
-  },
-  {
-    "number": 40,
-    "question": "20 ÷ (5 - 3)",
-    "options": ["6", "9", "12", "10"],
-    "answer": "10"
-  },
-  {
-    "number": 41,
-    "question": "Evaluate 6²",
-    "options": ["12", "16", "36", "24"],
-    "answer": "36"
-  },
-  {
-    "number": 42,
-    "question": "3² + 2^3?",
-    "options": ["27", "17", "37", "56"],
-    "answer": "17"
-  },
-  {
-    "number": 43,
-    "question": "What is √169?",
-    "options": ["14", "13", "15", "17"],
-    "answer": "13"
-  },
-  {
-    "number": 44,
-    "question": "An electric gadget purchased for ₦2500 was sold for ₦1750. Find the profit/loss.",
-    "options": ["₦750", "₦3750", "₦4250", "₦5350"],
-    "answer": "₦750"
-  },
-  {
-    "number": 45,
-    "question": "Convert 9kg to grams",
-    "options": ["900g", "9000g", "90000g", "90g"],
-    "answer": "9000g"
-  },
-  {
-    "number": 46,
-    "question": "Convert 64000g to Kilogram",
-    "options": ["64kg", "640kg", "6400kg", "64000kg"],
-    "answer": "64kg"
-  },
-  {
-    "number": 47,
-    "question": "The total weight of 6 bags of onions is 24kg 666g. All the six bags are eqaul in weight. What is the weight of each bag??",
-    "options": ["4kg 6g", "4kg 111g", "4kg", "4kg 101g"],
-    "answer": "4kg 111g"
-  },
-  {
-    "number": 48,
-    "question": "If x = 3, what is the value of x?",
-    "options": ["2", "3", "4", "5"],
-    "answer": "3"
-  },
-  {
-    "number": 49,
-    "question": "If x = 4, what is the value of x²?",
-    "options": ["16", "8", "12", "20"],
-    "answer": "16"
-  },
-  {
-    "number": 50,
-    "question": "If M = 6, what is 3M - 2?",
-    "options": ["16", "18", "12", "10"],
-    "answer": "16"
+    "question": "What is the nickname often used by students for the school?",
+    "options": [
+      "SD Nation",
+      "Sunshine City",
+      "Dreamers' Den",
+      "SDIS"
+    ],
+    "answer": "SDIS"
   }
 ]
+
+
