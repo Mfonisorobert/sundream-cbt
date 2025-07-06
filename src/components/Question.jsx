@@ -2,6 +2,17 @@ const Question = ({ questionObj, questionIndex, selectedOption, handleOptionSele
     return (
       <div className="bg-white shadow-md p-6 rounded-2xl mb-4">
         <h2 className="text-xl font-semibold mb-4">
+
+
+{/* This portion is only for questions that have instructions attached to it  */}
+          {/* {questionObj.instruction && (
+  <p className="text-sm font-medium text-gray-600 mb-2 italic">
+    {questionObj.instruction}
+  </p>
+)} */}
+{/* It instructional questions ends here */}
+
+
           {questionIndex + 1}. {questionObj.question}
         </h2>
         <div className="space-y-3">
