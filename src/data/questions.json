@@ -1,224 +1,302 @@
 [
   {
     "number": 1,
-    "question": "What is the motto of Sun Dream International School?",
-    "options": [
-      "Learning Today, Leading Tomorrow",
-      "Knowledge for Excellence",
-      "Wisdom, Knowledge and Service",
-      "Inspiring the Future"
-    ],
-    "answer": "Wisdom, Knowledge and Service"
+    "question": "Ndi Igbo bu ndi agburu___________?",
+    "options": ["Isi ochi", "Isi ojii", "Isi anwu"],
+    "answer": "Isi ojii"
   },
   {
     "number": 2,
-    "question": "Which of the following colors is part of the official Sun Dream School uniform?",
-    "options": [
-      "Red",
-      "Blue",
-      "Green",
-      "Purple"
-    ],
-    "answer": "Blue"
+    "question": "Ndi Igbo bi n'ogbe _____ala Nigeria?",
+    "options": ["Ndida", "Mgbago", "Mgbago Ugwu"],
+    "answer": "Ndida"
   },
   {
     "number": 3,
-    "question": "What is the name of the school's annual inter-house sports competition?",
-    "options": [
-      "Sun Dream Olympics",
-      "DreamFit Games",
-      "Sun Dream Inter-House Fiesta",
-      "Sun Sprint Classic"
-    ],
-    "answer": "Sun Dream Inter-House Fiesta"
+    "question": "Otu njiri mara ndi Igbo bu?",
+    "options": ["Ije ha", "ulo akukuwo ha", "Asusu ha"],
+    "answer": "Asusu ha"
   },
   {
     "number": 4,
-    "question": "In what year was Sun Dream International School established?",
-    "options": [
-      "2010",
-      "2012",
-      "2018",
-      "2017"
-    ],
-    "answer": "2018"
+    "question": "Asusu eji mara ndi Igbo bu asusu?",
+    "options": ["Awusa", "Ibibio", "Igbo"],
+    "answer": "Igbo"
   },
   {
     "number": 5,
-    "question": "Which house won the last inter-house sports competition?",
-    "options": [
-      "Ruby House",
-      "Emerald House",
-      "Sapphire House",
-      "Topaz House"
-    ],
-    "answer": "Emerald House"
+    "question": "Otu nri ndi Igbo na-eri bu?",
+    "options": ["ukwa", "tuwo", "ewagoyin"],
+    "answer": "ukwa"
   },
   {
     "number": 6,
-    "question": "What is the name of the student-led media group in Sun Dream School?",
-    "options": [
-      "DreamCast",
-      "The Sunshine Press Club",
-      "Sun Dream Media House",
-      "Sun Dream Reporters"
-    ],
-    "answer": "Sun Dream Media House"
+    "question": "Aha ozo enwere ike ikpo agwugwa bu?",
+    "options": ["Ibeku", "Gwam Gwam Gwam", "Okwuntuhi"],
+    "answer": "Gwam Gwam Gwam"
   },
   {
     "number": 7,
-    "question": "Which subject is Sun Dream School especially known for winning competitions in?",
-    "options": [
-      "Mathematics",
-      "ICT",
-      "Civic Education",
-      "Home Economics"
-    ],
-    "answer": "ICT"
+    "question": "Gwa m ihe kuuru mmiri laa elu",
+    "options": ["Ugbo mmiri", "Iko", "Aki Bekee"],
+    "answer": "Aki Bekee"
   },
   {
     "number": 8,
-    "question": "Which of these is a core value promoted by Sun Dream International School?",
-    "options": [
-      "Fame",
-      "Humility",
-      "Power",
-      "Popularity"
-    ],
-    "answer": "Humility"
+    "question": "Gwa m ihe ji ikpere gazuo Ubi niile",
+    "options": ["Ogu", "Mma", "Nkata"],
+    "answer": "Ogu"
   },
   {
     "number": 9,
-    "question": "How many campuses does Sun Dream School currently have?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "answer": "Two"
+    "question": "Gwa m akwa Chukwu sara na-adighi ako ako",
+    "options": ["Efere", "Ire", "Afo"],
+    "answer": "Ire"
   },
   {
     "number": 10,
-    "question": "Which club is responsible for environmental cleanliness and awareness in the school?",
-    "options": [
-      "Jet Club",
-      "Press Club",
-      "Green Club",
-      "Creative Arts Club"
-    ],
-    "answer": "Green Club"
+    "question": "Ihe enwere ike Ikpo akaoru na Bekee bu?",
+    "options": ["Business", "Trade", "Profession"],
+    "answer": "Profession"
   },
   {
     "number": 11,
-    "question": "Who is the current Head Girl of Sun Dream International School (as of this session)?",
-    "options": [
-      "Adaora M.",
-      "Christabel U.",
-      "Amarachi O.",
-      "Blessing A."
-    ],
-    "answer": "Christabel U."
+    "question": "Otu aka oru ndi Igbo n’oge gboo bu?",
+    "options": ["Oru Ugbo", "Njinia", "Ikwo ugboelu"],
+    "answer": "Oru Ugbo"
   },
   {
     "number": 12,
-    "question": "Which of the following is a tradition during the school’s end-of-year party?",
-    "options": [
-      "Talent Hunt",
-      "Principal’s Debate",
-      "Cultural Dance Parade",
-      "Parents vs Teachers Football Match"
-    ],
-    "answer": "Cultural Dance Parade"
+    "question": "Otu uru agwugwa bara bu?",
+    "options": ["O na-enye nsogbu", "Agwugwa na-egbu oge", "Agwugwa na-enye obi uto"],
+    "answer": "Agwugwa na-enye obi uto"
   },
   {
     "number": 13,
-    "question": "What is the title of the school anthem?",
-    "options": [
-      "Dream Beyond the Stars",
-      "Great Sun Dream",
-      "Light of the Future",
-      "Together We Rise"
-    ],
-    "answer": "Great Sun Dream"
+    "question": "Ichu nta bu gini na Bekee?",
+    "options": ["Farming", "Cleaning", "Hunting"],
+    "answer": "Hunting"
   },
   {
     "number": 14,
-    "question": "What language is taught as a second language in Sun Dream School?",
-    "options": [
-      "French",
-      "Spanish",
-      "Chinese",
-      "German"
-    ],
-    "answer": "French"
+    "question": "Gini ka a na-akpo 'Pottery' n’asusu Igbo?",
+    "options": ["Ikpa ihe", "Ikpu ihe okpukpu", "Ise ihe"],
+    "answer": "Ikpu ihe okpukpu"
   },
   {
     "number": 15,
-    "question": "Which award is usually given to the most disciplined student?",
-    "options": [
-      "Star Award",
-      "Model Student Award",
-      "Dream Ambassador",
-      "Excellence Badge"
-    ],
-    "answer": "Model Student Award"
+    "question": "Mkpolu putara - na Bekee?",
+    "options": ["Multiple", "Singular", "Plenty"],
+    "answer": "Singular"
   },
   {
     "number": 16,
-    "question": "What is the name of the weekly assembly presentation organized by students?",
-    "options": [
-      "Dream Talk",
-      "Value Time",
-      "Sunrise Spotlight",
-      "Assembly Showcase"
-    ],
-    "answer": "Dream Talk"
+    "question": "Ubara putara gini na Bekee?",
+    "options": ["Single", "Plural", "Few"],
+    "answer": "Plural"
   },
   {
     "number": 17,
-    "question": "Which of these activities is held every Friday afternoon?",
-    "options": [
-      "School Sanitation",
-      "House Meetings",
-      "PTA Forum",
-      "Club Activities"
-    ],
-    "answer": "Club Activities"
+    "question": "........ na-egosiputa ihe di naani otu?",
+    "options": ["Ubara", "Onuogugu", "Mkpolu"],
+    "answer": "Mkpolu"
   },
   {
     "number": 18,
-    "question": "Which member of staff is popularly known as 'Mr. Techie'?",
-    "options": [
-      "Mr. Joshua",
-      "Mr. Samuel",
-      "Mr. Mfoniso",
-      "Mr. Emeka"
-    ],
-    "answer": "Mr. Mfoniso"
+    "question": "........ na-egosiputa ihe di abuo ma o bu karia?",
+    "options": ["Mkpolu", "Ubara", "Ogugu"],
+    "answer": "Ubara"
   },
   {
     "number": 19,
-    "question": "Which major ICT competition did Sun Dream represent Imo State in?",
-    "options": [
-      "National Girls in ICT Competition",
-      "Junior Tech Stars",
-      "Code Nigeria Hackathon",
-      "Digital Youth Challenge"
-    ],
-    "answer": "National Girls in ICT Competition"
+    "question": "Gini bu ubara 'm' ma o bu 'mu'?",
+    "options": ["Ha", "Anyi", "unu"],
+    "answer": "Anyi"
   },
   {
     "number": 20,
-    "question": "What is the nickname often used by students for the school?",
-    "options": [
-      "SD Nation",
-      "Sunshine City",
-      "Dreamers' Den",
-      "SDIS"
-    ],
-    "answer": "SDIS"
+    "question": "Ụbara 'gi' bụ .......... ?",
+    "options": ["Anyị", "Ụnụ", "Ha"],
+    "answer": "Ụnụ"
+  },
+  {
+    "number": 21,
+    "question": "Kedu nke bụ ubara ahịrịokwu a,\"O bu onye nkuzi”",
+    "options": ["obu ndi nkuzi", "Ha bu ndi nkuzi", "unụ bụ ndi nkuzi"],
+    "answer": "Ha bu ndi nkuzi"
+  },
+  {
+    "number": 22,
+    "question": "Onye uwe ojii’ ga-abụzi _________",
+    "options": ["Ndị uwe ojii", "Onye uwe ọcha", "Anyị uwe ojii"],
+    "answer": "Ndị uwe ojii"
+  },
+  {
+    "number": 23,
+    "question": "Mkpụrụ edemede Igbo dị ole?",
+    "options": ["Ise", "Iri ano", "Iri ato na isii"],
+    "answer": "Iri ato na isii"
+  },
+  {
+    "number": 24,
+    "question": "Ụda ndị ahụ gbara abụọ ma a na-akpọpụta ha dị ka otu ka a na-akpọ?",
+    "options": ["Ụda Igbo", "Ụdamkpị", "Ụda gbara abụọ"],
+    "answer": "Ụdamkpị"
+  },
+  {
+    "number": 25,
+    "question": "Ụdaume Igbo dị ole?",
+    "options": ["Asatọ", "Isi", "Isii"],
+    "answer": "Asatọ"
+  },
+  {
+    "number": 26,
+    "question": "Akara ndị ahụ a na-etinyegasi n'edemede iji mee ka o nwee ezi nghọta bụ?",
+    "options": ["Aghọtazaa", "Akara edemede", "Ngwaa"],
+    "answer": "Akara edemede"
+  },
+  {
+    "number": 27,
+    "question": "Ihe a na-akpọ akara edemede na Bekee bụ",
+    "options": ["Punctuation Marks", "Essay marks", "Marks"],
+    "answer": "Punctuation Marks"
+  },
+  {
+    "number": 28,
+    "question": "Akara a na-etinye na ngwụcha ahịrịokwu bụ?",
+    "options": ["Akara uhie", "Akara mkpụ", "Kpom"],
+    "answer": "Kpom"
+  },
+  {
+    "number": 29,
+    "question": "Akara na-egosi ujo maobu ebe etiri mkpu bu?",
+    "options": ["Akara ajuju", "Akaramkpu", "Akara ngudo"],
+    "answer": "Akaramkpu"
+  },
+  {
+    "number": 30,
+    "question": "Akaraedemede na-egosi ahiriokwu juru ajuju bu?",
+    "options": ["Akara uhie", "Akara ajuju", "Akara ngudo"],
+    "answer": "Akara ajuju"
+  },
+  {
+    "number": 31,
+    "question": "Mkpuruokwu na-anochite anya aha n'ahiriokwu ka a na-akpo?",
+    "options": ["Mburu", "Nnochiaha", "ahaaka"],
+    "answer": "Nnochiaha"
+  },
+  {
+    "number": 32,
+    "question": "Kachie nke bu omumaatu nnochiaha na ndia",
+    "options": ["Ada", "Oche", "Anyi"],
+    "answer": "Anyi"
+  },
+  {
+    "number": 33,
+    "question": "Ahiriokwu na-egosi nnabata na nkwenye ihe a na-ekwu maka ya bu?",
+    "options": ["Nkwe", "Nju", "Ahirinkwe"],
+    "answer": "Ahirinkwe"
+  },
+  {
+    "number": 34,
+    "question": "Kachie nke na-egosi nkwe na ndi a",
+    "options": ["Mba", "o di mma", "Ekweghi m"],
+    "answer": "o di mma"
+  },
+  {
+    "number": 35,
+    "question": "Horo nke bu ahirinkwe na ndi a",
+    "options": ["o biara", "o biaghi", "o  biaghi na nke m"],
+    "answer": "o biara"
+  },
+  {
+    "number": 36,
+    "question": "Agwa ndi ahu ohanaeze nabatara ma nwekwaa onu na ha bu?",
+    "options": ["Agwa ojoo", "Agwa ulo", "Agwa oma"],
+    "answer": "Agwa oma"
+  },
+  {
+    "number": 37,
+    "question": "Omumaatu agwa oma bu?",
+    "options": ["Izu Ohi", "Igba oso", "Ikele ekele"],
+    "answer": "Ikele ekele"
+  },
+  {
+    "number": 38,
+    "question": "Uru agwa oma bara bu:",
+    "options": ["Ohanaeze ga-ahu gi n'anya", "I ga-eto ogologo", "I ga-aga ulo mkporo"],
+    "answer": "Ohanaeze ga-ahu gi n'anya"
+  },
+  {
+    "number": 39,
+    "question": "Nwaata na-akpa agwa oma ga-aga?",
+    "options": ["Ulo mkporo", "Eluigwe", "Oku mmuo"],
+    "answer": "Eluigwe"
+  },
+  {
+    "number": 40,
+    "question": "Omumaatu agwa ojoo bu?",
+    "options": ["Izi ohi", "Iga ozi", "I ga uloakwukwo n'oge"],
+    "answer": "Izi ohi"
+  },
+  {
+    "number": 41,
+    "question": "Onye gburu mmadu na-aga?",
+    "options": ["Eluigwe", "Ulo mkporo", "Shoprite"],
+    "answer": "Ulo mkporo"
+  },
+  {
+    "number": 42,
+    "question": "Ahiriokwu na-egosiputa ojuju a juru ihe a na-ekwu maka ya bu?",
+    "options": ["Ahirinkwe", "Ahiriokwu", "Ahirinju"],
+    "answer": "Ahirinju"
+  },
+  {
+    "number": 43,
+    "question": "Okwu na-egosi nju bu?",
+    "options": ["Eee", "O di mma", "Mba"],
+    "answer": "Mba"
+  },
+  {
+    "number": 44,
+    "question": "Horo nke bu ahirinju na ndi a?",
+    "options": ["Emeka agaghi uloakwukwo taa", "Nne nyere m ego", "O gbara oso"],
+    "answer": "Emeka agaghi uloakwukwo taa"
+  },
+  {
+    "number": 45,
+    "question": "Otu uru akaoru bara bu?",
+    "options": ["O na-enye nsogbu", "O na-enye ego", "O na-eweta ezumike"],
+    "answer": "O na-enye ego"
+  },
+  {
+    "number": 46,
+    "question": "Ikpa ike okpukpa bu ____na Bekee",
+    "options": ["pottery", "Weaving", "Dancing"],
+    "answer": "Weaving"
+  },
+  {
+    "number": 47,
+    "question": "Dee nke a n’ahirinju \"O biara\"",
+    "options": ["O biala", "O biaghi", "O biarala"],
+    "answer": "O biaghi"
+  },
+  {
+    "number": 48,
+    "question": "Dee nke a n’ahirinkwe \"O righi nri\"",
+    "options": ["O righi ji", "O riela nri", "O riri nri"],
+    "answer": "O riri nri"
+  },
+  {
+    "number": 49,
+    "question": "Ubara 'Nwa' bu?",
+    "options": ["Ha", "Unu", "Umu"],
+    "answer": "Umu"
+  },
+  {
+    "number": 50,
+    "question": "Gini ka a na-akpo 'TRIBE' n'asusu Igbo",
+    "options": ["Agburu", "Mba", "Ije"],
+    "answer": "Agburu"
   }
 ]
-
-
