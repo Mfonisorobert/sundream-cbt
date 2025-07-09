@@ -17,13 +17,13 @@ const [hasStarted, setHasStarted] = useState(false);
 
 // This is for shuffling of questions
 // Use this when you want to shuffle the questions
-// useEffect(() => {
-//   const randomized = shuffleArray(questionsData).map((q) => ({
-//     ...q,
-//     options: shuffleArray(q.options),
-//   }));
-//   setQuestions(randomized);
-// }, []);
+useEffect(() => {
+  const randomized = shuffleArray(questionsData).map((q) => ({
+    ...q,
+    options: shuffleArray(q.options),
+  }));
+  setQuestions(randomized);
+}, []);
 
 // Shuffling of questions ends here
 
@@ -47,27 +47,27 @@ const [hasStarted, setHasStarted] = useState(false);
 
 
 // Use this for instructional questions where the questions needs to be chosen from a particular number to another number
-useEffect(() => {
-  const flattenedQuestions = [];
+// useEffect(() => {
+//   const flattenedQuestions = [];
 
-  questionsData.forEach((group) => {
-    const instruction = group.instruction;
-    group.questions.forEach((question) => {
-      flattenedQuestions.push({
-        ...question,
-        instruction,
-        options: question.options, // Keep options in original order
+//   questionsData.forEach((group) => {
+//     const instruction = group.instruction;
+//     group.questions.forEach((question) => {
+//       flattenedQuestions.push({
+//         ...question,
+//         instruction,
+//         options: question.options, // Keep options in original order
 
-        // To shuffle the options use this
-        // options: shuffleArray(question.options), 
-        // shuffle options ends here
+//         // To shuffle the options use this
+//         // options: shuffleArray(question.options), 
+//         // shuffle options ends here
 
-      });
-    });
-  });
+//       });
+//     });
+//   });
 
-  setQuestions(flattenedQuestions); // Keep questions in original order
-}, []);
+//   setQuestions(flattenedQuestions); // Keep questions in original order
+// }, []);
 
 
 // instructional questions ends here
@@ -235,7 +235,7 @@ if (!hasStarted) {
     )}
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
       {/* <h2 className="text-2xl font-bold text-center text-blue-950 mb-2">THIRD TERM EXAM</h2> */}
-      {showScore ? studentName : "YEAR 8 - DICTION"}
+      {showScore ? studentName : "YEAR 10 - FOODS & NUTRITION"}
       </h3>
 
       
@@ -247,7 +247,7 @@ if (!hasStarted) {
         <>
         <p className="text-1xl text-green-800 -mb-2  text-center"><span className="font-medium">{studentName}</span></p>
           
-          <Timer duration={1800} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
+          <Timer duration={1500} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
           {questions.length > 0 && (
             <Question
               questionObj={questions[currentQIndex]}

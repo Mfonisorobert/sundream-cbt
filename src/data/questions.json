@@ -1,317 +1,307 @@
 [
   {
-    "instruction": "From the words lettered A to D, choose the word that has the same consonant sound as the one represented by the word in italics.",
-    "questions": [
-      {
-        "number": 1,
-        "question": "child",
-        "options": ["chilly", "children", "cheek", "buy"],
-        "answer": "buy"
-      },
-      {
-        "number": 2,
-        "question": "Card",
-        "options": ["grab", "palm", "glade", "guest"],
-        "answer": "palm"
-      },
-      {
-        "number": 3,
-        "question": "guard",
-        "options": ["slack", "gourd", "father", "haven"],
-        "answer": "father"
-      },
-      {
-        "number": 4,
-        "question": "bond",
-        "options": ["hound", "dove", "month", "stop"],
-        "answer": "stop"
-      },
-      {
-        "number": 5,
-        "question": "brow",
-        "options": ["slush", "know", "now", "show"],
-        "answer": "now"
-      },
-      {
-        "number": 6,
-        "question": "Work",
-        "options": ["pork", "talk", "lock", "nurse"],
-        "answer": "nurse"
-      },
-      {
-        "number": 7,
-        "question": "Care",
-        "options": ["dear", "leer", "pair", "hear"],
-        "answer": "pair"
-      },
-      {
-        "number": 8,
-        "question": "Crest",
-        "options": ["breakfast", "wheat", "goiter", "firm"],
-        "answer": "breakfast"
-      },
-      {
-        "number": 9,
-        "question": "short",
-        "options": ["but", "shoots", "pot", "jaw"],
-        "answer": "jaw"
-      },
-      {
-        "number": 10,
-        "question": "Moth",
-        "options": ["wealth", "clothe", "smooth", "world"],
-        "answer": "wealth"
-      },
-      {
-        "number": 11,
-        "question": "What",
-        "options": ["whom", "whose", "whole", "where"],
-        "answer": "where"
-      },
-      {
-        "number": 12,
-        "question": "Boys",
-        "options": ["zinc", "street", "pots", "keeps"],
-        "answer": "zinc"
-      },
-      {
-        "number": 13,
-        "question": "Through",
-        "options": ["breathe", "both", "drew", "train"],
-        "answer": "both"
-      },
-      {
-        "number": 14,
-        "question": "cause",
-        "options": ["course", "sauce", "pores", "toss"],
-        "answer": "pores"
-      },
-      {
-        "number": 15,
-        "question": "allow",
-        "options": ["ago", "vot", "house", "low"],
-        "answer": "house"
-      },
-      {
-        "number": 16,
-        "question": "hind",
-        "options": ["rhyme", "vehicle", "cheetah", "inhale"],
-        "answer": "cheetah"
-      },
-      {
-        "number": 17,
-        "question": "castle",
-        "options": ["bustle", "chuckle", "dazzle", "missile"],
-        "answer": "bustle"
-      },
-      {
-        "number": 18,
-        "question": "hawk",
-        "options": ["along", "cotton", "havoc", "wall"],
-        "answer": "wall"
-      },
-      {
-        "number": 19,
-        "question": "occur",
-        "options": ["sure", "bore", "her", "fork"],
-        "answer": "her"
-      }
-    ]
+    "question": "_______are produced by reptiles and birds.",
+    "options": ["leather", "milk", "fish", "egg"],
+    "answer": "leather"
   },
   {
-    "instruction": "From the words lettered A to D, choose the word that contains the sound represented by the given phonetic symbol.",
-    "questions": [
-      {
-        "number": 20,
-        "question": "/u/",
-        "options": ["bought", "corrupt", "pool", "foot"],
-        "answer": "foot"
-      },
-      {
-        "number": 21,
-        "question": "/k/",
-        "options": ["deficit", "exalt", "suspect", "vague"],
-        "answer": "suspect"
-      },
-      {
-        "number": 22,
-        "question": "/ei/",
-        "options": ["seize", "size", "ear", "weight"],
-        "answer": "weight"
-      },
-      {
-        "number": 23,
-        "question": "/iƏ/",
-        "options": ["brain", "peer", "care", "far"],
-        "answer": "peer"
-      },
-      {
-        "number": 24,
-        "question": "/əʊ/",
-        "options": ["queue", "mouth", "about", "goat"],
-        "answer": "goat"
-      },
-      {
-        "number": 25,
-        "question": "/s/",
-        "options": ["plays", "hens", "place", "lose"],
-        "answer": "place"
-      },
-      {
-        "number": 26,
-        "question": "/dʒ/",
-        "options": ["just", "ghost", "dose", "dogged"],
-        "answer": "just"
-      },
-      {
-        "number": 27,
-        "question": "/t/",
-        "options": ["depot", "further", "subtle", "whistle"],
-        "answer": "subtle"
-      },
-      {
-        "number": 28,
-        "question": "/z/",
-        "options": ["cease", "fence", "reverse", "rosy"],
-        "answer": "rosy"
-      },
-      {
-        "number": 29,
-        "question": "/ʊə/",
-        "options": ["cure", "curl", "hear", "house"],
-        "answer": "cure"
-      },
-      {
-        "number": 30,
-        "question": "/k/",
-        "options": ["chore", "clinch", "knee", "knife"],
-        "answer": "clinch"
-      },
-      {
-        "number": 31,
-        "question": "/ə/",
-        "options": ["work", "firm", "curd", "mother"],
-        "answer": "mother"
-      },
-      {
-        "number": 32,
-        "question": "/ei/",
-        "options": ["quell", "sell", "bet", "ageless"],
-        "answer": "ageless"
-      },
-      {
-        "number": 33,
-        "question": "/ɔi/",
-        "options": ["sport", "soil", "jaw", "gnaws"],
-        "answer": "soil"
-      },
-      {
-        "number": 34,
-        "question": "/ʃ/",
-        "options": ["chart", "pressure", "range", "revision"],
-        "answer": "pressure"
-      },
-      {
-        "number": 35,
-        "question": "/ /",
-        "options": ["cot", "fun", "glop", "put"],
-        "answer": "fun"
-      },
-      {
-        "number": 36,
-        "question": "/ei/",
-        "options": ["fair", "lion", "pen", "rain"],
-        "answer": "rain"
-      },
-      {
-        "number": 37,
-        "question": "/ɜ:/",
-        "options": ["stuck", "duck", "myrtle", "court"],
-        "answer": "myrtle"
-      },
-      {
-        "number": 38,
-        "question": "/æ/",
-        "options": ["lane", "man", "pace", "scarf"],
-        "answer": "man"
-      },
-      {
-        "number": 39,
-        "question": "/ɔ:/",
-        "options": ["courtesy", "journey", "mockery", "courtship"],
-        "answer": "courtship"
-      },
-      {
-        "number": 40,
-        "question": "/i:/",
-        "options": ["fall", "maid", "need", "penny"],
-        "answer": "need"
-      },
-      {
-        "number": 41,
-        "question": "/ɪə/",
-        "options": ["bear", "rare", "rear", "care"],
-        "answer": "rear"
-      },
-      {
-        "number": 42,
-        "question": "/ei/",
-        "options": ["merge", "read", "make", "shed"],
-        "answer": "make"
-      },
-      {
-        "number": 43,
-        "question": "/a:/",
-        "options": ["broad", "laugh", "wrath", "lawn"],
-        "answer": "laugh"
-      },
-      {
-        "number": 44,
-        "question": "/ʊ/",
-        "options": ["pool", "rude", "student", "push"],
-        "answer": "pool"
-      },
-      {
-        "number": 45,
-        "question": "/aʊ/",
-        "options": ["choir", "howl", "pour", "pure"],
-        "answer": "howl"
-      }
-    ]
+    "question": "Which of the following is one of the importance of clean hands to food handlers?",
+    "options": [
+      "It attracts people",
+      "It promotes accuracy and efficiency",
+      "It stimulates appetites",
+      "It prevent the contamination of the food"
+    ],
+    "answer": "It prevent the contamination of the food"
   },
   {
-    "instruction": "From the words lettered A to D, choose the one that has the correct primary stress.",
-    "questions": [
-      {
-        "number": 46,
-        "question": "delicate",
-        "options": ["DE-li-cate", "de-LI-cate", "de-li-CATE", "de-li-cate"],
-        "answer": "DE-li-cate"
-      },
-      {
-        "number": 47,
-        "question": "important",
-        "options": ["IM-por-tant", "im-por-TANT", "im-POR-tant", "im-por-tant"],
-        "answer": "im-POR-tant"
-      },
-      {
-        "number": 48,
-        "question": "agricultural",
-        "options": ["AGRI-cul-tural", "agri-CUL-tural", "agri-cul-TURAL", "agri-cul-tu-RAL"],
-        "answer": "agri-CUL-tural"
-      },
-      {
-        "number": 49,
-        "question": "education",
-        "options": ["EDU-ca-tion", "edu-CA-tion", "edu-ca-TION", "edu-CATION"],
-        "answer": "edu-CATION"
-      },
-      {
-        "number": 50,
-        "question": "economic",
-        "options": ["eco-NO-mic", "ECO-no-mic", "eco-no-MIC", "E-co-no-mic"],
-        "answer": "eco-NO-mic"
-      }
-    ]
+    "question": "Which of the following is used to test the presence starch in food?",
+    "options": [
+      "Million’s reagent",
+      "Iodine solution",
+      "Fehling solution",
+      "Benedict solution"
+    ],
+    "answer": "Iodine solution"
+  },
+  {
+    "question": "------- are spherical in shape with one end pointed and the other end blunt",
+    "options": ["egg", "beef", "chicken", "snails"],
+    "answer": "egg"
+  },
+  {
+    "question": "The enzyme that initiates the breakdown of carbohydrates in the mouth is",
+    "options": ["trypsin", "ptyalin", "pepsin", "amylase"],
+    "answer": "amylase"
+  },
+  {
+    "question": "Excessive body weight due to over nutrition leads to",
+    "options": ["rickets", "marasmus", "obesity", "kwashiorkor"],
+    "answer": "obesity"
+  },
+  {
+    "question": "Which of the following is a protein source of plant origin?",
+    "options": ["Soyabean", "Cheese", "Milk", "Egg"],
+    "answer": "Soyabean"
+  },
+  {
+    "question": "Fat is completely digested in the",
+    "options": ["stomach", "mouth", "small intestine", "large intestine"],
+    "answer": "small intestine"
+  },
+  {
+    "question": "The main reason for cooking food is to",
+    "options": [
+      "feed the family",
+      "improve the colour",
+      "improve the flavor",
+      "make it easily digestible"
+    ],
+    "answer": "make it easily digestible"
+  },
+  {
+    "question": "Which of the following is a good table manner?",
+    "options": [
+      "Chewing with mouth closed",
+      "Talking often while eating",
+      "Too much food on the lark",
+      "Wiping face with dinner napkin"
+    ],
+    "answer": "Chewing with mouth closed"
+  },
+  {
+    "question": "________is a more concentrated part of an egg",
+    "options": ["egg shell", "egg yolk", "egg white", "challaza"],
+    "answer": "egg yolk"
+  },
+  {
+    "question": "A well planned kitchen should be",
+    "options": [
+      "easy to clean, pleasant and convenient to work in",
+      "slippery, shining and colourful",
+      "easy to clean, inconvenient and safe to work in",
+      "pleasant to work in and overcrowded with furnishings"
+    ],
+    "answer": "easy to clean, pleasant and convenient to work in"
+  },
+  {
+    "question": "Kitchen arrangement needs to be planned in such a way that it should",
+    "options": [
+      "be easy to work in",
+      "be pleasant to look",
+      "increase efficiency",
+      "increase much movement"
+    ],
+    "answer": "be easy to work in"
+  },
+  {
+    "question": "Which of the following is a legume?",
+    "options": ["Maize", "Rice", "Sorghum", "Beans"],
+    "answer": "Beans"
+  },
+  {
+    "question": "The most appropriate equipment for measuring particles from flour is",
+    "options": ["dredger", "colander", "strainer", "sieve"],
+    "answer": "sieve"
+  },
+  {
+    "question": "Which of the following is a moist method of cooking?",
+    "options": ["Baking", "Steaming", "Grilling", "Roasting"],
+    "answer": "Steaming"
+  },
+  {
+    "question": "The building blocks of food that provide nourishment to the body is known as",
+    "options": ["nutrient", "molecule", "enzyme", "catalyst"],
+    "answer": "nutrient"
+  },
+  {
+    "question": "______can be used to replace meat poultry or fish",
+    "options": ["beans", "yam", "egg", "rice"],
+    "answer": "egg"
+  },
+  {
+    "question": "A substance needed by the body for growth, energy, repair and maintenance is called a",
+    "options": ["nutrient", "carbohydrate", "calorie", "fatty acid"],
+    "answer": "nutrient"
+  },
+  {
+    "question": "All of the following are nutrients found in food except",
+    "options": ["plasma", "proteins", "carbohydrates", "vitamins"],
+    "answer": "plasma"
+  },
+  {
+    "question": "Citrus fruits are an excellent source of ___",
+    "options": ["calcium", "vitamin C", "vitamin B", "calories"],
+    "answer": "vitamin C"
+  },
+  {
+    "question": "Kitchen equipment should be purchased for its",
+    "options": [
+      "model and guarantee",
+      "attraction and maintenance",
+      "appearance and durability",
+      "efficiency and maintenance"
+    ],
+    "answer": "appearance and durability"
+  },
+  {
+    "question": "A kitchen can be described as a",
+    "options": [
+      "store for kitchen utensils and tools",
+      "store for food",
+      "workshop where food is prepared and cooked",
+      "workshop specially built for keeping utensils and foods"
+    ],
+    "answer": "workshop where food is prepared and cooked"
+  },
+  {
+    "question": "Which of the following is a large piece of kitchen equipment?",
+    "options": ["Refrigerator", "Sauce pan", "Pastry bowl", "Mincer"],
+    "answer": "Refrigerator"
+  },
+  {
+    "question": "Which of the following large kitchen equipment should be placed near each other?",
+    "options": [
+      "Cooker and cupboard",
+      "Freezer and refrigerator",
+      "Sink and cabinet",
+      "Cooker and sink"
+    ],
+    "answer": "Sink and cabinet"
+  },
+  {
+    "question": "When testing for the presence of protein with million’s reagent, the colour of the end product is",
+    "options": ["black", "brick red", "yellowish brown", "blue"],
+    "answer": "brick red"
+  },
+  {
+    "question": "L-shape of kitchen has",
+    "options": [
+      "appliances and equipment parallel to the door",
+      "equipment and appliances arranged along two adjoining wall",
+      "appliances and equipment fixed against opposite wall",
+      "equipment and appliances fixed at the centre"
+    ],
+    "answer": "equipment and appliances arranged along two adjoining wall"
+  },
+  {
+    "question": "The body’s preferred source of energy is",
+    "options": ["carbohydrate", "protein", "fats", "vitamins"],
+    "answer": "carbohydrate"
+  },
+  {
+    "question": "Food passes through the stomach directly by",
+    "options": ["the large intestine", "the small intestine", "the heart", "the pancreas"],
+    "answer": "the small intestine"
+  },
+  {
+    "question": "The bread, cereal, rice and pasta group is a good source of",
+    "options": ["carbohydrate", "vitamin C", "calcium", "vitamin D"],
+    "answer": "carbohydrate"
+  },
+  {
+    "question": "Pulses are rich in the",
+    "options": [
+      "A-complex vitamins",
+      "B-complex vitamins",
+      "D-complex vitamins",
+      "E-complex vitamins"
+    ],
+    "answer": "B-complex vitamins"
+  },
+  {
+    "question": "________is the creamy whitish liquid produced from the mammary glands of mammals",
+    "options": ["amylase", "meat", "milk", "egg"],
+    "answer": "milk"
+  },
+  {
+    "question": "______ has a good balance of carbohydrate fat and protein",
+    "options": ["juice", "water", "soda", "milk"],
+    "answer": "milk"
+  },
+  {
+    "question": "The carbohydrate in milk is called",
+    "options": ["fructose", "lactose", "galactosee", "extratose"],
+    "answer": "lactose"
+  },
+  {
+    "question": "The major nutrient in fruits is",
+    "options": ["Protein", "vitamins", "Iron", "Carbohydrate"],
+    "answer": "vitamins"
+  },
+  {
+    "question": "Using a spoon and circular motion to turn foods is",
+    "options": ["mixing", "stirring", "blending", "creaming"],
+    "answer": "stirring"
+  },
+  {
+    "question": "______ type of milk has its fat content removed and has low energy value",
+    "options": ["skimmed milk", "freshwhole milk", "condensed milk", "dried milk"],
+    "answer": "skimmed milk"
+  },
+  {
+    "question": "_______is a combination of skimmed milk and vegetable fat or water",
+    "options": ["skimmed milk", "filled milk", "condensed milk", "fresh milk"],
+    "answer": "condensed milk"
+  },
+  {
+    "question": "The process of cooking food over boiling water is called",
+    "options": ["frying", "roasting", "baking", "boiling"],
+    "answer": "boiling"
+  },
+  {
+    "question": "Cutting food into small blocks is",
+    "options": ["dicing", "chopping", "grating", "shredding"],
+    "answer": "dicing"
+  },
+  {
+    "question": "Which of the following types of kitchen is commonly found in institutions?",
+    "options": ["Detached kitchen", "Modern kitchen", "Kitchen with a chimney", "Kitchen without a chimney"],
+    "answer": "Modern kitchen"
+  },
+  {
+    "question": "_______is a milk product",
+    "options": ["cake", "youghurt", "palwine", "beer"],
+    "answer": "youghurt"
+  },
+  {
+    "question": "One of the following requires careful temperature control",
+    "options": ["roasting", "grilling", "boiling", "steaming"],
+    "answer": "steaming"
+  },
+  {
+    "question": "Which of the following group of people should be advised to increase the number of meals eaten each day?",
+    "options": ["Obese", "Vegetarian", "Overweight", "Underweight"],
+    "answer": "Underweight"
+  },
+  {
+    "question": "Fruits and vegetables are usually considered as good sources of",
+    "options": ["protein", "carbohydrates", "vitamins and minerals", "unsaturated fats"],
+    "answer": "vitamins and minerals"
+  },
+  {
+    "question": "Eggs, milk and meat are usually classified as good sources of",
+    "options": ["carbohydrates", "protein", "fat", "vitamins"],
+    "answer": "protein"
+  },
+  {
+    "question": "_______can be added to dishes to improve their flavour",
+    "options": ["milk", "sand", "paint", "preservative"],
+    "answer": "milk"
+  },
+  {
+    "question": "Baking is often done in a/an",
+    "options": ["refrigerator", "cooker", "oven", "stove"],
+    "answer": "oven"
+  },
+  {
+    "question": "The last products of protein digestion are",
+    "options": ["amino acids", "glucose", "protein end products", "sugar"],
+    "answer": "amino acids"
+  },
+  {
+    "question": "______are creatures that live in either fresh or salt water",
+    "options": ["pork", "beef", "fish", "chicken"],
+    "answer": "fish"
   }
 ]
