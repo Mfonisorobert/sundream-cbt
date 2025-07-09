@@ -1,302 +1,317 @@
 [
   {
-    "number": 1,
-    "question": "A large group of people who share  a common language, ethnicity and culture is called a",
-    "options": ["Nation", "Family", "Church", "Peer group"],
-    "answer": "Nation"
+    "instruction": "From the words lettered A to D, choose the word that has the same consonant sound as the one represented by the word in italics.",
+    "questions": [
+      {
+        "number": 1,
+        "question": "child",
+        "options": ["chilly", "children", "cheek", "buy"],
+        "answer": "buy"
+      },
+      {
+        "number": 2,
+        "question": "Card",
+        "options": ["grab", "palm", "glade", "guest"],
+        "answer": "palm"
+      },
+      {
+        "number": 3,
+        "question": "guard",
+        "options": ["slack", "gourd", "father", "haven"],
+        "answer": "father"
+      },
+      {
+        "number": 4,
+        "question": "bond",
+        "options": ["hound", "dove", "month", "stop"],
+        "answer": "stop"
+      },
+      {
+        "number": 5,
+        "question": "brow",
+        "options": ["slush", "know", "now", "show"],
+        "answer": "now"
+      },
+      {
+        "number": 6,
+        "question": "Work",
+        "options": ["pork", "talk", "lock", "nurse"],
+        "answer": "nurse"
+      },
+      {
+        "number": 7,
+        "question": "Care",
+        "options": ["dear", "leer", "pair", "hear"],
+        "answer": "pair"
+      },
+      {
+        "number": 8,
+        "question": "Crest",
+        "options": ["breakfast", "wheat", "goiter", "firm"],
+        "answer": "breakfast"
+      },
+      {
+        "number": 9,
+        "question": "short",
+        "options": ["but", "shoots", "pot", "jaw"],
+        "answer": "jaw"
+      },
+      {
+        "number": 10,
+        "question": "Moth",
+        "options": ["wealth", "clothe", "smooth", "world"],
+        "answer": "wealth"
+      },
+      {
+        "number": 11,
+        "question": "What",
+        "options": ["whom", "whose", "whole", "where"],
+        "answer": "where"
+      },
+      {
+        "number": 12,
+        "question": "Boys",
+        "options": ["zinc", "street", "pots", "keeps"],
+        "answer": "zinc"
+      },
+      {
+        "number": 13,
+        "question": "Through",
+        "options": ["breathe", "both", "drew", "train"],
+        "answer": "both"
+      },
+      {
+        "number": 14,
+        "question": "cause",
+        "options": ["course", "sauce", "pores", "toss"],
+        "answer": "pores"
+      },
+      {
+        "number": 15,
+        "question": "allow",
+        "options": ["ago", "vot", "house", "low"],
+        "answer": "house"
+      },
+      {
+        "number": 16,
+        "question": "hind",
+        "options": ["rhyme", "vehicle", "cheetah", "inhale"],
+        "answer": "cheetah"
+      },
+      {
+        "number": 17,
+        "question": "castle",
+        "options": ["bustle", "chuckle", "dazzle", "missile"],
+        "answer": "bustle"
+      },
+      {
+        "number": 18,
+        "question": "hawk",
+        "options": ["along", "cotton", "havoc", "wall"],
+        "answer": "wall"
+      },
+      {
+        "number": 19,
+        "question": "occur",
+        "options": ["sure", "bore", "her", "fork"],
+        "answer": "her"
+      }
+    ]
   },
   {
-    "number": 2,
-    "question": "Nigeria is said to be a/an",
-    "options": ["Village", "Country", "Community", "Organization"],
-    "answer": "Country"
+    "instruction": "From the words lettered A to D, choose the word that contains the sound represented by the given phonetic symbol.",
+    "questions": [
+      {
+        "number": 20,
+        "question": "/u/",
+        "options": ["bought", "corrupt", "pool", "foot"],
+        "answer": "foot"
+      },
+      {
+        "number": 21,
+        "question": "/k/",
+        "options": ["deficit", "exalt", "suspect", "vague"],
+        "answer": "suspect"
+      },
+      {
+        "number": 22,
+        "question": "/ei/",
+        "options": ["seize", "size", "ear", "weight"],
+        "answer": "weight"
+      },
+      {
+        "number": 23,
+        "question": "/iƏ/",
+        "options": ["brain", "peer", "care", "far"],
+        "answer": "peer"
+      },
+      {
+        "number": 24,
+        "question": "/əʊ/",
+        "options": ["queue", "mouth", "about", "goat"],
+        "answer": "goat"
+      },
+      {
+        "number": 25,
+        "question": "/s/",
+        "options": ["plays", "hens", "place", "lose"],
+        "answer": "place"
+      },
+      {
+        "number": 26,
+        "question": "/dʒ/",
+        "options": ["just", "ghost", "dose", "dogged"],
+        "answer": "just"
+      },
+      {
+        "number": 27,
+        "question": "/t/",
+        "options": ["depot", "further", "subtle", "whistle"],
+        "answer": "subtle"
+      },
+      {
+        "number": 28,
+        "question": "/z/",
+        "options": ["cease", "fence", "reverse", "rosy"],
+        "answer": "rosy"
+      },
+      {
+        "number": 29,
+        "question": "/ʊə/",
+        "options": ["cure", "curl", "hear", "house"],
+        "answer": "cure"
+      },
+      {
+        "number": 30,
+        "question": "/k/",
+        "options": ["chore", "clinch", "knee", "knife"],
+        "answer": "clinch"
+      },
+      {
+        "number": 31,
+        "question": "/ə/",
+        "options": ["work", "firm", "curd", "mother"],
+        "answer": "mother"
+      },
+      {
+        "number": 32,
+        "question": "/ei/",
+        "options": ["quell", "sell", "bet", "ageless"],
+        "answer": "ageless"
+      },
+      {
+        "number": 33,
+        "question": "/ɔi/",
+        "options": ["sport", "soil", "jaw", "gnaws"],
+        "answer": "soil"
+      },
+      {
+        "number": 34,
+        "question": "/ʃ/",
+        "options": ["chart", "pressure", "range", "revision"],
+        "answer": "pressure"
+      },
+      {
+        "number": 35,
+        "question": "/ /",
+        "options": ["cot", "fun", "glop", "put"],
+        "answer": "fun"
+      },
+      {
+        "number": 36,
+        "question": "/ei/",
+        "options": ["fair", "lion", "pen", "rain"],
+        "answer": "rain"
+      },
+      {
+        "number": 37,
+        "question": "/ɜ:/",
+        "options": ["stuck", "duck", "myrtle", "court"],
+        "answer": "myrtle"
+      },
+      {
+        "number": 38,
+        "question": "/æ/",
+        "options": ["lane", "man", "pace", "scarf"],
+        "answer": "man"
+      },
+      {
+        "number": 39,
+        "question": "/ɔ:/",
+        "options": ["courtesy", "journey", "mockery", "courtship"],
+        "answer": "courtship"
+      },
+      {
+        "number": 40,
+        "question": "/i:/",
+        "options": ["fall", "maid", "need", "penny"],
+        "answer": "need"
+      },
+      {
+        "number": 41,
+        "question": "/ɪə/",
+        "options": ["bear", "rare", "rear", "care"],
+        "answer": "rear"
+      },
+      {
+        "number": 42,
+        "question": "/ei/",
+        "options": ["merge", "read", "make", "shed"],
+        "answer": "make"
+      },
+      {
+        "number": 43,
+        "question": "/a:/",
+        "options": ["broad", "laugh", "wrath", "lawn"],
+        "answer": "laugh"
+      },
+      {
+        "number": 44,
+        "question": "/ʊ/",
+        "options": ["pool", "rude", "student", "push"],
+        "answer": "pool"
+      },
+      {
+        "number": 45,
+        "question": "/aʊ/",
+        "options": ["choir", "howl", "pour", "pure"],
+        "answer": "howl"
+      }
+    ]
   },
   {
-    "number": 3,
-    "question": "Which of the following is not among the features of a nation?",
-    "options": ["Common law", "Common territory", "Common dressing", "Organized government"],
-    "answer": "Common dressing"
-  },
-  {
-    "number": 4,
-    "question": "The currency of the Nigerian people is",
-    "options": ["Naira and kobo", "Pounds", "Dollar", "Euro"],
-    "answer": "Naira and kobo"
-  },
-  {
-    "number": 5,
-    "question": "The total way of life of a group of people is called",
-    "options": ["Habit", "Culture", "Religion", "mentality"],
-    "answer": "Culture"
-  },
-  {
-    "number": 6,
-    "question": "The set of laws that guide the behavior of the people is known as",
-    "options": ["Novel", "Bible", "Textbook", "Constitution"],
-    "answer": "Constitution"
-  },
-  {
-    "number": 7,
-    "question": "Currencies are used as means of",
-    "options": ["Sleeping", "Recycling", "Buying and selling", "Teaching and learning"],
-    "answer": "Buying and selling"
-  },
-  {
-    "number": 8,
-    "question": "To build our nation simply means to",
-    "options": ["Make our nation great", "Destroy everything in it", "Fight the government", "Disobey our leaders"],
-    "answer": "Make our nation great"
-  },
-  {
-    "number": 9,
-    "question": "There are ___________ states in Nigeria.",
-    "options": ["Forty-seven", "Thirty-six", "Twenty-six", "Thirty-nine"],
-    "answer": "Thirty-six"
-  },
-  {
-    "number": 10,
-    "question": "We must build our nation for the following reasons except",
-    "options": ["For peaceful coexistence", "To promote unity and progress", "For common use of resources", "To destroy lives and properties"],
-    "answer": "To destroy lives and properties"
-  },
-  {
-    "number": 11,
-    "question": "The sense of belonging to one’s ethnic group is called",
-    "options": ["Activity", "Ethnicity", "Community", "Generosity"],
-    "answer": "Ethnicity"
-  },
-  {
-    "number": 12,
-    "question": "There are over _________ ethnic groups in Nigeria.",
-    "options": ["250", "1,500", "2,500", "5,000"],
-    "answer": "250"
-  },
-  {
-    "number": 13,
-    "question": "The following are consequences of ethnicity except",
-    "options": ["Communal conflict", "Political violence", "Under-development", "Peace and unity"],
-    "answer": "Peace and unity"
-  },
-  {
-    "number": 14,
-    "question": "The three major ethnic groups in Nigeria include;",
-    "options": ["Igbo, Hausa and Yoruba", "Edo, Abuja and Zamfara", "Idoma, Ijaw and Kanuri", "Imo, Adamawa and Yola"],
-    "answer": "Igbo, Hausa and Yoruba"
-  },
-  {
-    "number": 15,
-    "question": "___________ is a group of persons that acts on behalf of the people and backed by law.",
-    "options": ["Traders’ association", "Drivers’ association", "Constituted authority", "Religious organization"],
-    "answer": "Constituted authority"
-  },
-  {
-    "number": 16,
-    "question": "Without ____________, it will be difficult to guide the citizens of a country",
-    "options": ["Laws", "Laptops", "workers", "Farmers"],
-    "answer": "Laws"
-  },
-  {
-    "number": 17,
-    "question": "Which of the following is not a constituted authority?",
-    "options": ["President", "Governor", "Servant", "King"],
-    "answer": "Servant"
-  },
-  {
-    "number": 18,
-    "question": "The following are duties of citizens to constituted authorities except",
-    "options": ["Payment of tax", "Obedience to law", "Defending the country", "Fighting the government"],
-    "answer": "Fighting the government"
-  },
-  {
-    "number": 19,
-    "question": "As good citizens, we must __________ our national symbols.",
-    "options": ["Abuse", "Respect", "Destroy", "All of the above"],
-    "answer": "Respect"
-  },
-  {
-    "number": 20,
-    "question": "_________ is any substance taken into the body to cure diseases and infection.",
-    "options": ["Drug", "Sweet", "Water", "Food"],
-    "answer": "Drug"
-  },
-  {
-    "number": 21,
-    "question": "The following are examples of hard drugs except",
-    "options": ["Cocaine", "Panadol", "Heroin", "Marijuana"],
-    "answer": "Panadol"
-  },
-  {
-    "number": 22,
-    "question": "_________ refers to the inappropriate use of drug substances.",
-    "options": ["Drug abuse", "Drug addiction", "Hard drugs", "Drug production"],
-    "answer": "Drug abuse"
-  },
-  {
-    "number": 23,
-    "question": "Abuse of drugs can affect the brain and mind __________",
-    "options": ["Positively", "Negatively", "Religiously", "All of the above"],
-    "answer": "Negatively"
-  },
-  {
-    "number": 24,
-    "question": "Licit drugs are taken in order to",
-    "options": ["Treat souls", "Cure illnesses", "Derive pleasure", "Treat happiness"],
-    "answer": "Cure illnesses"
-  },
-  {
-    "number": 25,
-    "question": "The following are commonly abused drugs except",
-    "options": ["Cocaine", "Tobacco", "Alcohol", "Water"],
-    "answer": "Water"
-  },
-  {
-    "number": 26,
-    "question": "Which of the following is not a way of preventing drug abuse?",
-    "options": ["Regular exercises", "Having self control", "Joining bad gangs", "Eating healthy foods"],
-    "answer": "Joining bad gangs"
-  },
-  {
-    "number": 27,
-    "question": "The act of saying the truth at all times simply means",
-    "options": ["Talent", "Honesty", "Hard work", "Dishonesty"],
-    "answer": "Honesty"
-  },
-  {
-    "number": 28,
-    "question": "The ability to control oneself in any situation is called",
-    "options": ["Self-discipline", "Self-medication", "Over happiness", "Lack of respect"],
-    "answer": "Self-discipline"
-  },
-  {
-    "number": 29,
-    "question": "Constant abuse of drugs can lead to the following except",
-    "options": ["Death", "Madness", "Healthy growth", "Loss of appetite"],
-    "answer": "Healthy growth"
-  },
-  {
-    "number": 30,
-    "question": "Another name for illicit drugs is",
-    "options": ["Minerals", "Hard drugs", "Dirty drugs", "None of the above"],
-    "answer": "Hard drugs"
-  },
-  {
-    "number": 31,
-    "question": "Having regular physical exercise can",
-    "options": ["Make us rich", "Destroy our lives", "Improve our health", "Change our colour"],
-    "answer": "Improve our health"
-  },
-  {
-    "number": 32,
-    "question": "__________ are unpleasant events that causes injury or damage.",
-    "options": ["Accidents", "Exercises", "Treatment", "Relationship"],
-    "answer": "Accidents"
-  },
-  {
-    "number": 33,
-    "question": "Which of the following is not a type of accident?",
-    "options": ["Cuts", "Burns", "Scalds", "Water"],
-    "answer": "Water"
-  },
-  {
-    "number": 34,
-    "question": "__________ is an immediate treatment given to an injured person before taking him/her to a hospital.",
-    "options": ["First aid", "Breakfast", "Pollution", "Relaxation"],
-    "answer": "First aid"
-  },
-  {
-    "number": 35,
-    "question": "Which of the following is not found in a first box?",
-    "options": ["Spirit", "Plaster", "Scissors", "Kerosene"],
-    "answer": "Kerosene"
-  },
-  {
-    "number": 36,
-    "question": "Which of the following accidents can happen at home?",
-    "options": ["Fall", "Cuts", "Burns", "All of the above"],
-    "answer": "All of the above"
-  },
-  {
-    "number": 37,
-    "question": "Burns mostly occur as a result of",
-    "options": ["First aid", "Heat/Fire", "Engine oil", "Sharp objects"],
-    "answer": "Heat/Fire"
-  },
-  {
-    "number": 38,
-    "question": "Cuts are usually caused by inappropriate use of",
-    "options": ["Water", "Laptops", "Sharp objects", "Pen and paper"],
-    "answer": "Sharp objects"
-  },
-  {
-    "number": 39,
-    "question": "Which of the following can lead to fall?",
-    "options": ["Swimming", "Banana peels", "Electric shock", "Contaminated food"],
-    "answer": "Banana peels"
-  },
-  {
-    "number": 40,
-    "question": "We can prevent common accidents through the following ways except",
-    "options": ["By being more careful", "By avoiding rough play", "By listening to instructions", "By playing with sharp objects"],
-    "answer": "By playing with sharp objects"
-  },
-  {
-    "number": 41,
-    "question": "The release of harmful substances into the environment is called",
-    "options": ["Pollution", "Graduation", "Transportation", "Communication"],
-    "answer": "Pollution"
-  },
-  {
-    "number": 42,
-    "question": "Which of the following is not a type of pollution?",
-    "options": ["Air Pollution", "Land pollution", "Water pollution", "Time pollution"],
-    "answer": "Time pollution"
-  },
-  {
-    "number": 43,
-    "question": "The substances that causes pollution are generally called",
-    "options": ["Furniture", "Pollutants", "Equipment", "Atmosphere"],
-    "answer": "Pollutants"
-  },
-  {
-    "number": 44,
-    "question": "Smoke from factories can cause",
-    "options": ["Air Pollution", "Land pollution", "Noise pollution", "Water pollution"],
-    "answer": "Air Pollution"
-  },
-  {
-    "number": 45,
-    "question": "The following can lead to water pollution except",
-    "options": ["Rainbow", "Chemicals", "Domestic wastes", "Industrial wastes"],
-    "answer": "Rainbow"
-  },
-  {
-    "number": 46,
-    "question": "Drinking unsafe water can lead to",
-    "options": ["Cholera", "Blindness", "Kwashiorkor", "Sleeping sickness"],
-    "answer": "Cholera"
-  },
-  {
-    "number": 47,
-    "question": "__________ is a place where we can save our money and other valuables.",
-    "options": ["Farm", "Bank", "School", "Market"],
-    "answer": "Bank"
-  },
-  {
-    "number": 48,
-    "question": "The bank which controls all other banks in Nigeria is called",
-    "options": ["Central bank", "Church bank", "People's bank", "Community bank"],
-    "answer": "Central bank"
-  },
-  {
-    "number": 49,
-    "question": "Which of the following is not a commercial bank in Nigeria?",
-    "options": ["First Bank", "Access Bank", "Fidelity Bank", "Village Bank"],
-    "answer": "Village Bank"
-  },
-  {
-    "number": 50,
-    "question": "Functions of the Central Bank include all except?",
-    "options": ["Printing of currencies", "Lending money to other banks", "Regulating the amount of money within the country", "None of the above"],
-    "answer": "None of the above"
+    "instruction": "From the words lettered A to D, choose the one that has the correct primary stress.",
+    "questions": [
+      {
+        "number": 46,
+        "question": "delicate",
+        "options": ["DE-li-cate", "de-LI-cate", "de-li-CATE", "de-li-cate"],
+        "answer": "DE-li-cate"
+      },
+      {
+        "number": 47,
+        "question": "important",
+        "options": ["IM-por-tant", "im-por-TANT", "im-POR-tant", "im-por-tant"],
+        "answer": "im-POR-tant"
+      },
+      {
+        "number": 48,
+        "question": "agricultural",
+        "options": ["AGRI-cul-tural", "agri-CUL-tural", "agri-cul-TURAL", "agri-cul-tu-RAL"],
+        "answer": "agri-CUL-tural"
+      },
+      {
+        "number": 49,
+        "question": "education",
+        "options": ["EDU-ca-tion", "edu-CA-tion", "edu-ca-TION", "edu-CATION"],
+        "answer": "edu-CATION"
+      },
+      {
+        "number": 50,
+        "question": "economic",
+        "options": ["eco-NO-mic", "ECO-no-mic", "eco-no-MIC", "E-co-no-mic"],
+        "answer": "eco-NO-mic"
+      }
+    ]
   }
 ]

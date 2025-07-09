@@ -5,11 +5,11 @@ const Question = ({ questionObj, questionIndex, selectedOption, handleOptionSele
 
 
 {/* This portion is only for questions that have instructions attached to it  */}
-          {/* {questionObj.instruction && (
+          {questionObj.instruction && (
   <p className="text-sm font-medium text-gray-600 mb-2 italic">
     {questionObj.instruction}
   </p>
-)} */}
+)}
 {/* It instructional questions ends here */}
 
 
