@@ -1,224 +1,307 @@
 [
   {
-    "number": 1,
-    "question": "What is the motto of Sun Dream International School?",
-    "options": [
-      "Learning Today, Leading Tomorrow",
-      "Knowledge for Excellence",
-      "Wisdom, Knowledge and Service",
-      "Inspiring the Future"
-    ],
-    "answer": "Wisdom, Knowledge and Service"
+    "question": "_______are produced by reptiles and birds.",
+    "options": ["leather", "milk", "fish", "egg"],
+    "answer": "leather"
   },
   {
-    "number": 2,
-    "question": "Which of the following colors is part of the official Sun Dream School uniform?",
+    "question": "Which of the following is one of the importance of clean hands to food handlers?",
     "options": [
-      "Red",
-      "Blue",
-      "Green",
-      "Purple"
+      "It attracts people",
+      "It promotes accuracy and efficiency",
+      "It stimulates appetites",
+      "It prevent the contamination of the food"
     ],
-    "answer": "Blue"
+    "answer": "It prevent the contamination of the food"
   },
   {
-    "number": 3,
-    "question": "What is the name of the school's annual inter-house sports competition?",
+    "question": "Which of the following is used to test the presence starch in food?",
     "options": [
-      "Sun Dream Olympics",
-      "DreamFit Games",
-      "Sun Dream Inter-House Fiesta",
-      "Sun Sprint Classic"
+      "Million’s reagent",
+      "Iodine solution",
+      "Fehling solution",
+      "Benedict solution"
     ],
-    "answer": "Sun Dream Inter-House Fiesta"
+    "answer": "Iodine solution"
   },
   {
-    "number": 4,
-    "question": "In what year was Sun Dream International School established?",
-    "options": [
-      "2010",
-      "2012",
-      "2018",
-      "2017"
-    ],
-    "answer": "2018"
+    "question": "------- are spherical in shape with one end pointed and the other end blunt",
+    "options": ["egg", "beef", "chicken", "snails"],
+    "answer": "egg"
   },
   {
-    "number": 5,
-    "question": "Which house won the last inter-house sports competition?",
-    "options": [
-      "Ruby House",
-      "Emerald House",
-      "Sapphire House",
-      "Topaz House"
-    ],
-    "answer": "Emerald House"
+    "question": "The enzyme that initiates the breakdown of carbohydrates in the mouth is",
+    "options": ["trypsin", "ptyalin", "pepsin", "amylase"],
+    "answer": "amylase"
   },
   {
-    "number": 6,
-    "question": "What is the name of the student-led media group in Sun Dream School?",
-    "options": [
-      "DreamCast",
-      "The Sunshine Press Club",
-      "Sun Dream Media House",
-      "Sun Dream Reporters"
-    ],
-    "answer": "Sun Dream Media House"
+    "question": "Excessive body weight due to over nutrition leads to",
+    "options": ["rickets", "marasmus", "obesity", "kwashiorkor"],
+    "answer": "obesity"
   },
   {
-    "number": 7,
-    "question": "Which subject is Sun Dream School especially known for winning competitions in?",
-    "options": [
-      "Mathematics",
-      "ICT",
-      "Civic Education",
-      "Home Economics"
-    ],
-    "answer": "ICT"
+    "question": "Which of the following is a protein source of plant origin?",
+    "options": ["Soyabean", "Cheese", "Milk", "Egg"],
+    "answer": "Soyabean"
   },
   {
-    "number": 8,
-    "question": "Which of these is a core value promoted by Sun Dream International School?",
-    "options": [
-      "Fame",
-      "Humility",
-      "Power",
-      "Popularity"
-    ],
-    "answer": "Humility"
+    "question": "Fat is completely digested in the",
+    "options": ["stomach", "mouth", "small intestine", "large intestine"],
+    "answer": "small intestine"
   },
   {
-    "number": 9,
-    "question": "How many campuses does Sun Dream School currently have?",
+    "question": "The main reason for cooking food is to",
     "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
+      "feed the family",
+      "improve the colour",
+      "improve the flavor",
+      "make it easily digestible"
     ],
-    "answer": "Two"
+    "answer": "make it easily digestible"
   },
   {
-    "number": 10,
-    "question": "Which club is responsible for environmental cleanliness and awareness in the school?",
+    "question": "Which of the following is a good table manner?",
     "options": [
-      "Jet Club",
-      "Press Club",
-      "Green Club",
-      "Creative Arts Club"
+      "Chewing with mouth closed",
+      "Talking often while eating",
+      "Too much food on the lark",
+      "Wiping face with dinner napkin"
     ],
-    "answer": "Green Club"
+    "answer": "Chewing with mouth closed"
   },
   {
-    "number": 11,
-    "question": "Who is the current Head Girl of Sun Dream International School (as of this session)?",
-    "options": [
-      "Adaora M.",
-      "Christabel U.",
-      "Amarachi O.",
-      "Blessing A."
-    ],
-    "answer": "Christabel U."
+    "question": "________is a more concentrated part of an egg",
+    "options": ["egg shell", "egg yolk", "egg white", "challaza"],
+    "answer": "egg yolk"
   },
   {
-    "number": 12,
-    "question": "Which of the following is a tradition during the school’s end-of-year party?",
+    "question": "A well planned kitchen should be",
     "options": [
-      "Talent Hunt",
-      "Principal’s Debate",
-      "Cultural Dance Parade",
-      "Parents vs Teachers Football Match"
+      "easy to clean, pleasant and convenient to work in",
+      "slippery, shining and colourful",
+      "easy to clean, inconvenient and safe to work in",
+      "pleasant to work in and overcrowded with furnishings"
     ],
-    "answer": "Cultural Dance Parade"
+    "answer": "easy to clean, pleasant and convenient to work in"
   },
   {
-    "number": 13,
-    "question": "What is the title of the school anthem?",
+    "question": "Kitchen arrangement needs to be planned in such a way that it should",
     "options": [
-      "Dream Beyond the Stars",
-      "Great Sun Dream",
-      "Light of the Future",
-      "Together We Rise"
+      "be easy to work in",
+      "be pleasant to look",
+      "increase efficiency",
+      "increase much movement"
     ],
-    "answer": "Great Sun Dream"
+    "answer": "be easy to work in"
   },
   {
-    "number": 14,
-    "question": "What language is taught as a second language in Sun Dream School?",
-    "options": [
-      "French",
-      "Spanish",
-      "Chinese",
-      "German"
-    ],
-    "answer": "French"
+    "question": "Which of the following is a legume?",
+    "options": ["Maize", "Rice", "Sorghum", "Beans"],
+    "answer": "Beans"
   },
   {
-    "number": 15,
-    "question": "Which award is usually given to the most disciplined student?",
-    "options": [
-      "Star Award",
-      "Model Student Award",
-      "Dream Ambassador",
-      "Excellence Badge"
-    ],
-    "answer": "Model Student Award"
+    "question": "The most appropriate equipment for measuring particles from flour is",
+    "options": ["dredger", "colander", "strainer", "sieve"],
+    "answer": "sieve"
   },
   {
-    "number": 16,
-    "question": "What is the name of the weekly assembly presentation organized by students?",
-    "options": [
-      "Dream Talk",
-      "Value Time",
-      "Sunrise Spotlight",
-      "Assembly Showcase"
-    ],
-    "answer": "Dream Talk"
+    "question": "Which of the following is a moist method of cooking?",
+    "options": ["Baking", "Steaming", "Grilling", "Roasting"],
+    "answer": "Steaming"
   },
   {
-    "number": 17,
-    "question": "Which of these activities is held every Friday afternoon?",
-    "options": [
-      "School Sanitation",
-      "House Meetings",
-      "PTA Forum",
-      "Club Activities"
-    ],
-    "answer": "Club Activities"
+    "question": "The building blocks of food that provide nourishment to the body is known as",
+    "options": ["nutrient", "molecule", "enzyme", "catalyst"],
+    "answer": "nutrient"
   },
   {
-    "number": 18,
-    "question": "Which member of staff is popularly known as 'Mr. Techie'?",
-    "options": [
-      "Mr. Joshua",
-      "Mr. Samuel",
-      "Mr. Mfoniso",
-      "Mr. Emeka"
-    ],
-    "answer": "Mr. Mfoniso"
+    "question": "______can be used to replace meat poultry or fish",
+    "options": ["beans", "yam", "egg", "rice"],
+    "answer": "egg"
   },
   {
-    "number": 19,
-    "question": "Which major ICT competition did Sun Dream represent Imo State in?",
-    "options": [
-      "National Girls in ICT Competition",
-      "Junior Tech Stars",
-      "Code Nigeria Hackathon",
-      "Digital Youth Challenge"
-    ],
-    "answer": "National Girls in ICT Competition"
+    "question": "A substance needed by the body for growth, energy, repair and maintenance is called a",
+    "options": ["nutrient", "carbohydrate", "calorie", "fatty acid"],
+    "answer": "nutrient"
   },
   {
-    "number": 20,
-    "question": "What is the nickname often used by students for the school?",
+    "question": "All of the following are nutrients found in food except",
+    "options": ["plasma", "proteins", "carbohydrates", "vitamins"],
+    "answer": "plasma"
+  },
+  {
+    "question": "Citrus fruits are an excellent source of ___",
+    "options": ["calcium", "vitamin C", "vitamin B", "calories"],
+    "answer": "vitamin C"
+  },
+  {
+    "question": "Kitchen equipment should be purchased for its",
     "options": [
-      "SD Nation",
-      "Sunshine City",
-      "Dreamers' Den",
-      "SDIS"
+      "model and guarantee",
+      "attraction and maintenance",
+      "appearance and durability",
+      "efficiency and maintenance"
     ],
-    "answer": "SDIS"
+    "answer": "appearance and durability"
+  },
+  {
+    "question": "A kitchen can be described as a",
+    "options": [
+      "store for kitchen utensils and tools",
+      "store for food",
+      "workshop where food is prepared and cooked",
+      "workshop specially built for keeping utensils and foods"
+    ],
+    "answer": "workshop where food is prepared and cooked"
+  },
+  {
+    "question": "Which of the following is a large piece of kitchen equipment?",
+    "options": ["Refrigerator", "Sauce pan", "Pastry bowl", "Mincer"],
+    "answer": "Refrigerator"
+  },
+  {
+    "question": "Which of the following large kitchen equipment should be placed near each other?",
+    "options": [
+      "Cooker and cupboard",
+      "Freezer and refrigerator",
+      "Sink and cabinet",
+      "Cooker and sink"
+    ],
+    "answer": "Sink and cabinet"
+  },
+  {
+    "question": "When testing for the presence of protein with million’s reagent, the colour of the end product is",
+    "options": ["black", "brick red", "yellowish brown", "blue"],
+    "answer": "brick red"
+  },
+  {
+    "question": "L-shape of kitchen has",
+    "options": [
+      "appliances and equipment parallel to the door",
+      "equipment and appliances arranged along two adjoining wall",
+      "appliances and equipment fixed against opposite wall",
+      "equipment and appliances fixed at the centre"
+    ],
+    "answer": "equipment and appliances arranged along two adjoining wall"
+  },
+  {
+    "question": "The body’s preferred source of energy is",
+    "options": ["carbohydrate", "protein", "fats", "vitamins"],
+    "answer": "carbohydrate"
+  },
+  {
+    "question": "Food passes through the stomach directly by",
+    "options": ["the large intestine", "the small intestine", "the heart", "the pancreas"],
+    "answer": "the small intestine"
+  },
+  {
+    "question": "The bread, cereal, rice and pasta group is a good source of",
+    "options": ["carbohydrate", "vitamin C", "calcium", "vitamin D"],
+    "answer": "carbohydrate"
+  },
+  {
+    "question": "Pulses are rich in the",
+    "options": [
+      "A-complex vitamins",
+      "B-complex vitamins",
+      "D-complex vitamins",
+      "E-complex vitamins"
+    ],
+    "answer": "B-complex vitamins"
+  },
+  {
+    "question": "________is the creamy whitish liquid produced from the mammary glands of mammals",
+    "options": ["amylase", "meat", "milk", "egg"],
+    "answer": "milk"
+  },
+  {
+    "question": "______ has a good balance of carbohydrate fat and protein",
+    "options": ["juice", "water", "soda", "milk"],
+    "answer": "milk"
+  },
+  {
+    "question": "The carbohydrate in milk is called",
+    "options": ["fructose", "lactose", "galactosee", "extratose"],
+    "answer": "lactose"
+  },
+  {
+    "question": "The major nutrient in fruits is",
+    "options": ["Protein", "vitamins", "Iron", "Carbohydrate"],
+    "answer": "vitamins"
+  },
+  {
+    "question": "Using a spoon and circular motion to turn foods is",
+    "options": ["mixing", "stirring", "blending", "creaming"],
+    "answer": "stirring"
+  },
+  {
+    "question": "______ type of milk has its fat content removed and has low energy value",
+    "options": ["skimmed milk", "freshwhole milk", "condensed milk", "dried milk"],
+    "answer": "skimmed milk"
+  },
+  {
+    "question": "_______is a combination of skimmed milk and vegetable fat or water",
+    "options": ["skimmed milk", "filled milk", "condensed milk", "fresh milk"],
+    "answer": "condensed milk"
+  },
+  {
+    "question": "The process of cooking food over boiling water is called",
+    "options": ["frying", "roasting", "baking", "boiling"],
+    "answer": "boiling"
+  },
+  {
+    "question": "Cutting food into small blocks is",
+    "options": ["dicing", "chopping", "grating", "shredding"],
+    "answer": "dicing"
+  },
+  {
+    "question": "Which of the following types of kitchen is commonly found in institutions?",
+    "options": ["Detached kitchen", "Modern kitchen", "Kitchen with a chimney", "Kitchen without a chimney"],
+    "answer": "Modern kitchen"
+  },
+  {
+    "question": "_______is a milk product",
+    "options": ["cake", "youghurt", "palwine", "beer"],
+    "answer": "youghurt"
+  },
+  {
+    "question": "One of the following requires careful temperature control",
+    "options": ["roasting", "grilling", "boiling", "steaming"],
+    "answer": "steaming"
+  },
+  {
+    "question": "Which of the following group of people should be advised to increase the number of meals eaten each day?",
+    "options": ["Obese", "Vegetarian", "Overweight", "Underweight"],
+    "answer": "Underweight"
+  },
+  {
+    "question": "Fruits and vegetables are usually considered as good sources of",
+    "options": ["protein", "carbohydrates", "vitamins and minerals", "unsaturated fats"],
+    "answer": "vitamins and minerals"
+  },
+  {
+    "question": "Eggs, milk and meat are usually classified as good sources of",
+    "options": ["carbohydrates", "protein", "fat", "vitamins"],
+    "answer": "protein"
+  },
+  {
+    "question": "_______can be added to dishes to improve their flavour",
+    "options": ["milk", "sand", "paint", "preservative"],
+    "answer": "milk"
+  },
+  {
+    "question": "Baking is often done in a/an",
+    "options": ["refrigerator", "cooker", "oven", "stove"],
+    "answer": "oven"
+  },
+  {
+    "question": "The last products of protein digestion are",
+    "options": ["amino acids", "glucose", "protein end products", "sugar"],
+    "answer": "amino acids"
+  },
+  {
+    "question": "______are creatures that live in either fresh or salt water",
+    "options": ["pork", "beef", "fish", "chicken"],
+    "answer": "fish"
   }
 ]
-
-
