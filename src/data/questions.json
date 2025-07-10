@@ -1,320 +1,439 @@
 [
   {
     "number": 1,
-    "question": "Which of these is regarded as having great love for one’s country?",
-    "options": ["Awareness", "Patriotism", "Ethnocentrism", "Sectarianism"],
-    "answer": "Patriotism"
+    "question": "What is the main difference between AC and DC?",
+    "options": [
+      "AC changes direction, DC flows in one direction",
+      "DC is more dangerous",
+      "AC flows in one direction, DC changes direction",
+      "DC flows in a loop, AC does not"
+    ],
+    "answer": "AC changes direction, DC flows in one direction"
   },
   {
     "number": 2,
-    "question": "Who is the current president of the United States of America?",
-    "options": ["Donald Trump", "Joe Biden", "Barrack Obama", "Bill Clinton"],
-    "answer": "Donald Trump"
+    "question": "How many terminals does a typical Light Dependent Resistor have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
   },
   {
     "number": 3,
-    "question": "When did Nigeria come in to existence?",
-    "options": ["1914", "1960", "1963", "1999"],
-    "answer": "1914"
+    "question": "Which of the following best describes the difference between block-level and textual programming?",
+    "options": [
+      "Block-level programming uses real wires, while textual programming does not",
+      "Block-level programming uses graphical blocks to represent code, while textual Programming uses written code or text",
+      "Textual programming is used only for gaming, while block-level is used for mobile apps",
+      "Textual programming cannot be used to create real applications"
+    ],
+    "answer": "Block-level programming uses graphical blocks to represent code, while textual Programming uses written code or text"
   },
   {
     "number": 4,
-    "question": "The second tier of government in Nigeria is the",
-    "options": ["central", "state", "local", "council"],
-    "answer": "state"
+    "question": "Which component can store charge for a short time and release it quickly?",
+    "options": ["Resistor", "Buzzer", "Voltage Regulator", "Capacitor"],
+    "answer": "Capacitor"
   },
   {
     "number": 5,
-    "question": "The value that helps people to live together in peace and harmony despite their perceived differences is",
-    "options": ["Contentment", "tolerance", "honesty", "discipline"],
-    "answer": "tolerance"
+    "question": "Which of the following is an example of a textual programming language?",
+    "options": ["Scratch", "Blockly", "Python", "Picto Blocks"],
+    "answer": "Python"
   },
   {
     "number": 6,
-    "question": "Twenty naira carries the portrait of",
-    "options": ["Ahmadu Bello", "Murtala Mohammed", "Alvan Ikoku", "Herbert Macaulay"],
-    "answer": "Murtala Mohammed"
+    "question": "Which of the following is polarized?",
+    "options": ["LED", "Capacitor", "Only A", "Both A and B"],
+    "answer": "Both A and B"
   },
   {
     "number": 7,
-    "question": "According to the Nigerian constitution, a presidential aspirant must attain the age of _____ years.",
-    "options": ["18", "35", "21", "30"],
-    "answer": "35"
+    "question": "The negative leg of an LED is called:",
+    "options": ["Anode", "Cathode", "Terminal", "Connector"],
+    "answer": "Cathode"
   },
   {
     "number": 8,
-    "question": "The minimum voting age in Nigeria is __.",
-    "options": ["15 years", "18 years", "16 years", "20years"],
-    "answer": "18 years"
+    "question": "Which of these components is NOT affected by light?",
+    "options": ["LED", "LDR", "Phototransistor", "Capacitor"],
+    "answer": "Capacitor"
   },
   {
     "number": 9,
-    "question": "Which of the following is not an example of orderliness?",
-    "options": ["Deviance", "Decorum", "Listening skill", "Driving skill"],
-    "answer": "Deviance"
+    "question": "The component that breaks or completes a circuit is:",
+    "options": ["Resistor", "Capacitor", "Switch", "Battery"],
+    "answer": "Switch"
   },
   {
     "number": 10,
-    "question": "The quality of getting job done well within a short time is",
-    "options": ["efficiency", "good legacy", "recognition", "courage"],
-    "answer": "efficiency"
+    "question": "What happens if an LED is connected in reverse?",
+    "options": ["It works brighter", "It explodes", "It does not light", "It stores energy"],
+    "answer": "It does not light"
   },
   {
     "number": 11,
-    "question": "Self – control is one of the attributes of",
-    "options": ["discipline", "dishonesty", "indolence", "disobedience"],
-    "answer": "discipline"
+    "question": "A potentiometer is also known as:",
+    "options": ["Fixed resistor", "Variable resistor", "LDR", "Switch"],
+    "answer": "Variable resistor"
   },
   {
     "number": 12,
-    "question": "In the constitution, the area where both federal and state government exercise joint authority are on the",
-    "options": ["concurrent list", "residual list", "exclusive list", "reserved list"],
-    "answer": "concurrent list"
+    "question": "Which tool is often used to test connections on a breadboard?",
+    "options": ["Soldering iron", "Screwdriver", "Multimeter", "Barometer"],
+    "answer": "Multimeter"
   },
   {
     "number": 13,
-    "question": "Which of the following is a right attitude to work?",
-    "options": ["Confrontation", "Conspiracy", "Desperation", "Consistency"],
-    "answer": "Consistency"
+    "question": "A capacitor is used to:",
+    "options": ["Emit light", "Regulate temperature", "Store and release electrical charge", "Generate sound"],
+    "answer": "Store and release electrical charge"
   },
   {
     "number": 14,
-    "question": "The last set of states created in Nigeria was in",
-    "options": ["1991", "1989", "1976", "1996"],
-    "answer": "1996"
+    "question": "What type of voltage do breadboard circuits usually use?",
+    "options": ["AC", "DC", "Mixed", "None"],
+    "answer": "DC"
   },
   {
     "number": 15,
-    "question": "A type of government in which people exercise their political power through periodic election is",
-    "options": ["autocracy", "monarchy", "oligarchy", "democracy"],
-    "answer": "democracy"
+    "question": "Which of the following best describes voltage?",
+    "options": ["Opposition to current", "Amount of charge", "Flow of electrons", "Electrical pressure or potential difference"],
+    "answer": "Electrical pressure or potential difference"
   },
   {
     "number": 16,
-    "question": "“Though tribe and tongue may differ, in brotherhood west and ” is a verse in the",
-    "options": ["national pledge", "national flag", "national motto", "national anthem"],
-    "answer": "national anthem"
+    "question": "Which of the following best explains the role of coding and robotics in modern careers?",
+    "options": [
+      "They are only used in laboratories",
+      "They are only for scientists and engineers",
+      "They can be applied in many fields like agriculture, medicine, business, and education",
+      "They are too difficult for non-science students"
+    ],
+    "answer": "They can be applied in many fields like agriculture, medicine, business, and education"
   },
   {
     "number": 17,
-    "question": "The supreme court of Nigeria helps in law",
-    "options": ["interpretation", "application", "drafting", "enforcement"],
-    "answer": "interpretation"
+    "question": "Why is it good to start learning coding and robotics at a young age?",
+    "options": [
+      "It builds early problem-solving and creativity skills",
+      "It helps students become perfect gamers",
+      "It prevents students from using phones",
+      "It is easier to understand only when you're older"
+    ],
+    "answer": "It builds early problem-solving and creativity skills"
   },
   {
     "number": 18,
-    "question": "Rule of law simply means",
-    "options": ["supremacy of the law", "corporate responsibility", "peace, order and stability", "obedience to any authority"],
-    "answer": "supremacy of the law"
+    "question": "Which statement is TRUE about learning coding and robotics?",
+    "options": [
+      "It must be done only after graduating from school",
+      "It can help students in both science and non-science professions solve problems",
+      "It is useful only for building video games",
+      "It is a waste of time for non-science students"
+    ],
+    "answer": "It can help students in both science and non-science professions solve problems"
   },
   {
     "number": 19,
-    "question": "Which of these security agents monitors the nation’s imports and exports?",
-    "options": ["Police", "Army", "Customs", "National taskforce"],
-    "answer": "Customs"
+    "question": "Which of the following is an example of a robot?",
+    "options": [
+      "Hair dryer",
+      "Washing machine",
+      "Remote-controlled car",
+      "Line-following robot"
+    ],
+    "answer": "Line-following robot"
   },
   {
     "number": 20,
-    "question": "Who was the courageous South African leader who died in 2013?",
-    "options": ["Desmond Tutu", "Nelson Mandela", "Thomas Mbeki", "Shaka the Zulu"],
-    "answer": "Nelson Mandela"
+    "question": "Identify the component in Fig. 1",
+    "options": ["LED", "LDR", "Potentiometer", "Voltage Regulator"],
+    "answer": "Potentiometer"
   },
   {
     "number": 21,
-    "question": "Which of these interprets the law?",
-    "options": ["National Assembly", "Executive", "Legislature", "Judiciary"],
-    "answer": "Judiciary"
+    "question": "Which of the following best describes textual programming?",
+    "options": [
+      "Using a joystick to control a robot",
+      "Writing instructions in plain English",
+      "Typing code using a programming language like Python",
+      "Dragging blocks to form a sentence"
+    ],
+    "answer": "Typing code using a programming language like Python"
   },
   {
     "number": 22,
-    "question": "The defence of the territorial integrity of a country by her people is part of",
-    "options": ["political participation", "duties and obligations", "self determination", "Political culture"],
-    "answer": "duties and obligations"
+    "question": "Identify the component in Fig. 2",
+    "options": ["LED", "LDR", "Potentiometer", "Voltage Regulator"],
+    "answer": "Voltage Regulator"
   },
   {
     "number": 23,
-    "question": "\"Though tribe and tongue may differ\" is _____ line of the Nigeria national anthem.",
-    "options": ["2", "4", "3", "6"],
-    "answer": "3"
+    "question": "Which of these quantities is measured in amperes (A)?",
+    "options": ["Voltage", "Resistance", "Capacitance", "Current"],
+    "answer": "Current"
   },
   {
     "number": 24,
-    "question": "The right of every citizen to vote and be voted for in an election is known as",
-    "options": ["benefit", "franchise", "voting", "choice"],
-    "answer": "franchise"
+    "question": "What is the relationship between Voltage, Current, and Resistance?",
+    "options": ["V = Voltage", "V = IR", "I = V * R", "R * V = I"],
+    "answer": "V = IR"
   },
   {
     "number": 25,
-    "question": "Which of the following is a duty of a good citizen to his country?",
-    "options": ["Freedom of association", "Obedience to the law", "Freedom of worship", "Membership of a particular party"],
-    "answer": "Obedience to the law"
+    "question": "What is the use of jumper wires?",
+    "options": ["Block current", "Store data", "Generate sound", "Connect components"],
+    "answer": "Connect components"
   },
   {
     "number": 26,
-    "question": "The use of hard drugs can best be curtailed through",
-    "options": ["compensation", "enlightenment", "compromise", "rehabilitation"],
-    "answer": "rehabilitation"
+    "question": "What does a variable resistor (potentiometer) do?",
+    "options": ["Stores energy", "Makes sound", "Adjusts resistance", "Senses motion"],
+    "answer": "Adjusts resistance"
   },
   {
     "number": 27,
-    "question": "Which of the following is not a reason for self–reliance?",
-    "options": ["Creation of employment opportunities", "Quest for white collar jobs", "Innovation and creativity", "Diversification"],
-    "answer": "Quest for white collar jobs"
+    "question": "What kind of current comes from a battery?",
+    "options": ["AC", "DC", "Variable", "Static"],
+    "answer": "DC"
   },
   {
     "number": 28,
-    "question": "The white lady who gave Nigeria her name is called",
-    "options": ["Flora Show", "Flora Shaw", "Florence Shaw", "Florence Show"],
-    "answer": "Flora Shaw"
+    "question": "A breadboard is used for:",
+    "options": ["Soldering wires", "Cooking", "Making permanent circuits", "Building temporary circuits"],
+    "answer": "Building temporary circuits"
   },
   {
     "number": 29,
-    "question": "The two horses on the Nigeria coat of arm represent",
-    "options": ["beauty", "strength", "dignity", "fertility"],
-    "answer": "dignity"
+    "question": "Which tool is used for measuring voltage, current, and resistance?",
+    "options": ["Thermometer", "Multimeter", "Stopwatch", "Battery"],
+    "answer": "Multimeter"
   },
   {
     "number": 30,
-    "question": "Cyber crime is mostly committed by",
-    "options": ["civil servants", "the aged", "youths", "uniform men"],
-    "answer": "youths"
+    "question": "What is the function of a voltage regulator?",
+    "options": ["Increase voltage", "Reduce resistance", "Maintain constant voltage", "Power a motor"],
+    "answer": "Maintain constant voltage"
   },
   {
     "number": 31,
-    "question": "The organization that takes custody of convicted person is the Nigeria(n)",
-    "options": ["Army", "customs service", "prison service", "immigration"],
-    "answer": "prison service"
+    "question": "What does LDR stand for?",
+    "options": [
+      "Light Dependent Resistor",
+      "Light Direct Reflector",
+      "Low Direct Resistor",
+      "Low-Density Resistor"
+    ],
+    "answer": "Light Dependent Resistor"
   },
   {
     "number": 32,
-    "question": "Rights and privileges of citizens are enshrined in the",
-    "options": ["bill", "bye-laws", "constitution", "edicts"],
-    "answer": "constitution"
+    "question": "A device that stores electrical energy is a:",
+    "options": [
+      "Motor",
+      "Diode",
+      "Capacitor",
+      "Fan"
+    ],
+    "answer": "Capacitor"
   },
   {
     "number": 33,
-    "question": "A contemporary social problem commonly found in our educational institutions is",
-    "options": ["banditry", "fraud", "cultism", "insurgency"],
-    "answer": "cultism"
+    "question": "The short leg of an LED is:",
+    "options": [
+      "Positive",
+      "Middle pin",
+      "Anode",
+      "Negative"
+    ],
+    "answer": "Negative"
   },
   {
     "number": 34,
-    "question": "The state legislative arm of government in Nigeria is referred to as the",
-    "options": ["House of Lords", "House of representatives", "House of Assembly", "House of common"],
-    "answer": "House of Assembly"
+    "question": "What is the function of an LDR?",
+    "options": [
+      "Give heat",
+      "Sense light",
+      "Produce sound",
+      "Store voltage"
+    ],
+    "answer": "Sense light"
   },
   {
     "number": 35,
-    "question": "The act of doing things according to laid down procedures is",
-    "options": ["endurance", "patience", "diligence", "courage"],
-    "answer": "diligence"
+    "question": "A battery provides:",
+    "options": [
+      "Sound",
+      "Voltage",
+      "Light",
+      "Resistance"
+    ],
+    "answer": "Voltage"
   },
   {
     "number": 36,
-    "question": "Nigerian lower legislative chamber comprises of ______ members.",
-    "options": ["362", "340", "109", "360"],
-    "answer": "360"
+    "question": "The flow of electricity is called:",
+    "options": [
+      "Charge",
+      "Spark",
+      "Current",
+      "Light"
+    ],
+    "answer": "Current"
   },
   {
     "number": 37,
-    "question": "The highest court in Nigeria is the _____ court.",
-    "options": ["customary", "high", "magistrate", "supreme"],
-    "answer": "supreme"
+    "question": "What is coding?",
+    "options": [
+      "Playing games",
+      "Washing clothes",
+      "Giving instructions to a computer",
+      "Watching videos"
+    ],
+    "answer": "Giving instructions to a computer"
   },
   {
     "number": 38,
-    "question": "The state of being happy and satisfied with whatever one owns is",
-    "options": ["commitment", "equality", "courage", "contentment"],
-    "answer": "contentment"
+    "question": "Which of these is an output component?",
+    "options": [
+      "Breadboard",
+      "LED",
+      "Jumper Wire",
+      "LDR"
+    ],
+    "answer": "LED"
   },
   {
     "number": 39,
-    "question": "The standards that are considered ethical by an individual or the society are known as",
-    "options": ["dignity", "rights", "materialism", "values"],
-    "answer": "values"
+    "question": "Robotics is the study of:",
+    "options": [
+      "Humans",
+      "Books",
+      "Plants",
+      "Machines that work on commands"
+    ],
+    "answer": "Machines that work on commands"
   },
   {
     "number": 40,
-    "question": "Democratic governance is usually characterized by",
+    "question": "The part of the robot that acts as a brain is called:",
     "options": [
-      "free, fair and credible elections",
-      "buoyant and competitive economy",
-      "accessible employment",
-      "youth participation in governance"
+      "Sensor",
+      "Motor",
+      "Arduino (Microcontroller)",
+      "Fan"
     ],
-    "answer": "free, fair and credible elections"
+    "answer": "Arduino (Microcontroller)"
   },
   {
     "number": 41,
-    "question": "One major factor that attracts some Nigerians into human trafficking is",
+    "question": "Robots can be used in:",
     "options": [
-      "insatiable quest for quick wealth",
-      "influx of foreigners into the country",
-      "influence of western and social",
-      "over-population related issues"
+      "Cooking",
+      "Surgery",
+      "Dancing",
+      "All of the above"
     ],
-    "answer": "insatiable quest for quick wealth"
+    "answer": "All of the above"
   },
   {
     "number": 42,
-    "question": "Human rights are basic natural rights which people enjoy primarily because they are",
+    "question": "In Scratch, what is the name of the character that moves?",
     "options": [
-      "human beings",
-      "members of a political party",
-      "international citizens",
-      "members of a community"
+      "Player",
+      "Walker",
+      "Jumper",
+      "Sprite"
     ],
-    "answer": "human beings"
+    "answer": "Sprite"
   },
   {
     "number": 43,
-    "question": "How many local governments are present in Nigeria?",
-    "options": ["774", "664", "757", "554"],
-    "answer": "774"
+    "question": "What do we call a program that controls how a robot behaves?",
+    "options": [
+      "Manual",
+      "Game",
+      "Code",
+      "Story"
+    ],
+    "answer": "Code"
   },
   {
     "number": 44,
-    "question": "The deliberate act of setting fire to a building is",
-    "options": ["arson", "bunkering", "insurgency", "terrorism"],
-    "answer": "arson"
+    "question": "The name of the small wires used to connect breadboard components is:",
+    "options": [
+      "Copper wires",
+      "Jumper wires",
+      "Live wires",
+      "Fuse wires"
+    ],
+    "answer": "Jumper wires"
   },
   {
     "number": 45,
-    "question": "Which of the following institutions is established to promote national unity in Nigeria?",
-    "options": ["NYSC", "NAFDAC", "NAPEP", "NDE"],
-    "answer": "NYSC"
+    "question": "In coding, what is a \"bug\"?",
+    "options": [
+      "A type of computer virus",
+      "A program that runs very fast",
+      "An error or mistake in the code",
+      "A robot instruction"
+    ],
+    "answer": "An error or mistake in the code"
   },
   {
     "number": 46,
-    "question": "The Independent National Electoral Commission in Nigeria is headed by",
-    "options": ["chairman", "chief executive", "director", "chief whip"],
-    "answer": "chairman"
+    "question": "Why is a resistor necessary for an LED?",
+    "options": [
+      "To protect the LED from too much current",
+      "To increase voltage",
+      "To switch the LED on",
+      "To increase brightness"
+    ],
+    "answer": "To protect the LED from too much current"
   },
   {
     "number": 47,
-    "question": "The attribute of having strong moral principle is known as",
-    "options": ["integrity", "hard work", "patience", "kindness"],
-    "answer": "integrity"
+    "question": "How many terminals does a typical Voltage Regulator have?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "3"
   },
   {
     "number": 48,
-    "question": "The democracy day in Nigeria is celebrated on",
-    "options": ["12th June", "1st May", "27th May", "4th June"],
-    "answer": "12th June"
+    "question": "Is the connection made in Fig. 3 correct?",
+    "options": [
+      "NO, It is incorrect",
+      "YES, it is correct",
+      "I am not sure",
+      "All of the above"
+    ],
+    "answer": "YES, it is correct"
   },
   {
     "number": 49,
-    "question": "In which year was Nigeria coat of arm adopted?",
-    "options": ["1956", "1975", "1960", "1970"],
-    "answer": "1960"
+    "question": "Mounting red and blue colored LEDs in a circuit, which color will draw the current and light?",
+    "options": [
+      "Blue LED",
+      "White LED",
+      "Yellow LED",
+      "Red LED"
+    ],
+    "answer": "Red LED"
   },
   {
     "number": 50,
-    "question": "Which of the following features attracts people to identify with a political party?",
-    "options": ["Relief", "Manifesto", "Logo", "Poster"],
-    "answer": "Manifesto"
+    "question": "Who can learn coding and robotics?",
+    "options": [
+      "Only science students",
+      "Only computer engineers",
+      "Only university graduates",
+      "Anyone interested, including artists and business students"
+    ],
+    "answer": "Anyone interested, including artists and business students"
   }
 ]
-
 
 
