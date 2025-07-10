@@ -235,8 +235,8 @@ if (!hasStarted) {
     )}
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
       {/* <h2 className="text-2xl font-bold text-center text-blue-950 mb-2">THIRD TERM EXAM</h2> */}
-      {showScore ? studentName : "YEAR 8 - CODING & ROBOTICS."}
-      {/* {showScore ? studentName : "HOW WELL DO YOU KNOW SUN DREAM?"} */}
+      {/* {showScore ? studentName : "YEAR 8 - CODING & ROBOTICS."} */}
+      {showScore ? studentName : "HOW WELL DO YOU KNOW SUN DREAM?"}
       </h3>
 
       
