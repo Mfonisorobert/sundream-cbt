@@ -1,224 +1,302 @@
 [
   {
     "number": 1,
-    "question": "What is the motto of Sun Dream International School?",
-    "options": [
-      "Learning Today, Leading Tomorrow",
-      "Knowledge for Excellence",
-      "Wisdom, Knowledge and Service",
-      "Inspiring the Future"
-    ],
-    "answer": "Wisdom, Knowledge and Service"
+    "question": "Biology is the study of",
+    "options": ["plants", "animals", "Lithosphere", "Living things"],
+    "answer": "Living things"
   },
   {
     "number": 2,
-    "question": "Which of the following colors is part of the official Sun Dream School uniform?",
-    "options": [
-      "Red",
-      "Blue",
-      "Green",
-      "Purple"
-    ],
-    "answer": "Blue"
+    "question": "Botany is the study of",
+    "options": ["Tissues", "cells", "animals", "Plants"],
+    "answer": "Plants"
   },
   {
     "number": 3,
-    "question": "What is the name of the school's annual inter-house sports competition?",
-    "options": [
-      "Sun Dream Olympics",
-      "DreamFit Games",
-      "Sun Dream Inter-House Fiesta",
-      "Sun Sprint Classic"
-    ],
-    "answer": "Sun Dream Inter-House Fiesta"
+    "question": "One of the following vertebrates live both in water and on land",
+    "options": ["Mammalia", "Aves", "Amphibia", "Reptilia"],
+    "answer": "Amphibia"
   },
   {
     "number": 4,
-    "question": "In what year was Sun Dream International School established?",
-    "options": [
-      "2010",
-      "2012",
-      "2018",
-      "2017"
-    ],
-    "answer": "2018"
+    "question": "Which of these does not belong to a taxonomic hierarchy",
+    "options": ["Plantae", "Class", "Kingdom", "species"],
+    "answer": "Plantae"
   },
   {
     "number": 5,
-    "question": "Which house won the last inter-house sports competition?",
-    "options": [
-      "Ruby House",
-      "Emerald House",
-      "Sapphire House",
-      "Topaz House"
-    ],
-    "answer": "Emerald House"
+    "question": "One of the following is an insect",
+    "options": ["Spider", "Millipede", "Worm", "housefly"],
+    "answer": "housefly"
   },
   {
     "number": 6,
-    "question": "What is the name of the student-led media group in Sun Dream School?",
-    "options": [
-      "DreamCast",
-      "The Sunshine Press Club",
-      "Sun Dream Media House",
-      "Sun Dream Reporters"
-    ],
-    "answer": "Sun Dream Media House"
+    "question": "Viviparity occurs mostly in",
+    "options": ["Mammals", "Reptiles", "Amphibians", "Aves"],
+    "answer": "Mammals"
   },
   {
     "number": 7,
-    "question": "Which subject is Sun Dream School especially known for winning competitions in?",
-    "options": [
-      "Mathematics",
-      "ICT",
-      "Civic Education",
-      "Home Economics"
-    ],
-    "answer": "ICT"
+    "question": "Land snail belongs to the phylum",
+    "options": ["Arthropoda", "Mollusca", "Annelid", "Myriapoda"],
+    "answer": "Mollusca"
   },
   {
     "number": 8,
-    "question": "Which of these is a core value promoted by Sun Dream International School?",
-    "options": [
-      "Fame",
-      "Humility",
-      "Power",
-      "Popularity"
-    ],
-    "answer": "Humility"
+    "question": "Kingdom Plantae is divided into the following except",
+    "options": ["Algaephyta", "Thallophyta", "Bryophyta", "Tracheophyta"],
+    "answer": "Algaephyta"
   },
   {
     "number": 9,
-    "question": "How many campuses does Sun Dream School currently have?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "answer": "Two"
+    "question": "Which of the following can be referred to as seed bearing plants",
+    "options": ["Pteridophyta", "Bryophyta", "Thallophyta", "Spermatophyta"],
+    "answer": "Spermatophyta"
   },
   {
     "number": 10,
-    "question": "Which club is responsible for environmental cleanliness and awareness in the school?",
-    "options": [
-      "Jet Club",
-      "Press Club",
-      "Green Club",
-      "Creative Arts Club"
-    ],
-    "answer": "Green Club"
+    "question": "Organs that perform specific functions are called",
+    "options": ["Organelle", "System", "Cell", "Tissue"],
+    "answer": "Cell"
   },
   {
     "number": 11,
-    "question": "Who is the current Head Girl of Sun Dream International School (as of this session)?",
-    "options": [
-      "Adaora M.",
-      "Christabel U.",
-      "Amarachi O.",
-      "Blessing A."
-    ],
-    "answer": "Christabel U."
+    "question": "The first biologist to classify living things is",
+    "options": ["Aristotle", "Mathias", "Robert Hooke", "Theordore Schwann"],
+    "answer": "Aristotle"
   },
   {
     "number": 12,
-    "question": "Which of the following is a tradition during the school’s end-of-year party?",
-    "options": [
-      "Talent Hunt",
-      "Principal’s Debate",
-      "Cultural Dance Parade",
-      "Parents vs Teachers Football Match"
-    ],
-    "answer": "Cultural Dance Parade"
+    "question": "Which scientist designed the present day method of classification",
+    "options": ["Aristotle", "Robert Hooke", "Mathias", "Carolus Linnaeus"],
+    "answer": "Carolus Linnaeus"
   },
   {
     "number": 13,
-    "question": "What is the title of the school anthem?",
-    "options": [
-      "Dream Beyond the Stars",
-      "Great Sun Dream",
-      "Light of the Future",
-      "Together We Rise"
-    ],
-    "answer": "Great Sun Dream"
+    "question": "Which of these forms the outer covering of animal cell",
+    "options": ["Cell wall", "Cell membrane", "Nuclear membrane", "Chromosomes"],
+    "answer": "Cell membrane"
   },
   {
     "number": 14,
-    "question": "What language is taught as a second language in Sun Dream School?",
-    "options": [
-      "French",
-      "Spanish",
-      "Chinese",
-      "German"
-    ],
-    "answer": "French"
+    "question": "Which of these quickens the rate of chemical reaction",
+    "options": ["Starch", "Metabolism", "Enzymes", "Catabolism"],
+    "answer": "Enzymes"
   },
   {
     "number": 15,
-    "question": "Which award is usually given to the most disciplined student?",
-    "options": [
-      "Star Award",
-      "Model Student Award",
-      "Dream Ambassador",
-      "Excellence Badge"
-    ],
-    "answer": "Model Student Award"
+    "question": "One of these is not required for photosynthesis",
+    "options": ["Water", "CO₂", "Chlorophyll", "C0"],
+    "answer": "C0"
   },
   {
     "number": 16,
-    "question": "What is the name of the weekly assembly presentation organized by students?",
-    "options": [
-      "Dream Talk",
-      "Value Time",
-      "Sunrise Spotlight",
-      "Assembly Showcase"
-    ],
-    "answer": "Dream Talk"
+    "question": "Pseudopodia is common to one of these organisms:",
+    "options": ["Paramecium", "Amoeba", "Trypanosoma", "Monocystis"],
+    "answer": "Amoeba"
   },
   {
     "number": 17,
-    "question": "Which of these activities is held every Friday afternoon?",
-    "options": [
-      "School Sanitation",
-      "House Meetings",
-      "PTA Forum",
-      "Club Activities"
-    ],
-    "answer": "Club Activities"
+    "question": "What process is involved when glucose is broken down in the absence of oxygen.",
+    "options": ["Fermentation", "Catabolism", "Anabolism", "Metabolism"],
+    "answer": "Fermentation"
   },
   {
     "number": 18,
-    "question": "Which member of staff is popularly known as 'Mr. Techie'?",
-    "options": [
-      "Mr. Joshua",
-      "Mr. Samuel",
-      "Mr. Mfoniso",
-      "Mr. Emeka"
-    ],
-    "answer": "Mr. Mfoniso"
+    "question": "One of this is not a asexual method of reproduction:",
+    "options": ["Fission", "Fusion", "Budding", "Fragmentation"],
+    "answer": "Fusion"
   },
   {
     "number": 19,
-    "question": "Which major ICT competition did Sun Dream represent Imo State in?",
-    "options": [
-      "National Girls in ICT Competition",
-      "Junior Tech Stars",
-      "Code Nigeria Hackathon",
-      "Digital Youth Challenge"
-    ],
-    "answer": "National Girls in ICT Competition"
+    "question": "Which of these organelles is called the \"power house\"?",
+    "options": ["Nucleus", "Lysosome", "Mitochondria", "Contractile Vacoule"],
+    "answer": "Mitochondria"
   },
   {
     "number": 20,
-    "question": "What is the nickname often used by students for the school?",
-    "options": [
-      "SD Nation",
-      "Sunshine City",
-      "Dreamers' Den",
-      "SDIS"
-    ],
-    "answer": "SDIS"
+    "question": "What type of nutrition is Euglena associated with?",
+    "options": ["Phagocytic mode of nutrition", "Holophytic mode of nutrition", "Holozoic mode of nutrition", "Parasitic mode of nutrition"],
+    "answer": "Holozoic mode of nutrition"
+  },
+  {
+    "number": 21,
+    "question": "The study of a single species of organism is called",
+    "options": ["Biocology", "Synecology", "Triocology", "Autecology"],
+    "answer": "Autecology"
+  },
+  {
+    "number": 22,
+    "question": "One of the following is not a constituent of an atmosphere",
+    "options": ["CO₂", "N₂", "O₂", "H₂O"],
+    "answer": "H₂O"
+  },
+  {
+    "number": 23,
+    "question": "One of these biomes is not found in Nigeria",
+    "options": ["Tropical forest", "Desert", "Savanna", "Shrub"],
+    "answer": "Desert"
+  },
+  {
+    "number": 24,
+    "question": "What is the most abundant gas in the atmosphere",
+    "options": ["Oxygen", "Carbon dioxide", "Carbon monoxide", "Nitrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "number": 25,
+    "question": "One of these organisms is not a saprophyte",
+    "options": ["Fungi", "Cockroach", "Mold", "Bacteria"],
+    "answer": "Cockroach"
+  },
+  {
+    "number": 26,
+    "question": "The sun energy trapped by green plants is converted into",
+    "options": ["Electrical energy", "Mechanical energy", "Chemical energy", "Heat energy"],
+    "answer": "Chemical energy"
+  },
+  {
+    "number": 27,
+    "question": "One of the following is not attributed to monocotyledon",
+    "options": ["Absence of Cambium", "Seed has one Cotyledon", "Presence of fibrous root system", "They are trees"],
+    "answer": "They are trees"
+  },
+  {
+    "number": 28,
+    "question": "One of these plants is not a cereal",
+    "options": ["Maize", "Rice", "Bean", "Oat"],
+    "answer": "Bean"
+  },
+  {
+    "number": 29,
+    "question": "Ephemerals complete their life cycle in",
+    "options": ["one year", "three years", "two years", "three to four months"],
+    "answer": "three to four months"
+  },
+  {
+    "number": 30,
+    "question": "One of the following factors does not affect food production",
+    "options": ["Light", "pH", "Afforestation", "Rainfall"],
+    "answer": "Afforestation"
+  },
+  {
+    "number": 31,
+    "question": "One of these is not a freshwater habitat",
+    "options": ["Ocean", "Pond", "River", "Stream"],
+    "answer": "Ocean"
+  },
+  {
+    "number": 32,
+    "question": "Which of these encourages the growth of microorganisms on food items?",
+    "options": ["Addition of Salt", "Addition of Water", "Sunning", "Smoking"],
+    "answer": "Addition of Water"
+  },
+  {
+    "number": 33,
+    "question": "One of the following is not a vector control method",
+    "options": ["Sanitation", "Chemical method", "Immunization", "Biological method"],
+    "answer": "Immunization"
+  },
+  {
+    "number": 34,
+    "question": "Which of these plants is grown for hardwood provision?",
+    "options": ["Carica papaya", "Zea mays", "Ebony", "Oryza sativa"],
+    "answer": "Ebony"
+  },
+  {
+    "number": 35,
+    "question": "One of the following plants is not an example of a root tuber",
+    "options": ["tomatoes", "yam", "cassava", "carrot"],
+    "answer": "tomatoes"
+  },
+  {
+    "number": 36,
+    "question": "One of these is not an ectoparasite",
+    "options": ["tick", "blackfly", "worm", "lice"],
+    "answer": "worm"
+  },
+  {
+    "number": 37,
+    "question": "Which of these animals is a primary consumer",
+    "options": ["man", "rat", "duckling", "cat"],
+    "answer": "duckling"
+  },
+  {
+    "number": 38,
+    "question": "Which level in the pyramid of energy has the lowest number",
+    "options": ["producers", "tertiary consumers", "primary consumers", "secondary consumers"],
+    "answer": "tertiary consumers"
+  },
+  {
+    "number": 39,
+    "question": "The energy from sun rays is captured by",
+    "options": ["producers", "primary consumers", "secondary consumers", "tertiary consumers"],
+    "answer": "producers"
+  },
+  {
+    "number": 40,
+    "question": "One of the following is an example of an endoparasite:",
+    "options": ["Lice", "Tick", "Fluke", "Fly"],
+    "answer": "Fluke"
+  },
+  {
+    "number": 41,
+    "question": "One of this is not investigated in population studies:",
+    "options": ["Height", "Types", "Dominance", "Features"],
+    "answer": "Height"
+  },
+  {
+    "number": 42,
+    "question": "The formular A₁ × A₂ / A₃ —  is used for:",
+    "options": ["Transect method", "Quadrat method", "Capture and recapture method", "Quadrat and transect method"],
+    "answer": "Capture and recapture method"
+  },
+  {
+    "number": 43,
+    "question": "One of this factors does not lead to decrease in population:",
+    "options": ["Mortality", "Emigration", "Immigration", "Competition"],
+    "answer": "Immigration"
+  },
+  {
+    "number": 44,
+    "question": "One of the following factors is not peculiar to terrestrial habitat:",
+    "options": ["Topography", "Humidity", "Salinity", "pH"],
+    "answer": "Salinity"
+  },
+  {
+    "number": 45,
+    "question": "One of these is not a composition of soil:",
+    "options": ["Air space", "Water", "Salt", "Humus"],
+    "answer": "Salt"
+  },
+  {
+    "number": 46,
+    "question": "Which of this soil supports the growth of luxuriant plant:",
+    "options": ["Sandy soil", "Clay soil", "Humus soil", "Loamy soil"],
+    "answer": "Loamy soil"
+  },
+  {
+    "number": 47,
+    "question": "Which of these soil has more retentive capacity for water:",
+    "options": ["Clay", "Loam", "Sand", "Humus"],
+    "answer": "Clay"
+  },
+  {
+    "number": 48,
+    "question": "The instrument used in measuring temperature is:",
+    "options": ["Wind vane", "Barometer", "Thermometer", "Hygrometer"],
+    "answer": "Thermometer"
+  },
+  {
+    "number": 49,
+    "question": "The instrument used in measuring light intensity is:",
+    "options": ["Anemometer", "Photometer", "Hydrometer", "Barometer"],
+    "answer": "Photometer"
+  },
+  {
+    "number": 50,
+    "question": "The instrument used in measuring pH is",
+    "options": ["Colorimeter", "Metric rule", "Anemometer", "Waxed-bulb"],
+    "answer": "Colorimeter"
   }
 ]
-
-
