@@ -1,253 +1,388 @@
 [
   {
-    "question": "History can be defined as an attempt to study the past by",
-    "options": ["Enquiring", "education", "participation", "questioning"],
-    "answer": "Enquiring"
+    "question": "What is the primary function of a resistor in a circuit?",
+    "options": [
+      "To store energy",
+      "To reduce current flow",
+      "To generate voltage",
+      "To switch circuits"
+    ],
+    "answer": "To reduce current flow"
   },
   {
-    "question": "The major concern of history are past",
-    "options": ["Event", "heroes", "leaders", "stories"],
-    "answer": "Event"
+    "question": "Which component’s resistance changes with light intensity?",
+    "options": [
+      "Thermistor",
+      "Capacitor",
+      "LDR",
+      "Transistor"
+    ],
+    "answer": "LDR"
   },
   {
-    "question": "Which of the following was classified as centralized state in pre-colonial Nigeria?",
-    "options": ["Benin", "Igbo", "urhobo", "Tiv"],
-    "answer": "Benin"
+    "question": "Which component can store charge for a short time and release it quickly?",
+    "options": [
+      "Resistor",
+      "Buzzer",
+      "Voltage Regulator",
+      "Capacitor"
+    ],
+    "answer": "Capacitor"
   },
   {
-    "question": "Which of the following was not a centralized state in pre-colonial Nigeria?",
-    "options": ["Kwararafa", "Benin", "Oyo", "Tiv"],
-    "answer": "Tiv"
+    "question": "Which of the following is an example of a textual programming language?",
+    "options": [
+      "Scratch",
+      "Blockly",
+      "Python",
+      "Picto Blocks"
+    ],
+    "answer": "Python"
   },
   {
-    "question": "Which of the following products was a major source of wealth to Ghana empire?",
-    "options": ["Gold", "Horses", "Salt", "Slave"],
-    "answer": "Gold"
+    "question": "Which of the following is polarized?",
+    "options": [
+      "LED",
+      "Capacitor",
+      "Only A",
+      "Both A and B"
+    ],
+    "answer": "Both A and B"
   },
   {
-    "question": "The capital of the ancient Ghana empire was",
-    "options": ["Kumbi Saleh", "Walata", "Wangara", "Kumasi"],
-    "answer": "Kumbi Saleh"
+    "question": "The positive leg of an LED is called:",
+    "options": [
+      "Anode",
+      "Cathode",
+      "Terminal",
+      "Connector"
+    ],
+    "answer": "Anode"
   },
   {
-    "question": "The earliest empire that emerged in western Sudan was",
-    "options": ["Ghana", "Kanem Bornu", "Mali", "Songhai"],
-    "answer": "Ghana"
+    "question": "Which of the following is an example of a block-level programming environment?",
+    "options": [
+      "Python",
+      "Scratch",
+      "JavaScript",
+      "HTML"
+    ],
+    "answer": "Scratch"
   },
   {
-    "question": "What was the major factor responsible for the rise of Ghana empire?",
-    "options": ["Arable land", "Tactical military defense", "effective administration", "Trans Saharan trade"],
-    "answer": "Trans Saharan trade"
+    "question": "Which of these components is not affected by light?",
+    "options": [
+      "LED",
+      "LDR",
+      "Phototransistor",
+      "Capacitor"
+    ],
+    "answer": "Capacitor"
   },
   {
-    "question": "Ghana empire at its peak operated a system of government known as?",
-    "options": ["monarchical", "parliamentary", "republican", "centralized"],
-    "answer": "centralized"
+    "question": "A voltage regulator helps to:",
+    "options": [
+      "Boost light",
+      "Control brightness",
+      "Maintain constant voltage",
+      "Reduce resistance"
+    ],
+    "answer": "Maintain constant voltage"
   },
   {
-    "question": "The first capital of Mali empire was",
-    "options": ["Niani", "Gao", "Timbuktu", "wangara"],
-    "answer": "Niani"
+    "question": "The component that breaks or completes a circuit is:",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Switch",
+      "Battery"
+    ],
+    "answer": "Switch"
   },
   {
-    "question": "The major deposits of gold in Ghana empire were in",
-    "options": ["Kumbi Saleh", "Walata", "sijilamasa", "wangara"],
-    "answer": "wangara"
+    "question": "Breadboards do not require:",
+    "options": [
+      "Power supply",
+      "Soldering",
+      "Jumper wires",
+      "Connections"
+    ],
+    "answer": "Soldering"
   },
   {
-    "question": "In what year did Sundiata Kieta conquered the SUSU kingdom?",
-    "options": ["13th century", "11th century", "14th century", "12 century"],
-    "answer": "13th century"
+    "question": "The process of inserting components into a breadboard is called:",
+    "options": [
+      "Programming",
+      "Mounting",
+      "Wiring",
+      "Soldering"
+    ],
+    "answer": "Mounting"
   },
   {
-    "question": "For how many long years did the Almoravids attack the ancient Ghana Empire?",
-    "options": ["2 to 6 years", "7 to 10 years", "10 to 12 years", "10 to 14 years"],
-    "answer": "10 to 14 years"
+    "question": "What happens if an LED is connected in reverse?",
+    "options": [
+      "It works brighter",
+      "It explodes",
+      "It does not light",
+      "It stores energy"
+    ],
+    "answer": "It does not light"
   },
   {
-    "question": "One of these was not a reason the Ghana Empire fell to the Almoravids invaders?",
-    "options": ["There was internal crisis in the empire", "The Almoravids had penetrated the empire", "The king of the Ghana Empire died while the war was on", "The Almoravids soldiers had superior weapons"],
-    "answer": "The king of the Ghana Empire died while the war was on"
+    "question": "A potentiometer is also known as:",
+    "options": [
+      "Fixed resistor",
+      "Variable resistor",
+      "LDR",
+      "Switch"
+    ],
+    "answer": "Variable resistor"
   },
   {
-    "question": "One of these was the reason the ancient Ghana Empire fell?",
-    "options": ["They lost their wealth and food supply", "They lost their king and armies", "They lost a lot of soldiers", "They lost food supply and trade route"],
-    "answer": "They lost food supply and trade route"
+    "question": "Which tool is often used to test connections on a breadboard?",
+    "options": [
+      "Soldering iron",
+      "Screwdriver",
+      "Multimeter",
+      "Barometer"
+    ],
+    "answer": "Multimeter"
   },
   {
-    "question": "The ancient Mali empire operated which of the following form of government?",
-    "options": ["constitutional rulership", "constitutional kingship", "constitutional democracy", "constitutional monarchy"],
-    "answer": "constitutional monarchy"
+    "question": "A capacitor is used to:",
+    "options": ["Emit light", "Regulate temperature", "Store and release electrical charge", "Generate sound"],
+    "answer": "Store and release electrical charge"
   },
   {
-    "question": "The ancient Mali empire had a supreme ruler who bore the title",
-    "options": ["Sundiata", "monarch", "musa", "mansa"],
-    "answer": "mansa"
+    "question": "The breadboard's side rails are mainly used for:",
+    "options": ["Signal transfer", "Mounting", "Power and ground", "Soldering"],
+    "answer": "Power and ground"
   },
   {
-    "question": "One of these territories was also conquered by Sundiata Kieta besides the Ghana empire.",
-    "options": ["Wangawaras", "Timbuktu", "malinke", "susu"],
-    "answer": "susu"
+    "question": "What component is commonly used for the audio indication of current flowing in the circuit?",
+    "options": ["LED", "Resistor", "Buzzer", "Voltage Regulator"],
+    "answer": "Buzzer"
   },
   {
-    "question": "One of these factors influenced the farming and trade aspect of the ancient Ghana empire.",
-    "options": ["The Soninke allowed few people to trade and everyone to farm", "The Soninke allowed only its citizen to trade and not farm", "The Soninke never allowed non-citizen to trade but only farm", "The Soninke established a farm market that allowed people to sell and farm"],
-    "answer": "The Soninke established a farm market that allowed people to sell and farm"
+    "question": "What type of voltage do breadboard circuits usually use?",
+    "options": ["AC", "DC", "Mixed", "None"],
+    "answer": "DC"
   },
   {
-    "question": "Which one of these currencies were mainly accepted in most of the ancient west African markets?",
-    "options": ["cash", "Manila", "gold", "cowries shell"],
-    "answer": "cowries shell"
+    "question": "An LDR is used in:",
+    "options": ["Electric fans", "Light-sensitive alarms", "Speakers", "Buzzers"],
+    "answer": "Light-sensitive alarms"
   },
   {
-    "question": "Availability of strong armies ensured the Soninke kept their people, empire and which of the following safe?",
-    "options": ["empire", "Trade route", "Market", "Border"],
-    "answer": "Trade route"
+    "question": "Which is the correct way to place components in a breadboard?",
+    "options": ["Force them hard", "Bend the legs first", "Match the rows and columns", "Use glue"],
+    "answer": "Match the rows and columns"
   },
   {
-    "question": "The Soninke people were originally farmers who got united to",
-    "options": ["wave war", "Protect trade route", "Create trade route", "Trade"],
-    "answer": "Protect trade route"
+    "question": "The name of the small wires used to connect breadboard components is:",
+    "options": ["Copper wires", "Jumper wires", "Live wires", "Fuse wires"],
+    "answer": "Jumper wires"
   },
   {
-    "question": "Which of the following groups had no centralized government in pre-colonial Nigeria?",
-    "options": ["Yoruba", "Igala", "Ijaw", "Hausa"],
-    "answer": "Ijaw"
+    "question": "What is the function of a light-dependent resistor in a streetlight circuit?",
+    "options": ["Store charge", "Emit sound", "Control the light based on brightness", "Act as a switch manually"],
+    "answer": "Control the light based on brightness"
   },
   {
-    "question": "One of these made the Soninke agricultural trade easier?",
-    "options": ["Trade by sales", "Trade by batá", "Trade by barta", "Trade by barter"],
-    "answer": "Trade by barter"
+    "question": "In a series circuit, the current:",
+    "options": ["Varies in each component", "Is the same in all components", "Is zero", "Reverses direction"],
+    "answer": "Is the same in all components"
   },
   {
-    "question": "One of these led to the growth and development of the Soninke people?",
-    "options": ["Presence of land", "Presence of large market", "Presence of trade route", "Presence of mineral resources"],
-    "answer": "Presence of trade route"
+    "question": "What is the relationship between Voltage, Current, and Resistance?",
+    "options": ["V = Voltage", "V = IR", "I = V * R", "R*V = I"],
+    "answer": "V = IR"
   },
   {
-    "question": "Which one of the following influenced the economic stability of the ancient Ghana Empire?",
-    "options": ["Farming", "War", "Trade route", "Trade"],
-    "answer": "Trade"
+    "question": "The Bulbs in Fig.1 are connected in ……………………….?",
+    "options": ["Series", "Parallel", "Series-Parallel", "Parallel-Series"],
+    "answer": "Series"
   },
   {
-    "question": "The geography of the ancient Ghana Empire was influenced by which of the following.",
-    "options": ["Trade route", "Cattle rearing and travels", "Hunting and transportation", "Option A to D"],
-    "answer": "Option A to D"
+    "question": "Which of the following best describes voltage?",
+    "options": ["Opposition to current", "Amount of charge", "Flow of electrons", "Electrical pressure or potential difference"],
+    "answer": "Electrical pressure or potential difference"
   },
   {
-    "question": "These three factors “the Sahara” the savanna” and the rainforest” contributed to which one of the followings in the ancient Ghana empire",
-    "options": ["Success and trade only", "Success and growth only", "Success, growth of agriculture and farming", "Success of growth, agriculture, transportation and trade"],
-    "answer": "Success of growth, agriculture, transportation and trade"
+    "question": "Which of the following best explains the role of coding and robotics in modern careers?",
+    "options": [
+      "They are only used in laboratories",
+      "They are only for scientists and engineers",
+      "They can be applied in many fields like agriculture, medicine, business, and education",
+      "They are too difficult for non-science students"
+    ],
+    "answer": "They can be applied in many fields like agriculture, medicine, business, and education"
   },
   {
-    "question": "The acceptance of Islam led to which one of the followings in the ancient Ghana Empire?",
-    "options": ["War", "Invasion by the enemy", "Enforced army", "Literacy"],
-    "answer": "Literacy"
+    "question": "What is the primary source of DC electricity in electronics projects?",
+    "options": ["Solar panel", "Mains electricity", "Battery", "Capacitor"],
+    "answer": "Battery"
   },
   {
-    "question": "One of the reasons for the acceptance of Islam by the people of the ancient Ghana empire was to",
-    "options": ["To facilitate easy invasion", "To create more literacy", "To reinforce the army strength", "To foster trade relation"],
-    "answer": "To foster trade relation"
+    "question": "Which of these quantities is measured in amperes (A)?",
+    "options": ["Voltage", "Resistance", "Capacitance", "Current"],
+    "answer": "Current"
   },
   {
-    "question": "The ancient Ghana was the first of which of these empires?",
-    "options": ["Madonic", "Sudanic", "Western", "Northern"],
-    "answer": "Sudanic"
+    "question": "Why is it good to start learning coding and robotics at a young age?",
+    "options": [
+      "It helps students become perfect gamers",
+      "It builds early problem-solving and creativity skills",
+      "It prevents students from using phones",
+      "It is easier to understand only when you're older"
+    ],
+    "answer": "It builds early problem-solving and creativity skills"
   },
   {
-    "question": "Which one of these played a major role in the rise of the ancient Ghana empire?",
-    "options": ["Geography and location", "Option a and d", "Mineral resources", "Farming and agriculture"],
-    "answer": "Option a and d"
+    "question": "In a DC circuit, current flows from:",
+    "options": ["Negative to positive", "Ground to power", "Positive to negative", "AC to DC"],
+    "answer": "Positive to negative"
   },
   {
-    "question": "During the reign of mansa musa, Timbuktu became a great Centre of economic and",
-    "options": ["administration", "Agriculture", "Bronze casting", "Craft making"],
-    "answer": "administration"
+    "question": "What happens to the current in a series circuit with more resistors added?",
+    "options": ["It increases", "It decreases", "It remains the same", "It becomes zero"],
+    "answer": "It decreases"
   },
   {
-    "question": "The official language of Mali Empire was",
-    "options": ["Fulfulde", "Mandinka", "Soninke", "Dogon"],
-    "answer": "Mandinka"
+    "question": "Which statement is TRUE about learning coding and robotics?",
+    "options": [
+      "It must be done only after graduating from school",
+      "It can help students in both science and non-science professions solve problems",
+      "It is useful only for building video games",
+      "It is a waste of time for non-science students"
+    ],
+    "answer": "It can help students in both science and non-science professions solve problems"
   },
   {
-    "question": "Which of the following was not a factor that contributes to the rise of Mali Empire?",
-    "options": ["Adoption of Islam", "Support from KanemBornu", "Geography and location", "Favorable political situation"],
-    "answer": "Support from KanemBornu"
+    "question": "What is the main purpose of robotics in education?",
+    "options": [
+      "To play games",
+      "To avoid physical work",
+      "To teach students how to build, code, and solve problems",
+      "To replace teachers"
+    ],
+    "answer": "To teach students how to build, code, and solve problems"
   },
   {
-    "question": "Sundiata Keita of Mali was succeeded by mansa",
-    "options": ["Khalifa", "Musa", "Sakura", "Wali"],
-    "answer": "Musa"
+    "question": "Which of the following is an example of a robot?",
+    "options": ["Hair dryer", "Washing machine", "Remote-controlled car", "Line-following robot"],
+    "answer": "Line-following robot"
   },
   {
-    "question": "The following contributed to the decline and fall of Mali empire except the",
-    "options": ["Emergence of incompetent ruler", "Attack from the Portuguese", "Expansion of the empire without effective control", "Revolt from vassal states"],
-    "answer": "Attack from the Portuguese"
+    "question": "What is the function of sensors in a robot?",
+    "options": [
+      "To store electricity",
+      "To detect changes in the environment, like light, sound, or movement",
+      "To increase the robot’s speed",
+      "To power the robot"
+    ],
+    "answer": "To detect changes in the environment, like light, sound, or movement"
   },
   {
-    "question": "Which of the following was the last to emerge in the western Sudan?",
-    "options": ["Oyo", "Songhai", "Ghana", "Mali"],
-    "answer": "Songhai"
+    "question": "Which part of a robot acts as its brain?",
+    "options": ["Battery", "Wire", "Sensor", "Arduino (Microcontroller)"],
+    "answer": "Arduino (Microcontroller)"
   },
   {
-    "question": "Songhai empire was established by?",
-    "options": ["Askia ishaq", "Sunni Ali", "Mohammed toure", "Askia musa"],
-    "answer": "Sunni Ali"
+    "question": "What is a robot?",
+    "options": [
+      "A machine programmed to only work in factories",
+      "A machine programmed to perform tasks automatically",
+      "A mobile phone with internet",
+      "A mechanical toy"
+    ],
+    "answer": "A machine programmed to perform tasks automatically"
   },
   {
-    "question": "The main source of wealth and revenue for the Mali Empire was",
-    "options": ["Agriculture", "Gold mining", "Salt making", "Trading"],
-    "answer": "Trading"
+    "question": "What happens to the current in a parallel circuit with more resistors added?",
+    "options": ["Shared among branches", "Zero across all branches", "Doubled in each branch", "Same across all branches"],
+    "answer": "Shared among branches"
   },
   {
-    "question": "One of the mansas of ancient Mali Empire that lost hold of his territory was",
-    "options": ["Sumaro kante", "Mansa Ismail", "Mansa musa", "Mama Maghan"],
-    "answer": "Mama Maghan"
+    "question": "In coding, what is a \"bug\"?",
+    "options": [
+      "A type of computer virus",
+      "A program that runs very fast",
+      "An error or mistake in the code",
+      "A robot instruction"
+    ],
+    "answer": "An error or mistake in the code"
   },
   {
-    "question": "Before her final collapse, the Songhai empire was ruled by —— dynasties",
-    "options": ["Three", "Four", "Two", "One"],
-    "answer": "Two"
+    "question": "Why is a resistor necessary for an LED?",
+    "options": [
+      "To increase voltage",
+      "To protect the LED from too much current",
+      "To switch the LED on",
+      "To increase brightness"
+    ],
+    "answer": "To protect the LED from too much current"
   },
   {
-    "question": "During the reign of sonni Ali, the capital of Songhai Empire was",
-    "options": ["DJenne", "Niani", "Gao", "Timbuktu"],
-    "answer": "Gao"
+    "question": "What is the total resistance in a series circuit with 3Ω and 4Ω resistors connected?",
+    "options": ["1.7Ω", "7Ω", "6Ω", "2Ω, 3Ω"],
+    "answer": "7Ω"
   },
   {
-    "question": "The final collapse of the Songhai Empire was as a result of",
-    "options": ["Absence of a ruler", "Civil war within the state", "Invasion of the empire by Moroccan army", "Rebellion from vassal states"],
-    "answer": "Invasion of the empire by Moroccan army"
+    "question": "What is the total resistance in a parallel circuit with 3Ω and 4Ω resistors connected?",
+    "options": ["1.7Ω", "7Ω", "6Ω", "2Ω, 3Ω"],
+    "answer": "1.7Ω"
   },
   {
-    "question": "In order to ensure effective administrative control, Mohammed Touré divided the empire into —— provinces",
-    "options": ["four", "Six", "five", "eight"],
-    "answer": "eight"
+    "question": "In a parallel circuit, adding another branch will:",
+    "options": ["Increase the total resistance", "Decrease the total resistance", "Has no effect", "Stop current flow"],
+    "answer": "Decrease the total resistance"
   },
   {
-    "question": "During the reign of Sonni Ali, the prime minister of Songhai Empire was",
-    "options": ["Askia Daoud", "Sonni Baru", "Mohammed Toure", "Askia Ishaq"],
-    "answer": "Sonni Baru"
+    "question": "The main difference between AC and DC?",
+    "options": [
+      "AC is weaker",
+      "DC is more dangerous",
+      "AC changes direction, DC flows in one direction",
+      "DC flows in a loop, AC does not"
+    ],
+    "answer": "AC changes direction, DC flows in one direction"
   },
   {
-    "question": "The saifawa dynasty ruled in",
-    "options": ["Benin", "Mali", "KanemBornu", "Ghana"],
-    "answer": "KanemBornu"
+    "question": "What is Arduino?",
+    "options": [
+      "A high-end gaming console",
+      "An Open-source electronics platform for building interactive projects",
+      "A type of smartphone operating system",
+      "A programming language"
+    ],
+    "answer": "An Open-source electronics platform for building interactive projects"
   },
   {
-    "question": "The expansion and development of Kanem Bornu as a centralized state was as a result of the introduction of",
-    "options": ["Islam", "Powerful ruler", "Caravan trade", "War tactics"],
-    "answer": "Islam"
+    "question": "How many terminals does a typical Light Dependent Resistor have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
   },
   {
-    "question": "Which of the Yoruba towns in pre-colonial Nigeria had no standing army?",
-    "options": ["Ekiti", "Oyo", "Egba", "Ife"],
-    "answer": "Ife"
+    "question": "What is coding?",
+    "options": [
+      "Typing random letters on a computer",
+      "Giving instructions to a computer using programming languages",
+      "Fixing broken hardware",
+      "Sending emails"
+    ],
+    "answer": "Giving instructions to a computer using programming languages"
   },
   {
-    "question": "The smallest socio-political unit in pre-colonial Igbo society was the",
-    "options": ["Lineage assembly", "Sub lineage", "Household", "Village group"],
-    "answer": "Household"
+    "question": "Which of the following best describes textual programming?",
+    "options": [
+      "Using a joystick to control a robot",
+      "Writing instructions in plain English",
+      "Typing code using a programming language like Python",
+      "Dragging blocks to form a sentence"
+    ],
+    "answer": "Typing code using a programming language like Python"
   }
 ]
 
