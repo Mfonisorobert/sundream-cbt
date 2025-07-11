@@ -1,373 +1,253 @@
 [
   {
-    "question": "Which of the following is an obligation of a citizen?",
-    "options": [
-      "Adjudicating cases",
-      "Arresting offenders",
-      "Voting during elections",
-      "Making laws for the nation"
-    ],
-    "answer": "Voting during elections"
+    "question": "History can be defined as an attempt to study the past by",
+    "options": ["Enquiring", "education", "participation", "questioning"],
+    "answer": "Enquiring"
   },
   {
-    "question": "The green colour in the traffic light indicates",
-    "options": [
-      "be fast",
-      "get ready",
-      "go",
-      "slow down"
-    ],
-    "answer": "go"
+    "question": "The major concern of history are past",
+    "options": ["Event", "heroes", "leaders", "stories"],
+    "answer": "Event"
   },
   {
-    "question": "The headquarters of ECOWAS is located in",
-    "options": [
-      "Abuja",
-      "Accra",
-      "Addis-Ababa",
-      "Lome"
-    ],
-    "answer": "Abuja"
+    "question": "Which of the following was classified as centralized state in pre-colonial Nigeria?",
+    "options": ["Benin", "Igbo", "urhobo", "Tiv"],
+    "answer": "Benin"
   },
   {
-    "question": "The public service is a branch of the _____ arm of government.",
-    "options": [
-      "Civilian",
-      "Executive",
-      "legislature",
-      "military"
-    ],
-    "answer": "Executive"
+    "question": "Which of the following was not a centralized state in pre-colonial Nigeria?",
+    "options": ["Kwararafa", "Benin", "Oyo", "Tiv"],
+    "answer": "Tiv"
   },
   {
-    "question": "When the national flag is flown half mast, it is a sign of national",
-    "options": [
-      "centenary",
-      "children’s day",
-      "Independence",
-      "mourning"
-    ],
-    "answer": "mourning"
+    "question": "Which of the following products was a major source of wealth to Ghana empire?",
+    "options": ["Gold", "Horses", "Salt", "Slave"],
+    "answer": "Gold"
   },
   {
-    "question": "Which of these is not a system of government?",
-    "options": [
-      "Anarchy",
-      "Monarchy",
-      "Oligarchy",
-      "Socialism"
-    ],
-    "answer": "Anarchy"
+    "question": "The capital of the ancient Ghana empire was",
+    "options": ["Kumbi Saleh", "Walata", "Wangara", "Kumasi"],
+    "answer": "Kumbi Saleh"
   },
   {
-    "question": "The structure of the Nigerian legislature is _____ in nature.",
-    "options": [
-      "Bicameral",
-      "confederal",
-      "federal",
-      "Unicameral"
-    ],
-    "answer": "Bicameral"
+    "question": "The earliest empire that emerged in western Sudan was",
+    "options": ["Ghana", "Kanem Bornu", "Mali", "Songhai"],
+    "answer": "Ghana"
   },
   {
-    "question": "The upper legislative chamber of the national Assembly of Nigeria is also known as the",
-    "options": [
-      "honorable",
-      "house of commons",
-      "senate",
-      "house of representatives"
-    ],
-    "answer": "senate"
+    "question": "What was the major factor responsible for the rise of Ghana empire?",
+    "options": ["Arable land", "Tactical military defense", "effective administration", "Trans Saharan trade"],
+    "answer": "Trans Saharan trade"
   },
   {
-    "question": "The public service structure of Nigeria is an offshoot of",
-    "options": [
-      "America",
-      "British",
-      "Canada",
-      "Japan"
-    ],
-    "answer": "British"
+    "question": "Ghana empire at its peak operated a system of government known as?",
+    "options": ["monarchical", "parliamentary", "republican", "centralized"],
+    "answer": "centralized"
   },
   {
-    "question": "Public complaints commission in Nigeria is also known as",
-    "options": [
-      "elder’s forum",
-      "judiciary",
-      "ombudsman",
-      "people’s court"
-    ],
-    "answer": "ombudsman"
+    "question": "The first capital of Mali empire was",
+    "options": ["Niani", "Gao", "Timbuktu", "wangara"],
+    "answer": "Niani"
   },
   {
-    "question": "The land in contention between Nigeria and Cameroun is called",
-    "options": [
-      "Bakassi Peninsula",
-      "Bonny Island",
-      "Calabar river",
-      "Lekki Peninsula"
-    ],
-    "answer": "Bakassi Peninsula"
+    "question": "The major deposits of gold in Ghana empire were in",
+    "options": ["Kumbi Saleh", "Walata", "sijilamasa", "wangara"],
+    "answer": "wangara"
   },
   {
-    "question": "Human rights abuse can be prevented through the following except",
-    "options": [
-      "constitutional means",
-      "court of law",
-      "mass literacy",
-      "Protest"
-    ],
-    "answer": "Protest"
+    "question": "In what year did Sundiata Kieta conquered the SUSU kingdom?",
+    "options": ["13th century", "11th century", "14th century", "12 century"],
+    "answer": "13th century"
   },
   {
-    "question": "Citizens can be deprived of their rights during",
-    "options": [
-      "democratic regime",
-      "emergency rule",
-      "parliamentary debate",
-      "political campaign"
-    ],
-    "answer": "emergency rule"
+    "question": "For how many long years did the Almoravids attack the ancient Ghana Empire?",
+    "options": ["2 to 6 years", "7 to 10 years", "10 to 12 years", "10 to 14 years"],
+    "answer": "10 to 14 years"
   },
   {
-    "question": "The ideal means of transferring power into authority is through",
-    "options": [
-      "force",
-      "Influence",
-      "legitimacy",
-      "Prayers"
-    ],
-    "answer": "legitimacy"
+    "question": "One of these was not a reason the Ghana Empire fell to the Almoravids invaders?",
+    "options": ["There was internal crisis in the empire", "The Almoravids had penetrated the empire", "The king of the Ghana Empire died while the war was on", "The Almoravids soldiers had superior weapons"],
+    "answer": "The king of the Ghana Empire died while the war was on"
   },
   {
-    "question": "The symbol for the campaign against AIDS is ____ ribbon.",
-    "options": [
-      "black",
-      "blue",
-      "green",
-      "Red"
-    ],
-    "answer": "Red"
+    "question": "One of these was the reason the ancient Ghana Empire fell?",
+    "options": ["They lost their wealth and food supply", "They lost their king and armies", "They lost a lot of soldiers", "They lost food supply and trade route"],
+    "answer": "They lost food supply and trade route"
   },
   {
-    "question": "How many senator(s) represent the federal capital territory in the senate?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "1"
+    "question": "The ancient Mali empire operated which of the following form of government?",
+    "options": ["constitutional rulership", "constitutional kingship", "constitutional democracy", "constitutional monarchy"],
+    "answer": "constitutional monarchy"
   },
   {
-    "question": "The international court of justice is located in",
-    "options": [
-      "Britain",
-      "Netherlands",
-      "Nigeria",
-      "Norway"
-    ],
-    "answer": "Netherlands"
+    "question": "The ancient Mali empire had a supreme ruler who bore the title",
+    "options": ["Sundiata", "monarch", "musa", "mansa"],
+    "answer": "mansa"
   },
   {
-    "question": "The headquarters of United Nations is located in.",
-    "options": [
-      "Abuja",
-      "England",
-      "Washington",
-      "New York"
-    ],
-    "answer": "New York"
+    "question": "One of these territories was also conquered by Sundiata Kieta besides the Ghana empire.",
+    "options": ["Wangawaras", "Timbuktu", "malinke", "susu"],
+    "answer": "susu"
   },
   {
-    "question": "One advantage of bi-cameral legislature is that it",
-    "options": [
-      "guards against intra-party clashes",
-      "is the only system available",
-      "prevents arbitrary law making",
-      "projects party manifestoes"
-    ],
-    "answer": "prevents arbitrary law making"
+    "question": "One of these factors influenced the farming and trade aspect of the ancient Ghana empire.",
+    "options": ["The Soninke allowed few people to trade and everyone to farm", "The Soninke allowed only its citizen to trade and not farm", "The Soninke never allowed non-citizen to trade but only farm", "The Soninke established a farm market that allowed people to sell and farm"],
+    "answer": "The Soninke established a farm market that allowed people to sell and farm"
   },
   {
-    "question": "Koffi Annan was the former secretary-general of",
-    "options": [
-      "African Union (AU)",
-      "Common Wealth of Nations",
-      "European Union",
-      "United Nations (UN)"
-    ],
-    "answer": "United Nations (UN)"
+    "question": "Which one of these currencies were mainly accepted in most of the ancient west African markets?",
+    "options": ["cash", "Manila", "gold", "cowries shell"],
+    "answer": "cowries shell"
   },
   {
-    "question": "HIV/AIDS is generally described as terminal in nature because it is",
-    "options": ["preventable", "Transmittable", "avertable", "incurable"],
-    "answer": "incurable"
+    "question": "Availability of strong armies ensured the Soninke kept their people, empire and which of the following safe?",
+    "options": ["empire", "Trade route", "Market", "Border"],
+    "answer": "Trade route"
   },
   {
-    "question": "Rates are collected in Nigeria by",
-    "options": ["federal inland revenue service", "state ministry of finance", "local government council", "council of traditional rulers"],
-    "answer": "local government council"
+    "question": "The Soninke people were originally farmers who got united to",
+    "options": ["wave war", "Protect trade route", "Create trade route", "Trade"],
+    "answer": "Protect trade route"
   },
   {
-    "question": "Which of the following is not an example of orderliness?",
-    "options": ["Listening skill", "Driving skill", "Decorum", "Deviance"],
-    "answer": "Deviance"
+    "question": "Which of the following groups had no centralized government in pre-colonial Nigeria?",
+    "options": ["Yoruba", "Igala", "Ijaw", "Hausa"],
+    "answer": "Ijaw"
   },
   {
-    "question": "Preventive measures of HIV/AIDS do not include",
-    "options": ["abstinence", "Screening of blood before transfusion", "use of barrier methods", "stigmatization of victims"],
-    "answer": "stigmatization of victims"
+    "question": "One of these made the Soninke agricultural trade easier?",
+    "options": ["Trade by sales", "Trade by batá", "Trade by barta", "Trade by barter"],
+    "answer": "Trade by barter"
   },
   {
-    "question": "Democracy thrives most where there is",
-    "options": ["non-partisan judiciary", "freedom of speech and association", "absence of universal suffrage", "one – party system"],
-    "answer": "non-partisan judiciary"
+    "question": "One of these led to the growth and development of the Soninke people?",
+    "options": ["Presence of land", "Presence of large market", "Presence of trade route", "Presence of mineral resources"],
+    "answer": "Presence of trade route"
   },
   {
-    "question": "Which of the following is not a form of political participation?",
-    "options": ["Taking part in voters’ registration exercise", "Voting during election", "Joining political party", "Ballot box stuffing during election"],
-    "answer": "Ballot box stuffing during election"
+    "question": "Which one of the following influenced the economic stability of the ancient Ghana Empire?",
+    "options": ["Farming", "War", "Trade route", "Trade"],
+    "answer": "Trade"
   },
   {
-    "question": "People living with HIV/AIDS (PLWHA) can be supported by",
-    "options": ["billing them for antiretroviral therapy", "providing drugs for them at subsidized rates", "providing special attires for them", "providing accommodation for them in designated locations"],
-    "answer": "providing drugs for them at subsidized rates"
+    "question": "The geography of the ancient Ghana Empire was influenced by which of the following.",
+    "options": ["Trade route", "Cattle rearing and travels", "Hunting and transportation", "Option A to D"],
+    "answer": "Option A to D"
   },
   {
-    "question": "The general attitude of government and society towards cultism is that of",
-    "options": ["Affection", "sympathy", "Abhorrence", "Support"],
-    "answer": "Abhorrence"
+    "question": "These three factors “the Sahara” the savanna” and the rainforest” contributed to which one of the followings in the ancient Ghana empire",
+    "options": ["Success and trade only", "Success and growth only", "Success, growth of agriculture and farming", "Success of growth, agriculture, transportation and trade"],
+    "answer": "Success of growth, agriculture, transportation and trade"
   },
   {
-    "question": "The status of being a legal member of a country is referred to as",
-    "options": ["alien", "asylum", "citizenship", "Migrant"],
-    "answer": "citizenship"
+    "question": "The acceptance of Islam led to which one of the followings in the ancient Ghana Empire?",
+    "options": ["War", "Invasion by the enemy", "Enforced army", "Literacy"],
+    "answer": "Literacy"
   },
   {
-    "question": "The standards that are considered ethical by an individual or the society are known as",
-    "options": ["Dignity", "Rights", "values", "materialism"],
-    "answer": "values"
+    "question": "One of the reasons for the acceptance of Islam by the people of the ancient Ghana empire was to",
+    "options": ["To facilitate easy invasion", "To create more literacy", "To reinforce the army strength", "To foster trade relation"],
+    "answer": "To foster trade relation"
   },
   {
-    "question": "Which of the following is not a symptom of HIV/AIDS?",
-    "options": ["Loss of appetite and weight", "Unexplained feverish condition", "Infections that often resist treatment", "Systematic growth of the body"],
-    "answer": "Systematic growth of the body"
+    "question": "The ancient Ghana was the first of which of these empires?",
+    "options": ["Madonic", "Sudanic", "Western", "Northern"],
+    "answer": "Sudanic"
   },
   {
-    "question": "Which of the following is not a skill for practical living?",
-    "options": ["Life coping skill", "Manipulative skill", "Artistic skill", "Cybercrime skill"],
-    "answer": "Cybercrime skill"
+    "question": "Which one of these played a major role in the rise of the ancient Ghana empire?",
+    "options": ["Geography and location", "Option a and d", "Mineral resources", "Farming and agriculture"],
+    "answer": "Option a and d"
   },
   {
-    "question": "Which of the following is not a reason for self-reliance?",
-    "options": ["Creation of employment opportunities", "Innovation and creativity", "Diversification of the economy", "Quest for white collar jobs"],
-    "answer": "Quest for white collar jobs"
+    "question": "During the reign of mansa musa, Timbuktu became a great Centre of economic and",
+    "options": ["administration", "Agriculture", "Bronze casting", "Craft making"],
+    "answer": "administration"
   },
   {
-    "question": "The notion of perceiving the involvement of people in politics as devilish connotes political",
-    "options": ["Demonization", "apathy", "degeneration", "misconduct"],
-    "answer": "apathy"
+    "question": "The official language of Mali Empire was",
+    "options": ["Fulfulde", "Mandinka", "Soninke", "Dogon"],
+    "answer": "Mandinka"
   },
   {
-    "question": "In a democracy, official opposition is allowed to",
-    "options": ["bring down the government", "pave way for military intervention", "make government accountable", "encourage crisis in a state"],
-    "answer": "make government accountable"
+    "question": "Which of the following was not a factor that contributes to the rise of Mali Empire?",
+    "options": ["Adoption of Islam", "Support from KanemBornu", "Geography and location", "Favorable political situation"],
+    "answer": "Support from KanemBornu"
   },
   {
-    "question": "The following are effects of political apathy except that it",
-    "options": ["affects the quality of lives", "leads to the enthronement of irresponsible leaders", "promotes free and fair elections", "ensures non-availability of dividends of democracy"],
-    "answer": "promotes free and fair elections"
+    "question": "Sundiata Keita of Mali was succeeded by mansa",
+    "options": ["Khalifa", "Musa", "Sakura", "Wali"],
+    "answer": "Musa"
   },
   {
-    "question": "Which of the following is the best way through which citizens can participate in the politics of their country?",
-    "options": ["Acquisition of higher degree in political science", "Standing for elective positions", "Learning the arts and science of political sagacity", "Undergoing mentorship under prominent political leaders"],
-    "answer": "Standing for elective positions"
+    "question": "The following contributed to the decline and fall of Mali empire except the",
+    "options": ["Emergence of incompetent ruler", "Attack from the Portuguese", "Expansion of the empire without effective control", "Revolt from vassal states"],
+    "answer": "Attack from the Portuguese"
   },
   {
-    "question": "A programme established to foster common ties among Nigerians is",
-    "options": ["subsidy re-investment programme (Sure-P)", "Universal Basic Education", "National Youth Service Corps (NYSC)", "Boy’s scout"],
-    "answer": "National Youth Service Corps (NYSC)"
+    "question": "Which of the following was the last to emerge in the western Sudan?",
+    "options": ["Oyo", "Songhai", "Ghana", "Mali"],
+    "answer": "Songhai"
   },
   {
-    "question": "The universal declaration of human rights (UDHR) was adopted by",
-    "options": ["Economic Community of West African States (ECOWAS)", "United Nations Organization (UNO)", "African Union", "European Union"],
-    "answer": "United Nations Organization (UNO)"
+    "question": "Songhai empire was established by?",
+    "options": ["Askia ishaq", "Sunni Ali", "Mohammed toure", "Askia musa"],
+    "answer": "Sunni Ali"
   },
   {
-    "question": "A father that effectively discharges his duty towards his children could be described as a",
-    "options": ["philanthropist", "celebrity", "responsible parent", "permissive father"],
-    "answer": "responsible parent"
+    "question": "The main source of wealth and revenue for the Mali Empire was",
+    "options": ["Agriculture", "Gold mining", "Salt making", "Trading"],
+    "answer": "Trading"
   },
   {
-    "question": "The saying “ask for what you can do for your country and not what your country can do for you” denotes that",
-    "options": [
-      "the country owes you no obligation as a citizen",
-      "citizens have both constitutional rights and obligations",
-      "fundamental rights are to be safeguarded by citizens",
-      "service and reward do not go together"
-    ],
-    "answer": "citizens have both constitutional rights and obligations"
+    "question": "One of the mansas of ancient Mali Empire that lost hold of his territory was",
+    "options": ["Sumaro kante", "Mansa Ismail", "Mansa musa", "Mama Maghan"],
+    "answer": "Mama Maghan"
   },
   {
-    "question": "Which of these is not a form of stigmatization?",
-    "options": [
-      "Refusal to interact with family of an HIV patient",
-      "Physical and verbal abuse of HIV/AIDS patient",
-      "Ostracizing HIV patient",
-      "Enlightening people living with HIV/AIDS"
-    ],
-    "answer": "Enlightening people living with HIV/AIDS"
+    "question": "Before her final collapse, the Songhai empire was ruled by —— dynasties",
+    "options": ["Three", "Four", "Two", "One"],
+    "answer": "Two"
   },
   {
-    "question": "One of these is a major attribute of honesty",
-    "options": ["tolerance", "justice", "compromise", "liberty"],
-    "answer": "justice"
+    "question": "During the reign of sonni Ali, the capital of Songhai Empire was",
+    "options": ["DJenne", "Niani", "Gao", "Timbuktu"],
+    "answer": "Gao"
   },
   {
-    "question": "Discipline is described as the",
-    "options": [
-      "ability to show hospitality",
-      "state or quality of being brave",
-      "tendency to fight",
-      "ability to behave in a controlled manner"
-    ],
-    "answer": "ability to behave in a controlled manner"
+    "question": "The final collapse of the Songhai Empire was as a result of",
+    "options": ["Absence of a ruler", "Civil war within the state", "Invasion of the empire by Moroccan army", "Rebellion from vassal states"],
+    "answer": "Invasion of the empire by Moroccan army"
   },
   {
-    "question": "Which of the following may prevent a citizen from voting in a general election?",
-    "options": [
-      "Lack of stable income",
-      "High cost of living",
-      "Non-registration",
-      "Political neutrality"
-    ],
-    "answer": "Non-registration"
+    "question": "In order to ensure effective administrative control, Mohammed Touré divided the empire into —— provinces",
+    "options": ["four", "Six", "five", "eight"],
+    "answer": "eight"
   },
   {
-    "question": "The United Nations universal declaration on human rights was proposed in the year",
-    "options": ["1925", "1930", "1946", "1948"],
-    "answer": "1948"
+    "question": "During the reign of Sonni Ali, the prime minister of Songhai Empire was",
+    "options": ["Askia Daoud", "Sonni Baru", "Mohammed Toure", "Askia Ishaq"],
+    "answer": "Sonni Baru"
   },
   {
-    "question": "Fundamental rights are literally the rights that one can enjoy because one is",
-    "options": ["an individual", "a human being", "a citizen", "an educated elite"],
-    "answer": "a human being"
+    "question": "The saifawa dynasty ruled in",
+    "options": ["Benin", "Mali", "KanemBornu", "Ghana"],
+    "answer": "KanemBornu"
   },
   {
-    "question": "Which of the following is a way of achieving responsible parenthood?",
-    "options": ["Commitment", "Patriotism", "Favouritism", "Goodness"],
-    "answer": "Commitment"
+    "question": "The expansion and development of Kanem Bornu as a centralized state was as a result of the introduction of",
+    "options": ["Islam", "Powerful ruler", "Caravan trade", "War tactics"],
+    "answer": "Islam"
   },
   {
-    "question": "The inability of citizens of a country to freely elect their leaders is a threat to",
-    "options": ["federalism", "totalitarianism", "oligarchy", "democracy"],
-    "answer": "democracy"
+    "question": "Which of the Yoruba towns in pre-colonial Nigeria had no standing army?",
+    "options": ["Ekiti", "Oyo", "Egba", "Ife"],
+    "answer": "Ife"
   },
   {
-    "question": "Being faithful in marriage can greatly assist to prevent",
-    "options": ["unhealthy growth", "extravagancy", "hatred", "HIV infection"],
-    "answer": "HIV infection"
+    "question": "The smallest socio-political unit in pre-colonial Igbo society was the",
+    "options": ["Lineage assembly", "Sub lineage", "Household", "Village group"],
+    "answer": "Household"
   }
 ]
 
