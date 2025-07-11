@@ -1,553 +1,373 @@
 [
   {
-    "number": 1,
-    "question": "What did the first servant do with his talent in the parable of the talent?",
+    "question": "Which of the following is an obligation of a citizen?",
     "options": [
-      "dug the ground and buried his own",
-      "traded with it",
-      "gave it back to his master",
-      "took it to the bank"
+      "Adjudicating cases",
+      "Arresting offenders",
+      "Voting during elections",
+      "Making laws for the nation"
     ],
-    "answer": "traded with it"
+    "answer": "Voting during elections"
   },
   {
-    "number": 2,
-    "question": "What happened to Jesus Christ immediately after the baptism, according to Matthew’s account?",
+    "question": "The green colour in the traffic light indicates",
     "options": [
-      "Cried “Abba Father”",
-      "Saw the heaven open and the spirit of God descending like a dove",
-      "Went up from the water and glorified God",
-      "Went up from the water and preached to the people"
+      "be fast",
+      "get ready",
+      "go",
+      "slow down"
     ],
-    "answer": "Saw the heaven open and the spirit of God descending like a dove"
+    "answer": "go"
   },
   {
-    "number": 3,
-    "question": "Which of the disciples stated that Jesus directed His disciples to untie a colt with which He entered Jerusalem?",
+    "question": "The headquarters of ECOWAS is located in",
     "options": [
-      "Mark and Matthew",
-      "Matthew and Luke",
-      "Luke and Mark",
-      "Matthew and Acts"
+      "Abuja",
+      "Accra",
+      "Addis-Ababa",
+      "Lome"
     ],
-    "answer": "Matthew and Luke"
+    "answer": "Abuja"
   },
   {
-    "number": 4,
-    "question": "From where did Jesus send His disciples to go into the village to bring the ass and the colt?",
+    "question": "The public service is a branch of the _____ arm of government.",
     "options": [
-      "Bethany",
-      "Bethel",
-      "Bethlehem",
-      "Bethphage"
+      "Civilian",
+      "Executive",
+      "legislature",
+      "military"
     ],
-    "answer": "Bethphage"
+    "answer": "Executive"
   },
   {
-    "number": 5,
-    "question": "Which of these people recorded that the triumphant entry was the fulfillment of the prophecy?",
+    "question": "When the national flag is flown half mast, it is a sign of national",
     "options": [
-      "Matthew",
-      "Luke",
-      "Mark",
-      "John"
+      "centenary",
+      "children’s day",
+      "Independence",
+      "mourning"
     ],
-    "answer": "John"
+    "answer": "mourning"
   },
   {
-    "number": 6,
-    "question": "Which of these people did Jesus Christ overturn their tables and seats when He found them selling in the temple?",
+    "question": "Which of these is not a system of government?",
     "options": [
-      "Dove-sellers and money-changers",
-      "Pigeon-changers and money-doublers",
-      "Money-changers and pigeon-sellers",
-      "Money-doublers and dove seller"
+      "Anarchy",
+      "Monarchy",
+      "Oligarchy",
+      "Socialism"
     ],
-    "answer": "Dove-sellers and money-changers"
+    "answer": "Anarchy"
   },
   {
-    "number": 7,
-    "question": "Where did Jesus Christ lodge after the cleansing of the temple at Jerusalem?",
+    "question": "The structure of the Nigerian legislature is _____ in nature.",
     "options": [
-      "Canaan",
-      "Bethany",
-      "Bethel",
-      "Nazareth"
+      "Bicameral",
+      "confederal",
+      "federal",
+      "Unicameral"
     ],
-    "answer": "Bethany"
+    "answer": "Bicameral"
   },
   {
-    "number": 8,
-    "question": "“Today, you will be with me in paradise”. When did Jesus make the above statement?",
+    "question": "The upper legislative chamber of the national Assembly of Nigeria is also known as the",
     "options": [
-      "Ascension",
-      "Crucifixion",
-      "Resurrection",
-      "Passover"
+      "honorable",
+      "house of commons",
+      "senate",
+      "house of representatives"
     ],
-    "answer": "Crucifixion"
+    "answer": "senate"
   },
   {
-    "number": 9,
-    "question": "Who among these people presided over the final trial of Jesus Christ?",
+    "question": "The public service structure of Nigeria is an offshoot of",
     "options": [
-      "Pilate",
-      "Caiaphas",
-      "Herod",
-      "The high priest"
+      "America",
+      "British",
+      "Canada",
+      "Japan"
     ],
-    "answer": "Pilate"
+    "answer": "British"
   },
   {
-    "number": 10,
-    "question": "“My father, if it be possible, let this cup pass from me…..” What is the significance of the cup in the above statement?",
+    "question": "Public complaints commission in Nigeria is also known as",
     "options": [
-      "Trial",
-      "Death",
-      "Judgement",
-      "Suffering"
+      "elder’s forum",
+      "judiciary",
+      "ombudsman",
+      "people’s court"
     ],
-    "answer": "Suffering"
+    "answer": "ombudsman"
   },
   {
-    "number": 11,
-    "question": "Where was Jesus arrested?",
+    "question": "The land in contention between Nigeria and Cameroun is called",
     "options": [
-      "last supper",
-      "Garden of Eden",
-      "upper room",
-      "Garden of Gethsemane"
+      "Bakassi Peninsula",
+      "Bonny Island",
+      "Calabar river",
+      "Lekki Peninsula"
     ],
-    "answer": "Garden of Gethsemane"
+    "answer": "Bakassi Peninsula"
   },
   {
-    "number": 12,
-    "question": "How many time(s) did Jesus return to His disciples and met them asleep before His arrest?",
+    "question": "Human rights abuse can be prevented through the following except",
     "options": [
-      "Three",
-      "Two",
-      "Four",
-      "Once"
+      "constitutional means",
+      "court of law",
+      "mass literacy",
+      "Protest"
     ],
-    "answer": "Three"
+    "answer": "Protest"
   },
   {
-    "number": 13,
-    "question": "Where was Jesus Christ taken to immediately after His arrest?",
+    "question": "Citizens can be deprived of their rights during",
     "options": [
-      "Herod",
-      "Pontus Pilate",
-      "Chief priest",
-      "Caiaphas"
+      "democratic regime",
+      "emergency rule",
+      "parliamentary debate",
+      "political campaign"
     ],
-    "answer": "Caiaphas"
+    "answer": "emergency rule"
   },
   {
-    "number": 14,
-    "question": "“Behold a virgin shall conceive and bear a son, and his name shall be called Emmanuel.” What is the meaning of Emmanuel, according to Matthew’s gospel?",
+    "question": "The ideal means of transferring power into authority is through",
     "options": [
-      "God is great",
-      "God is with us",
-      "Mighty God",
-      "Prince of peace"
+      "force",
+      "Influence",
+      "legitimacy",
+      "Prayers"
     ],
-    "answer": "God is with us"
+    "answer": "legitimacy"
   },
   {
-    "number": 15,
-    "question": "What did the gift of Gold by the Wisemen represent?",
+    "question": "The symbol for the campaign against AIDS is ____ ribbon.",
     "options": [
-      "Divinity",
-      "Humanity",
-      "Humility",
-      "Royalty"
+      "black",
+      "blue",
+      "green",
+      "Red"
     ],
-    "answer": "Royalty"
+    "answer": "Red"
   },
   {
-    "number": 16,
-    "question": "What is the significance of the birth of Jesus Christ? The birth of Jesus Christ is seen as a fulfillment of God’s promise of a _____ by prophet Isaiah.",
+    "question": "How many senator(s) represent the federal capital territory in the senate?",
     "options": [
-      "Messiah",
-      "deliverer",
-      "redeemer",
-      "priest"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": "Messiah"
+    "answer": "1"
   },
   {
-    "number": 17,
-    "question": "What was the food of John the Baptist who wore a garment of camel’s hair and a leather girdle?",
+    "question": "The international court of justice is located in",
     "options": [
-      "Bread and fish",
-      "Honey and fish",
-      "Wild locusts and fish",
-      "Honey and wild locusts"
+      "Britain",
+      "Netherlands",
+      "Nigeria",
+      "Norway"
     ],
-    "answer": "Honey and wild locusts"
+    "answer": "Netherlands"
   },
   {
-    "number": 18,
-    "question": "Who were the other pair of disciples Jesus called after Simon Peter and Andrew?",
+    "question": "The headquarters of United Nations is located in.",
     "options": [
-      "James and John",
-      "Thomas and Philip",
-      "Bartholomew and Judas",
-      "Matthew and Mark"
+      "Abuja",
+      "England",
+      "Washington",
+      "New York"
     ],
-    "answer": "James and John"
+    "answer": "New York"
   },
   {
-    "number": 19,
-    "question": "What would Jesus Christ use to baptize people, since John baptized people with water? Holy spirit and",
+    "question": "One advantage of bi-cameral legislature is that it",
     "options": [
-      "power",
-      "dove",
-      "oil",
-      "fire"
+      "guards against intra-party clashes",
+      "is the only system available",
+      "prevents arbitrary law making",
+      "projects party manifestoes"
     ],
-    "answer": "fire"
+    "answer": "prevents arbitrary law making"
   },
   {
-    "number": 20,
-    "question": "How many days did Jesus Christ fast in the wilderness before He was tempted by the devil?",
+    "question": "Koffi Annan was the former secretary-general of",
     "options": [
-      "Twenty",
-      "Thirty",
-      "Forty",
-      "Fifty"
+      "African Union (AU)",
+      "Common Wealth of Nations",
+      "European Union",
+      "United Nations (UN)"
     ],
-    "answer": "Forty"
+    "answer": "United Nations (UN)"
   },
   {
-    "number": 21,
-    "question": "What is the major weapon for overcoming temptation and sin for Christians in the world today?",
-    "options": [
-      "Kindness",
-      "Unity",
-      "Prayer",
-      "Happiness"
-    ],
-    "answer": "Prayer"
+    "question": "HIV/AIDS is generally described as terminal in nature because it is",
+    "options": ["preventable", "Transmittable", "avertable", "incurable"],
+    "answer": "incurable"
   },
   {
-    "number": 22,
-    "question": "Why was Jesus Christ successful in overcoming the three temptations? Because",
-    "options": [
-      "He got help from God Almighty",
-      "The Holy Spirit was there to guide Him",
-      "He knew how to talk to the devil",
-      "He had already been baptized"
-    ],
-    "answer": "The Holy Spirit was there to guide Him"
+    "question": "Rates are collected in Nigeria by",
+    "options": ["federal inland revenue service", "state ministry of finance", "local government council", "council of traditional rulers"],
+    "answer": "local government council"
   },
   {
-    "number": 23,
-    "question": "Which of these is the greatest commandment taught by Jesus Christ?",
-    "options": [
-      "Faithfulness",
-      "Goodness",
-      "Love",
-      "Peace"
-    ],
-    "answer": "Love"
+    "question": "Which of the following is not an example of orderliness?",
+    "options": ["Listening skill", "Driving skill", "Decorum", "Deviance"],
+    "answer": "Deviance"
   },
   {
-    "number": 24,
-    "question": "Which of these is the corresponding reward for the acquisition and practice of this virtue, “Blessed are the poor in spirit”? For",
-    "options": [
-      "theirs is the kingdom of heaven",
-      "they shall inherit the earth",
-      "they shall be called sons of God",
-      "they shall see God"
-    ],
-    "answer": "theirs is the kingdom of heaven"
+    "question": "Preventive measures of HIV/AIDS do not include",
+    "options": ["abstinence", "Screening of blood before transfusion", "use of barrier methods", "stigmatization of victims"],
+    "answer": "stigmatization of victims"
   },
   {
-    "number": 25,
-    "question": "One of these is the reward for those who are pure in heart according to the Sermon on the Mount",
-    "options": [
-      "theirs is the kingdom of heaven",
-      "they shall inherit the earth",
-      "they shall be called sons of God",
-      "they shall see God"
-    ],
-    "answer": "they shall see God"
+    "question": "Democracy thrives most where there is",
+    "options": ["non-partisan judiciary", "freedom of speech and association", "absence of universal suffrage", "one – party system"],
+    "answer": "non-partisan judiciary"
   },
   {
-    "number": 26,
-    "question": "How many men (people) did Jesus Christ feed with five loaves of bread and two fish?",
-    "options": [
-      "Five thousand",
-      "Four thousand",
-      "Three thousand",
-      "Two thousand"
-    ],
-    "answer": "Five thousand"
+    "question": "Which of the following is not a form of political participation?",
+    "options": ["Taking part in voters’ registration exercise", "Voting during election", "Joining political party", "Ballot box stuffing during election"],
+    "answer": "Ballot box stuffing during election"
   },
   {
-    "number": 27,
-    "question": "In whose house was Jesus Christ when He was seen eating and drinking with tax collectors?",
-    "options": [
-      "Peter",
-      "Matthew",
-      "James and John",
-      "Thomas"
-    ],
-    "answer": "Matthew"
+    "question": "People living with HIV/AIDS (PLWHA) can be supported by",
+    "options": ["billing them for antiretroviral therapy", "providing drugs for them at subsidized rates", "providing special attires for them", "providing accommodation for them in designated locations"],
+    "answer": "providing drugs for them at subsidized rates"
   },
   {
-    "number": 28,
-    "question": "What is the significance of Jesus riding on an ass during His triumphant entry into Jerusalem? He is",
-    "options": [
-      "a king",
-      "a humble messiah",
-      "the conquering messiah",
-      "the conquering king"
-    ],
-    "answer": "a humble messiah"
+    "question": "The general attitude of government and society towards cultism is that of",
+    "options": ["Affection", "sympathy", "Abhorrence", "Support"],
+    "answer": "Abhorrence"
   },
   {
-    "number": 29,
-    "question": "What was the meaning of Jesus Christ statement that He would destroy the temple and rebuild it in three days? It means that He",
-    "options": [
-      "was angry and decided to make that comment",
-      "will bring foreign materials to build the house of God",
-      "will die and resurrect on the third day",
-      "will hire labourers to build the temple in three days"
-    ],
-    "answer": "will die and resurrect on the third day"
+    "question": "The status of being a legal member of a country is referred to as",
+    "options": ["alien", "asylum", "citizenship", "Migrant"],
+    "answer": "citizenship"
   },
   {
-    "number": 30,
-    "question": "How many disciples did Jesus send to collect the ass and colt with which He made the triumphant entry into Jerusalem?",
-    "options": [
-      "Five",
-      "Four",
-      "Three",
-      "Two"
-    ],
-    "answer": "Two"
+    "question": "The standards that are considered ethical by an individual or the society are known as",
+    "options": ["Dignity", "Rights", "values", "materialism"],
+    "answer": "values"
   },
   {
-    "number": 31,
-    "question": "“I adjure you by the living God, tell us if you are the Christ, the Son of God”. Who made the above statement?",
-    "options": [
-      "Pontus Pilate",
-      "Herod",
-      "Caiaphas",
-      "High priest"
-    ],
-    "answer": "High priest"
+    "question": "Which of the following is not a symptom of HIV/AIDS?",
+    "options": ["Loss of appetite and weight", "Unexplained feverish condition", "Infections that often resist treatment", "Systematic growth of the body"],
+    "answer": "Systematic growth of the body"
   },
   {
-    "number": 32,
-    "question": "What was Jesus reply to the statement above?",
-    "options": [
-      "“You have said so”",
-      "“You will not believe even if I say so”",
-      "“I am whom you say I am”",
-      "“You have said so you will see the son of man seated at the right hand of power and coming on the clouds of heaven”"
-    ],
-    "answer": "“You have said so you will see the son of man seated at the right hand of power and coming on the clouds of heaven”"
+    "question": "Which of the following is not a skill for practical living?",
+    "options": ["Life coping skill", "Manipulative skill", "Artistic skill", "Cybercrime skill"],
+    "answer": "Cybercrime skill"
   },
   {
-    "number": 33,
-    "question": "Who was the third and the last person that identified Peter as one of Jesus disciples but he denied it and immediately the cock crowed?",
-    "options": [
-      "A bystanders",
-      "Maids",
-      "A woman",
-      "A soldier"
-    ],
-    "answer": "A soldier"
+    "question": "Which of the following is not a reason for self-reliance?",
+    "options": ["Creation of employment opportunities", "Innovation and creativity", "Diversification of the economy", "Quest for white collar jobs"],
+    "answer": "Quest for white collar jobs"
   },
   {
-    "number": 34,
-    "question": "“Are you the king of the Jews?” Who made the above statement?",
-    "options": [
-      "Pilate",
-      "Herod",
-      "Caiaphas",
-      "The chief priest"
-    ],
-    "answer": "Pilate"
+    "question": "The notion of perceiving the involvement of people in politics as devilish connotes political",
+    "options": ["Demonization", "apathy", "degeneration", "misconduct"],
+    "answer": "apathy"
   },
   {
-    "number": 35,
-    "question": "Who did the people request to be released instead of Jesus Christ whom they maintained should be crucified?",
-    "options": [
-      "Barabbas",
-      "Basabbas",
-      "Barnabas",
-      "Barsabas"
-    ],
-    "answer": "Barabbas"
+    "question": "In a democracy, official opposition is allowed to",
+    "options": ["bring down the government", "pave way for military intervention", "make government accountable", "encourage crisis in a state"],
+    "answer": "make government accountable"
   },
   {
-    "number": 36,
-    "question": "Pilate sent Jesus Christ to Herod for trial because",
-    "options": [
-      "Pilate had no power to condemn Jesus Christ to death",
-      "His wife warned him not to have anything to do with Jesus",
-      "Jesus was a Galilean and under the jurisdiction of Herod",
-      "Pilate found no reason to condemn Jesus Christ"
-    ],
-    "answer": "Jesus was a Galilean and under the jurisdiction of Herod"
+    "question": "The following are effects of political apathy except that it",
+    "options": ["affects the quality of lives", "leads to the enthronement of irresponsible leaders", "promotes free and fair elections", "ensures non-availability of dividends of democracy"],
+    "answer": "promotes free and fair elections"
   },
   {
-    "number": 37,
-    "question": "How did Pilate’s wife describe Jesus Christ?",
-    "options": [
-      "Good man",
-      "Holy man",
-      "Righteous man",
-      "Guiltless man"
-    ],
-    "answer": "Righteous man"
+    "question": "Which of the following is the best way through which citizens can participate in the politics of their country?",
+    "options": ["Acquisition of higher degree in political science", "Standing for elective positions", "Learning the arts and science of political sagacity", "Undergoing mentorship under prominent political leaders"],
+    "answer": "Standing for elective positions"
   },
   {
-    "number": 38,
-    "question": "Who was compelled to carry the cross of Jesus Christ?",
-    "options": [
-      "Simon of Syrene",
-      "Simeon of Cyrene",
-      "Simeon of Syrene",
-      "Simon of Cyrene"
-    ],
-    "answer": "Simon of Cyrene"
+    "question": "A programme established to foster common ties among Nigerians is",
+    "options": ["subsidy re-investment programme (Sure-P)", "Universal Basic Education", "National Youth Service Corps (NYSC)", "Boy’s scout"],
+    "answer": "National Youth Service Corps (NYSC)"
   },
   {
-    "number": 39,
-    "question": "What is the meaning of Golgotha?",
-    "options": [
-      "A place of skull",
-      "A crucifixion ground",
-      "A place of death",
-      "A place of crucifixion"
-    ],
-    "answer": "A place of skull"
+    "question": "The universal declaration of human rights (UDHR) was adopted by",
+    "options": ["Economic Community of West African States (ECOWAS)", "United Nations Organization (UNO)", "African Union", "European Union"],
+    "answer": "United Nations Organization (UNO)"
   },
   {
-    "number": 40,
-    "question": "What was the inscription written on the cross of Jesus Christ?",
-    "options": [
-      "“This is the king of the Jews”",
-      "“This is the son of God”",
-      "“This is Jesus, the king of the Jews”",
-      "“Jesus, the king of the Jews”"
-    ],
-    "answer": "“This is Jesus, the king of the Jews”"
+    "question": "A father that effectively discharges his duty towards his children could be described as a",
+    "options": ["philanthropist", "celebrity", "responsible parent", "permissive father"],
+    "answer": "responsible parent"
   },
   {
-    "number": 41,
-    "question": "What is the meaning of ‘Eli, Eli la’masabach-thani’?",
+    "question": "The saying “ask for what you can do for your country and not what your country can do for you” denotes that",
     "options": [
-      "Lord Jesus do not hold this sin against them",
-      "My Lord, my Lord, do not hold this sin against them",
-      "My God, my God, why has thou forsaken me",
-      "My God, my God, do not hold this sin against them"
+      "the country owes you no obligation as a citizen",
+      "citizens have both constitutional rights and obligations",
+      "fundamental rights are to be safeguarded by citizens",
+      "service and reward do not go together"
     ],
-    "answer": "My God, my God, why has thou forsaken me"
+    "answer": "citizens have both constitutional rights and obligations"
   },
   {
-    "number": 42,
-    "question": "At what hour did Jesus Christ die?",
+    "question": "Which of these is not a form of stigmatization?",
     "options": [
-      "12th hour",
-      "6th hour",
-      "3rd hour",
-      "9th hour"
+      "Refusal to interact with family of an HIV patient",
+      "Physical and verbal abuse of HIV/AIDS patient",
+      "Ostracizing HIV patient",
+      "Enlightening people living with HIV/AIDS"
     ],
-    "answer": "9th hour"
+    "answer": "Enlightening people living with HIV/AIDS"
   },
   {
-    "number": 43,
-    "question": "One of these did not take place when Jesus Christ breathed His last (died)",
-    "options": [
-      "the curtain of the temple was torn in two from top to bottom",
-      "there was a terrible earthquake",
-      "tombs were opened and many dead saints were raised",
-      "there was wailing in Jerusalem"
-    ],
-    "answer": "there was wailing in Jerusalem"
+    "question": "One of these is a major attribute of honesty",
+    "options": ["tolerance", "justice", "compromise", "liberty"],
+    "answer": "justice"
   },
   {
-    "number": 44,
-    "question": "“Truly, this was the son of God”. Who made the above statement?",
+    "question": "Discipline is described as the",
     "options": [
-      "The Centurion",
-      "The Apostles",
-      "The Scribe",
-      "The woman"
+      "ability to show hospitality",
+      "state or quality of being brave",
+      "tendency to fight",
+      "ability to behave in a controlled manner"
     ],
-    "answer": "The Centurion"
+    "answer": "ability to behave in a controlled manner"
   },
   {
-    "number": 45,
-    "question": "One of these women did not witness the crucifixion of Jesus Christ",
+    "question": "Which of the following may prevent a citizen from voting in a general election?",
     "options": [
-      "Michah",
-      "Mary Magdalene",
-      "Mary the mother of James and Joseph",
-      "the mother of the sons of Zebedee"
+      "Lack of stable income",
+      "High cost of living",
+      "Non-registration",
+      "Political neutrality"
     ],
-    "answer": "Michah"
+    "answer": "Non-registration"
   },
   {
-    "number": 46,
-    "question": "“Say to the daughter of Zion, behold your king is coming to you, humble and mounted on an ass”. Which of the prophets made the above prophecy about Jesus’ riding on the colt and ass into Jerusalem?",
-    "options": [
-      "Zachariah",
-      "Elijah",
-      "Jeremiah",
-      "Nehemiah"
-    ],
-    "answer": "Zachariah"
+    "question": "The United Nations universal declaration on human rights was proposed in the year",
+    "options": ["1925", "1930", "1946", "1948"],
+    "answer": "1948"
   },
   {
-    "number": 47,
-    "question": "Who among the disciples was not present at the sermon on the mountain?",
-    "options": [
-      "Andrew",
-      "Paul",
-      "John",
-      "Matthew"
-    ],
-    "answer": "Paul"
+    "question": "Fundamental rights are literally the rights that one can enjoy because one is",
+    "options": ["an individual", "a human being", "a citizen", "an educated elite"],
+    "answer": "a human being"
   },
   {
-    "number": 48,
-    "question": "What did Judas Iscariot do after he had betrayed Jesus Christ?",
-    "options": [
-      "Adultery",
-      "Idolatry",
-      "Arson",
-      "Suicide"
-    ],
-    "answer": "Suicide"
+    "question": "Which of the following is a way of achieving responsible parenthood?",
+    "options": ["Commitment", "Patriotism", "Favouritism", "Goodness"],
+    "answer": "Commitment"
   },
   {
-    "number": 49,
-    "question": "Who among the disciples promised to be with Jesus Christ to the very end?",
-    "options": [
-      "Andrew",
-      "James",
-      "John",
-      "Simon Peter"
-    ],
-    "answer": "Simon Peter"
+    "question": "The inability of citizens of a country to freely elect their leaders is a threat to",
+    "options": ["federalism", "totalitarianism", "oligarchy", "democracy"],
+    "answer": "democracy"
   },
   {
-    "number": 50,
-    "question": "What happened to Zachariah after the angel had spoken to him concerning the birth of John the Baptist? He became",
-    "options": [
-      "confused",
-      "blind",
-      "deaf",
-      "dumb"
-    ],
-    "answer": "dumb"
+    "question": "Being faithful in marriage can greatly assist to prevent",
+    "options": ["unhealthy growth", "extravagancy", "hatred", "HIV infection"],
+    "answer": "HIV infection"
   }
 ]
 
