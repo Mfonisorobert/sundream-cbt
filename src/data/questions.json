@@ -1,302 +1,554 @@
 [
   {
     "number": 1,
-    "question": "Biology is the study of",
-    "options": ["plants", "animals", "Lithosphere", "Living things"],
-    "answer": "Living things"
+    "question": "What did the first servant do with his talent in the parable of the talent?",
+    "options": [
+      "dug the ground and buried his own",
+      "traded with it",
+      "gave it back to his master",
+      "took it to the bank"
+    ],
+    "answer": "traded with it"
   },
   {
     "number": 2,
-    "question": "Botany is the study of",
-    "options": ["Tissues", "cells", "animals", "Plants"],
-    "answer": "Plants"
+    "question": "What happened to Jesus Christ immediately after the baptism, according to Matthew’s account?",
+    "options": [
+      "Cried “Abba Father”",
+      "Saw the heaven open and the spirit of God descending like a dove",
+      "Went up from the water and glorified God",
+      "Went up from the water and preached to the people"
+    ],
+    "answer": "Saw the heaven open and the spirit of God descending like a dove"
   },
   {
     "number": 3,
-    "question": "One of the following vertebrates live both in water and on land",
-    "options": ["Mammalia", "Aves", "Amphibia", "Reptilia"],
-    "answer": "Amphibia"
+    "question": "Which of the disciples stated that Jesus directed His disciples to untie a colt with which He entered Jerusalem?",
+    "options": [
+      "Mark and Matthew",
+      "Matthew and Luke",
+      "Luke and Mark",
+      "Matthew and Acts"
+    ],
+    "answer": "Matthew and Luke"
   },
   {
     "number": 4,
-    "question": "Which of these does not belong to a taxonomic hierarchy",
-    "options": ["Plantae", "Class", "Kingdom", "species"],
-    "answer": "Plantae"
+    "question": "From where did Jesus send His disciples to go into the village to bring the ass and the colt?",
+    "options": [
+      "Bethany",
+      "Bethel",
+      "Bethlehem",
+      "Bethphage"
+    ],
+    "answer": "Bethphage"
   },
   {
     "number": 5,
-    "question": "One of the following is an insect",
-    "options": ["Spider", "Millipede", "Worm", "housefly"],
-    "answer": "housefly"
+    "question": "Which of these people recorded that the triumphant entry was the fulfillment of the prophecy?",
+    "options": [
+      "Matthew",
+      "Luke",
+      "Mark",
+      "John"
+    ],
+    "answer": "John"
   },
   {
     "number": 6,
-    "question": "Viviparity occurs mostly in",
-    "options": ["Mammals", "Reptiles", "Amphibians", "Aves"],
-    "answer": "Mammals"
+    "question": "Which of these people did Jesus Christ overturn their tables and seats when He found them selling in the temple?",
+    "options": [
+      "Dove-sellers and money-changers",
+      "Pigeon-changers and money-doublers",
+      "Money-changers and pigeon-sellers",
+      "Money-doublers and dove seller"
+    ],
+    "answer": "Dove-sellers and money-changers"
   },
   {
     "number": 7,
-    "question": "Land snail belongs to the phylum",
-    "options": ["Arthropoda", "Mollusca", "Annelid", "Myriapoda"],
-    "answer": "Mollusca"
+    "question": "Where did Jesus Christ lodge after the cleansing of the temple at Jerusalem?",
+    "options": [
+      "Canaan",
+      "Bethany",
+      "Bethel",
+      "Nazareth"
+    ],
+    "answer": "Bethany"
   },
   {
     "number": 8,
-    "question": "Kingdom Plantae is divided into the following except",
-    "options": ["Algaephyta", "Thallophyta", "Bryophyta", "Tracheophyta"],
-    "answer": "Algaephyta"
+    "question": "“Today, you will be with me in paradise”. When did Jesus make the above statement?",
+    "options": [
+      "Ascension",
+      "Crucifixion",
+      "Resurrection",
+      "Passover"
+    ],
+    "answer": "Crucifixion"
   },
   {
     "number": 9,
-    "question": "Which of the following can be referred to as seed bearing plants",
-    "options": ["Pteridophyta", "Bryophyta", "Thallophyta", "Spermatophyta"],
-    "answer": "Spermatophyta"
+    "question": "Who among these people presided over the final trial of Jesus Christ?",
+    "options": [
+      "Pilate",
+      "Caiaphas",
+      "Herod",
+      "The high priest"
+    ],
+    "answer": "Pilate"
   },
   {
     "number": 10,
-    "question": "Organs that perform specific functions are called",
-    "options": ["Organelle", "System", "Cell", "Tissue"],
-    "answer": "Cell"
+    "question": "“My father, if it be possible, let this cup pass from me…..” What is the significance of the cup in the above statement?",
+    "options": [
+      "Trial",
+      "Death",
+      "Judgement",
+      "Suffering"
+    ],
+    "answer": "Suffering"
   },
   {
     "number": 11,
-    "question": "The first biologist to classify living things is",
-    "options": ["Aristotle", "Mathias", "Robert Hooke", "Theordore Schwann"],
-    "answer": "Aristotle"
+    "question": "Where was Jesus arrested?",
+    "options": [
+      "last supper",
+      "Garden of Eden",
+      "upper room",
+      "Garden of Gethsemane"
+    ],
+    "answer": "Garden of Gethsemane"
   },
   {
     "number": 12,
-    "question": "Which scientist designed the present day method of classification",
-    "options": ["Aristotle", "Robert Hooke", "Mathias", "Carolus Linnaeus"],
-    "answer": "Carolus Linnaeus"
+    "question": "How many time(s) did Jesus return to His disciples and met them asleep before His arrest?",
+    "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Once"
+    ],
+    "answer": "Three"
   },
   {
     "number": 13,
-    "question": "Which of these forms the outer covering of animal cell",
-    "options": ["Cell wall", "Cell membrane", "Nuclear membrane", "Chromosomes"],
-    "answer": "Cell membrane"
+    "question": "Where was Jesus Christ taken to immediately after His arrest?",
+    "options": [
+      "Herod",
+      "Pontus Pilate",
+      "Chief priest",
+      "Caiaphas"
+    ],
+    "answer": "Caiaphas"
   },
   {
     "number": 14,
-    "question": "Which of these quickens the rate of chemical reaction",
-    "options": ["Starch", "Metabolism", "Enzymes", "Catabolism"],
-    "answer": "Enzymes"
+    "question": "“Behold a virgin shall conceive and bear a son, and his name shall be called Emmanuel.” What is the meaning of Emmanuel, according to Matthew’s gospel?",
+    "options": [
+      "God is great",
+      "God is with us",
+      "Mighty God",
+      "Prince of peace"
+    ],
+    "answer": "God is with us"
   },
   {
     "number": 15,
-    "question": "One of these is not required for photosynthesis",
-    "options": ["Water", "CO₂", "Chlorophyll", "C0"],
-    "answer": "C0"
+    "question": "What did the gift of Gold by the Wisemen represent?",
+    "options": [
+      "Divinity",
+      "Humanity",
+      "Humility",
+      "Royalty"
+    ],
+    "answer": "Royalty"
   },
   {
     "number": 16,
-    "question": "Pseudopodia is common to one of these organisms:",
-    "options": ["Paramecium", "Amoeba", "Trypanosoma", "Monocystis"],
-    "answer": "Amoeba"
+    "question": "What is the significance of the birth of Jesus Christ? The birth of Jesus Christ is seen as a fulfillment of God’s promise of a _____ by prophet Isaiah.",
+    "options": [
+      "Messiah",
+      "deliverer",
+      "redeemer",
+      "priest"
+    ],
+    "answer": "Messiah"
   },
   {
     "number": 17,
-    "question": "What process is involved when glucose is broken down in the absence of oxygen.",
-    "options": ["Fermentation", "Catabolism", "Anabolism", "Metabolism"],
-    "answer": "Fermentation"
+    "question": "What was the food of John the Baptist who wore a garment of camel’s hair and a leather girdle?",
+    "options": [
+      "Bread and fish",
+      "Honey and fish",
+      "Wild locusts and fish",
+      "Honey and wild locusts"
+    ],
+    "answer": "Honey and wild locusts"
   },
   {
     "number": 18,
-    "question": "One of this is not a asexual method of reproduction:",
-    "options": ["Fission", "Fusion", "Budding", "Fragmentation"],
-    "answer": "Fusion"
+    "question": "Who were the other pair of disciples Jesus called after Simon Peter and Andrew?",
+    "options": [
+      "James and John",
+      "Thomas and Philip",
+      "Bartholomew and Judas",
+      "Matthew and Mark"
+    ],
+    "answer": "James and John"
   },
   {
     "number": 19,
-    "question": "Which of these organelles is called the \"power house\"?",
-    "options": ["Nucleus", "Lysosome", "Mitochondria", "Contractile Vacoule"],
-    "answer": "Mitochondria"
+    "question": "What would Jesus Christ use to baptize people, since John baptized people with water? Holy spirit and",
+    "options": [
+      "power",
+      "dove",
+      "oil",
+      "fire"
+    ],
+    "answer": "fire"
   },
   {
     "number": 20,
-    "question": "What type of nutrition is Euglena associated with?",
-    "options": ["Phagocytic mode of nutrition", "Holophytic mode of nutrition", "Holozoic mode of nutrition", "Parasitic mode of nutrition"],
-    "answer": "Holozoic mode of nutrition"
+    "question": "How many days did Jesus Christ fast in the wilderness before He was tempted by the devil?",
+    "options": [
+      "Twenty",
+      "Thirty",
+      "Forty",
+      "Fifty"
+    ],
+    "answer": "Forty"
   },
   {
     "number": 21,
-    "question": "The study of a single species of organism is called",
-    "options": ["Biocology", "Synecology", "Triocology", "Autecology"],
-    "answer": "Autecology"
+    "question": "What is the major weapon for overcoming temptation and sin for Christians in the world today?",
+    "options": [
+      "Kindness",
+      "Unity",
+      "Prayer",
+      "Happiness"
+    ],
+    "answer": "Prayer"
   },
   {
     "number": 22,
-    "question": "One of the following is not a constituent of an atmosphere",
-    "options": ["CO₂", "N₂", "O₂", "H₂O"],
-    "answer": "H₂O"
+    "question": "Why was Jesus Christ successful in overcoming the three temptations? Because",
+    "options": [
+      "He got help from God Almighty",
+      "The Holy Spirit was there to guide Him",
+      "He knew how to talk to the devil",
+      "He had already been baptized"
+    ],
+    "answer": "The Holy Spirit was there to guide Him"
   },
   {
     "number": 23,
-    "question": "One of these biomes is not found in Nigeria",
-    "options": ["Tropical forest", "Desert", "Savanna", "Shrub"],
-    "answer": "Desert"
+    "question": "Which of these is the greatest commandment taught by Jesus Christ?",
+    "options": [
+      "Faithfulness",
+      "Goodness",
+      "Love",
+      "Peace"
+    ],
+    "answer": "Love"
   },
   {
     "number": 24,
-    "question": "What is the most abundant gas in the atmosphere",
-    "options": ["Oxygen", "Carbon dioxide", "Carbon monoxide", "Nitrogen"],
-    "answer": "Nitrogen"
+    "question": "Which of these is the corresponding reward for the acquisition and practice of this virtue, “Blessed are the poor in spirit”? For",
+    "options": [
+      "theirs is the kingdom of heaven",
+      "they shall inherit the earth",
+      "they shall be called sons of God",
+      "they shall see God"
+    ],
+    "answer": "theirs is the kingdom of heaven"
   },
   {
     "number": 25,
-    "question": "One of these organisms is not a saprophyte",
-    "options": ["Fungi", "Cockroach", "Mold", "Bacteria"],
-    "answer": "Cockroach"
+    "question": "One of these is the reward for those who are pure in heart according to the Sermon on the Mount",
+    "options": [
+      "theirs is the kingdom of heaven",
+      "they shall inherit the earth",
+      "they shall be called sons of God",
+      "they shall see God"
+    ],
+    "answer": "they shall see God"
   },
   {
     "number": 26,
-    "question": "The sun energy trapped by green plants is converted into",
-    "options": ["Electrical energy", "Mechanical energy", "Chemical energy", "Heat energy"],
-    "answer": "Chemical energy"
+    "question": "How many men (people) did Jesus Christ feed with five loaves of bread and two fish?",
+    "options": [
+      "Five thousand",
+      "Four thousand",
+      "Three thousand",
+      "Two thousand"
+    ],
+    "answer": "Five thousand"
   },
   {
     "number": 27,
-    "question": "One of the following is not attributed to monocotyledon",
-    "options": ["Absence of Cambium", "Seed has one Cotyledon", "Presence of fibrous root system", "They are trees"],
-    "answer": "They are trees"
+    "question": "In whose house was Jesus Christ when He was seen eating and drinking with tax collectors?",
+    "options": [
+      "Peter",
+      "Matthew",
+      "James and John",
+      "Thomas"
+    ],
+    "answer": "Matthew"
   },
   {
     "number": 28,
-    "question": "One of these plants is not a cereal",
-    "options": ["Maize", "Rice", "Bean", "Oat"],
-    "answer": "Bean"
+    "question": "What is the significance of Jesus riding on an ass during His triumphant entry into Jerusalem? He is",
+    "options": [
+      "a king",
+      "a humble messiah",
+      "the conquering messiah",
+      "the conquering king"
+    ],
+    "answer": "a humble messiah"
   },
   {
     "number": 29,
-    "question": "Ephemerals complete their life cycle in",
-    "options": ["one year", "three years", "two years", "three to four months"],
-    "answer": "three to four months"
+    "question": "What was the meaning of Jesus Christ statement that He would destroy the temple and rebuild it in three days? It means that He",
+    "options": [
+      "was angry and decided to make that comment",
+      "will bring foreign materials to build the house of God",
+      "will die and resurrect on the third day",
+      "will hire labourers to build the temple in three days"
+    ],
+    "answer": "will die and resurrect on the third day"
   },
   {
     "number": 30,
-    "question": "One of the following factors does not affect food production",
-    "options": ["Light", "pH", "Afforestation", "Rainfall"],
-    "answer": "Afforestation"
+    "question": "How many disciples did Jesus send to collect the ass and colt with which He made the triumphant entry into Jerusalem?",
+    "options": [
+      "Five",
+      "Four",
+      "Three",
+      "Two"
+    ],
+    "answer": "Two"
   },
   {
     "number": 31,
-    "question": "One of these is not a freshwater habitat",
-    "options": ["Ocean", "Pond", "River", "Stream"],
-    "answer": "Ocean"
+    "question": "“I adjure you by the living God, tell us if you are the Christ, the Son of God”. Who made the above statement?",
+    "options": [
+      "Pontus Pilate",
+      "Herod",
+      "Caiaphas",
+      "High priest"
+    ],
+    "answer": "High priest"
   },
   {
     "number": 32,
-    "question": "Which of these encourages the growth of microorganisms on food items?",
-    "options": ["Addition of Salt", "Addition of Water", "Sunning", "Smoking"],
-    "answer": "Addition of Water"
+    "question": "What was Jesus reply to the statement above?",
+    "options": [
+      "“You have said so”",
+      "“You will not believe even if I say so”",
+      "“I am whom you say I am”",
+      "“You have said so you will see the son of man seated at the right hand of power and coming on the clouds of heaven”"
+    ],
+    "answer": "“You have said so you will see the son of man seated at the right hand of power and coming on the clouds of heaven”"
   },
   {
     "number": 33,
-    "question": "One of the following is not a vector control method",
-    "options": ["Sanitation", "Chemical method", "Immunization", "Biological method"],
-    "answer": "Immunization"
+    "question": "Who was the third and the last person that identified Peter as one of Jesus disciples but he denied it and immediately the cock crowed?",
+    "options": [
+      "A bystanders",
+      "Maids",
+      "A woman",
+      "A soldier"
+    ],
+    "answer": "A soldier"
   },
   {
     "number": 34,
-    "question": "Which of these plants is grown for hardwood provision?",
-    "options": ["Carica papaya", "Zea mays", "Ebony", "Oryza sativa"],
-    "answer": "Ebony"
+    "question": "“Are you the king of the Jews?” Who made the above statement?",
+    "options": [
+      "Pilate",
+      "Herod",
+      "Caiaphas",
+      "The chief priest"
+    ],
+    "answer": "Pilate"
   },
   {
     "number": 35,
-    "question": "One of the following plants is not an example of a root tuber",
-    "options": ["tomatoes", "yam", "cassava", "carrot"],
-    "answer": "tomatoes"
+    "question": "Who did the people request to be released instead of Jesus Christ whom they maintained should be crucified?",
+    "options": [
+      "Barabbas",
+      "Basabbas",
+      "Barnabas",
+      "Barsabas"
+    ],
+    "answer": "Barabbas"
   },
   {
     "number": 36,
-    "question": "One of these is not an ectoparasite",
-    "options": ["tick", "blackfly", "worm", "lice"],
-    "answer": "worm"
+    "question": "Pilate sent Jesus Christ to Herod for trial because",
+    "options": [
+      "Pilate had no power to condemn Jesus Christ to death",
+      "His wife warned him not to have anything to do with Jesus",
+      "Jesus was a Galilean and under the jurisdiction of Herod",
+      "Pilate found no reason to condemn Jesus Christ"
+    ],
+    "answer": "Jesus was a Galilean and under the jurisdiction of Herod"
   },
   {
     "number": 37,
-    "question": "Which of these animals is a primary consumer",
-    "options": ["man", "rat", "duckling", "cat"],
-    "answer": "duckling"
+    "question": "How did Pilate’s wife describe Jesus Christ?",
+    "options": [
+      "Good man",
+      "Holy man",
+      "Righteous man",
+      "Guiltless man"
+    ],
+    "answer": "Righteous man"
   },
   {
     "number": 38,
-    "question": "Which level in the pyramid of energy has the lowest number",
-    "options": ["producers", "tertiary consumers", "primary consumers", "secondary consumers"],
-    "answer": "tertiary consumers"
+    "question": "Who was compelled to carry the cross of Jesus Christ?",
+    "options": [
+      "Simon of Syrene",
+      "Simeon of Cyrene",
+      "Simeon of Syrene",
+      "Simon of Cyrene"
+    ],
+    "answer": "Simon of Cyrene"
   },
   {
     "number": 39,
-    "question": "The energy from sun rays is captured by",
-    "options": ["producers", "primary consumers", "secondary consumers", "tertiary consumers"],
-    "answer": "producers"
+    "question": "What is the meaning of Golgotha?",
+    "options": [
+      "A place of skull",
+      "A crucifixion ground",
+      "A place of death",
+      "A place of crucifixion"
+    ],
+    "answer": "A place of skull"
   },
   {
     "number": 40,
-    "question": "One of the following is an example of an endoparasite:",
-    "options": ["Lice", "Tick", "Fluke", "Fly"],
-    "answer": "Fluke"
+    "question": "What was the inscription written on the cross of Jesus Christ?",
+    "options": [
+      "“This is the king of the Jews”",
+      "“This is the son of God”",
+      "“This is Jesus, the king of the Jews”",
+      "“Jesus, the king of the Jews”"
+    ],
+    "answer": "“This is Jesus, the king of the Jews”"
   },
   {
     "number": 41,
-    "question": "One of this is not investigated in population studies:",
-    "options": ["Height", "Types", "Dominance", "Features"],
-    "answer": "Height"
+    "question": "What is the meaning of ‘Eli, Eli la’masabach-thani’?",
+    "options": [
+      "Lord Jesus do not hold this sin against them",
+      "My Lord, my Lord, do not hold this sin against them",
+      "My God, my God, why has thou forsaken me",
+      "My God, my God, do not hold this sin against them"
+    ],
+    "answer": "My God, my God, why has thou forsaken me"
   },
   {
     "number": 42,
-    "question": "The formular A₁ × A₂ / A₃ —  is used for:",
-    "options": ["Transect method", "Quadrat method", "Capture and recapture method", "Quadrat and transect method"],
-    "answer": "Capture and recapture method"
+    "question": "At what hour did Jesus Christ die?",
+    "options": [
+      "12th hour",
+      "6th hour",
+      "3rd hour",
+      "9th hour"
+    ],
+    "answer": "9th hour"
   },
   {
     "number": 43,
-    "question": "One of this factors does not lead to decrease in population:",
-    "options": ["Mortality", "Emigration", "Immigration", "Competition"],
-    "answer": "Immigration"
+    "question": "One of these did not take place when Jesus Christ breathed His last (died)",
+    "options": [
+      "the curtain of the temple was torn in two from top to bottom",
+      "there was a terrible earthquake",
+      "tombs were opened and many dead saints were raised",
+      "there was wailing in Jerusalem"
+    ],
+    "answer": "there was wailing in Jerusalem"
   },
   {
     "number": 44,
-    "question": "One of the following factors is not peculiar to terrestrial habitat:",
-    "options": ["Topography", "Humidity", "Salinity", "pH"],
-    "answer": "Salinity"
+    "question": "“Truly, this was the son of God”. Who made the above statement?",
+    "options": [
+      "The Centurion",
+      "The Apostles",
+      "The Scribe",
+      "The woman"
+    ],
+    "answer": "The Centurion"
   },
   {
     "number": 45,
-    "question": "One of these is not a composition of soil:",
-    "options": ["Air space", "Water", "Salt", "Humus"],
-    "answer": "Salt"
+    "question": "One of these women did not witness the crucifixion of Jesus Christ",
+    "options": [
+      "Michah",
+      "Mary Magdalene",
+      "Mary the mother of James and Joseph",
+      "the mother of the sons of Zebedee"
+    ],
+    "answer": "Michah"
   },
   {
     "number": 46,
-    "question": "Which of this soil supports the growth of luxuriant plant:",
-    "options": ["Sandy soil", "Clay soil", "Humus soil", "Loamy soil"],
-    "answer": "Loamy soil"
+    "question": "“Say to the daughter of Zion, behold your king is coming to you, humble and mounted on an ass”. Which of the prophets made the above prophecy about Jesus’ riding on the colt and ass into Jerusalem?",
+    "options": [
+      "Zachariah",
+      "Elijah",
+      "Jeremiah",
+      "Nehemiah"
+    ],
+    "answer": "Zachariah"
   },
   {
     "number": 47,
-    "question": "Which of these soil has more retentive capacity for water:",
-    "options": ["Clay", "Loam", "Sand", "Humus"],
-    "answer": "Clay"
+    "question": "Who among the disciples was not present at the sermon on the mountain?",
+    "options": [
+      "Andrew",
+      "Paul",
+      "John",
+      "Matthew"
+    ],
+    "answer": "Paul"
   },
   {
     "number": 48,
-    "question": "The instrument used in measuring temperature is:",
-    "options": ["Wind vane", "Barometer", "Thermometer", "Hygrometer"],
-    "answer": "Thermometer"
+    "question": "What did Judas Iscariot do after he had betrayed Jesus Christ?",
+    "options": [
+      "Adultery",
+      "Idolatry",
+      "Arson",
+      "Suicide"
+    ],
+    "answer": "Suicide"
   },
   {
     "number": 49,
-    "question": "The instrument used in measuring light intensity is:",
-    "options": ["Anemometer", "Photometer", "Hydrometer", "Barometer"],
-    "answer": "Photometer"
+    "question": "Who among the disciples promised to be with Jesus Christ to the very end?",
+    "options": [
+      "Andrew",
+      "James",
+      "John",
+      "Simon Peter"
+    ],
+    "answer": "Simon Peter"
   },
   {
     "number": 50,
-    "question": "The instrument used in measuring pH is",
-    "options": ["Colorimeter", "Metric rule", "Anemometer", "Waxed-bulb"],
-    "answer": "Colorimeter"
+    "question": "What happened to Zachariah after the angel had spoken to him concerning the birth of John the Baptist? He became",
+    "options": [
+      "confused",
+      "blind",
+      "deaf",
+      "dumb"
+    ],
+    "answer": "dumb"
   }
 ]
+
+
