@@ -1,337 +1,254 @@
 [
   {
-    "question": "What is the primary function of an input device?",
-    "options": [
-      "To provide information to a computer system",
-      "To display information when inputted",
-      "To provide data to a computer system",
-      "All of the above"
-    ],
-    "answer": "To provide data to a computer system"
+    "question": "What is mixed double in racket games?",
+    "options": ["1 male & 1 female vs 1 male and 1 female", "2 male vs 2 female", "2 male vs 2 male", "2 female vs 2 female"],
+    "answer": "1 male & 1 female vs 1 male and 1 female"
   },
   {
-    "question": "What is the full meaning of IC",
-    "options": [
-      "Invented Computer",
-      "Integrated Circuit",
-      "Independent Circuit",
-      "Integrated Computer"
-    ],
-    "answer": "Integrated Circuit"
+    "question": "Physical education can be defined as education for",
+    "options": ["All round development", "Physical training and fitness", "Physical and mental development", "Development of physical skills"],
+    "answer": "All round development"
   },
   {
-    "question": "________ are graphics that represent a program, a directory, a file or a shortcut.",
-    "options": ["Icons", "Background", "Task Bar", "Pictures"],
-    "answer": "Icons"
+    "question": "Javelin is a",
+    "options": ["Field event", "Throw", "Track event", "Track and field event"],
+    "answer": "Field event"
   },
   {
-    "question": "While data is raw fact, information is ___ data",
-    "options": ["Processed", "Factored", "Authentic", "True"],
-    "answer": "Processed"
+    "question": "Landing and recovering in high jump means",
+    "options": ["A Jumper lands either on his toes or his feet on a foam", "A jumper lands either on his back or his side on a foam", "A jumper lands by somersaulting", "A jumper lands on buttocks"],
+    "answer": "A Jumper lands either on his toes or his feet on a foam"
   },
   {
-    "question": "A byte consists of",
-    "options": ["One bit", "Four bits", "Eight bits", "Sixteen bits"],
-    "answer": "Eight bits"
+    "question": "When a badminton player wins a rally, how many points can he or she get?",
+    "options": ["1 point", "4 points", "2 points", "3 points"],
+    "answer": "1 point"
   },
   {
-    "question": "Printed copy from a printer is called",
-    "options": ["Softcopy", "Hardcopy", "Hard print", "Paper copy"],
-    "answer": "Hardcopy"
+    "question": "The objectives of physical education includes the following EXCEPT",
+    "options": ["Mental", "Philosophical", "Emotional", "Motor skills"],
+    "answer": "Philosophical"
   },
   {
-    "question": "What is the full meaning of URL?",
-    "options": [
-      "Uniform Resource Locator",
-      "Universal Resource Link",
-      "Universal Retrieval Locator",
-      "This thing too hard abeg"
-    ],
-    "answer": "Uniform Resource Locator"
+    "question": "Which of the following is not a recommended sports wear?",
+    "options": ["Canvas", "Gown", "Vests", "Track suit"],
+    "answer": "Gown"
   },
   {
-    "question": "Which action of the mouse is used to display a set of command?",
-    "options": ["Left Click", "Right Click", "Double click", "Scrolling"],
-    "answer": "Right Click"
+    "question": "The ability to do your daily activities without fatigue and still have reserve energy is",
+    "options": ["Physical strength", "Physical fitness", "Physical endurance", "Physical education"],
+    "answer": "Physical fitness"
   },
   {
-    "question": "What is the full meaning of GPS?",
-    "options": [
-      "Global Positioning System",
-      "General Positioning System",
-      "Geographical Placement System",
-      "Global Pictorial System"
-    ],
-    "answer": "Global Positioning System"
+    "question": "Which of the following equipment are used to play badminton game?",
+    "options": ["Bat and Ball", "Racket and shuttle", "Bat and stick", "Stick and ball"],
+    "answer": "Racket and shuttle"
   },
   {
-    "question": "Which of this is NOT a word processing package?",
-    "options": ["Word Pad", "Power Point", "Notepad", "MS Word"],
-    "answer": "Power Point"
+    "question": "The end product of fats digestion is",
+    "options": ["Glucose", "Fatty acid", "Glycogen", "Amino acid"],
+    "answer": "Fatty acid"
   },
   {
-    "question": "Which of these is NOT an area of misuse of computers",
-    "options": ["Hacking", "Fraud", "Cyber security", "Piracy"],
-    "answer": "Cyber security"
+    "question": "What is a relay race in athletics?",
+    "options": ["A race with a distance more than 10,000 meters", "A race between two athletes", "A race in which members of each team takes turns", "A race that is ran by all athletes"],
+    "answer": "A race in which members of each team takes turns"
   },
   {
-    "question": "Map makers are called _________",
-    "options": ["Mappers", "Cartographers", "Mapographers", "Geographers"],
-    "answer": "Cartographers"
+    "question": "Which of the following is a short distance in sprinting?",
+    "options": ["300m", "500m", "400m", "350m"],
+    "answer": "400m"
   },
   {
-    "question": "A typical example of WAN is",
-    "options": ["Internet", "Ethernet", "WIFI", "MIFI"],
-    "answer": "Internet"
+    "question": "The western roll is a term used in",
+    "options": ["cross-country", "Long jump", "High jump", "Triple jump"],
+    "answer": "High jump"
   },
   {
-    "question": "Which of this is NOT an example of information systems",
-    "options": ["MIS", "DSS", "GIS", "MIT"],
-    "answer": "MIT"
+    "question": "In long jump, you take off on",
+    "options": ["Two feet", "Two foot", "One foot", "Both foot"],
+    "answer": "One foot"
   },
   {
-    "question": "During the booting process, the computer screen displays the ________ information",
-    "options": ["BIOS", "POST", "CPU", "ROM"],
-    "answer": "BIOS"
+    "question": "The athlete must hold the javelin by its",
+    "options": ["Rubber grip", "Plastic grip", "Corded grip", "Elastic rubber band grip"],
+    "answer": "Corded grip"
   },
   {
-    "question": "The file extension for MS Word 2007 and above is",
-    "options": [".doc", ".docx", ".msword", ".wp"],
-    "answer": ".docx"
+    "question": "The following are causes of human trafficking EXCEPT",
+    "options": ["Broken homes", "Ignorance", "Poverty", "Ill health"],
+    "answer": "Ill health"
   },
   {
-    "question": "Data is keyed into the computer system through _______",
-    "options": ["Output device", "Input device", "System unit", "Monitor"],
-    "answer": "Input device"
+    "question": "Which of the following factors does not affect women participation in sports?",
+    "options": ["Culture", "Economy", "Politics", "Physiques"],
+    "answer": "Physiques"
   },
   {
-    "question": "A UPS is a device that can be used to:",
-    "options": [
-      "Store electricity",
-      "Store data for processing",
-      "Protect the computer from heat",
-      "Blow dust from within the computer"
-    ],
-    "answer": "Store electricity"
+    "question": "The branches of physical education include the following EXCEPT",
+    "options": ["Aquatic", "Health", "Games", "Cosmetology"],
+    "answer": "Cosmetology"
   },
   {
-    "question": "DOS means",
-    "options": [
-      "Disk Operating System",
-      "Data Operating System",
-      "Datum",
-      "Disk Opening System"
-    ],
-    "answer": "Disk Operating System"
+    "question": "Physical Education can be defined as education for",
+    "options": ["Development of physical skills", "Physical and mental development", "Physical training and fitness", "All round development"],
+    "answer": "All round development"
   },
   {
-    "question": "What is e-commerce?",
-    "options": [
-      "Buying and selling computer products",
-      "Buying and selling products and services not found in stores",
-      "Buying and selling products and services over the internet",
-      "Electronic commerce subject"
-    ],
-    "answer": "Buying and selling products and services over the internet"
+    "question": "Which of the following is not a skill in table tennis game?",
+    "options": ["Forehand Stroke", "Smashing", "Back hand stroke", "Setting stroke"],
+    "answer": "Setting stroke"
   },
   {
-    "question": "Two booting processes in computer are _____ and _____ booting.",
-    "options": ["Warm and cold", "Warm and cool", "Quick and slow", "Fast and furious"],
-    "answer": "Warm and cold"
+    "question": "What is it called when the score is 40-40?",
+    "options": ["Tallying", "Draw", "Equal", "Deuce"],
+    "answer": "Deuce"
   },
   {
-    "question": "Another name for font is _________",
-    "options": ["Text", "Typeface", "Word", "Icon"],
-    "answer": "Typeface"
+    "question": "High jump is a",
+    "options": ["Sport", "Game", "Track event", "Field event"],
+    "answer": "Field event"
   },
   {
-    "question": "Which of these is NOT a type of Teleconferencing",
-    "options": ["Video conferencing", "Audio conferencing", "Web conferencing", "Radio Conferencing"],
-    "answer": "Radio Conferencing"
+    "question": "Arrange the following stages of high jump in their sequential order",
+    "options": ["Run up, the flight, Landing, Recovering", "Run-up, take off, landing, the flight", "Run-up, take off, Recovering, Landing", "Run-up, take off, the flight, landing and recovering"],
+    "answer": "Run-up, take off, the flight, landing and recovering"
   },
   {
-    "question": "A desktop is",
-    "options": [
-      "A window that appears when you boot your computer",
-      "An act of shutting down the system",
-      "The act of booting a system",
-      "The top of a computer table"
-    ],
-    "answer": "A window that appears when you boot your computer"
+    "question": "What is the importance of run-up in high jump?",
+    "options": ["To gain more weight", "To loss weight", "To run very fast", "To gain more distance"],
+    "answer": "To gain more distance"
   },
   {
-    "question": "Another name for data gathering is ___",
-    "options": ["Data collection", "Data collation", "Gathering of data", "Data processing"],
-    "answer": "Data collection"
+    "question": "What should the jumper go over without dislodging?",
+    "options": ["Javelin", "Goal post", "Over bar", "Cross bar"],
+    "answer": "Cross bar"
   },
   {
-    "question": "Which of these is not a method of gathering data",
-    "options": ["Interview", "Questionnaire", "Observation", "Talking"],
-    "answer": "Talking"
+    "question": "Table Tennis officials include all these people EXCEPT",
+    "options": ["Umpire", "Referee", "Linesmen", "Recorder"],
+    "answer": "Linesmen"
   },
   {
-    "question": "Which of these is NOT an output device?",
-    "options": ["Scanner", "Projector", "Printer", "Monitor"],
-    "answer": "Scanner"
+    "question": "The skill used to start a game of tennis is",
+    "options": ["Rally", "Toss", "Service", "Throw"],
+    "answer": "Service"
   },
   {
-    "question": "What is the shortcut for Indentation in MS Word?",
-    "options": ["Tab Key", "Shift Key", "Ctrl + I", "Shift + I"],
-    "answer": "Tab Key"
+    "question": "Which of the following equipment is not for table tennis game?",
+    "options": ["The net", "Tennis board", "Grown protector", "Tennis bat"],
+    "answer": "Grown protector"
   },
   {
-    "question": "What is the shortcut for Centre Alignment in MS Word?",
-    "options": ["Ctrl + E", "Ctrl + C", "Ctrl + S", "Ctrl + T"],
-    "answer": "Ctrl + E"
+    "question": "If the shuttle hits the net on a service and goes over, landing in the appropriate service court, it is",
+    "options": ["Rally", "Fault", "Let", "Hit"],
+    "answer": "Let"
   },
   {
-    "question": "The features of word processing packages are the following EXCEPT",
-    "options": ["Creating document", "Creating slide", "Formatting document", "Justifying text"],
-    "answer": "Creating slide"
+    "question": "The badminton game begins with an",
+    "options": ["Backhand service", "Under hand service", "Under arm service", "Fore hand service"],
+    "answer": "Under arm service"
   },
   {
-    "question": "_______ is the positioning of different components with respect to each other in the document",
-    "options": ["Alignment", "Indentation", "Numbering", "Margin"],
-    "answer": "Alignment"
+    "question": "The final phase of a triple jump is",
+    "options": ["Hop", "Jump", "Step", "Run-up"],
+    "answer": "Jump"
   },
   {
-    "question": "What does “2” indicate from this formula “H2O” in MS Word?",
-    "options": ["Subscript", "Superscript", "Quantity of Hydrogen", "Volume of Hydrogen"],
-    "answer": "Subscript"
+    "question": "How many lanes are there in a typical running track?",
+    "options": ["7", "8", "7", "5"],
+    "answer": "8"
   },
   {
-    "question": "What is the full meaning of ASCII?",
-    "options": [
-      "American Standard Code for Information Interface",
-      "American Standard Code Information Interchange",
-      "American Standard Code for Information Interchange",
-      "American Standard Code Information Interface"
-    ],
-    "answer": "American Standard Code for Information Interchange"
+    "question": "In athletics, field events include which two events?",
+    "options": ["Sprinting and jumping", "Jumping and throwing", "Throwing and sporting", "Throwing and running"],
+    "answer": "Jumping and throwing"
   },
   {
-    "question": "What is the full meaning of LED?",
-    "options": ["Liquid emitting diode", "Light emitting diode", "Light emitting disk", "Light emitting device"],
-    "answer": "Light emitting diode"
+    "question": "How many runners are there in each team in a relay race?",
+    "options": ["2", "4", "3", "5"],
+    "answer": "4"
   },
   {
-    "question": "POST stands for",
-    "options": [
-      "Power-On-Self-Test",
-      "Power-On-Save-Test",
-      "Point-On-Self-Test",
-      "Power-On-Self-Taste"
-    ],
-    "answer": "Power-On-Self-Test"
+    "question": "What is the second step of a triple jump event?",
+    "options": ["Jump", "Step", "Hop", "Run-up"],
+    "answer": "Step"
   },
   {
-    "question": "What is the full meaning of BASIC?",
-    "options": [
-      "Beginners All-Purpose Symbolic Instruction Code",
-      "Beginners All Symbolic Instruction Code",
-      "Beginners Advanced Symbolic Instruction Code",
-      "Beginners All-Purpose Symbolic Instruction Computer"
-    ],
-    "answer": "Beginners All-Purpose Symbolic Instruction Code"
+    "question": "How many feathers does the shuttle cock have?",
+    "options": ["16", "10", "8", "9"],
+    "answer": "16"
   },
   {
-    "question": "Which of this is NOT a part of the GPS?",
-    "options": ["Space segment", "Control station", "GPS receiver", "Transmission line"],
-    "answer": "Transmission line"
+    "question": "Is short put a track or field event?",
+    "options": ["Field", "Track", "Indoor", "Both"],
+    "answer": "Field"
   },
   {
-    "question": "Which of this is NOT a type of Telecommunication systems?",
-    "options": ["PSTN", "GSM", "CSPT", "GPRS"],
-    "answer": "GPRS"
+    "question": "Which of the following is not an official in the game of table tennis?",
+    "options": ["Ball boys", "Referee", "Umpire", "Line Judges"],
+    "answer": "Ball boys"
   },
   {
-    "question": "What is the full meaning of DVD?",
-    "options": [
-      "Digital Video Disc",
-      "Digital Versatile Disc",
-      "Digital Visual Disc",
-      "This thing is confusing oo, sir."
-    ],
-    "answer": "Digital Versatile Disc"
+    "question": "A career is a job or profession in which a person is trained and employed",
+    "options": ["For life", "Short period", "Long period", "Part time"],
+    "answer": "For life"
   },
   {
-    "question": "Images are formed from the combination of",
-    "options": ["Pixel", "Graphics", "Resolution", "Console"],
-    "answer": "Pixel"
+    "question": "All track events are performed in",
+    "options": ["Lanes", "Area", "Lines up", "Single line"],
+    "answer": "Lanes"
   },
   {
-    "question": "Choose the ODD one",
-    "options": ["Calibri", "Times New Romans", "Arial", "Layout"],
-    "answer": "Layout"
+    "question": "Which of the following is the most important skill in the game of tennis?",
+    "options": ["Service", "Smash", "Volley", "Forehand drive"],
+    "answer": "Service"
   },
   {
-    "question": "_______ involves changing the font size, font colour, font alignment.",
-    "options": ["Formatting", "Editing", "Bulleting", "Indenting"],
-    "answer": "Formatting"
+    "question": "In which skill is back arm stroke used in the game of tennis?",
+    "options": ["Service", "Drive", "Lop", "Smash"],
+    "answer": "Service"
   },
   {
-    "question": "What is the default name for document created in MS Word?",
-    "options": ["Document1", "Doc1", "Default1", "Docs"],
-    "answer": "Document1"
+    "question": "The following are life saving devices EXCEPT",
+    "options": ["Life jacket", "Pole", "Paddle", "Swimming trunk"],
+    "answer": "Pole"
   },
   {
-    "question": "Which of the following is a word processing software?",
-    "options": ["MS-Excel", "WordPad", "CorelDRAW", "Photoshop"],
-    "answer": "WordPad"
+    "question": "Sweden’s Eric Lemming threw his first world’s best in javelin in ____ year",
+    "options": ["1899", "1990", "1887", "1886"],
+    "answer": "1899"
   },
   {
-    "question": "The most common keyboard shortcut is?",
-    "options": ["WERTYQ", "QWERT", "SWERTY", "QWERTY"],
-    "answer": "QWERTY"
+    "question": "The following are racket and ball games EXCEPT",
+    "options": ["Squash", "Tennis", "Badminton", "Table Tennis"],
+    "answer": "Squash"
   },
   {
-    "question": "Another name for Telecomputing is?",
-    "options": [
-      "Remote Computing",
-      "Television Computing",
-      "Telecommunication Computer",
-      "Telecom"
-    ],
-    "answer": "Remote Computing"
+    "question": "Triple jump was previously known as",
+    "options": ["Hop, jump and step", "Hop, step and jump", "Step, jump and hop", "Jump, hop and step"],
+    "answer": "Hop, step and jump"
   },
   {
-    "question": "Another name for mouse pointer is ____",
-    "options": [
-      "Corsor",
-      "Cursor",
-      "Picker",
-      "Clicker"
-    ],
-    "answer": "Cursor"
+    "question": "The term 'Butterfly stroke' is referred to in which sport?",
+    "options": ["Tennis", "Swimming", "Wrestling", "Boxing"],
+    "answer": "Swimming"
   },
   {
-    "question": "What’s the full meaning of WIFI?",
-    "options": [
-      "Window Finder",
-      "Wireless Internet Frequency Interference",
-      "Wireless Fidelity",
-      "MIFI"
-    ],
-    "answer": "Wireless Fidelity"
+    "question": "Which category is most prone for suicide?",
+    "options": ["Old men", "Adolescents", "Married men", "Married women"],
+    "answer": "Adolescents"
   },
   {
-    "question": "The BASIC command that can be used for output in programming is called",
-    "options": [
-      "Show",
-      "PRINT",
-      "LET",
-      "CLS"
-    ],
-    "answer": "PRINT"
+    "question": "Persistent belief in something which is not a fact is",
+    "options": ["Illusion", "Delusion", "Delirium", "Hallucination"],
+    "answer": "Delusion"
   },
   {
-    "question": "The following are examples of application software EXCEPT",
-    "options": [
-      "Corel Draw",
-      "Windows",
-      "Microsoft Excel",
-      "Microsoft Word"
-    ],
-    "answer": "Windows"
+    "question": "Which of the following is not a field event in athletics?",
+    "options": ["Long jump", "Discus throwing", "100m Sprint", "Triple jump"],
+    "answer": "100m Sprint"
   }
 ]
+
+
