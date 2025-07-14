@@ -1,329 +1,552 @@
 [
   {
-    "question": "What does a family reputation mean?",
+    "number": 1,
+    "question": "A demand schedule is",
     "options": [
-      "respect and admiration for one’s family",
-      "riches of a family",
-      "valuable and house of family",
-      "society of a family"
+      "A table showing the relationship between price and quantity demanded of a commodity",
+      "A table showing the price of goods",
+      "The quantity of goods the consumer is prepared to buy",
+      "A table showing the consumer demand in order of importance"
     ],
-    "answer": "respect and admiration for one’s family"
+    "answer": "A table showing the relationship between price and quantity demanded of a commodity"
   },
   {
-    "question": "As a citizen, not contributing to the society endangers the?",
+    "number": 2,
+    "question": "The resources used in production are called",
     "options": [
-      "character",
-      "environment",
-      "studies",
-      "family"
+      "variable inputs",
+      "factors of production",
+      "capital for production",
+      "fixed inputs"
     ],
-    "answer": "environment"
+    "answer": "factors of production"
   },
   {
-    "question": "The most popular form of marriage in Nigeria among Muslims is?",
+    "number": 3,
+    "question": "The factor of production which takes the initiative in combining resources for production is known as",
     "options": [
-      "polygamy",
-      "monogamy",
-      "marriage",
-      "Islamic marriage"
+      "capital",
+      "land",
+      "labour",
+      "entrepreneur"
     ],
-    "answer": "polygamy"
+    "answer": "entrepreneur"
   },
   {
-    "question": "Through which one of these ways is how a society is recognized?",
+    "number": 4,
+    "question": "The main objective of setting up a private business organization is to",
     "options": [
-      "through culture",
-      "through skin colour",
-      "through lifestyle",
-      "through reputation"
+      "Protect the interest of the owners",
+      "Promote exports",
+      "Provide infrastructure",
+      "Maximize profit"
     ],
-    "answer": "through culture"
+    "answer": "Maximize profit"
   },
   {
-    "question": "The development of social studies came earlier in Nigeria than other African countries as a result of?",
+    "number": 5,
+    "question": "The transfer of ownership of a public enterprise to individuals and firms is called",
     "options": [
-      "a university in America sponsored some Nigerian for training program for social studies",
-      "the government pushed some people to training",
-      "they decided to learn societal values and in turn teach social studies",
-      "It came up in schools"
+      "Commercialization",
+      "Nationalization",
+      "Privatization",
+      "Restructuring"
     ],
-    "answer": "a university in America sponsored some Nigerian for training program for social studies"
+    "answer": "Privatization"
   },
   {
-    "question": "By common interest, group members does which of the following?",
+    "number": 6,
+    "question": "Economic problems arise mainly as a result of",
     "options": [
-      "relates with members of his or her group to share ideas and knowledge",
-      "only participates on activities when he or she feels like",
-      "decides to control every member of the group",
-      "does not indicate interest in activities of the group"
+      "Lack of foresight on the part of resource users",
+      "Limitations in availability of resources",
+      "Excessive wastage of available resources",
+      "Inaccurate statistical data in West Africa"
     ],
-    "answer": "relates with members of his or her group to share ideas and knowledge"
+    "answer": "Limitations in availability of resources"
   },
   {
-    "question": "One of the best ways to preserve our cultural identity is by?",
+    "number": 7,
+    "question": "Which of the following is central to the definition of economics",
     "options": [
-      "By retaining cultural values",
-      "By acquiring formal education",
-      "By learning wrong slang in your dialect",
-      "By adopting foreign culture"
+      "resources",
+      "wants",
+      "scarcity",
+      "capital"
     ],
-    "answer": "By retaining cultural values"
+    "answer": "scarcity"
   },
   {
-    "question": "A group is characterized by one of the following",
+    "number": 8,
+    "question": "Limited liability means that",
     "options": [
-      "family membership",
-      "shared value",
-      "sense of unity",
-      "group norms"
+      "The debts of a company can only be paid from its own assets",
+      "The debts of a company are paid from business as well as private funds of the owners",
+      "A company does not have to pay its debts",
+      "The debts of company must be paid from private funds only"
     ],
-    "answer": "sense of unity"
+    "answer": "The debts of a company are paid from business as well as private funds of the owners"
   },
   {
-    "question": "One of these is a type of mass behaviour",
+    "number": 9,
+    "question": "Which of the following sectors of the economy is estimated to be the largest employer of labour in the country?",
     "options": [
-      "interest group",
-      "peer pressure",
-      "performing same action",
-      "mass action"
+      "Agriculture",
+      "Distribution",
+      "Mining and petroleum",
+      "Construction"
     ],
-    "answer": "mass action"
+    "answer": "Agriculture"
   },
   {
-    "question": "One who abuses and always in possession of drugs/hard substance is known as a?",
+    "number": 10,
+    "question": "Factors that determine the size of a firm are as follows except",
     "options": [
-      "frequent user",
-      "drug dealer",
-      "drug peddler",
-      "drug addict"
+      "Total assets",
+      "Number of employees",
+      "Name of the firm",
+      "Volume of the output"
     ],
-    "answer": "drug addict"
+    "answer": "Name of the firm"
   },
   {
-    "question": "Which of the following is a modern method of communication?",
-    "options": ["Town crier", "Smoke signals", "Email", "Drumming"],
-    "answer": "Email"
-  },
-  {
-    "question": "What are the two main types of communication?",
-    "options": ["Internal and External", "Personal and Impersonal", "Verbal and Non-verbal", "Local and Global"],
-    "answer": "Verbal and Non-verbal"
-  },
-  {
-    "question": "One major role of communication in the national economy is to:",
-    "options": ["Encourage traditional ceremonies", "Promote government dictatorship", "Facilitate business and trade", "Reduce internet access"],
-    "answer": "Facilitate business and trade"
-  },
-  {
-    "question": "Which of the following is not a role of communication in national development?",
-    "options": ["Enhancing security response", "Supporting emergency services", "Spreading false information", "Promoting education and awareness"],
-    "answer": "Spreading false information"
-  },
-  {
-    "question": "Which of the following is an example of mass communication?",
-    "options": ["Phone call", "Face-to-face discussion", "Television broadcast", "Whispering"],
-    "answer": "Television broadcast"
-  },
-  {
-    "question": "Why do people save money?",
-    "options": ["To waste it later", "To impress others", "To meet future needs", "To reduce their income"],
-    "answer": "To meet future needs"
-  },
-  {
-    "question": "Which of the following is a traditional method of saving money?",
-    "options": ["Mobile banking", "Cryptocurrency", "Keeping money in a clay pot", "Using ATM cards"],
-    "answer": "Keeping money in a clay pot"
-  },
-  {
-    "question": "One reason people save money is to:",
-    "options": ["Spend recklessly", "Prepare for emergencies", "Avoid paying taxes", "Hide money from others"],
-    "answer": "Prepare for emergencies"
-  },
-  {
-    "question": "What is a modern method of saving money?",
-    "options": ["Burying money underground", "Tying money in a cloth", "Depositing money in the bank", "Hiding money in the ceiling"],
-    "answer": "Depositing money in the bank"
-  },
-  {
-    "question": "Which of these is an advantage of saving money in a bank?",
-    "options": ["Easy access for theft", "Money loses value quickly", "Provides interest on savings", "Reduces your bank charges"],
-    "answer": "Provides interest on savings"
-  },
-  {
-    "question": "A disadvantage of saving money in a bank is:",
-    "options": ["Risk of fire outbreak", "High interest rate on savings", "Limited access in emergencies", "Risk of being robbed at home"],
-    "answer": "Limited access in emergencies"
-  },
-  {
-    "question": "Which of the following is a reason for saving?",
-    "options": ["To reduce population", "To plan for old age", "To avoid work", "To increase taxes"],
-    "answer": "To plan for old age"
-  },
-  {
-    "question": "How did people save money in the past?",
-    "options": ["Through online banking", "In digital wallets", "In secret containers at home", "With debit cards"],
-    "answer": "In secret containers at home"
-  },
-  {
-    "question": "What is one function of a savings account?",
-    "options": ["To reduce bank profits", "To help people spend more", "To store money safely and earn interest", "To encourage using money entirely"],
-    "answer": "To store money safely and earn interest"
-  },
-  {
-    "question": "Which of the following is not a modern method of saving?",
-    "options": ["Online banking", "Mobile money wallets", "Money box", "Fixed deposit accounts"],
-    "answer": "Money box"
-  },
-  {
-    "question": "What does it mean to be assertive?",
-    "options": ["Avoiding all conflict", "Forcing others to do things your way", "Expressing your opinions confidently and respectfully", "Ignoring other people's opinions"],
-    "answer": "Expressing your opinions confidently and respectfully"
-  },
-  {
-    "question": "Which of the following is a quality of an assertive person?",
-    "options": ["Always saying yes to avoid problems", "Respecting both self and others", "Shouting to prove a point", "Staying silent in all situations"],
-    "answer": "Respecting both self and others"
-  },
-  {
-    "question": "A passive person usually:",
-    "options": ["Speaks up clearly and calmly", "Avoids expressing their needs", "Commands and intimidates others", "Gives orders to others"],
-    "answer": "Avoids expressing their needs"
-  },
-  {
-    "question": "Which of these best describes an aggressive person?",
-    "options": ["Avoids eye contact", "Expresses feelings calmly", "Shouts, interrupts, or threatens", "Stays quiet to please others"],
-    "answer": "Shouts, interrupts, or threatens"
-  },
-  {
-    "question": "Assertive people are known to:",
-    "options": ["Ignore their own needs", "Respect the rights of others", "Always get their way by force", "Avoid confrontation completely"],
-    "answer": "Respect the rights of others"
-  },
-  {
-    "question": "A major difference between an assertive and aggressive person is that an assertive person:",
-    "options": ["Never speaks in public", "Uses violence to express anger", "Communicates with respect", "Ignores other people's rights"],
-    "answer": "Communicates with respect"
-  },
-  {
-    "question": "Which of the following is not a trait of an assertive person?",
-    "options": ["Confidence", "Honesty", "Aggression", "Self-respect"],
-    "answer": "Aggression"
-  },
-  {
-    "question": "Passive people often feel:",
-    "options": ["Empowered and in control", "Heard and respected", "Ignored and taken for granted", "Confident and expressive"],
-    "answer": "Ignored and taken for granted"
-  },
-  {
-    "question": "What behavior does an aggressive person typically display?",
-    "options": ["Listening calmly to others", "Waiting for others to speak", "Dominating and interrupting conversations", "Avoiding confrontation"],
-    "answer": "Dominating and interrupting conversations"
-  },
-  {
-    "question": "One benefit of being assertive is:",
-    "options": ["It builds healthy relationships", "It helps you dominate others", "It allows you to avoid communication", "It prevents others from speaking"],
-    "answer": "It builds healthy relationships"
-  },
-  {
-    "question": "What is science and technology mainly concerned with?",
-    "options": ["Cooking and dancing", "Studying nature and creating useful tools", "Telling stories", "Making laws only"],
-    "answer": "Studying nature and creating useful tools"
-  },
-  {
-    "question": "Which of the following is a benefit of science and technology?",
-    "options": ["Slows down communication", "Increases poverty", "Improves healthcare and communication", "Causes ignorance"],
-    "answer": "Improves healthcare and communication"
-  },
-  {
-    "question": "One importance of science and technology in education is:",
-    "options": ["Making textbooks disappear", "Enhancing teaching and learning through digital tools", "Removing teachers from schools", "Discouraging reading"],
-    "answer": "Enhancing teaching and learning through digital tools"
-  },
-  {
-    "question": "What is traditional science and technology?",
-    "options": ["Imported knowledge from other countries", "Ancient practices based on local knowledge and experience", "Teaching in foreign languages", "Ignoring local materials"],
-    "answer": "Ancient practices based on local knowledge and experience"
-  },
-  {
-    "question": "Which of the following is an example of traditional science and technology?",
-    "options": ["Electric iron", "Digital camera", "Local blacksmithing", "Robot production"],
-    "answer": "Local blacksmithing"
-  },
-  {
-    "question": "Traditional technology was mainly based on:",
-    "options": ["Guesswork", "Formal experiments only", "Observation, trial and error", "Foreign inventions"],
-    "answer": "Observation, trial and error"
-  },
-  {
-    "question": "One importance of modern science and technology in agriculture is:",
-    "options": ["Reducing food production", "Wasting land", "Increasing crop yield through machines and chemicals", "Discouraging farmers"],
-    "answer": "Increasing crop yield through machines and chemicals"
-  },
-  {
-    "question": "Which of the following is a traditional method of food preservation?",
-    "options": ["Refrigeration", "Drying and smoking", "Canning", "Freezing"],
-    "answer": "Drying and smoking"
-  },
-  {
-    "question": "Which of the following best shows the impact of science and technology in transportation?",
-    "options": ["Use of donkeys only", "Walking long distances", "Use of cars, trains, and airplanes", "Sending letters through birds"],
-    "answer": "Use of cars, trains, and airplanes"
-  },
-{
-    "question": "In traditional African societies, science and technology was used to:",
-    "options": ["Build mud houses and craft tools", "Create mobile phones", "Develop space programs", "Invent the internet"],
-    "answer": "Build mud houses and craft tools"
-},
-{
-    "question": "Which of the following is an example of a gender stereotype?",
+    "number": 11,
+    "question": "Wants as opposed to demands",
     "options": [
-      "Boys and girls can play football",
-      "Girls are not good at science",
-      "Everyone should be treated equally",
-      "Women can become doctors"
+      "Depends on the price",
+      "Are the goods the consumer plans to acquire",
+      "Are the unlimited desires of the consumer",
+      "Are the goods the consumer has acquired"
     ],
-    "answer": "Girls are not good at science"
-},
-  {
-    "question": "What is gender equality?",
-    "options": [
-      "Giving women more power than men",
-      "Treating one gender better than the other",
-      "Equal rights and opportunities for all genders",
-      "Making girls work harder than boys"
-    ],
-    "answer": "Equal rights and opportunities for all genders"
+    "answer": "Are the unlimited desires of the consumer"
   },
   {
-    "question": "Which of these is a traditional gender role for men in many societies?",
+    "number": 12,
+    "question": "Who saw Economics as an inquiry into the nature and causes of the wealth of nations?",
     "options": [
-      "Cooking and cleaning",
-      "Sewing clothes",
-      "Farming and providing for the family",
-      "Babysitting"
+      "Adam Smith",
+      "Alfred Marshal",
+      "A.C. Pigou",
+      "Davenport"
     ],
-    "answer": "Farming and providing for the family"
+    "answer": "A.C. Pigou"
   },
   {
-    "question": "Why is gender equality important in society?",
+    "number": 13,
+    "question": "Production is completed when",
     "options": [
-      "To limit women’s rights",
-      "To increase division between genders",
-      "To allow everyone to reach their full potential",
-      "To give men more leadership roles"
+      "raw materials are converted into finished goods",
+      "goods reach the final consumer",
+      "goods are taken to the warehouse",
+      "when utility is added"
     ],
-    "answer": "To allow everyone to reach their full potential"
+    "answer": "goods reach the final consumer"
   },
   {
-    "question": "Which of the following is a false belief caused by gender stereotype?",
+    "number": 14,
+    "question": "The reward accrued to capital in production is",
     "options": [
-      "Men and women can be leaders",
-      "Girls are too emotional to make decisions",
-      "Boys and girls can learn equally",
-      "Women can be engineers"
+      "Interest",
+      "Wages",
+      "Salary",
+      "Profit"
     ],
-    "answer": "Girls are too emotional to make decisions"
+    "answer": "Interest"
+  },
+  {
+    "number": 15,
+    "question": "The following factors affect demand except",
+    "options": [
+      "Income",
+      "other prices",
+      "Habit",
+      "Inferiority"
+    ],
+    "answer": "Inferiority"
+  },
+  {
+    "number": 16,
+    "question": "Economics as a field of study is a",
+    "options": [
+      "Social science",
+      "Pure science",
+      "Political science",
+      "Physical science"
+    ],
+    "answer": "Social science"
+  },
+  {
+    "number": 17,
+    "question": "If a student decides to buy rice instead of beans, which of the following principle is applicable?",
+    "options": [
+      "Choice",
+      "Opportunity cost",
+      "Scale of preference",
+      "Exchange"
+    ],
+    "answer": "Choice"
+  },
+  {
+    "number": 18,
+    "question": "One of the following are noticeable similarity between economics and physics",
+    "options": [
+      "Demand",
+      "Generalizations",
+      "Graph",
+      "Choice"
+    ],
+    "answer": "Graph"
+  },
+  {
+    "number": 19,
+    "question": "The study of Economics becomes necessary because of the",
+    "options": [
+      "Large population size of the world",
+      "Scarcity of resources",
+      "Opportunity cost of goods and services",
+      "Need to satisfy every desire of man"
+    ],
+    "answer": "Scarcity of resources"
+  },
+  {
+    "number": 20,
+    "question": "Scale of preference shows",
+    "options": [
+      "Income of consumers in order of size",
+      "Utilities enjoyed by consumers",
+      "Opportunity cost of goods consumed",
+      "Consumers' wants in order of priority"
+    ],
+    "answer": "Consumers' wants in order of priority"
+  },
+  {
+    "number": 21,
+    "question": "Economics is often described as a science because it",
+    "options": [
+      "Adopts the use of laboratory experiments",
+      "Involves accurate prediction of human beings",
+      "Makes use of controlled experiments",
+      "Uses scientific methods to explain observed phenomena"
+    ],
+    "answer": "Uses scientific methods to explain observed phenomena"
+  },
+  {
+    "number": 22,
+    "question": "The foregone alternative in Economics is simply the",
+    "options": [
+      "Marginal cost",
+      "Cost of a foregone product",
+      "Total cost",
+      "Opportunity cost"
+    ],
+    "answer": "Opportunity cost"
+  },
+  {
+    "number": 23,
+    "question": "Economic problems arise mainly as a result of",
+    "options": [
+      "Inaccurate statistical data in West Africa",
+      "Excessive wastage of available resources",
+      "Lack of foresight on the part of resource users",
+      "Limitations in availability of resources"
+    ],
+    "answer": "Limitations in availability of resources"
+  },
+  {
+    "number": 24,
+    "question": "The decision on what to produce is a problem in",
+    "options": [
+      "All economic systems",
+      "A mixed economic system only",
+      "A democratic socialist economy only",
+      "A free enterprise system only"
+    ],
+    "answer": "All economic systems"
+  },
+  {
+    "number": 25,
+    "question": "An arrangement of data in rows and columns is referred to as a",
+    "options": [
+      "Graph",
+      "Bar chart",
+      "Pie chart",
+      "Table"
+    ],
+    "answer": "Table"
+  },
+  {
+    "number": 26,
+    "question": "Which of the following best describes the mode?",
+    "options": [
+      "Observation with highest frequency",
+      "Average of two middle numbers",
+      "Item that occupies the middle position",
+      "Difference of two extreme values"
+    ],
+    "answer": "Observation with highest frequency"
+  },
+  {
+    "number": 27,
+    "question": "The movement along the same demand curve is a",
+    "options": [
+      "Change in demand",
+      "Change in quantity demanded",
+      "Shift in demand",
+      "Market demand"
+    ],
+    "answer": "Change in quantity demanded"
+  },
+  {
+    "number": 28,
+    "question": "Giffen commodities are those commodities",
+    "options": [
+      "Which give rise to a cobweb situation",
+      "For which demand increases as price increases",
+      "Which have a low price elasticity of demand",
+      "Which are in short supply"
+    ],
+    "answer": "For which demand increases as price increases"
+  },
+  {
+    "number": 29,
+    "question": "Which of the following is a luxury item?",
+    "options": [
+      "Petrol",
+      "Textbook",
+      "Pencil",
+      "Gold"
+    ],
+    "answer": "Gold"
+  },
+  {
+    "number": 30,
+    "question": "If the demand function is Qd = -0.5p + 20. Calculate the quantity demanded when price is $15.00.",
+    "options": [
+      "-$27.50",
+      "-$12.50",
+      "$12.50",
+      "$27.50"
+    ],
+    "answer": "$12.50"
+  },
+  {
+    "number": 31,
+    "question": "There is unemployment of resources when production is",
+    "options": [
+      "Within the production possibility curve",
+      "Outside the production possibility curve",
+      "Along the production possibility curve",
+      "Adequate to meet market demand"
+    ],
+    "answer": "Within the production possibility curve"
+  },
+  {
+    "number": 32,
+    "question": "Increase in supply of a product can be caused by",
+    "options": [
+      "Change in taste and fashion of consumers",
+      "Increase in the incomes of consumers",
+      "A fall in the cost of production",
+      "Increase in the price of a product"
+    ],
+    "answer": "A fall in the cost of production"
+  },
+  {
+    "number": 33,
+    "question": "Supply in economics means making",
+    "options": [
+      "Goods and services available to consumers",
+      "Goods available to the market at a given price and at a given period",
+      "Available the goods and services which consumers require",
+      "Only goods which are available to consumers"
+    ],
+    "answer": "Goods available to the market at a given price and at a given period"
+  },
+  {
+    "number": 34,
+    "question": "Goods which have to be paid for are known as",
+    "options": [
+      "Physical goods",
+      "Economic goods",
+      "Free goods",
+      "Intangible goods"
+    ],
+    "answer": "Economic goods"
+  },
+  {
+    "number": 35,
+    "question": "Warehousing is an economic activity that falls under",
+    "options": [
+      "Tertiary production",
+      "Intermediate production",
+      "Secondary production",
+      "Primary production"
+    ],
+    "answer": "Tertiary production"
+  },
+  {
+    "number": 36,
+    "question": "The demand for labour is",
+    "options": [
+      "Composite demand",
+      "Derived demand",
+      "Joint demand",
+      "Competitive demand"
+    ],
+    "answer": "Derived demand"
+  },
+  {
+    "number": 37,
+    "question": "The money payment made to owners of land and labour are",
+    "options": [
+      "Rent and wages",
+      "Interest and profit",
+      "Wages and interest",
+      "Dividends and salary"
+    ],
+    "answer": "Rent and wages"
+  },
+  {
+    "number": 38,
+    "question": "Human development can be improved if",
+    "options": [
+      "Banks give more loans to businessmen",
+      "Large family sizes are encouraged",
+      "General education and training is encouraged",
+      "It is handled by the private sector only"
+    ],
+    "answer": "General education and training is encouraged"
+  },
+  {
+    "number": 39,
+    "question": "Capital as a factor of production is important because",
+    "options": [
+      "It enables us to carry out tasks which cannot be done by human effort only",
+      "Most tasks can be done with bare hands",
+      "People can work without capital",
+      "It provides money which is essential for the growth of business"
+    ],
+    "answer": "It provides money which is essential for the growth of business"
+  },
+  {
+    "number": 40,
+    "question": "One important feature of sole proprietorship is that",
+    "options": [
+      "It is limited liability business",
+      "The business is owned by shareholders",
+      "One person bears all the risk",
+      "It is a legal entity"
+    ],
+    "answer": "One person bears all the risk"
+  },
+  {
+    "number": 41,
+    "question": "A business outfit is said to be a public limited company when it",
+    "options": [
+      "Is owned by government",
+      "Operated as a public corporation",
+      "Is run by the public",
+      "Sells its shares to members of the public"
+    ],
+    "answer": "Sells its shares to members of the public"
+  },
+  {
+    "number": 42,
+    "question": "Which of the following features distinguishes a public limited company from a private limited company?",
+    "options": [
+      "Perpetual existence",
+      "Limited liability",
+      "Legal entity",
+      "Sale of shares to the public"
+    ],
+    "answer": "Sale of shares to the public"
+  },
+  {
+    "number": 43,
+    "question": "The movement of labour from one grade to one entirely different grade is an example of",
+    "options": [
+      "Industrial labour mobility",
+      "Horizontal occupational mobility",
+      "Vertical occupational mobility",
+      "Geographical mobility"
+    ],
+    "answer": "Horizontal occupational mobility"
+  },
+  {
+    "number": 44,
+    "question": "When a worker changes from one type of job to another it is called",
+    "options": [
+      "Geographical mobility of labour",
+      "Occupational mobility of labour",
+      "Immobility of labour",
+      "Rural-urban migration"
+    ],
+    "answer": "Occupational mobility of labour"
+  },
+  {
+    "number": 45,
+    "question": "Subsistence farming means producing food",
+    "options": [
+      "Mainly for the need of an immediate and extended family",
+      "Crops for sale mainly",
+      "Crops mainly for export",
+      "To feed the community around"
+    ],
+    "answer": "Mainly for the need of an immediate and extended family"
+  },
+  {
+    "number": 46,
+    "question": "The central bank controls money supply through all the following except",
+    "options": [
+      "Lending to the public",
+      "Bank rate",
+      "Legal reserve requirements",
+      "Open market operations"
+    ],
+    "answer": "Lending to the public"
+  },
+  {
+    "number": 47,
+    "question": "Which of the following financial institutions was originally known as a building society?",
+    "options": [
+      "Development bank",
+      "Insurance company",
+      "Mortgage bank",
+      "Merchant bank"
+    ],
+    "answer": "Mortgage bank"
+  },
+  {
+    "number": 48,
+    "question": "Banks create money by",
+    "options": [
+      "Giving drafts to customers",
+      "Printing more money",
+      "Lending out deposit to borrowers",
+      "Issuing cheques"
+    ],
+    "answer": "Lending out deposit to borrowers"
+  },
+  {
+    "number": 49,
+    "question": "What happens when the central bank increases the bank rate?",
+    "options": [
+      "Amount of borrowing increases",
+      "Amount of borrowing decreases",
+      "Supply of money increases",
+      "Commercial banks are not affected"
+    ],
+    "answer": "Amount of borrowing decreases"
+  },
+  {
+    "number": 50,
+    "question": "Middlemen in an economy perform the function of",
+    "options": [
+      "Distribution",
+      "Exchange",
+      "Production",
+      "Consumption"
+    ],
+    "answer": "Distribution"
   }
 ]
-
-
