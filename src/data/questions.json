@@ -1,303 +1,133 @@
 [
   {
-    "number": 1,
-    "question": "_______is an electronic communication network that connect computers and organizational computer facilities around the world.",
-    "options": ["radio", "telephone", "G-mail", "E-mail", "Internet"],
-    "answer": "Internet"
+    "instruction": "From the options lettered A – D, choose the word that contains the same sound as the one represented by the letter(s) underlined.",
+    "questions": [
+      {"number": 1, "question": "<u>th</u>aw", "options": ["light", "athlete", "writhe", "worthy"], "answer": "athlete"},
+      {"number": 2, "question": "<u>ch</u>oice", "options": ["change", "chorus", "chic", "sure"], "answer": "change"},
+      {"number": 3, "question": "fl<u>ee</u>ce", "options": ["pet", "raise", "gift", "key"], "answer": "key"},
+      {"number": 4, "question": "f<u>er</u>n", "options": ["eureka", "merge", "heart", "beryl"], "answer": "merge"},
+      {"number": 5, "question": "<u>awe</u>", "options": ["bale", "bore", "low", "bough"], "answer": "bore"},
+      {"number": 6, "question": "th<u>ough</u>t", "options": ["lout", "flat", "claw", "coach"], "answer": "claw"},
+      {"number": 7, "question": "t<u>e</u>nt", "options": ["apple", "sat", "bare", "starry"], "answer": "bare"},
+      {"number": 8, "question": "l<u>ea</u>gue", "options": ["dead", "critique", "willing", "fit"], "answer": "critique"},
+      {"number": 9, "question": "pol<u>i</u>ce", "options": ["lice", "list", "least", "lest"], "answer": "least"},
+      {"number": 10, "question": "b<u>a</u>ker", "options": ["debt", "lamb", "plumber", "humble"], "answer": "humble"},
+      {"number": 11, "question": "j<u>ou</u>rney", "options": ["ugly", "four", "couple", "earth"], "answer": "earth"},
+      {"number": 12, "question": "g<u>ui</u>tar", "options": ["circuit", "seize", "fruit", "quay"], "answer": "circuit"},
+      {"number": 13, "question": "b<u>ough</u>", "options": ["now", "boo", "young", "bought"], "answer": "now"},
+      {"number": 14, "question": "g<u>uar</u>d", "options": ["gourd", "clerk", "man", "guest"], "answer": "clerk"},
+      {"number": 15, "question": "h<u>eigh</u>t", "options": ["eight", "heir", "rye", "weight"], "answer": "rye"},
+      {"number": 16, "question": "ri<u>t</u>ual", "options": ["taste", "rite", "watch", "it"], "answer": "watch"},
+      {"number": 17, "question": "<u>d</u>en", "options": ["bathe", "then", "laid", "they"], "answer": "laid"},
+      {"number": 18, "question": "s<u>er</u>ve", "options": ["curtsy", "surprise", "currant", "courtship"], "answer": "curtsy"},
+      {"number": 19, "question": "h<u>ur</u>dle", "options": ["hurray", "bird", "shop", "bundle"], "answer": "bird"},
+      {"number": 20, "question": "so<u>ng</u>", "options": ["snag", "thing", "stone", "smog"], "answer": "thing"}
+    ]
   },
   {
-    "number": 2,
-    "question": "_______means international networking.",
-    "options": ["G.S.M", "calculator", "satellite", "telex", "internet"],
-    "answer": "internet"
+    "instruction": "From the words lettered A to D, choose the word that contains the sound represented by the given phonetic symbol.",
+    "questions": [
+      {"number": 21, "question": "/s/", "options": ["purse", "pause", "rose", "hose"], "answer": "purse"},
+      {"number": 22, "question": "/k/", "options": ["ankle", "hike cell", "knife"], "answer": "ankle"},
+      {"number": 23, "question": "/ʌ/", "options": ["boss", "lawn", "sue", "tongue"], "answer": "tongue"},
+      {"number": 24, "question": "/ɔ:/", "options": ["cot", "plough", "claw", "young"], "answer": "young"},
+      {"number": 25, "question": "/ı:/", "options": ["fit", "seal", "sailing", "career"], "answer": "seal"},
+      {"number": 26, "question": "/ð/", "options": ["thyme", "pith", "smooth", "thin"], "answer": "smooth"},
+      {"number": 27, "question": "/ɜ:/", "options": ["class", "berserk", "exile", "supper"], "answer": "berserk"},
+      {"number": 28, "question": "/ʃ/", "options": ["rush", "chimney", "vision", "charity"], "answer": "rush"},
+      {"number": 29, "question": "/ə/", "options": ["coral", "draft", "then", "spleen"], "answer": "coral"}
+    ]
   },
   {
-    "number": 3,
-    "question": "E-mail stands for what?",
-    "options": ["Economy mail", "envelop mail", "enroll mail", "electric mail", "electronic mail"],
-    "answer": "electronic mail"
+    "instruction": "From the words lettered A to D, choose the word that rhymes with the given word.",
+    "questions": [
+      {"number": 30, "question": "shirt", "options": ["hut", "surpass", "curt", "short"], "answer": "curt"},
+      {"number": 31, "question": "coven", "options": ["covenant", "oven", "cover", "covert"], "answer": "cover"},
+      {"number": 32, "question": "invent", "options": ["repent", "invite", "apart", "import"], "answer": "repent"},
+      {"number": 33, "question": "great", "options": ["Heat", "Freight", "Boast", "Greet"], "answer": "Freight"},
+      {"number": 34, "question": "leech", "options": ["Fetch", "Witch", "Bleach", "Lease"], "answer": "Bleach"}
+    ]
   },
   {
-    "number": 4,
-    "question": "E-mail is a communication method that uses ____device.",
-    "options": ["picture", "chrome", "safari", "forex", "electronic"],
-    "answer": "electronic"
+    "instruction": "From the words lettered A to D, choose the one that has the correct stress.",
+    "questions": [
+      {"number": 35, "question": "coagulate", "options": ["CO-ag-u-late", "co-AG-u-late", "co-ag-U-late", "co-ag-u-LATE"], "answer": "co-AG-u-late"},
+      {"number": 36, "question": "delicacy", "options": ["DEL-i-ca-cy", "del-i-CA-cy", "del-i-ca-CY", "del-I-ca-cy"], "answer": "DEL-i-ca-cy"},
+      {"number": 37, "question": "incremental", "options": ["in-cre-men-TAL", "in-cre-MEN-tal", "in-CRE-men-tal", "IN-cre-men-tal"], "answer": "IN-cre-men-tal"},
+      {"number": 38, "question": "phenomenal", "options": ["PHE-no-me-nal", "phe-NO-me-nal", "phe-no-ME-nal", "phe-no-me-NAL"], "answer": "phe-NO-me-nal"},
+      {"number": 39, "question": "concessionaire", "options": ["CON-cess-ion-aire", "con-CESS-ion-iare", "con-cess-ION-iare", "con-cess-ion-AIRE"], "answer": "con-cess-ion-AIRE"}
+    ]
   },
   {
-    "number": 5,
-    "question": "All are types of E-mail except:",
-    "options": ["survey", "on-boarding", "promotional", "all of the above"],
-    "answer": "all of the above"
+    "instruction": "In the following options lettered A to D, all the words except one have the same stress pattern. Identify the one with the different stress pattern.",
+    "questions": [
+      {"number": 40, "question": "", "options": ["specific", "computer", "decision", "pacify"], "answer": "pacify"},
+      {"number": 41, "question": "", "options": ["schedule", "colleague", "success", "lemon"], "answer": "success"},
+      {"number": 42, "question": "", "options": ["lexical", "interview", "cardigan", "catharsis"], "answer": "catharsis"},
+      {"number": 43, "question": "", "options": ["humane", "exchange", "request", "purchase"], "answer": "purchase"},
+      {"number": 44, "question": "", "options": ["picture", "doctor", "pattern", "receive"], "answer": "receive"},
+      {"number": 45, "question": "", "options": ["endurance", "enterprise", "familiar", "habitual"], "answer": "endurance"}
+    ]
   },
-  {
-    "number": 6,
-    "question": "_____is sent to a new user to guide them on how to use a product.",
-    "options": ["Newspaper", "survey", "on boarding", "follow up"],
-    "answer": "on boarding"
-  },
-  {
-    "number": 7,
-    "question": "_____e-mail is designed to advertise products, service or special offers.",
-    "options": ["Transactional", "follow up", "promotional", "feedback"],
-    "answer": "promotional"
-  },
-  {
-    "number": 8,
-    "question": "_____e-mail asks recipients to share their opinions and experiences.",
-    "options": ["follow up", "transactional", "on boarding", "survey"],
-    "answer": "survey"
-  },
-  {
-    "number": 9,
-    "question": "WWW stands for what?",
-    "options": ["Who worldwide", "Wise wide web", "Web wide world", "World wide web"],
-    "answer": "World wide web"
-  },
-  {
-    "number": 10,
-    "question": "____is a software application that allows users to access and interact with the world wide web.",
-    "options": ["browser", "internet", "inherent environment", "internet browser"],
-    "answer": "internet browser"
-  },
-  {
-    "number": 11,
-    "question": "All are examples of internet browsers except one.",
-    "options": ["Internet explorer", "safari", "opera", "Net positive", "all of the above"],
-    "answer": "all of the above"
-  },
-  {
-    "number": 12,
-    "question": "How many steps are required before creating an e-mail.",
-    "options": ["1", "10", "8", "5"],
-    "answer": "5"
-  },
-  {
-    "number": 13,
-    "question": "All are benefits of the internet except one",
-    "options": ["E-learning", "access information", "job opportunity", "all of the above"],
-    "answer": "all of the above"
-  },
-  {
-    "number": 14,
-    "question": "Which of the following is an example of ICT gadget?",
-    "options": ["book", "pen", "smart phone", "ruler"],
-    "answer": "smart phone"
-  },
-  {
-    "number": 15,
-    "question": "All are abuses of the internet except one",
-    "options": ["gambling", "fraud", "cyber bullying", "pornography", "all of the above"],
-    "answer": "cyber bullying"
-  },
-  {
-    "number": 16,
-    "question": "E-learning stands for what?",
-    "options": ["Environment learning", "English learning", "electronic learning", "entrance learning"],
-    "answer": "electronic learning"
-  },
-  {
-    "number": 17,
-    "question": "______refers to the digital space where various online activities and opportunities takes place.",
-    "options": ["social media", "file sharing", "internet environment", "video call"],
-    "answer": "internet environment"
-  },
-  {
-    "number": 18,
-    "question": "All are uses of the internet except one",
-    "options": ["file sharing", "instant sharing", "all of the above", "social media"],
-    "answer": "all of the above"
-  },
-  {
-    "number": 19,
-    "question": "_______is used for sending and receiving messages including documents and files.",
-    "options": ["cap locks", "calculator", "E-mail", "speaker"],
-    "answer": "E-mail"
-  },
-  {
-    "number": 20,
-    "question": "_____is used as a real time text based communication.",
-    "options": ["Online forum", "zoom", "all of the above", "instant messaging"],
-    "answer": "all of the above"
-  },
-  {
-    "number": 21,
-    "question": "______is a system for accessing information over the internet.",
-    "options": ["Business", "Google", "yahoo", "WWW", "none of the above"],
-    "answer": "WWW"
-  },
-  {
-    "number": 22,
-    "question": "All are examples of search engines except one",
-    "options": ["WWW.google.com", "www.hotmail.com", "www.mamma.com", "none of the above"],
-    "answer": "www.mamma.com"
-  },
-  {
-    "number": 23,
-    "question": "______refers to the application of computers and technology to support and manage commercial activities.",
-    "options": ["chrome", "activities", "business strategy", "business"],
-    "answer": "business"
-  },
-  {
-    "number": 24,
-    "question": "Which of the following is a type of computer software.",
-    "options": ["keyboard", "monitor", "word processor", "mouse"],
-    "answer": "word processor"
-  },
-  {
-    "number": 25,
-    "question": "______is a software system designed to help users find information or a software program.",
-    "options": ["chatting", "search engine", "business", "www"],
-    "answer": "search engine"
-  },
-  {
-    "number": 26,
-    "question": "Computer is a/an",
-    "options": ["manual device", "automatic device", "electronic device", "electric device"],
-    "answer": "electronic device"
-  },
-  {
-    "number": 27,
-    "question": "______has been modernized and can be played online as betting.",
-    "options": ["gambling", "betting", "fraud", "cyber bullying"],
-    "answer": "gambling"
-  },
-  {
-    "number": 28,
-    "question": "______are websites and apps that allows users and organizations to correct, communicate and share information.",
-    "options": ["social network", "social", "social tools", "browser"],
-    "answer": "social network"
-  },
-  {
-    "number": 29,
-    "question": "_____refers to online platforms and application that facilitates connection and information sharing between individuals and group.",
-    "options": ["social networking tool", "social network", "safari", "chrome"],
-    "answer": "social networking tool"
-  },
-  {
-    "number": 30,
-    "question": "All are examples of social networking tools and application except one.",
-    "options": ["Facebook", "all of the above", "whatsapp", "YouTube"],
-    "answer": "all of the above"
-  },
-  {
-    "number": 31,
-    "question": "______refers to the use set of commonly agreed principles that governs the use of computer.",
-    "options": ["Instagram", "computer ethics", "chrome", "safari"],
-    "answer": "computer ethics"
-  },
-  {
-    "number": 32,
-    "question": "All are responsible ways of using the computer and internet except one.",
-    "options": ["respect privacy of others", "respect copyrights and licenses", "always identify the user accurately", "all of the above"],
-    "answer": "respect copyrights and licenses"
-  },
-  {
-    "number": 33,
-    "question": "Which of these is not an area of misuse of computer",
-    "options": ["online fraud", "spam", "hacking", "all of the above"],
-    "answer": "all of the above"
-  },
-  {
-    "number": 34,
-    "question": "Computer ______are precautions and rules designed to protect individuals and equipment from danger while using the computer.",
-    "options": ["computer ethics", "ethics", "room safety measures", "safety"],
-    "answer": "room safety measures"
-  },
-  {
-    "number": 35,
-    "question": "______reduces reflection and making the display easier to see.",
-    "options": ["Anti glare", "anty glare", "anti grade", "none o the above"],
-    "answer": "Anti glare"
-  },
-  {
-    "number": 36,
-    "question": "______can be defined as an electronic device",
-    "options": ["component", "commerce", "computer", "Google"],
-    "answer": "computer"
-  },
-  {
-    "number": 37,
-    "question": "_______is a group of interconnected devices.",
-    "options": ["Computer network", "none of the above", "personal area network", "network"],
-    "answer": "network"
-  },
-  {
-    "number": 38,
-    "question": "______refers to interconnected computing devices that can exchange data to share resources.",
-    "options": ["safari", "forex", "fraud", "computer network"],
-    "answer": "computer network"
-  },
-  {
-    "number": 39,
-    "question": "All are types of computer network except",
-    "options": ["PAN", "LAN", "MAN", "WAN", "All of the above"],
-    "answer": "All of the above"
-  },
-  {
-    "number": 40,
-    "question": "PAN stands for what?",
-    "options": ["personal area network", "private arena noun", "public arena network", "none of the above"],
-    "answer": "personal area network"
-  },
-  {
-    "number": 41,
-    "question": "LAN stands for what?",
-    "options": ["Local area network", "law area network", "lesson attribute network", "none of the above"],
-    "answer": "Local area network"
-  },
-  {
-    "number": 42,
-    "question": "MAN stands for what?",
-    "options": ["Metropolitan area network", "metro arena network", "memorandum arena network", "none of the above"],
-    "answer": "Metropolitan area network"
-  },
-  {
-    "number": 43,
-    "question": "WAN stands for",
-    "options": ["Wide area network", "Web area network", "World area network", "none of the above"],
-    "answer": "Wide area network"
-  },
-  {
-    "number": 44,
-    "question": "We have _____types of computer network",
-    "options": ["5", "6", "4", "8"],
-    "answer": "4"
-  },
-  {
-    "number": 45,
-    "question": "Which of these is not an advantage of computer network.",
-    "options": ["security", "remote access", "all of the above", "resource sharing"],
-    "answer": "all of the above"
-  },
-  {
-    "number": 46,
-    "question": "All are disadvantages of computer network except one",
-    "options": ["health issues", "lack of productivity", "all of the above", "spread of computer viruses"],
-    "answer": "all of the above"
-  },
-  {
-    "number": 47,
-    "question": "Which of these is the use of computer.",
-    "options": ["It helps to send e-mail", "it helps to play game", "it helps to draw picture", "it helps to use the internet", "all of the above"],
-    "answer": "all of the above"
-  },
-  {
-    "number": 48,
-    "question": "Which of the following is an example of storage devices.",
-    "options": ["keyboard", "monitor", "hard drive", "printer"],
-    "answer": "hard drive"
-  },
-  {
-    "number": 49,
-    "question": "E-mail stand for what?",
-    "options": ["electric mail", "entrance mail", "electronic mail", "entrance mail"],
-    "answer": "electronic mail"
-  },
-  {
-    "number": 50,
-    "question": "G-mail stands for ?",
-    "options": ["Gramatic mail", "grammer mail", "google mail", "gross mail"],
-    "answer": "google mail"
-  }
+{
+  "instruction": "In each of the following sentences, the word that receives the emphatic stress is written in capital letters. From the questions lettered A to D, choose the one to which the given sentence is the appropriate answer.",
+  "questions": [
+    {
+      "number": 46,
+      "question": "Tolu watched the football match with Tope's BROTHER.",
+      "options": [
+        "Did Tolu watch the hockey match with Tope's brother?",
+        "Did Tolu watch the football match with Tope's sister?",
+        "Did Tolu watch the football match with Ann's brother?",
+        "Did Emeka watch the football match with Tope's brother?"
+      ],
+      "answer": "Did Tolu watch the football match with Tope's sister?"
+    },
+    {
+      "number": 47,
+      "question": "The Nigerian FOOTBALL team has many foreign players.",
+      "options": [
+        "Does the South African football team have many foreign players?",
+        "Does the Nigerian volley ball team have many foreign players?",
+        "Does the Nigerian football team have few foreign players?",
+        "Does the Nigerian football team have many foreign coaches?"
+      ],
+      "answer": "Does the Nigerian volley ball team have many foreign players?"
+    },
+    {
+      "number": 48,
+      "question": "Ada bought her father a big HOUSE.",
+      "options": [
+        "Did Ada buy her mother a big house?",
+        "Did Obi buy her father a big house?",
+        "Did Ada buy her father a big car?",
+        "Did Ada buy her father a small house?"
+      ],
+      "answer": "Did Ada buy her father a big car?"
+    },
+    {
+      "number": 49,
+      "question": "Jane borrowed her mother's HAT for the party.",
+      "options": [
+        "Did Susan borrow her mother's hat for the party?",
+        "Did Jane steal her mother's hat for the party?",
+        "Did Jane borrow her father's hat for the party?",
+        "Did Jane borrow her mother's dress for the party?"
+      ],
+      "answer": "Did Jane borrow her mother's dress for the party?"
+    },
+    {
+      "number": 50,
+      "question": "Mr. Peter GOT his hearing aid last week.",
+      "options": [
+        "Did Mr. Peter lose his hearing aid last week?",
+        "Did Mr. Peter get his reading aid last week?",
+        "Did Mr. Peter get his hearing aid last year?",
+        "Did Mr. Peter get his reading aid last week?"
+      ],
+      "answer": "Did Mr. Peter lose his hearing aid last week?"
+    }
+  ]
+}
 ]
 
