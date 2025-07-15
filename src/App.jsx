@@ -15,6 +15,9 @@ function App() {
 const [studentName, setStudentName] = useState("");
 const [hasStarted, setHasStarted] = useState(false);
 
+
+
+
 // This is for shuffling of questions
 // Use this when you want to shuffle the questions
 useEffect(() => {
@@ -236,7 +239,7 @@ if (!hasStarted) {
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
       {/* <h2 className="text-2xl font-bold text-center text-blue-950 mb-2">THIRD TERM EXAM</h2> */}
       {/* {showScore ? studentName : "HOW WELL DO YOU KNOW SUN DREAM?"} */}
-      {showScore ? studentName : "YEAR 10 - PHYSICS"}
+      {showScore ? studentName : "YEAR 8 - COMPUTER STUDIES"}
       </h3>
 
       
@@ -248,7 +251,7 @@ if (!hasStarted) {
         <>
         <p className="text-1xl text-green-800 -mb-2  text-center"><span className="font-medium">{studentName}</span></p>
           
-          <Timer duration={2100} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
+          <Timer duration={1500} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
           {questions.length > 0 && (
             <Question
               questionObj={questions[currentQIndex]}

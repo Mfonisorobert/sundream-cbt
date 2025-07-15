@@ -1,303 +1,303 @@
 [
   {
     "number": 1,
-    "question": "Which of the following quantities is a vector?",
-    "options": ["speed", "distance", "energy", "momentum"],
-    "answer": "momentum"
+    "question": "_______is an electronic communication network that connect computers and organizational computer facilities around the world.",
+    "options": ["radio", "telephone", "G-mail", "E-mail", "Internet"],
+    "answer": "Internet"
   },
   {
     "number": 2,
-    "question": "Which of the following is a scalar quantity?",
-    "options": ["Tension", "Weight", "Impulse", "Distance"],
-    "answer": "Distance"
+    "question": "_______means international networking.",
+    "options": ["G.S.M", "calculator", "satellite", "telex", "internet"],
+    "answer": "internet"
   },
   {
     "number": 3,
-    "question": "One of the following is a derived unit",
-    "options": ["Ampere", "Kilogram", "Second", "Ohm"],
-    "answer": "Ohm"
+    "question": "E-mail stands for what?",
+    "options": ["Economy mail", "envelop mail", "enroll mail", "electric mail", "electronic mail"],
+    "answer": "electronic mail"
   },
   {
     "number": 4,
-    "question": "The dimensions of momentum are",
-    "options": ["MLT", "ML-1T-1", "MLT-1", "ML-1T"],
-    "answer": "MLT-1"
+    "question": "E-mail is a communication method that uses ____device.",
+    "options": ["picture", "chrome", "safari", "forex", "electronic"],
+    "answer": "electronic"
   },
   {
     "number": 5,
-    "question": "Which of the following is not an example of a force?",
-    "options": ["Tension", "Weight", "Friction", "Mass"],
-    "answer": "Mass"
+    "question": "All are types of E-mail except:",
+    "options": ["survey", "on-boarding", "promotional", "all of the above"],
+    "answer": "all of the above"
   },
   {
     "number": 6,
-    "question": "Which of the following has the same unit as the moment of a force?",
-    "options": ["Force", "Power", "Work", "Impulse"],
-    "answer": "Work"
+    "question": "_____is sent to a new user to guide them on how to use a product.",
+    "options": ["Newspaper", "survey", "on boarding", "follow up"],
+    "answer": "on boarding"
   },
   {
     "number": 7,
-    "question": "All are derived quantities except",
-    "options": ["Heat capacity", "Electric current", "Torque", "Reactance"],
-    "answer": "Electric current"
+    "question": "_____e-mail is designed to advertise products, service or special offers.",
+    "options": ["Transactional", "follow up", "promotional", "feedback"],
+    "answer": "promotional"
   },
   {
     "number": 8,
-    "question": "Which property of a long steel bar would alter if it were melted, recast into a cube and cooled?",
-    "options": ["Density", "Volume", "Specific heat capacity", "Electric resistance"],
-    "answer": "Density"
+    "question": "_____e-mail asks recipients to share their opinions and experiences.",
+    "options": ["follow up", "transactional", "on boarding", "survey"],
+    "answer": "survey"
   },
   {
     "number": 9,
-    "question": "An object undergoes oscillatory motion when it moves",
-    "options": ["in an erratic manner", "to and fro about a fixed point", "in a circular path", "along a continuous path from the starting point"],
-    "answer": "to and fro about a fixed point"
+    "question": "WWW stands for what?",
+    "options": ["Who worldwide", "Wise wide web", "Web wide world", "World wide web"],
+    "answer": "World wide web"
   },
   {
     "number": 10,
-    "question": "The motion of the prongs of a sounding tuning fork is",
-    "options": ["random", "translational", "rotational", "vibratory"],
-    "answer": "vibratory"
+    "question": "____is a software application that allows users to access and interact with the world wide web.",
+    "options": ["browser", "internet", "inherent environment", "internet browser"],
+    "answer": "internet browser"
   },
   {
     "number": 11,
-    "question": "A loaded test-tube, which floats upright in water is depressed and released. What describes its subsequent motion?",
-    "options": ["Circular", "Rotational", "Random", "Oscillatory"],
-    "answer": "Oscillatory"
+    "question": "All are examples of internet browsers except one.",
+    "options": ["Internet explorer", "safari", "opera", "Net positive", "all of the above"],
+    "answer": "all of the above"
   },
   {
     "number": 12,
-    "question": "Which of the following is not a consequence of a force field?",
-    "options": ["Weight", "Surface tension", "Gravitational pull", "Magnetic force"],
-    "answer": "Surface tension"
+    "question": "How many steps are required before creating an e-mail.",
+    "options": ["1", "10", "8", "5"],
+    "answer": "5"
   },
   {
     "number": 13,
-    "question": "Which of the following are contact forces? I. Force of tension II. Force of friction III. Magnetic force IV. Force of reaction.",
-    "options": ["I, II and III only", "I, II and IV only", "I, III and IV only", "II, III and IV only"],
-    "answer": "I, II and IV only"
+    "question": "All are benefits of the internet except one",
+    "options": ["E-learning", "access information", "job opportunity", "all of the above"],
+    "answer": "all of the above"
   },
   {
     "number": 14,
-    "question": "The driver of a car moving with a uniform speed of 40m/s observes a truck approaching in the opposite direction with a speed of 20m/s. calculate the speed of the car relative to that of the truck",
-    "options": ["0.5m/s", "2.0m/s", "20m/s", "60m/s"],
-    "answer": "60m/s"
+    "question": "Which of the following is an example of ICT gadget?",
+    "options": ["book", "pen", "smart phone", "ruler"],
+    "answer": "smart phone"
   },
   {
     "number": 15,
-    "question": "A car starts from rest and covers a distance of 40m in 10s. Calculate the magnitude of its acceleration ",
-    "options": ["0.25ms-2", "0.80ms-2", "3.20ms-2", "4.00ms-2"],
-    "answer": "0.80ms-2"
+    "question": "All are abuses of the internet except one",
+    "options": ["gambling", "fraud", "cyber bullying", "pornography", "all of the above"],
+    "answer": "cyber bullying"
   },
   {
     "number": 16,
-    "question": "Uniform speed occurs when there is equal change of",
-    "options": ["distance in equal times", "displacement in equal times", "velocity in equal times", "acceleration in equal times"],
-    "answer": "distance in equal times"
+    "question": "E-learning stands for what?",
+    "options": ["Environment learning", "English learning", "electronic learning", "entrance learning"],
+    "answer": "electronic learning"
   },
   {
     "number": 17,
-    "question": "A car accelerates uniformly from rest at 5ms-2. Determine it speed after 10s",
-    "options": ["50.0ms-1", "25.0ms-1", "2.0ms-1", "0.5ms-1"],
-    "answer": "50.0ms-1"
+    "question": "______refers to the digital space where various online activities and opportunities takes place.",
+    "options": ["social media", "file sharing", "internet environment", "video call"],
+    "answer": "internet environment"
   },
   {
     "number": 18,
-    "question": "A body accelerates uniformly from rest at 2ms-2. Calculate its velocity when it has travelled a distance of 9m. ",
-    "options": ["3.0m/s", "4.5m/s", "6.0m/s", "18.0m/s"],
-    "answer": "6.0m/s"
+    "question": "All are uses of the internet except one",
+    "options": ["file sharing", "instant sharing", "all of the above", "social media"],
+    "answer": "all of the above"
   },
   {
     "number": 19,
-    "question": "A bird flies at 10ms-1 for 3s, 15ms-1 for 3s and 20ms-1 for 4s. calculate the bird’s average speed? ",
-    "options": ["4.5ms-1", "15.0ms-1", "15.5ms-1", "51.7ms-1"],
-    "answer": "15.0ms-1"
+    "question": "_______is used for sending and receiving messages including documents and files.",
+    "options": ["cap locks", "calculator", "E-mail", "speaker"],
+    "answer": "E-mail"
   },
   {
     "number": 20,
-    "question": "A car moves with a speed of 30ms-1. Calculate the distance travelled in 30s.",
-    "options": ["30m", "60m", "450m", "900m"],
-    "answer": "450m"
+    "question": "_____is used as a real time text based communication.",
+    "options": ["Online forum", "zoom", "all of the above", "instant messaging"],
+    "answer": "all of the above"
   },
   {
     "number": 21,
-    "question": "Which of the following physical quantities is correctly paired with its corresponding S.I unit?",
-    "options": ["Density [kgm-3]", "Power [Js-1]", "Specific latent heat [Jkg-1K-1]", "Pressure [Nm-1]"],
-    "answer": "Density [kgm-3]"
+    "question": "______is a system for accessing information over the internet.",
+    "options": ["Business", "Google", "yahoo", "WWW", "none of the above"],
+    "answer": "WWW"
   },
   {
     "number": 22,
-    "question": "Which of the following is a fundamental quantity?",
-    "options": ["Speed", "Density", "Length", "Impulse"],
-    "answer": "Length"
+    "question": "All are examples of search engines except one",
+    "options": ["WWW.google.com", "www.hotmail.com", "www.mamma.com", "none of the above"],
+    "answer": "www.mamma.com"
   },
   {
     "number": 23,
-    "question": "A device that converts mechanical energy into electrical energy is ",
-    "options": ["Dynamo", "Electric motor", "Induction coil", "Transformer"],
-    "answer": "Dynamo"
+    "question": "______refers to the application of computers and technology to support and manage commercial activities.",
+    "options": ["chrome", "activities", "business strategy", "business"],
+    "answer": "business"
   },
   {
     "number": 24,
-    "question": "Mechanical energy can either be",
-    "options": ["Kinetic or electric", "Chemical or potential", "Potential or kinetic", "Electric or heat"],
-    "answer": "Potential or kinetic"
+    "question": "Which of the following is a type of computer software.",
+    "options": ["keyboard", "monitor", "word processor", "mouse"],
+    "answer": "word processor"
   },
   {
     "number": 25,
-    "question": "A stone of mass 0.5kg is dropped from a height of 12m. calculate its maximum kinetic energy (g=10ms-2)",
-    "options": ["3.0J", "6.0J", "30.0J", "60.0J"],
-    "answer": "60.0J"
+    "question": "______is a software system designed to help users find information or a software program.",
+    "options": ["chatting", "search engine", "business", "www"],
+    "answer": "search engine"
   },
   {
     "number": 26,
-    "question": "What does the mouthpiece of a telephone handset convert?",
-    "options": ["Electrical to sound", "Sound to electrical", "Sound to radio wave", "Radio wave to sound"],
-    "answer": "Electrical to sound"
+    "question": "Computer is a/an",
+    "options": ["manual device", "automatic device", "electronic device", "electric device"],
+    "answer": "electronic device"
   },
   {
     "number": 27,
-    "question": "Which of the following is instruments is suitable for making the most accurate measurement of the internal diameter of a test tube  ",
-    "options": ["Meter rule", "Pair of calipers", "Micrometer screw gauge", "Tape rule"],
-    "answer": "Pair of calipers"
+    "question": "______has been modernized and can be played online as betting.",
+    "options": ["gambling", "betting", "fraud", "cyber bullying"],
+    "answer": "gambling"
   },
   {
     "number": 28,
-    "question": "Power is defined as",
-    "options": ["Capacity to exert force", "Force × time", "Force × distance", "Energy per unit time"],
-    "answer": "Energy per unit time"
+    "question": "______are websites and apps that allows users and organizations to correct, communicate and share information.",
+    "options": ["social network", "social", "social tools", "browser"],
+    "answer": "social network"
   },
   {
     "number": 29,
-    "question": "An engine raises 100kg of water through a height of 60m in 20s. what is the power of the engine? (Take g=10ms-2) ",
-    "options": ["120W", "3000W", "333W", "300W"],
-    "answer": "3000W"
+    "question": "_____refers to online platforms and application that facilitates connection and information sharing between individuals and group.",
+    "options": ["social networking tool", "social network", "safari", "chrome"],
+    "answer": "social networking tool"
   },
   {
     "number": 30,
-    "question": "Calculate the quantity of charge flowing through a conductor if a current of 10A passes through the conductor for 10s. ",
-    "options": ["100C", "20C", "15C", "10C"],
-    "answer": "100C"
+    "question": "All are examples of social networking tools and application except one.",
+    "options": ["Facebook", "all of the above", "whatsapp", "YouTube"],
+    "answer": "all of the above"
   },
   {
     "number": 31,
-    "question": "Chemical balance is used for measuring",
-    "options": ["Volume", "Mass", "Thickness", "Density"],
-    "answer": "Mass"
+    "question": "______refers to the use set of commonly agreed principles that governs the use of computer.",
+    "options": ["Instagram", "computer ethics", "chrome", "safari"],
+    "answer": "computer ethics"
   },
   {
     "number": 32,
-    "question": "Which of the following is a unit of the time rate of flow of electric charges? ",
-    "options": ["Coulomb", "Ampere", "Volt", "Watt"],
-    "answer": "Ampere"
+    "question": "All are responsible ways of using the computer and internet except one.",
+    "options": ["respect privacy of others", "respect copyrights and licenses", "always identify the user accurately", "all of the above"],
+    "answer": "respect copyrights and licenses"
   },
   {
     "number": 33,
-    "question": "Each of the following physical quantities as classified as a vector or a scalar quantities. Which of the classification is correct ",
-    "options": ["Electrical potential (vector)", "Momentum (scalar)", "Gravitational field intensity (scalar)", "Magnetic flux density (vector)"],
-    "answer": "Magnetic flux density (vector)"
+    "question": "Which of these is not an area of misuse of computer",
+    "options": ["online fraud", "spam", "hacking", "all of the above"],
+    "answer": "all of the above"
   },
   {
     "number": 34,
-    "question": "The type of motion which a cylinder drum rolling down an inclined plane undergoes are   ",
-    "options": ["Circular & translational", "Rotational & translational", "Rotational & circular", "Rectilinear & circular"],
-    "answer": "Rotational & translational"
+    "question": "Computer ______are precautions and rules designed to protect individuals and equipment from danger while using the computer.",
+    "options": ["computer ethics", "ethics", "room safety measures", "safety"],
+    "answer": "room safety measures"
   },
   {
     "number": 35,
-    "question": "In which of the following situations is the expansion of a solid an advantage?  ",
-    "options": ["Buckling of railway lines", "Seizing bearings", "Sagging wires", "Bimetallic thermometers"],
-    "answer": "Bimetallic thermometers"
+    "question": "______reduces reflection and making the display easier to see.",
+    "options": ["Anti glare", "anty glare", "anti grade", "none o the above"],
+    "answer": "Anti glare"
   },
   {
     "number": 36,
-    "question": "Which of the following factors does not affect the electric resistance of a wire? ",
-    "options": ["Length", "Mass", "Temperature", "Cross-sectional area"],
-    "answer": "Mass"
+    "question": "______can be defined as an electronic device",
+    "options": ["component", "commerce", "computer", "Google"],
+    "answer": "computer"
   },
   {
     "number": 37,
-    "question": "A resistor with fixed resistance value is called ",
-    "options": ["Resistance box", "Standard resistor", "Shunt", "Multiplier"],
-    "answer": "Standard resistor"
+    "question": "_______is a group of interconnected devices.",
+    "options": ["Computer network", "none of the above", "personal area network", "network"],
+    "answer": "network"
   },
   {
     "number": 38,
-    "question": "A block of ice floats on water inside a container if the ice gets completely melted, the level of water in the container will   ",
-    "options": ["Increase", "Remain same", "Decrease", "Decrease then increase"],
-    "answer": "Increase"
+    "question": "______refers to interconnected computing devices that can exchange data to share resources.",
+    "options": ["safari", "forex", "fraud", "computer network"],
+    "answer": "computer network"
   },
   {
     "number": 39,
-    "question": "The heat from a fire in a closed room reaches someone far away in the room mainly by",
-    "options": ["Reflection", "Diffusion", "Conduction", "Radiation"],
-    "answer": "Radiation"
+    "question": "All are types of computer network except",
+    "options": ["PAN", "LAN", "MAN", "WAN", "All of the above"],
+    "answer": "All of the above"
   },
   {
     "number": 40,
-    "question": "The total area under a force-velocity graph represents",
-    "options": ["Energy", "Momentum", "Power", "Pressure"],
-    "answer": "Power"
+    "question": "PAN stands for what?",
+    "options": ["personal area network", "private arena noun", "public arena network", "none of the above"],
+    "answer": "personal area network"
   },
   {
     "number": 41,
-    "question": "The anomalous expansion of water occurs in the range?",
-    "options": ["0°C–100°C", "0°C–4°C", "4°C–100°C", "4°C–0°C"],
-    "answer": "0°C–4°C"
+    "question": "LAN stands for what?",
+    "options": ["Local area network", "law area network", "lesson attribute network", "none of the above"],
+    "answer": "Local area network"
   },
   {
     "number": 42,
-    "question": "A dry plastic comb used in combing hair was found to attract pieces of paper and dust. The most probable explanation for this phenomenon is that the comb has been given ",
-    "options": ["Magnetization by induction", "Electric induction", "Electric conduction", "Electric friction"],
-    "answer": "Electric friction"
+    "question": "MAN stands for what?",
+    "options": ["Metropolitan area network", "metro arena network", "memorandum arena network", "none of the above"],
+    "answer": "Metropolitan area network"
   },
   {
     "number": 43,
-    "question": "Some water is heated in pot the major mode (s) of heat transfer within the water is /are by   ",
-    "options": ["Conduction", "Convection", "Radiation", "Conduction and Radiation"],
-    "answer": "Convection"
+    "question": "WAN stands for",
+    "options": ["Wide area network", "Web area network", "World area network", "none of the above"],
+    "answer": "Wide area network"
   },
   {
     "number": 44,
-    "question": "Which of the following instruments can be used to compose the relative magnitude of similar charges on two given bodies?",
-    "options": ["Electrophorus", "Ebonite rod", "Proof plane", "Gold-leaf electroscope"],
-    "answer": "Gold-leaf electroscope"
+    "question": "We have _____types of computer network",
+    "options": ["5", "6", "4", "8"],
+    "answer": "4"
   },
   {
     "number": 45,
-    "question": "The space surrounding a magnet where magnetic force is exerted is called",
-    "options": ["Magnetic field", "Magnetic", "Magnetic point", "Magnetic strength"],
-    "answer": "Magnetic field"
+    "question": "Which of these is not an advantage of computer network.",
+    "options": ["security", "remote access", "all of the above", "resource sharing"],
+    "answer": "all of the above"
   },
   {
     "number": 46,
-    "question": "A negatively charged rod is held close to an uncharged metal ball on an insulating stand. The ball will",
-    "options": ["Be negatively charged", "Be positively charged", "Have excess positive charges on side nearest rod", "Have excess positive charges on side nearest the rod"],
-    "answer": "Have excess positive charges on side nearest the rod"
+    "question": "All are disadvantages of computer network except one",
+    "options": ["health issues", "lack of productivity", "all of the above", "spread of computer viruses"],
+    "answer": "all of the above"
   },
   {
     "number": 47,
-    "question": "Which of the following explains why a thick glass cup cracks when boiling water is poured into it? ",
-    "options": ["Large increase in heat capacity", "High density of water", "Unequal expansion of interior and exterior walls", "Anomalous expansion of water"],
-    "answer": "Unequal expansion of interior and exterior walls"
+    "question": "Which of these is the use of computer.",
+    "options": ["It helps to send e-mail", "it helps to play game", "it helps to draw picture", "it helps to use the internet", "all of the above"],
+    "answer": "all of the above"
   },
   {
     "number": 48,
-    "question": "Magnetic flux density is defined as the",
-    "options": ["Total magnetic lines surrounding a magnet", "Number of lines per unit area normal to field", "Strength of magnetic field around a conductor", "Magnetic force on unit pole"],
-    "answer": "Number of lines per unit area normal to field"
+    "question": "Which of the following is an example of storage devices.",
+    "options": ["keyboard", "monitor", "hard drive", "printer"],
+    "answer": "hard drive"
   },
   {
     "number": 49,
-    "question": "Which feature of electrostatic lines of force is NOT correct?",
-    "options": ["Imaginary path for positive charge", "Tangent gives field direction", "It is sometimes curved", "It can cross another line in intense field"],
-    "answer": "It can cross another line in intense field"
+    "question": "E-mail stand for what?",
+    "options": ["electric mail", "entrance mail", "electronic mail", "entrance mail"],
+    "answer": "electronic mail"
   },
   {
     "number": 50,
-    "question": "A rod of initial length 2m at a temperature of 25°C is heated to 8°C. Calculate the increase in length of the rod of its linear expansivity is 4.0 × 10⁻³K⁻¹.",
-    "options": ["0.26m", "0.44m", "0.53m", "0.14m"],
-    "answer": "0.14m"
+    "question": "G-mail stands for ?",
+    "options": ["Gramatic mail", "grammer mail", "google mail", "gross mail"],
+    "answer": "google mail"
   }
 ]
 

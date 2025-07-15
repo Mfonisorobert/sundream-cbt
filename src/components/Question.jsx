@@ -12,6 +12,13 @@ const Question = ({ questionObj, questionIndex, selectedOption, handleOptionSele
 )} */}
 {/* It instructional questions ends here */}
 
+{/* This portion underlines the words */}
+{/* <span
+  dangerouslySetInnerHTML={{
+    __html: `${questionIndex + 1}. ${questionObj.question}`,
+  }}
+/> */}
+{/* The underlining stops here */}
 
           {questionIndex + 1}. {questionObj.question}
         </h2>
