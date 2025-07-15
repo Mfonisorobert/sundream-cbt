@@ -16,7 +16,7 @@ const [studentName, setStudentName] = useState("");
 const [hasStarted, setHasStarted] = useState(false);
 
 // This is for shuffling of questions
-Use this when you want to shuffle the questions
+// Use this when you want to shuffle the questions
 useEffect(() => {
   const randomized = shuffleArray(questionsData).map((q) => ({
     ...q,
