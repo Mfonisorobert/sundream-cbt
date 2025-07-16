@@ -1,311 +1,129 @@
 [
-
-    {
-      "number": 1,
-      "question": "A literary work in which the characters are animals is a",
-      "options": ["Lampoon", "Fable", "Parody", "Pantomime"],
-      "answer": "Fable"
-    },
-    {
-      "number": 2,
-      "question": "The introductory part of a play, a novel or a poem is",
-      "options": ["Epilogue", "Plot", "Setting", "Prologue"],
-      "answer": "Prologue"
-    },
-    {
-      "number": 3,
-      "question": "A character whose actions are predictable in a literary work of art is",
-      "options": ["Round character", "Flat character", "The hero", "The villain"],
-      "answer": "Flat character"
-    },
-    {
-      "number": 4,
-      "question": "A play in which characters act through gestures and facial expression is",
-      "options": ["Mime", "Burlesque", "Farce", "Comedy"],
-      "answer": "Mime"
-    },
-    {
-      "number": 5,
-      "question": "A scene in a literary work which enacts past events is",
-      "options": ["Allusion", "Foreshadow", "Flash back", "Interlude"],
-      "answer": "Flash back"
-    },
-    {
-      "number": 6,
-      "question": "A praise poem is",
-      "options": ["Ballad", "A panegyric", "An allegory", "An epigram"],
-      "answer": "A panegyric"
-    },
-    {
-      "number": 7,
-      "question": "A poem written in an elaborate style to address or celebrate an object or event is called.",
-      "options": ["Ballad", "An epic", "A dirge", "An ode"],
-      "answer": "An ode"
-    },
-    {
-      "number": 8,
-      "question": "A literary piece used to mock or ridicule a societal practice is called?",
-      "options": ["Allegory", "Fable", "Farce", "Satire"],
-      "answer": "Satire"
-    },
-    {
-      "number": 9,
-      "question": "Dramatis personae refers to",
-      "options": ["How the characters are depicted", "The roles played by the character", "All the characters in the play", "How the characters act."],
-      "answer": "All the characters in the play"
-    },
-    {
-      "number": 10,
-      "question": "The timing and location of a literary work is",
-      "options": ["Theme", "Plot", "Setting", "Atmosphere"],
-      "answer": "Setting"
-    },
-    {
-      "number": 11,
-      "question": "The central idea of a story or a poem is the",
-      "options": ["Title", "Climax", "Theme", "Conflict"],
-      "answer": "Theme"
-    },
-    {
-      "number": 12,
-      "question": "As chapter is to prose, so is ---------to poetry",
-      "options": ["Canto", "Stanza", "Line", "Chorus"],
-      "answer": "Stanza"
-    },
-    {
-      "number": 13,
-      "question": "The way and manner in which events are arranged in a prose is",
-      "options": ["Theme", "Setting", "Point of view", "Plot"],
-      "answer": "Plot"
-    },
-    {
-      "number": 14,
-      "question": "The choice of words to create special effects is called.",
-      "options": ["Fallacy", "Atmosphere", "Mood", "Diction"],
-      "answer": "Diction"
-    },
-    {
-      "number": 15,
-      "question": "The forms of literature are",
-      "options": ["Written and type", "Oral and drama", "Oral and written", "Written and poetry"],
-      "answer": "Oral and written"
-    },
-    {
-      "number": 16,
-      "question": "A poem of fourteen lines is",
-      "options": ["Narrative", "Sonnet", "Ode", "Elegy"],
-      "answer": "Sonnet"
-    },
-    {
-      "number": 17,
-      "question": "A character that changes in the course of a play is",
-      "options": ["Round character", "Minor character", "Major character", "Flat character"],
-      "answer": "Round character"
-    },
-    {
-      "number": 18,
-      "question": "A major character whose flaws combine with external forces lead to his downfall is a",
-      "options": ["Flat character", "Round character", "Romantic hero", "Tragic hero"],
-      "answer": "Tragic hero"
-    },
-    {
-      "number": 19,
-      "question": "A narrative in which characters and events are invented is",
-      "options": ["Fiction", "Epistolary", "Auto-biography", "Biography"],
-      "answer": "Fiction"
-    },
-    {
-      "number": 20,
-      "question": "One of the following is not a form of poetry",
-      "options": ["Sonnet", "Ode", "Suspense", "Lyric"],
-      "answer": "Suspense"
-    },
-    {
-      "number": 21,
-      "question": "A play is watched by a/an",
-      "options": ["Congregation", "Group", "Audience", "Entourage"],
-      "answer": "Audience"
-    },
-    {
-      "number": 22,
-      "question": "A literary device that creates a mental picture of a situation is",
-      "options": ["Imagery", "Symbolism", "Flashback", "Epilogue"],
-      "answer": "Imagery"
-    },
-    {
-      "number": 23,
-      "question": "The most exciting and tense part of a story is the ------",
-      "options": ["Epilogue", "Climax", "Prologue", "Exposition"],
-      "answer": "Climax"
-    },
-    {
-      "number": 24,
-      "question": "The story of a person’s life written by another person is called",
-      "options": ["History", "Autobiography", "Biography", "Anthology"],
-      "answer": "Biography"
-    },
-    {
-      "number": 25,
-      "question": "The story of a person's life written by himself is called",
-      "options": ["History", "Autobiography", "Biography", "Anthology"],
-      "answer": "Autobiography"
-    },
-    {
-      "number": 26,
-      "question": "The act of giving human attributes to non-human objects is ---",
-      "options": ["Personification", "Allegory", "Anecdote", "Allusion"],
-      "answer": "Personification"
-    },
-    {
-      "number": 27,
-      "question": "Diction is a writer’s choice of",
-      "options": ["Style", "Syntax", "Rhythm", "Words"],
-      "answer": "Words"
-    },
-    {
-      "number": 28,
-      "question": "A play that moves the audience to pity and fear is a",
-      "options": ["Comedy", "Farce", "Pantomime", "Tragedy"],
-      "answer": "Tragedy"
-    },
-    {
-      "number": 29,
-      "question": "A short story performed during the pause between the acts of a longer play is",
-      "options": ["An interlude", "An epilogue", "A prologue", "An interval"],
-      "answer": "An interlude"
-    },
-    {
-      "number": 30,
-      "question": "Hamartia, in a literary work refers to a hero’s",
-      "options": ["Tragic flaw", "Inordinate ambition.", "Strength of character", "Good works"],
-      "answer": "Tragic flaw"
-    },
-
-    {
-      "number": 31,
-      "question": "From the passage, where was the feeling of the man?",
-      "options": ["Pleasure for fear", "Pleasure and excitement", "Excitement and fear", "Pain and loneliness."],
-      "answer": "Excitement and fear"
-    },
-    {
-      "number": 32,
-      "question": "\"...... new cartridge paper, as white and firm as coconut meat.\" What figure of speech is used in this statement?",
-      "options": ["Metaphor", "Allusion", "Simile", "Assonance"],
-      "answer": "Simile"
-    },
-    {
-      "number": 33,
-      "question": "\"The one was as rare as the other\". The above statement means he",
-      "options": [
-        "Always had much time and responsibility on his hands.",
-        "Was overwhelmed by the thought of having a whole day to himself",
-        "Was overwhelmed by the thought of having so huge a responsibility",
-        "Seldom had so much and responsibility on his hands."
-      ],
-      "answer": "Seldom had so much and responsibility on his hands."
-    },
-    {
-      "number": 34,
-      "question": "From the passage, the man is possibly",
-      "options": ["An engineer", "A chemist", "An artist", "A manager"],
-      "answer": "An artist"
-    },
-    {
-      "number": 35,
-      "question": "The word ‘laboriously’ as used in the passage above shows his",
-      "options": ["Time wasting", "Care in preparation", "Measurement", "Ruling of lines."],
-      "answer": "Care in preparation"
-    },
-    {
-      "number": 36,
-      "question": "What was the first thing the man did in the office?",
-      "options": ["He straightened things up", "He worked laboriously", "He lit a cigarette", "He cleared the office"],
-      "answer": "He cleared the office"
-    },
-    {
-      "number": 37,
-      "question": "The word overwhelmed as used in the passage means",
-      "options": ["Beaten up", "Trampled up", "Overtaken", "Weighed down"],
-      "answer": "Overtaken"
-    },
-    {
-      "number": 38,
-      "question": "\"He smelt the chemist's smell of the shiny greenish tracing paper\". The quotation is an example of",
-      "options": ["Repetition", "Assonance", "Onomatopoeia", "Alliteration"],
-      "answer": "Onomatopoeia"
-    },
-    {
-      "number": 39,
-      "question": "\"He found that his hands were trembling very slightly.” Why?",
-      "options": ["He was happy", "He was depressed", "He was excited", "He was sad."],
-      "answer": "He was excited"
-    },
-    {
-      "number": 40,
-      "question": "Which of the following is a feature of style in the passage?",
-      "options": ["Listing", "Counting", "Measuring", "Numbering"],
-      "answer": "Measuring"
-    },
-        {
-      "number": 41,
-      "question": "The person talked about in the poem appears to have all but",
-      "options": ["Riches", "Security", "Happiness", "The company of Richard Cory"],
-      "answer": "Happiness"
-    },
-    {
-      "number": 42,
-      "question": "The rhyme scheme of the poem is",
-      "options": ["ABABCDCD", "ABBCABCD", "ABBACDDC", "ABBAABBA"],
-      "answer": "ABABCDCD"
-    },
-    {
-      "number": 43,
-      "question": "In the end, the 'we' in the poem can be said to be?",
-      "options": ["Indignant", "Indifferent", "Disillusioned", "Betrayed"],
-      "answer": "Disillusioned"
-    },
-    {
-      "number": 44,
-      "question": "Line 2 of the poem suggests that the person talked about -----+",
-      "options": ["Was well educated", "Attended the best school", "Attended schools in grace country", "Had good social manners?"],
-      "answer": "Had good social manners?"
-    },
-    {
-      "number": 45,
-      "question": "Line 6 of the poem illustrates the use of",
-      "options": ["Oxymoron", "Metaphor", "Hyperbole", "Innuendo"],
-      "answer": "Metaphor"
-    },
-    {
-      "number": 46,
-      "question": "His blue shirt | Billows in the breeze | Like a tattered kite. The line two of the poem illustrates the use of",
-      "options": ["Oxymoron", "Metaphor", "Alliteration", "None of the above."],
-      "answer": "Alliteration"
-    },
-    {
-      "number": 47,
-      "question": "\"Like a tattered kite\" as used in the poem in question number 46 is an example of",
-      "options": ["Simile", "Euphemism", "Hyperbole", "Assonance"],
-      "answer": "Simile"
-    },
-    {
-      "number": 48,
-      "question": "The mood of the speaker is that of",
-      "options": ["Hopelessness", "Optimism", "Pessimism", "Suppression"],
-      "answer": "Optimism"
-    },
-    {
-      "number": 49,
-      "question": "The expression 'The new rains' as used in the passage typifies",
-      "options": ["Faith", "Hope", "Frustration", "Agony"],
-      "answer": "Hope"
-    },
-   {
-      "number": 50,
-      "question": "Which of the following poets defines poetry as a \"spontaneous flow of emotion\"?",
-      "options": ["John Donne", "William Blake", "William Wordsworth", "Lenrie Peters"],
-      "answer": "William Wordsworth"
-    }
-  ]
-
+    { "number": 1, "question": "A document from a supplier notifying a customer that undercharge has been made is called ______note.", "options": ["credit", "account", "profit", "debit"], "answer": "debit" },
+    { "number": 2, "question": "_____ is for keeping records of mail that comes into an office.", "options": ["Dispatch book", "Order book", "Inward book", "Outward book"], "answer": "Inward book" },
+    { "number": 3, "question": "An office equipment used to make holes neatly on papers is called ______.", "options": ["stapler", "typewriter", "photocopier", "perforator"], "answer": "perforator" },
+    { "number": 4, "question": "One of these is not a procedure for making payment", "options": ["bank draft", "cash", "cheques", "receipts"], "answer": "receipts" },
+    { "number": 5, "question": "A payment voucher does not carry one of the following information", "options": ["name and address of the issuing organization", "the travelling expenses incurred", "name and signature of the accountant of the issuing organization", "house address"], "answer": "the travelling expenses incurred" },
+    { "number": 6, "question": "A receipt is a/an", "options": ["credit note", "means of payment", "evidence of payment", "means of exchange"], "answer": "evidence of payment" },
+    { "number": 7, "question": "Transparency in business means", "options": ["being simple", "acting without hiding facts", "hiding facts in business", "prudent spending"], "answer": "acting without hiding facts" },
+    { "number": 8, "question": "The _____ is the first person one sees after the security gate while visiting any organization.", "options": ["manager", "security", "office clerk", "receptionist"], "answer": "receptionist" },
+    { "number": 9, "question": "The document that shows the particular of people that visit the organization is called", "options": ["diary", "visitor’s book", "visitors slip", "directory"], "answer": "visitor’s book" },
+    { "number": 10, "question": "The book which helps the receptionist find name and address of telephone owners is called ______.", "options": ["telephone directory", "telephone book", "telephone list", "letters and parcels"], "answer": "telephone directory" },
+    { "number": 11, "question": "A book where particulars of letters that are sent out of the organization are recorded is called _____.", "options": ["dispatch book", "outward correspondence", "postage book", "inward slip"], "answer": "outward correspondence" },
+    { "number": 12, "question": "_____ is the act of storing goods until they are needed.", "options": ["Transportation", "Warehousing", "Advertising", "Trading"], "answer": "Warehousing" },
+    { "number": 13, "question": "An individual who works for himself is said to be a/an", "options": ["entrepreneur", "enterprise", "employer", "a sole proprietor"], "answer": "a sole proprietor" },
+    { "number": 14, "question": "The end user of a product is regarded as the", "options": ["producer", "wholesaler", "retailer", "consumer"], "answer": "consumer" },
+    { "number": 15, "question": "In order to make profit, the producer sells his products", "options": ["above cost", "below cost", "equal cost", "above control"], "answer": "above cost" },
+    { "number": 16, "question": "_____ is sent to the buyer when goods are supplied.", "options": ["Delivery note", "Dispatch note", "Bill of exchange", "Invoice"], "answer": "Delivery note" },
+    { "number": 17, "question": "The officer that sorts out incoming mails is the", "options": ["receptionist", "mail clerk", "messenger", "managing director"], "answer": "mail clerk" },
+    { "number": 18, "question": "Visitors on arrival are made to sign a ____.", "options": ["typing document", "request form", "diary", "visitors book"], "answer": "visitors book" },
+    { "number": 19, "question": "A receptionist must be _____.", "options": ["tactful", "proud", "a fighter", "dirty"], "answer": "tactful" },
+    { "number": 20, "question": "One of the duties of a receptionist is to ___.", "options": ["welcome visitors politely", "welcome visitors rudely", "insult visitors", "embarrass visitors"], "answer": "welcome visitors politely" },
+    { "number": 21, "question": "______ is the receiving and exchange of letters in an organization.", "options": ["Office document", "Office correspondence", "Stamping of mail", "Sorting of letters"], "answer": "Office correspondence" },
+    { "number": 22, "question": "Books which give record of all mails received by an organization is _____.", "options": ["outward book", "inside book", "inward book", "visitors book"], "answer": "outward book" },
+    { "number": 23, "question": "Mails sent out of an organization are recorded in ______.", "options": ["postage book", "inwards book", "outward book", "outside book"], "answer": "outward book" },
+    { "number": 24, "question": "One of the procedures for handling an incoming mail is _____.", "options": ["mail sorting", "disposing mail", "keeping mail", "closing mail"], "answer": "mail sorting" },
+    { "number": 25, "question": "Mails collected must be ______.", "options": ["kept in the bank", "sent off", "burnt", "registered"], "answer": "registered" },
+    { "number": 26, "question": "The postage book shows a letter has been ______.", "options": ["sent", "signed", "posted", "accepted"], "answer": "posted" },
+    { "number": 27, "question": "Disposal simply means ______.", "options": ["keeping letter", "destroyed letter", "arranged letter", "sorted letter"], "answer": "destroyed letter" },
+    { "number": 28, "question": "Dispatching is usually done by the", "options": ["officer on duty", "office clerks", "open office", "outdoor worker"], "answer": "office clerks" },
+    { "number": 29, "question": "_____ is used to stamp large volume of letters.", "options": ["Ceiling machine", "Franking machine", "Sealing machine", "Stamp"], "answer": "Franking machine" },
+    { "number": 30, "question": "The ______ deliver letters by hand.", "options": ["jobberman", "dispatch rider", "rough rider", "bike rider"], "answer": "dispatch rider" },
+    { "number": 31, "question": "Example of goods include all except", "options": ["cocoa", "tomatoes", "rubber", "oil"], "answer": "oil" },
+    { "number": 32, "question": "One of these is a definition of distribution in commerce", "options": ["when oil is poured on the ground its spreads", "water dam that has many channels", "the putting of men into strategic places", "the passing of goods to various people who need them"], "answer": "the passing of goods to various people who need them" },
+    { "number": 33, "question": "The process of making goods and services available to the consumer is called _____.", "options": ["communication", "distribution", "modulation", "transportation"], "answer": "distribution" },
+    { "number": 34, "question": "A place where variety of products are made available for the purpose of buying and selling is called", "options": ["bank", "capital market", "market", "stock market"], "answer": "market" },
+    { "number": 35, "question": "The main reason why an individual engages in business is to", "options": ["develop his immediate community", "ensure wide distribution of goods", "executive philanthropic projects", "make a living through profit realization"], "answer": "make a living through profit realization" },
+    { "number": 36, "question": "The person that commits its financial resources to enjoy a product is called", "options": ["consumer", "marketer", "producer", "retailer"], "answer": "consumer" },
+    
+  {
+    "number": 37,
+    "question": "The following are rights of the consumer except the right to ______.",
+    "options": ["fair hearing", "seek redress", "stabilize price", "make a choice"],
+    "answer": "stabilize price"
+  },
+  {
+    "number": 38,
+    "question": "The following are factors to be considered before granting loan to a customer except",
+    "options": ["ability to pay back", "friendliness with the bank", "credibility of the customer", "provision of collateral security"],
+    "answer": "friendliness with the bank"
+  },
+  {
+    "number": 39,
+    "question": "Which of the following is not a necessity of life?",
+    "options": ["Clothing", "Food", "Telecommunication", "Shelter"],
+    "answer": "Telecommunication"
+  },
+  {
+    "number": 40,
+    "question": "Which of the following is a feature of a market?",
+    "options": ["It attracts very high profit", "It improves standard of living", "The supply of goods is fixed", "There is presence of buyers and sellers"],
+    "answer": "There is presence of buyers and sellers"
+  },
+  {
+    "number": 41,
+    "question": "A sole proprietorship form of business has the following features except that it _____.",
+    "options": [
+      "come to an end when the owner is dead",
+      "confers the risk and profit on its owner",
+      "does not enjoy limited liability",
+      "requires huge capital to set up"
+    ],
+    "answer": "requires huge capital to set up"
+  },
+  {
+    "number": 42,
+    "question": "Earning specified rate of interest higher than the interest on savings account is one of the features of ______.",
+    "options": ["bank overdraft", "current account", "fixed deposit account", "foreign exchange"],
+    "answer": "fixed deposit account"
+  },
+  {
+    "number": 43,
+    "question": "The market where consumer goods are bought and sold is called _____ market.",
+    "options": ["capital", "commodities", "foreign", "money"],
+    "answer": "commodities"
+  },
+  {
+    "number": 44,
+    "question": "Offering door – to – door services is one of the advantages of ____ transportation.",
+    "options": ["air", "pipeline", "rail", "road"],
+    "answer": "road"
+  },
+  {
+    "number": 45,
+    "question": "Purchasing what you did not plan to buy explains _____.",
+    "options": ["impulse buying", "rational buying", "seasonal shopping", "self service"],
+    "answer": "impulse buying"
+  },
+  {
+    "number": 46,
+    "question": "The provision made by business organizations against future event that may have negative effects on the continuity of a business is referred to as _____.",
+    "options": ["brokerage", "credit", "insurance", "loan"],
+    "answer": "insurance"
+  },
+  {
+    "number": 47,
+    "question": "A compensation for loss resulting from goods stolen through breaking into the premises of an insured is called _____ insurance.",
+    "options": ["burglary", "fire", "life", "marine"],
+    "answer": "burglary"
+  },
+  {
+    "number": 48,
+    "question": "Consumers have the following rights except right to ______.",
+    "options": ["be informed", "choose", "healthy environment", "luxury"],
+    "answer": "luxury"
+  },
+  {
+    "number": 49,
+    "question": "The buying and selling of goods and services between two or more countries is called ____ trade.",
+    "options": ["entrepot", "export", "foreign", "home"],
+    "answer": "foreign"
+  },
+  {
+    "number": 50,
+    "question": "The abbreviation TAP in book keeping ethics means transparency, accountability and ______.",
+    "options": ["probity", "problem", "process", "progress"],
+    "answer": "probity"
+  }
+]
 
