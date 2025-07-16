@@ -1,328 +1,310 @@
 [
+
     {
       "number": 1,
-      "question": "One of these is an acid anhydride",
-      "options": ["CO₂", "Na₂O", "CaO", "MgO"],
-      "answer": "CO₂"
+      "question": "A literary work in which the characters are animals is a",
+      "options": ["Lampoon", "Fable", "Parody", "Pantomime"],
+      "answer": "Fable"
     },
     {
       "number": 2,
-      "question": "The amorphous carbon that can be used as a good adsorbent is",
-      "options": ["Soot", "Charcoal", "Coke", "Carbon fibre"],
-      "answer": "Charcoal"
+      "question": "The introductory part of a play, a novel or a poem is",
+      "options": ["Epilogue", "Plot", "Setting", "Prologue"],
+      "answer": "Prologue"
     },
     {
       "number": 3,
-      "question": "All are decomposed by heat except",
-      "options": ["Ag₂CO₃", "(NH₄)₂CO₃", "ZnCO₃", "Na₂CO₃"],
-      "answer": "Na₂CO₃"
+      "question": "A character whose actions are predictable in a literary work of art is",
+      "options": ["Round character", "Flat character", "The hero", "The villain"],
+      "answer": "Flat character"
     },
     {
       "number": 4,
-      "question": "The ratio of carbon atoms to hydrogen atom in a hydrocarbon is 1:2. If its molecular mass is 56, what is its molecular formula?",
-      "options": ["C₃H₆", "C₄H₈", "C₂H₄", "CH"],
-      "answer": "C₄H₈"
+      "question": "A play in which characters act through gestures and facial expression is",
+      "options": ["Mime", "Burlesque", "Farce", "Comedy"],
+      "answer": "Mime"
     },
     {
       "number": 5,
-      "question": "A molecule of ozone is",
-      "options": ["monoatomic", "diatomic", "triatomic", "tetra atomic"],
-      "answer": "triatomic"
+      "question": "A scene in a literary work which enacts past events is",
+      "options": ["Allusion", "Foreshadow", "Flash back", "Interlude"],
+      "answer": "Flash back"
     },
     {
       "number": 6,
-      "question": "The following ions have the same electron configuration except 802-, 12Mg2+, 13Al3+, 17Cl-",
-      "options": ["Cl⁻", "O²⁻", "Mg²⁺", "Al³⁺"],
-      "answer": "Cl⁻"
+      "question": "A praise poem is",
+      "options": ["Ballad", "A panegyric", "An allegory", "An epigram"],
+      "answer": "A panegyric"
     },
     {
       "number": 7,
-      "question": "The following atoms of Carbon: ¹²6C, ¹³6C, and ¹⁴6C can be described as",
-      "options": ["allotropes", "isomers", "isotopes", "isotones"],
-      "answer": "isotopes"
+      "question": "A poem written in an elaborate style to address or celebrate an object or event is called.",
+      "options": ["Ballad", "An epic", "A dirge", "An ode"],
+      "answer": "An ode"
     },
     {
       "number": 8,
-      "question": "How many moles of Oxygen would contain 1.204 × 10²⁴ molecules? [Avogadro's constant = 6.02 × 10²³]",
-      "options": ["1", "2", "3", "4"],
-      "answer": "2"
+      "question": "A literary piece used to mock or ridicule a societal practice is called?",
+      "options": ["Allegory", "Fable", "Farce", "Satire"],
+      "answer": "Satire"
     },
     {
       "number": 9,
-      "question": "The purest form of amorphous carbon is",
-      "options": ["wood charcoal", "animal charcoal", "sugar charcoal", "carbon black"],
-      "answer": "sugar charcoal"
+      "question": "Dramatis personae refers to",
+      "options": ["How the characters are depicted", "The roles played by the character", "All the characters in the play", "How the characters act."],
+      "answer": "All the characters in the play"
     },
     {
       "number": 10,
-      "question": "The hardest known substance is",
-      "options": ["diamond", "graphite", "coke", "coal"],
-      "answer": "diamond"
+      "question": "The timing and location of a literary work is",
+      "options": ["Theme", "Plot", "Setting", "Atmosphere"],
+      "answer": "Setting"
     },
     {
       "number": 11,
-      "question": "Water gas contains carbon(II) oxide and",
-      "options": ["nitrogen", "oxygen", "sulphur", "hydrogen"],
-      "answer": "hydrogen"
+      "question": "The central idea of a story or a poem is the",
+      "options": ["Title", "Climax", "Theme", "Conflict"],
+      "answer": "Theme"
     },
     {
       "number": 12,
-      "question": "Which gas can be prepared by dehydrating formic acid using concentrated tetraoxosulphate (VI) acid?",
-      "options": ["carbon (II) oxide", "carbon (IV) oxide", "nitrogen (IV) oxide", "nitrogen (II) oxide"],
-      "answer": "carbon (II) oxide"
+      "question": "As chapter is to prose, so is ---------to poetry",
+      "options": ["Canto", "Stanza", "Line", "Chorus"],
+      "answer": "Stanza"
     },
     {
       "number": 13,
-      "question": "Find the pH in which the hydrogen ion, H⁺ concentration is 6.38 × 10⁻6 moldm-³",
-      "options": ["4.9", "6.38", "6.0", "5.2"],
-      "answer": "5.2"
+      "question": "The way and manner in which events are arranged in a prose is",
+      "options": ["Theme", "Setting", "Point of view", "Plot"],
+      "answer": "Plot"
     },
     {
       "number": 14,
-      "question": "The colour of methyl orange in alkaline medium is",
-      "options": ["Yellow", "Pink", "Orange", "Red"],
-      "answer": "Yellow"
+      "question": "The choice of words to create special effects is called.",
+      "options": ["Fallacy", "Atmosphere", "Mood", "Diction"],
+      "answer": "Diction"
     },
     {
       "number": 15,
-      "question": "H⁺(aq) + OH⁻(aq) → H₂O(l) The above equation represents",
-      "options": ["hydrolysis", "hydration", "neutralization", "electrolysis"],
-      "answer": "neutralization"
+      "question": "The forms of literature are",
+      "options": ["Written and type", "Oral and drama", "Oral and written", "Written and poetry"],
+      "answer": "Oral and written"
     },
     {
       "number": 16,
-      "question": "These are types of salts except",
-      "options": [
-        "complex salt, basic salt, acidic salt, hydrolysed salt",
-        "normal salt, acidic salt, double salt",
-        "double salt, basic salt, complex salt",
-        "normal salt, acidic salt, basic salt, complex salt"
-      ],
-      "answer": "complex salt, basic salt, acidic salt, hydrolysed salt"
+      "question": "A poem of fourteen lines is",
+      "options": ["Narrative", "Sonnet", "Ode", "Elegy"],
+      "answer": "Sonnet"
     },
     {
       "number": 17,
-      "question": "All of the following acids are monobasic except",
-      "options": ["hydrochloric acid", "trioxonitrate(V) acid", "tetraoxosulphate(VI) acid", "ethanoic acid"],
-      "answer": "tetraoxosulphate(VI) acid"
+      "question": "A character that changes in the course of a play is",
+      "options": ["Round character", "Minor character", "Major character", "Flat character"],
+      "answer": "Round character"
     },
     {
       "number": 18,
-      "question": "Ability of an element existing in two or more physical states but maintaining the same chemical characteristics is called",
-      "options": ["Isotopy", "Allotropy", "Isomerism", "Defraction grating"],
-      "answer": "Allotropy"
+      "question": "A major character whose flaws combine with external forces lead to his downfall is a",
+      "options": ["Flat character", "Round character", "Romantic hero", "Tragic hero"],
+      "answer": "Tragic hero"
     },
     {
       "number": 19,
-      "question": "The liquid product of the destructive distillation of coal is",
-      "options": ["Ammoniacal liquor", "Coal fume", "Dye stuff", "Coke"],
-      "answer": "Ammoniacal liquor"
+      "question": "A narrative in which characters and events are invented is",
+      "options": ["Fiction", "Epistolary", "Auto-biography", "Biography"],
+      "answer": "Fiction"
     },
     {
       "number": 20,
-      "question": "The negatively charged particle in an atom is the",
-      "options": ["Electron", "Neutron", "Positron", "Proton"],
-      "answer": "Electron"
+      "question": "One of the following is not a form of poetry",
+      "options": ["Sonnet", "Ode", "Suspense", "Lyric"],
+      "answer": "Suspense"
     },
     {
       "number": 21,
-      "question": "Which of the following gases is monoatomic?",
-      "options": ["Chlorine", "Argon", "Nitrogen", "Oxygen"],
-      "answer": "Argon"
+      "question": "A play is watched by a/an",
+      "options": ["Congregation", "Group", "Audience", "Entourage"],
+      "answer": "Audience"
     },
     {
       "number": 22,
-      "question": "Which of the following bond types is responsible for the high boiling point of water?",
-      "options": ["Metallic bond", "Covalent bond", "Ionic bond", "Hydrogen bond"],
-      "answer": "Hydrogen bond"
+      "question": "A literary device that creates a mental picture of a situation is",
+      "options": ["Imagery", "Symbolism", "Flashback", "Epilogue"],
+      "answer": "Imagery"
     },
     {
       "number": 23,
-      "question": "A hydrocarbon contains 14.3% hydrogen. The empirical formula of the hydrocarbon is (C = 12, H = 1)",
-      "options": ["CH", "CH₂", "CH₃", "CH₄"],
-      "answer": "CH₂"
+      "question": "The most exciting and tense part of a story is the ------",
+      "options": ["Epilogue", "Climax", "Prologue", "Exposition"],
+      "answer": "Climax"
     },
     {
       "number": 24,
-      "question": "Chemicals that are produced in small quantities and with very high degree of purity are:",
-      "options": ["bulk chemicals", "fine chemicals", "heavy chemicals", "light chemicals"],
-      "answer": "fine chemicals"
+      "question": "The story of a person’s life written by another person is called",
+      "options": ["History", "Autobiography", "Biography", "Anthology"],
+      "answer": "Biography"
     },
     {
       "number": 25,
-      "question": "What is the percentage by mass of copper in Copper (I) oxide (Cu₂O)? [O = 16, Cu = 64]",
-      "options": ["88.9%", "80.0%", "66.7%", "20.0%"],
-      "answer": "88.9%"
+      "question": "The story of a person's life written by himself is called",
+      "options": ["History", "Autobiography", "Biography", "Anthology"],
+      "answer": "Autobiography"
     },
     {
       "number": 26,
-      "question": "All pure samples of the same chemical compound contain the same elements in the same proportion by mass is a statement of:",
-      "options": [
-        "the law of conservation of matter",
-        "the law of constant composition",
-        "the law of multiple proportion",
-        "Gay Lussac's law"
-      ],
-      "answer": "the law of constant composition"
+      "question": "The act of giving human attributes to non-human objects is ---",
+      "options": ["Personification", "Allegory", "Anecdote", "Allusion"],
+      "answer": "Personification"
     },
     {
       "number": 27,
-      "question": "The number of atoms present in 0.5 moles of a triatomic gas is equivalent to (1 mole = 6.0 x 10²³)",
-      "options": ["3.0 x 10²³", "9.0 x 10²³", "9.0 x 10²⁴", "3.0 x 10²⁴"],
-      "answer": "9.0 x 10²³"
+      "question": "Diction is a writer’s choice of",
+      "options": ["Style", "Syntax", "Rhythm", "Words"],
+      "answer": "Words"
     },
     {
       "number": 28,
-      "question": "What is the mass number of an element if its atom contains 10 protons, 10 electrons and 12 neutrons?",
-      "options": ["10", "20", "22", "32"],
-      "answer": "22"
+      "question": "A play that moves the audience to pity and fear is a",
+      "options": ["Comedy", "Farce", "Pantomime", "Tragedy"],
+      "answer": "Tragedy"
     },
     {
       "number": 29,
-      "question": "A gas that is collected by upward delivery is likely to be",
-      "options": ["heavier than air", "insoluble in water", "soluble in water", "lighter than air"],
-      "answer": "lighter than air"
+      "question": "A short story performed during the pause between the acts of a longer play is",
+      "options": ["An interlude", "An epilogue", "A prologue", "An interval"],
+      "answer": "An interlude"
     },
     {
       "number": 30,
-      "question": "The equation P = K/V illustrates",
-      "options": ["Boyle's law", "Charles' law", "Dalton's law", "Gay Lussac's law"],
-      "answer": "Boyle's law"
+      "question": "Hamartia, in a literary work refers to a hero’s",
+      "options": ["Tragic flaw", "Inordinate ambition.", "Strength of character", "Good works"],
+      "answer": "Tragic flaw"
     },
+
     {
       "number": 31,
-      "question": "Halogens generally react with metals to form",
-      "options": ["alkalis", "acids", "salts", "bases"],
-      "answer": "salts"
+      "question": "From the passage, where was the feeling of the man?",
+      "options": ["Pleasure for fear", "Pleasure and excitement", "Excitement and fear", "Pain and loneliness."],
+      "answer": "Excitement and fear"
     },
     {
       "number": 32,
-      "question": "The colour of phenolphthalein indicator in dilute HNO₃(aq) is",
-      "options": ["colourless", "orange", "pink", "purple"],
-      "answer": "colourless"
+      "question": "\"...... new cartridge paper, as white and firm as coconut meat.\" What figure of speech is used in this statement?",
+      "options": ["Metaphor", "Allusion", "Simile", "Assonance"],
+      "answer": "Simile"
     },
     {
       "number": 33,
-      "question": "Which of the following salts is readily soluble in water?",
-      "options": ["PbCl₂", "Pb(NO₃)₂", "PbSO₄", "PbCO₃"],
-      "answer": "Pb(NO₃)₂"
+      "question": "\"The one was as rare as the other\". The above statement means he",
+      "options": [
+        "Always had much time and responsibility on his hands.",
+        "Was overwhelmed by the thought of having a whole day to himself",
+        "Was overwhelmed by the thought of having so huge a responsibility",
+        "Seldom had so much and responsibility on his hands."
+      ],
+      "answer": "Seldom had so much and responsibility on his hands."
     },
     {
       "number": 34,
-      "question": "The atomic number of chlorine is 17. What is the number of electrons in a chloride ion?",
-      "options": ["16", "17", "18", "19"],
-      "answer": "18"
+      "question": "From the passage, the man is possibly",
+      "options": ["An engineer", "A chemist", "An artist", "A manager"],
+      "answer": "An artist"
     },
     {
       "number": 35,
-      "question": "The key factors to be considered in siting a chemical industry is",
-      "options": [
-        "nearness to other industrial establishment",
-        "nearness to raw materials",
-        "favourable climate conditions",
-        "availability of storage facilities"
-      ],
-      "answer": "nearness to raw materials"
+      "question": "The word ‘laboriously’ as used in the passage above shows his",
+      "options": ["Time wasting", "Care in preparation", "Measurement", "Ruling of lines."],
+      "answer": "Care in preparation"
     },
     {
       "number": 36,
-      "question": "Which of these gases turn lime water milky?",
-      "options": ["O₂", "H₂", "CO", "CO₂"],
-      "answer": "CO₂"
+      "question": "What was the first thing the man did in the office?",
+      "options": ["He straightened things up", "He worked laboriously", "He lit a cigarette", "He cleared the office"],
+      "answer": "He cleared the office"
     },
     {
       "number": 37,
-      "question": "Ammonia gas can be dried with",
-      "options": ["CaO", "H₂SO₄", "P₂O₅", "CaCl₂"],
-      "answer": "CaO"
+      "question": "The word overwhelmed as used in the passage means",
+      "options": ["Beaten up", "Trampled up", "Overtaken", "Weighed down"],
+      "answer": "Overtaken"
     },
     {
       "number": 38,
-      "question": "Gas molecules are said to be perfectly elastic because",
-      "options": [
-        "they move about in straight lines",
-        "the distances between them are negligible",
-        "they collide without loss of energy",
-        "the volume occupied by them is negligible"
-      ],
-      "answer": "they collide without loss of energy"
+      "question": "\"He smelt the chemist's smell of the shiny greenish tracing paper\". The quotation is an example of",
+      "options": ["Repetition", "Assonance", "Onomatopoeia", "Alliteration"],
+      "answer": "Onomatopoeia"
     },
     {
       "number": 39,
-      "question": "The best technique for separating the components of a dye is",
-      "options": ["distillation", "evaporation", "filtration", "Chromatography"],
-      "answer": "Chromatography"
+      "question": "\"He found that his hands were trembling very slightly.” Why?",
+      "options": ["He was happy", "He was depressed", "He was excited", "He was sad."],
+      "answer": "He was excited"
     },
     {
       "number": 40,
-      "question": "A weak acid is one which",
-      "options": [
-        "is not corrosive",
-        "slightly ionized in water",
-        "does not conduct an electric current",
-        "does not produce salt with alkalis"
-      ],
-      "answer": "slightly ionized in water"
+      "question": "Which of the following is a feature of style in the passage?",
+      "options": ["Listing", "Counting", "Measuring", "Numbering"],
+      "answer": "Measuring"
     },
-    {
+        {
       "number": 41,
-      "question": "If 60cm³ of gas is heated from 27°C to 50°C, what is the new volume of the gas at constant pressure?",
-      "options": ["111.1cm³", "64.6cm³", "55.7cm³", "32.4cm³"],
-      "answer": "64.6cm³"
+      "question": "The person talked about in the poem appears to have all but",
+      "options": ["Riches", "Security", "Happiness", "The company of Richard Cory"],
+      "answer": "Happiness"
     },
     {
       "number": 42,
-      "question": "Which of the following gases has the lowest rate of diffusion under the same conditions of temperature and pressure? (H = 1, O = 16, Ne = 20, Cl = 35.5)",
-      "options": ["Chlorine", "Hydrogen", "Neon", "Oxygen"],
-      "answer": "Chlorine"
+      "question": "The rhyme scheme of the poem is",
+      "options": ["ABABCDCD", "ABBCABCD", "ABBACDDC", "ABBAABBA"],
+      "answer": "ABABCDCD"
     },
     {
       "number": 43,
-      "question": "In a mixture of gases which do not react chemically together, the pressure of the individual gas is",
-      "options": ["atmospheric pressure", "vapour pressure", "total pressure", "partial pressure"],
-      "answer": "partial pressure"
+      "question": "In the end, the 'we' in the poem can be said to be?",
+      "options": ["Indignant", "Indifferent", "Disillusioned", "Betrayed"],
+      "answer": "Disillusioned"
     },
     {
       "number": 44,
-      "question": "The number of particles present in one mole of a chemical compound is the",
-      "options": ["atomic number", "mass number", "Avogadro's number", "oxidation number"],
-      "answer": "Avogadro's number"
+      "question": "Line 2 of the poem suggests that the person talked about -----+",
+      "options": ["Was well educated", "Attended the best school", "Attended schools in grace country", "Had good social manners?"],
+      "answer": "Had good social manners?"
     },
     {
       "number": 45,
-      "question": "What is the volume occupied by 2 moles of ammonia gas at s.t.p?",
-      "options": ["44.8 dm³", "22.4 dm³", "11.2 dm³", "5.6 dm³"],
-      "answer": "44.8 dm³"
+      "question": "Line 6 of the poem illustrates the use of",
+      "options": ["Oxymoron", "Metaphor", "Hyperbole", "Innuendo"],
+      "answer": "Metaphor"
     },
     {
       "number": 46,
-      "question": "The most common method of preparing insoluble salts is by",
-      "options": ["filtration", "decomposition", "neutralization", "double decomposition"],
-      "answer": "double decomposition"
+      "question": "His blue shirt | Billows in the breeze | Like a tattered kite. The line two of the poem illustrates the use of",
+      "options": ["Oxymoron", "Metaphor", "Alliteration", "None of the above."],
+      "answer": "Alliteration"
     },
     {
       "number": 47,
-      "question": "The most suitable indicator for the reaction between NaOH(aq) and HCOOH(aq) is",
-      "options": ["bromocresol", "methyl orange", "methyl red", "phenolphthalein"],
-      "answer": "phenolphthalein"
+      "question": "\"Like a tattered kite\" as used in the poem in question number 46 is an example of",
+      "options": ["Simile", "Euphemism", "Hyperbole", "Assonance"],
+      "answer": "Simile"
     },
     {
       "number": 48,
-      "question": "Lactic acid has its source from",
-      "options": ["vinegar", "lemon", "milk", "orange"],
-      "answer": "milk"
+      "question": "The mood of the speaker is that of",
+      "options": ["Hopelessness", "Optimism", "Pessimism", "Suppression"],
+      "answer": "Optimism"
     },
     {
       "number": 49,
-      "question": "The following compounds contain the same type of bonds except",
-      "options": ["Sodium chloride", "Hydrogen chloride", "Magnesium chloride", "Potassium chloride"],
-      "answer": "Hydrogen chloride"
+      "question": "The expression 'The new rains' as used in the passage typifies",
+      "options": ["Faith", "Hope", "Frustration", "Agony"],
+      "answer": "Hope"
     },
-    {
+   {
       "number": 50,
-      "question": "The number of replaceable hydrogen atoms in one molecule of an acid indicates its",
-      "options": ["basicity", "acidity", "alkalinity", "reactivity"],
-      "answer": "basicity"
+      "question": "Which of the following poets defines poetry as a \"spontaneous flow of emotion\"?",
+      "options": ["John Donne", "William Blake", "William Wordsworth", "Lenrie Peters"],
+      "answer": "William Wordsworth"
     }
   ]
 
