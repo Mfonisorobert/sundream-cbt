@@ -1,256 +1,329 @@
 [
-  {
-    "question": "In a modern farm with organized building, farm inputs and simple farm tools are kept in the ____",
-    "options": ["farm store", "farm office", "barn", "silo"],
-    "answer": "farm store"
-  },
-  {
-    "question": "The purpose of erecting farm structure and buildings by a farmer is to ___",
-    "options": ["make the farm operations easier", "control cost of farm produce", "increase the farmer's income", "reduce cost of production"],
-    "answer": "make the farm operations easier"
-  },
-  {
-    "question": "The harmony of soil is an operation that is carried out by a farmer in order to ___",
-    "options": ["ensure proper breaking of soil mode", "encourage survival of tree crop", "reduce water content of soil", "turn the soil colour dark"],
-    "answer": "ensure proper breaking of soil mode"
-  },
-  {
-    "question": "The following are post planting operation except",
-    "options": ["ploughing", "pruning", "supplying", "none of the above"],
-    "answer": "ploughing"
-  },
-  {
-    "question": "The best time to apply fertilizers in a farm is after weeding because, it ___",
-    "options": ["reduces competition between crops and weeds", "discourage disturbance of crop roots", "encourage damages of crop roots", "facilitates fertilizer fixation in the soil"],
-    "answer": "reduces competition between crops and weeds"
-  },
-  {
-    "question": "Which of the following is not a daily maintenance practice for farm machinery",
-    "options": ["replacement of worn-out tyres", "changing of oil", "checking of radiator water level", "tightening of bolts and nuts"],
-    "answer": "replacement of worn-out tyres"
-  },
-  {
-    "question": "The following are the importance of sitting farm structure and building except",
-    "options": ["stabilize produce price", "promote efficiency", "ease transportation", "increase production"],
-    "answer": "stabilize produce price"
-  },
-  {
-    "question": "A farm centre is very important in a farm layout because it is a place to ____",
-    "options": ["purchase farm produce", "rear animal", "present gifts", "produce crops"],
-    "answer": "purchase farm produce"
-  },
-  {
-    "question": "The top layer of earth’s crust from which plants derive water and mineral nutrients is called ____",
-    "options": ["soil", "field", "rock", "land"],
-    "answer": "soil"
-  },
-  {
-    "question": "Which of the following is not true about loamy soil formation and composition?",
-    "options": ["allows erosion during dry season", "contain air and water", "contains mineral matter", "is rich in organic matter"],
-    "answer": "allows erosion during dry season"
-  },
-  {
-    "question": "A good soil for production must have",
-    "options": ["balance volume of air and water", "adequate organic matter", "high micro nutrient contents", "large soil particles and silt"],
-    "answer": "adequate organic matter"
-  },
-  {
-    "question": "Which of the following crops is planted with vine?",
-    "options": ["ground nut", "yam", "cow pea", "cassava"],
-    "answer": "yam"
-  },
-  {
-    "question": "Which of the following is not a post planting operation for yam?",
-    "options": ["mulching", "pruning", "staking", "detuberisation"],
-    "answer": "pruning"
-  },
-  {
-    "question": "The following are example of farm structure except",
-    "options": ["compost pit", "farm office", "drainage canal", "open shed"],
-    "answer": "farm office"
-  },
-  {
-    "question": "When planning a Farm, the following factors should be considered except",
-    "options": ["location of the farm buildings and structure", "availability of labour require", "size of the available farmland", "type of animals to be reared"],
-    "answer": "availability of labour require"
-  },
-  {
-    "question": "The following are forms of agriculture except",
-    "options": ["apiculture", "mixed farming", "crop farming", "horticulture"],
-    "answer": "mixed farming"
-  },
-  {
-    "question": "The post planting operation that helps in reducing competition for soil nutrient is _____",
-    "options": ["cover cropping", "thinning", "mulching", "supplying"],
-    "answer": "thinning"
-  },
-  {
-    "question": "Carbohydrate concentrates are high in _______",
-    "options": ["water", "energy", "protein", "mineral"],
-    "answer": "energy"
-  },
-  {
-    "question": "To maintain good hygiene in a livestock house, which of the following should be given less attention?",
-    "options": ["cleanliness of drinking trough", "orientation of farmhouse", "stocking rate of livestock", "ventilation in the farmhouse"],
-    "answer": "orientation of farmhouse"
-  },
-  {
-    "question": "The following are post planting operation except",
-    "options": ["pruning", "ploughing", "supplying", "weeding"],
-    "answer": "ploughing"
-  },
-  {
-    "question": "Which type of fishing tool would have been used to harvest the large quantity of fishes?",
-    "options": ["fishing basket", "fishing net", "hook and line", "harpoon"],
-    "answer": "fishing net"
-  },
-  {
-    "question": "Which of these animals is kept for sport purpose?",
-    "options": ["pig", "cattle", "horse", "donkey"],
-    "answer": "horse"
-  },
-  {
-    "question": "The main aim of maintaining hygiene in a poultry farm is to ____",
-    "options": ["increase cost of poultry production", "prevent poultry thieves and predators", "control the spread of poultry production", "increase the bird’s production rate"],
-    "answer": "control the spread of poultry production"
-  },
-  {
-    "question": "The process of managing the soil in order to retain its fertility for plant growth is known as soil ___",
-    "options": ["formation", "protection", "conservation", "sterilization"],
-    "answer": "conservation"
-  },
-  {
-    "question": "The following are methods of conserving soil except",
-    "options": ["prevention of bush burning", "adoption of crop rotation", "prevention of land afforestation", "avoidance of land pollution"],
-    "answer": "prevention of land afforestation"
-  },
-  {
-    "question": "Fishes are referred to as 'non-mammals' because they ____",
-    "options": ["produce their young ones in the water", "die immediately", "do not feed their young ones with milk", "brood their young ones until they have scales"],
-    "answer": "do not feed their young ones with milk"
-  },
-  {
-    "question": "Pre-planting operations include the following except",
-    "options": ["harrowing", "bush clearing", "farm layout", "weeding"],
-    "answer": " farm layout "
-  },
-  {
-    "question": "A fertile soil must have the following characteristics except",
-    "options": ["good water holding capacity", "high cation exchange capacity", "excess poisonous metallic compounds", "essential elements in right proportion"],
-    "answer": "excess poisonous metallic compounds"
-  },
-  {
-    "question": "Which of these is not a benefit of applying compost manure on the farmland? It _____",
-    "options": ["promotes activities of micro organism", "conserves soil moisture and fertility", "encourages rapid weed growth", "increases soil organic matter content"],
-    "answer": "encourages rapid weed growth"
-  },
-  {
-    "question": "Which of these methods is used in removing moisture from fish?",
-    "options": ["canning", "milling", "salting", "freezing"],
-    "answer": "salting"
-  },
-  {
-    "question": "Pre-planting operations include the following except",
-    "options": ["bush clearing", "thinning", "farm layout", "harrowing"],
-    "answer": "farm layout "
-  },
-  {
-    "question": "Which of the following is not an endo parasite?",
-    "options": ["tapeworm", "liver fluke", "ticks", "round worm"],
-    "answer": "ticks"
-  },
-  {
-    "question": "Where does liver fluke live in sheep?",
-    "options": ["brain", "kidney", "bile ducts", "pancreas"],
-    "answer": "bile ducts"
-  },
-  {
-    "question": "Which of the following is not caused by liver fluke in animals?",
-    "options": ["anemia", "diarrhea", "aids", "eosinophilia"],
-    "answer": "aids"
-  },
-  {
-    "question": "Ecto parasites live inside the body of the animal.",
-    "options": ["true", "false", "partially true", "partially false"],
-    "answer": "false"
-  },
-  {
-    "question": "Which of the following is a common roundworm which infects domestic animals?",
-    "options": ["rhabditis", "enterobius", "ascaris", "ancylostoma"],
-    "answer": "ascaris"
-  },
-  {
-    "question": "Where do the embryonated eggs of ascaris hatch out in the animal?",
-    "options": ["heart", "brain", "intestine", "kidney"],
-    "answer": "intestine"
-  },
-  {
-    "question": "Tick fever is also known as ______",
-    "options": ["fascioliasis", "ascariasis", "babesiosis", "coccidiosis"],
-    "answer": "babesiosis"
-  },
-  {
-    "question": "Which of the following is not a symptom of babesiosis?",
-    "options": ["anemia", "jaundice", "paralysis", "constipation"],
-    "answer": "paralysis"
-  },
-  {
-    "question": "Which of the following is not caused by the movement of larva through the body of animal?",
-    "options": ["diarrhea", "anemia", "typhoid", "constipation"],
-    "answer": "typhoid"
-  },
-  {
-    "question": "Disease caused due to the inflammation of the vermiform appendix of the digestive system is known as _____",
-    "options": ["appendectomy", "intestinal cancer", "amoebic dysentery", "appendicitis"],
-    "answer": "appendicitis"
-  },
-  {
-    "question": "Which of the following is a set of bacterial diseases?",
-    "options": ["malaria, poliomyelitis, mumsy", "mumsy, cholera, typhoid", "measles, tuberculosis, tetanus", "plague, leprosy, diphtheria"],
-    "answer": "plague, leprosy, diphtheria"
-  },
-  {
-    "question": "Widal test is used for the susceptibility of _____",
-    "options": ["cholera", "malaria", "hypertension", "typhoid"],
-    "answer": "typhoid"
-  },
-  {
-    "question": "Which of the following pathogens cause tuberculosis _____",
-    "options": ["virus", "protozoan", "malnutrition", "bacterium"],
-    "answer": "bacterium"
-  },
-  {
-    "question": "Which of the following pathogen causes cholera in humans?",
-    "options": ["fungi", "virus", "protozoan", "bacteria"],
-    "answer": "bacteria"
-  },
-  {
-    "question": "What is the definition of a pathogen?",
-    "options": ["a disease-causing plant", "a disease-causing animal", "a disease-causing microorganism", "a disease"],
-    "answer": "a disease-causing microorganism"
-  },
-  {
-    "question": "Which of these terms is scientific for the passing of a disease from one organism to another?",
-    "options": ["catching", "vector", "transmission", "infecting"],
-    "answer": "transmission"
-  },
-  {
-    "question": "Insects responsible for transmitting diseases are called _____",
-    "options": ["drones", "conductor", "vector", "transmitter"],
-    "answer": "vector"
-  },
-  {
-    "question": "Which of the following diseases can spread to humans while milking?",
-    "options": ["chicken pox", "anthrax", "cow pox", "tuberculosis"],
-    "answer": "cow pox"
-  },
-  {
-    "question": "Vectors are ____",
-    "options": ["plants suffering from a disease", "persons suffering from a disease", "organisms which carry the infecting agent from sick person to healthy person", "micro-organisms that cause disease"],
-    "answer": "organisms which carry the infecting agent from sick person to healthy person"
-  }
-]
-
- 
+    {
+      "number": 1,
+      "question": "One of these is an acid anhydride",
+      "options": ["CO₂", "Na₂O", "CaO", "MgO"],
+      "answer": "CO₂"
+    },
+    {
+      "number": 2,
+      "question": "The amorphous carbon that can be used as a good adsorbent is",
+      "options": ["Soot", "Charcoal", "Coke", "Carbon fibre"],
+      "answer": "Charcoal"
+    },
+    {
+      "number": 3,
+      "question": "All are decomposed by heat except",
+      "options": ["Ag₂CO₃", "(NH₄)₂CO₃", "ZnCO₃", "Na₂CO₃"],
+      "answer": "Na₂CO₃"
+    },
+    {
+      "number": 4,
+      "question": "The ratio of carbon atoms to hydrogen atom in a hydrocarbon is 1:2. If its molecular mass is 56, what is its molecular formula?",
+      "options": ["C₃H₆", "C₄H₈", "C₂H₄", "CH"],
+      "answer": "C₄H₈"
+    },
+    {
+      "number": 5,
+      "question": "A molecule of ozone is",
+      "options": ["monoatomic", "diatomic", "triatomic", "tetra atomic"],
+      "answer": "triatomic"
+    },
+    {
+      "number": 6,
+      "question": "The following ions have the same electron configuration except 802-, 12Mg2+, 13Al3+, 17Cl-",
+      "options": ["Cl⁻", "O²⁻", "Mg²⁺", "Al³⁺"],
+      "answer": "Cl⁻"
+    },
+    {
+      "number": 7,
+      "question": "The following atoms of Carbon: ¹²6C, ¹³6C, and ¹⁴6C can be described as",
+      "options": ["allotropes", "isomers", "isotopes", "isotones"],
+      "answer": "isotopes"
+    },
+    {
+      "number": 8,
+      "question": "How many moles of Oxygen would contain 1.204 × 10²⁴ molecules? [Avogadro's constant = 6.02 × 10²³]",
+      "options": ["1", "2", "3", "4"],
+      "answer": "2"
+    },
+    {
+      "number": 9,
+      "question": "The purest form of amorphous carbon is",
+      "options": ["wood charcoal", "animal charcoal", "sugar charcoal", "carbon black"],
+      "answer": "sugar charcoal"
+    },
+    {
+      "number": 10,
+      "question": "The hardest known substance is",
+      "options": ["diamond", "graphite", "coke", "coal"],
+      "answer": "diamond"
+    },
+    {
+      "number": 11,
+      "question": "Water gas contains carbon(II) oxide and",
+      "options": ["nitrogen", "oxygen", "sulphur", "hydrogen"],
+      "answer": "hydrogen"
+    },
+    {
+      "number": 12,
+      "question": "Which gas can be prepared by dehydrating formic acid using concentrated tetraoxosulphate (VI) acid?",
+      "options": ["carbon (II) oxide", "carbon (IV) oxide", "nitrogen (IV) oxide", "nitrogen (II) oxide"],
+      "answer": "carbon (II) oxide"
+    },
+    {
+      "number": 13,
+      "question": "Find the pH in which the hydrogen ion, H⁺ concentration is 6.38 × 10⁻6 moldm-³",
+      "options": ["4.9", "6.38", "6.0", "5.2"],
+      "answer": "5.2"
+    },
+    {
+      "number": 14,
+      "question": "The colour of methyl orange in alkaline medium is",
+      "options": ["Yellow", "Pink", "Orange", "Red"],
+      "answer": "Yellow"
+    },
+    {
+      "number": 15,
+      "question": "H⁺(aq) + OH⁻(aq) → H₂O(l) The above equation represents",
+      "options": ["hydrolysis", "hydration", "neutralization", "electrolysis"],
+      "answer": "neutralization"
+    },
+    {
+      "number": 16,
+      "question": "These are types of salts except",
+      "options": [
+        "complex salt, basic salt, acidic salt, hydrolysed salt",
+        "normal salt, acidic salt, double salt",
+        "double salt, basic salt, complex salt",
+        "normal salt, acidic salt, basic salt, complex salt"
+      ],
+      "answer": "complex salt, basic salt, acidic salt, hydrolysed salt"
+    },
+    {
+      "number": 17,
+      "question": "All of the following acids are monobasic except",
+      "options": ["hydrochloric acid", "trioxonitrate(V) acid", "tetraoxosulphate(VI) acid", "ethanoic acid"],
+      "answer": "tetraoxosulphate(VI) acid"
+    },
+    {
+      "number": 18,
+      "question": "Ability of an element existing in two or more physical states but maintaining the same chemical characteristics is called",
+      "options": ["Isotopy", "Allotropy", "Isomerism", "Defraction grating"],
+      "answer": "Allotropy"
+    },
+    {
+      "number": 19,
+      "question": "The liquid product of the destructive distillation of coal is",
+      "options": ["Ammoniacal liquor", "Coal fume", "Dye stuff", "Coke"],
+      "answer": "Ammoniacal liquor"
+    },
+    {
+      "number": 20,
+      "question": "The negatively charged particle in an atom is the",
+      "options": ["Electron", "Neutron", "Positron", "Proton"],
+      "answer": "Electron"
+    },
+    {
+      "number": 21,
+      "question": "Which of the following gases is monoatomic?",
+      "options": ["Chlorine", "Argon", "Nitrogen", "Oxygen"],
+      "answer": "Argon"
+    },
+    {
+      "number": 22,
+      "question": "Which of the following bond types is responsible for the high boiling point of water?",
+      "options": ["Metallic bond", "Covalent bond", "Ionic bond", "Hydrogen bond"],
+      "answer": "Hydrogen bond"
+    },
+    {
+      "number": 23,
+      "question": "A hydrocarbon contains 14.3% hydrogen. The empirical formula of the hydrocarbon is (C = 12, H = 1)",
+      "options": ["CH", "CH₂", "CH₃", "CH₄"],
+      "answer": "CH₂"
+    },
+    {
+      "number": 24,
+      "question": "Chemicals that are produced in small quantities and with very high degree of purity are:",
+      "options": ["bulk chemicals", "fine chemicals", "heavy chemicals", "light chemicals"],
+      "answer": "fine chemicals"
+    },
+    {
+      "number": 25,
+      "question": "What is the percentage by mass of copper in Copper (I) oxide (Cu₂O)? [O = 16, Cu = 64]",
+      "options": ["88.9%", "80.0%", "66.7%", "20.0%"],
+      "answer": "88.9%"
+    },
+    {
+      "number": 26,
+      "question": "All pure samples of the same chemical compound contain the same elements in the same proportion by mass is a statement of:",
+      "options": [
+        "the law of conservation of matter",
+        "the law of constant composition",
+        "the law of multiple proportion",
+        "Gay Lussac's law"
+      ],
+      "answer": "the law of constant composition"
+    },
+    {
+      "number": 27,
+      "question": "The number of atoms present in 0.5 moles of a triatomic gas is equivalent to (1 mole = 6.0 x 10²³)",
+      "options": ["3.0 x 10²³", "9.0 x 10²³", "9.0 x 10²⁴", "3.0 x 10²⁴"],
+      "answer": "9.0 x 10²³"
+    },
+    {
+      "number": 28,
+      "question": "What is the mass number of an element if its atom contains 10 protons, 10 electrons and 12 neutrons?",
+      "options": ["10", "20", "22", "32"],
+      "answer": "22"
+    },
+    {
+      "number": 29,
+      "question": "A gas that is collected by upward delivery is likely to be",
+      "options": ["heavier than air", "insoluble in water", "soluble in water", "lighter than air"],
+      "answer": "lighter than air"
+    },
+    {
+      "number": 30,
+      "question": "The equation P = K/V illustrates",
+      "options": ["Boyle's law", "Charles' law", "Dalton's law", "Gay Lussac's law"],
+      "answer": "Boyle's law"
+    },
+    {
+      "number": 31,
+      "question": "Halogens generally react with metals to form",
+      "options": ["alkalis", "acids", "salts", "bases"],
+      "answer": "salts"
+    },
+    {
+      "number": 32,
+      "question": "The colour of phenolphthalein indicator in dilute HNO₃(aq) is",
+      "options": ["colourless", "orange", "pink", "purple"],
+      "answer": "colourless"
+    },
+    {
+      "number": 33,
+      "question": "Which of the following salts is readily soluble in water?",
+      "options": ["PbCl₂", "Pb(NO₃)₂", "PbSO₄", "PbCO₃"],
+      "answer": "Pb(NO₃)₂"
+    },
+    {
+      "number": 34,
+      "question": "The atomic number of chlorine is 17. What is the number of electrons in a chloride ion?",
+      "options": ["16", "17", "18", "19"],
+      "answer": "18"
+    },
+    {
+      "number": 35,
+      "question": "The key factors to be considered in siting a chemical industry is",
+      "options": [
+        "nearness to other industrial establishment",
+        "nearness to raw materials",
+        "favourable climate conditions",
+        "availability of storage facilities"
+      ],
+      "answer": "nearness to raw materials"
+    },
+    {
+      "number": 36,
+      "question": "Which of these gases turn lime water milky?",
+      "options": ["O₂", "H₂", "CO", "CO₂"],
+      "answer": "CO₂"
+    },
+    {
+      "number": 37,
+      "question": "Ammonia gas can be dried with",
+      "options": ["CaO", "H₂SO₄", "P₂O₅", "CaCl₂"],
+      "answer": "CaO"
+    },
+    {
+      "number": 38,
+      "question": "Gas molecules are said to be perfectly elastic because",
+      "options": [
+        "they move about in straight lines",
+        "the distances between them are negligible",
+        "they collide without loss of energy",
+        "the volume occupied by them is negligible"
+      ],
+      "answer": "they collide without loss of energy"
+    },
+    {
+      "number": 39,
+      "question": "The best technique for separating the components of a dye is",
+      "options": ["distillation", "evaporation", "filtration", "Chromatography"],
+      "answer": "Chromatography"
+    },
+    {
+      "number": 40,
+      "question": "A weak acid is one which",
+      "options": [
+        "is not corrosive",
+        "slightly ionized in water",
+        "does not conduct an electric current",
+        "does not produce salt with alkalis"
+      ],
+      "answer": "slightly ionized in water"
+    },
+    {
+      "number": 41,
+      "question": "If 60cm³ of gas is heated from 27°C to 50°C, what is the new volume of the gas at constant pressure?",
+      "options": ["111.1cm³", "64.6cm³", "55.7cm³", "32.4cm³"],
+      "answer": "64.6cm³"
+    },
+    {
+      "number": 42,
+      "question": "Which of the following gases has the lowest rate of diffusion under the same conditions of temperature and pressure? (H = 1, O = 16, Ne = 20, Cl = 35.5)",
+      "options": ["Chlorine", "Hydrogen", "Neon", "Oxygen"],
+      "answer": "Chlorine"
+    },
+    {
+      "number": 43,
+      "question": "In a mixture of gases which do not react chemically together, the pressure of the individual gas is",
+      "options": ["atmospheric pressure", "vapour pressure", "total pressure", "partial pressure"],
+      "answer": "partial pressure"
+    },
+    {
+      "number": 44,
+      "question": "The number of particles present in one mole of a chemical compound is the",
+      "options": ["atomic number", "mass number", "Avogadro's number", "oxidation number"],
+      "answer": "Avogadro's number"
+    },
+    {
+      "number": 45,
+      "question": "What is the volume occupied by 2 moles of ammonia gas at s.t.p?",
+      "options": ["44.8 dm³", "22.4 dm³", "11.2 dm³", "5.6 dm³"],
+      "answer": "44.8 dm³"
+    },
+    {
+      "number": 46,
+      "question": "The most common method of preparing insoluble salts is by",
+      "options": ["filtration", "decomposition", "neutralization", "double decomposition"],
+      "answer": "double decomposition"
+    },
+    {
+      "number": 47,
+      "question": "The most suitable indicator for the reaction between NaOH(aq) and HCOOH(aq) is",
+      "options": ["bromocresol", "methyl orange", "methyl red", "phenolphthalein"],
+      "answer": "phenolphthalein"
+    },
+    {
+      "number": 48,
+      "question": "Lactic acid has its source from",
+      "options": ["vinegar", "lemon", "milk", "orange"],
+      "answer": "milk"
+    },
+    {
+      "number": 49,
+      "question": "The following compounds contain the same type of bonds except",
+      "options": ["Sodium chloride", "Hydrogen chloride", "Magnesium chloride", "Potassium chloride"],
+      "answer": "Hydrogen chloride"
+    },
+    {
+      "number": 50,
+      "question": "The number of replaceable hydrogen atoms in one molecule of an acid indicates its",
+      "options": ["basicity", "acidity", "alkalinity", "reactivity"],
+      "answer": "basicity"
+    }
+  ]
 
 
