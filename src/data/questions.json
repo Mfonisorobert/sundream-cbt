@@ -1,129 +1,118 @@
 [
-    { "number": 1, "question": "A document from a supplier notifying a customer that undercharge has been made is called ______note.", "options": ["credit", "account", "profit", "debit"], "answer": "debit" },
-    { "number": 2, "question": "_____ is for keeping records of mail that comes into an office.", "options": ["Dispatch book", "Order book", "Inward book", "Outward book"], "answer": "Inward book" },
-    { "number": 3, "question": "An office equipment used to make holes neatly on papers is called ______.", "options": ["stapler", "typewriter", "photocopier", "perforator"], "answer": "perforator" },
-    { "number": 4, "question": "One of these is not a procedure for making payment", "options": ["bank draft", "cash", "cheques", "receipts"], "answer": "receipts" },
-    { "number": 5, "question": "A payment voucher does not carry one of the following information", "options": ["name and address of the issuing organization", "the travelling expenses incurred", "name and signature of the accountant of the issuing organization", "house address"], "answer": "the travelling expenses incurred" },
-    { "number": 6, "question": "A receipt is a/an", "options": ["credit note", "means of payment", "evidence of payment", "means of exchange"], "answer": "evidence of payment" },
-    { "number": 7, "question": "Transparency in business means", "options": ["being simple", "acting without hiding facts", "hiding facts in business", "prudent spending"], "answer": "acting without hiding facts" },
-    { "number": 8, "question": "The _____ is the first person one sees after the security gate while visiting any organization.", "options": ["manager", "security", "office clerk", "receptionist"], "answer": "receptionist" },
-    { "number": 9, "question": "The document that shows the particular of people that visit the organization is called", "options": ["diary", "visitor’s book", "visitors slip", "directory"], "answer": "visitor’s book" },
-    { "number": 10, "question": "The book which helps the receptionist find name and address of telephone owners is called ______.", "options": ["telephone directory", "telephone book", "telephone list", "letters and parcels"], "answer": "telephone directory" },
-    { "number": 11, "question": "A book where particulars of letters that are sent out of the organization are recorded is called _____.", "options": ["dispatch book", "outward correspondence", "postage book", "inward slip"], "answer": "outward correspondence" },
-    { "number": 12, "question": "_____ is the act of storing goods until they are needed.", "options": ["Transportation", "Warehousing", "Advertising", "Trading"], "answer": "Warehousing" },
-    { "number": 13, "question": "An individual who works for himself is said to be a/an", "options": ["entrepreneur", "enterprise", "employer", "a sole proprietor"], "answer": "a sole proprietor" },
-    { "number": 14, "question": "The end user of a product is regarded as the", "options": ["producer", "wholesaler", "retailer", "consumer"], "answer": "consumer" },
-    { "number": 15, "question": "In order to make profit, the producer sells his products", "options": ["above cost", "below cost", "equal cost", "above control"], "answer": "above cost" },
-    { "number": 16, "question": "_____ is sent to the buyer when goods are supplied.", "options": ["Delivery note", "Dispatch note", "Bill of exchange", "Invoice"], "answer": "Delivery note" },
-    { "number": 17, "question": "The officer that sorts out incoming mails is the", "options": ["receptionist", "mail clerk", "messenger", "managing director"], "answer": "mail clerk" },
-    { "number": 18, "question": "Visitors on arrival are made to sign a ____.", "options": ["typing document", "request form", "diary", "visitors book"], "answer": "visitors book" },
-    { "number": 19, "question": "A receptionist must be _____.", "options": ["tactful", "proud", "a fighter", "dirty"], "answer": "tactful" },
-    { "number": 20, "question": "One of the duties of a receptionist is to ___.", "options": ["welcome visitors politely", "welcome visitors rudely", "insult visitors", "embarrass visitors"], "answer": "welcome visitors politely" },
-    { "number": 21, "question": "______ is the receiving and exchange of letters in an organization.", "options": ["Office document", "Office correspondence", "Stamping of mail", "Sorting of letters"], "answer": "Office correspondence" },
-    { "number": 22, "question": "Books which give record of all mails received by an organization is _____.", "options": ["outward book", "inside book", "inward book", "visitors book"], "answer": "outward book" },
-    { "number": 23, "question": "Mails sent out of an organization are recorded in ______.", "options": ["postage book", "inwards book", "outward book", "outside book"], "answer": "outward book" },
-    { "number": 24, "question": "One of the procedures for handling an incoming mail is _____.", "options": ["mail sorting", "disposing mail", "keeping mail", "closing mail"], "answer": "mail sorting" },
-    { "number": 25, "question": "Mails collected must be ______.", "options": ["kept in the bank", "sent off", "burnt", "registered"], "answer": "registered" },
-    { "number": 26, "question": "The postage book shows a letter has been ______.", "options": ["sent", "signed", "posted", "accepted"], "answer": "posted" },
-    { "number": 27, "question": "Disposal simply means ______.", "options": ["keeping letter", "destroyed letter", "arranged letter", "sorted letter"], "answer": "destroyed letter" },
-    { "number": 28, "question": "Dispatching is usually done by the", "options": ["officer on duty", "office clerks", "open office", "outdoor worker"], "answer": "office clerks" },
-    { "number": 29, "question": "_____ is used to stamp large volume of letters.", "options": ["Ceiling machine", "Franking machine", "Sealing machine", "Stamp"], "answer": "Franking machine" },
-    { "number": 30, "question": "The ______ deliver letters by hand.", "options": ["jobberman", "dispatch rider", "rough rider", "bike rider"], "answer": "dispatch rider" },
-    { "number": 31, "question": "Example of goods include all except", "options": ["cocoa", "tomatoes", "rubber", "oil"], "answer": "oil" },
-    { "number": 32, "question": "One of these is a definition of distribution in commerce", "options": ["when oil is poured on the ground its spreads", "water dam that has many channels", "the putting of men into strategic places", "the passing of goods to various people who need them"], "answer": "the passing of goods to various people who need them" },
-    { "number": 33, "question": "The process of making goods and services available to the consumer is called _____.", "options": ["communication", "distribution", "modulation", "transportation"], "answer": "distribution" },
-    { "number": 34, "question": "A place where variety of products are made available for the purpose of buying and selling is called", "options": ["bank", "capital market", "market", "stock market"], "answer": "market" },
-    { "number": 35, "question": "The main reason why an individual engages in business is to", "options": ["develop his immediate community", "ensure wide distribution of goods", "executive philanthropic projects", "make a living through profit realization"], "answer": "make a living through profit realization" },
-    { "number": 36, "question": "The person that commits its financial resources to enjoy a product is called", "options": ["consumer", "marketer", "producer", "retailer"], "answer": "consumer" },
-    
-  {
-    "number": 37,
-    "question": "The following are rights of the consumer except the right to ______.",
-    "options": ["fair hearing", "seek redress", "stabilize price", "make a choice"],
-    "answer": "stabilize price"
-  },
+    { "number": 1, "question": "One of these diseases is not a communicable disease", "options": ["Tuberculosis", "Hepatitis", "Cancer", "Measles"], "answer": "Cancer" },
+    { "number": 2, "question": "The following are different ways of preventing diseases except", "options": ["Sanitation", "Immunization", "Blood Screening", "Hugging."], "answer": "Hugging." },
+    { "number": 3, "question": "One of the following is not a mode of transmission of diseases", "options": ["Air-borne transmission", "Fire transmission", "vector transmission", "contact transmission."], "answer": "Fire transmission" },
+    { "number": 4, "question": "The following are ways of controlling water pollution except", "options": ["sewage treatment", "Prohibition of the discharge of wastes", "indiscriminate dumping of refuse", "Avoidance of excess fertilizers"], "answer": "indiscriminate dumping of refuse" },
+    { "number": 5, "question": "All of these are effects of Air Pollution except", "options": ["Suffocation", "Damage to plants", "Spillage", "Lung cancer."], "answer": "Spillage" },
+    { "number": 6, "question": "Germs are tiny organisms that are called", "options": ["sickness", "Pathogens", "Malaria", "Headache."], "answer": "Pathogens" },
+    { "number": 7, "question": "The chemical formula for Carbon dioxide is", "options": ["Co2", "Co", "Co6", "Co12"], "answer": "Co2" },
+    { "number": 8, "question": "Taking of drugs without a doctor’s prescription is called", "options": ["Drug education", "Drug abuse", "Ignorance", "Treatment."], "answer": "Drug abuse" },
+    { "number": 9, "question": "Oxygen depletion in aquatic habitat causes", "options": ["growth of aquatic organisms", "The death of goats", "The death of aquatic organisms", "The death of ants."], "answer": "The death of aquatic organisms" },
+    { "number": 10, "question": "Water pollution may be caused by the following except", "options": ["Metallic containers", "domestic wastes", "oil spillage", "fishing."], "answer": "fishing." },
+    { "number": 11, "question": "Endoskeleton is found in the body of", "options": ["Insects", "Worms", "Vertebrates", "Invertebrates."], "answer": "Vertebrates" },
+    { "number": 12, "question": "One of the following is not a respiratory disease", "options": ["Stroke", "Pneumonia", "Tuberculosis", "Influenza"], "answer": "Stroke" },
+    { "number": 13, "question": "One of these is not part of the excretory system in human", "options": ["Lungs", "Liver", "Kidney", "Nose."], "answer": "Nose." },
+    { "number": 14, "question": "One of these is not an organ of the circulatory system", "options": ["Skin", "Heart", "Blood", "Vessels."], "answer": "Skin" },
+    { "number": 15, "question": "One of the following is not part of the digestive system", "options": ["Mouth", "Intestines", "Oesophagus", "Kidney."], "answer": "Kidney." },
+    { "number": 16, "question": "Digestion of food materials begin from", "options": ["Rectum", "Mouth", "Intestines", "Oesophagus."], "answer": "Mouth" },
+    { "number": 17, "question": "What type of reproduction do mammals undergo?", "options": ["Asexual", "Vegetative", "Sexual", "Budding."], "answer": "Sexual" },
+    { "number": 18, "question": "A hard rigid organ that constitutes part of the endoskeleton is known as", "options": ["Bones", "Muscles", "Joints", "Cartilage."], "answer": "Bones" },
+    { "number": 19, "question": "What is the S.I unit of power", "options": ["Watt(w)", "Newton(N)", "Joule(j)", "Meter(m)."], "answer": "Watt(w)" },
+    { "number": 20, "question": "What is the S.I unit of time", "options": ["minute(m)", "Second(s)", "Meter(m)", "Newton(N)."], "answer": "Second(s)" },
+    { "number": 21, "question": "The most common type of chain is?", "options": ["inverted tooth", "roller", "leaf", "conveyor"], "answer": "roller" },
+    { "number": 22, "question": "Which of these types of chains can be used for transporting materials?", "options": ["roller chain", "conveyor chain", "inverted tooth chain", "leaf chain"], "answer": "conveyor chain" },
+    { "number": 23, "question": "A power transmission element made as a series of pin-connected links is called?", "options": ["Iron", "Belt", "Chain", "magnet"], "answer": "Chain" },
+    { "number": 24, "question": "Which of the following offers smooth transmission of power between shafts at a considerable distance", "options": ["Belt drives", "Chain drives", "Magnetic drives", "Electrical drives"], "answer": "Belt drives" },
+    { "number": 25, "question": "Which of the following types of chain is used for lifting rather than power transmission", "options": ["roller chain", "conveyor chain", "inverted tooth chain", "leaf chain"], "answer": "leaf chain" },
+    { "number": 26, "question": "What can be used as overhead hoist", "options": ["Belt drives", "Chain drives", "Magnetic drives", "Electrical drives"], "answer": "Chain drives" },
+    { "number": 27, "question": "The sewing machine makes efficient use of?", "options": ["The flat belt", "synchronous timing belts", "cog belts", "V-belt"], "answer": "synchronous timing belts" },
+    { "number": 28, "question": "Which of the following require frequent lubrication?", "options": ["Series drives", "Parallel drives", "Belt drives", "Chain drives"], "answer": "Chain drives" },
+    { "number": 29, "question": "Automobiles also make use of the?", "options": ["timing belt/cam belt system", "Series/parallel system", "current/potential system", "hydraulic/lift system"], "answer": "timing belt/cam belt system" },
+    { "number": 30, "question": "Which of the following is used for transmitting drive between parallel shafts", "options": ["Bevel gears", "Spur gears", "Rack and pinion gears", "Lift"], "answer": "Spur gears" },
+    { "number": 31, "question": "Which of the following is used for transmitting power/drive between shafts at angles", "options": ["Spur gears", "Leaf gears", "Rack and pinion gears", "Bevel gears"], "answer": "Bevel gears" },
+    { "number": 32, "question": "In Rack and Pinion gears, what generate rotary motion", "options": ["rack", "spur", "lift", "pinion"], "answer": "pinion" },
+    { "number": 33, "question": "A wheel with teeth around its rim that mesh with the teeth of another wheel to transfer motion is called?", "options": ["Belt", "Chain", "Gear", "Clutch"], "answer": "Gear" },
+    { "number": 34, "question": "The most common type of chain is the chain.", "options": ["inverted tooth", "roller", "leaf", "conveyor"], "answer": "roller" },
+    { "number": 35, "question": "Which of these types of chains can be used for transporting materials?", "options": ["roller chain", "conveyor chain", "inverted tooth chain", "leaf chain"], "answer": "conveyor chain" },
+    { "number": 36, "question": "What is a power transmission element made as a series of pin-connected links?", "options": ["Iron", "Belt", "Chain", "magnet"], "answer": "Chain" },
+    { "number": 37, "question": "An instrument used for drawing parallel line is called ?", "options": ["compass", "ruler", "divider", "tee-square"], "answer": "tee-square" },
   {
     "number": 38,
-    "question": "The following are factors to be considered before granting loan to a customer except",
-    "options": ["ability to pay back", "friendliness with the bank", "credibility of the customer", "provision of collateral security"],
-    "answer": "friendliness with the bank"
+    "question": "Pencils for lettering in freehand sketching should be sharpened to a point.",
+    "options": ["chisel", "conical", "pointed", "curved"],
+    "answer": "chisel"
   },
   {
     "number": 39,
-    "question": "Which of the following is not a necessity of life?",
-    "options": ["Clothing", "Food", "Telecommunication", "Shelter"],
-    "answer": "Telecommunication"
+    "question": "What is also called margin?",
+    "options": ["leaf", "border lines", "centre lines", "thick line"],
+    "answer": "border lines"
   },
   {
     "number": 40,
-    "question": "Which of the following is a feature of a market?",
-    "options": ["It attracts very high profit", "It improves standard of living", "The supply of goods is fixed", "There is presence of buyers and sellers"],
-    "answer": "There is presence of buyers and sellers"
+    "question": "Thin continuous line can be used for?",
+    "options": ["edges", "construction lines", "hidden outlines", "path lines."],
+    "answer": "construction lines"
   },
   {
     "number": 41,
-    "question": "A sole proprietorship form of business has the following features except that it _____.",
-    "options": [
-      "come to an end when the owner is dead",
-      "confers the risk and profit on its owner",
-      "does not enjoy limited liability",
-      "requires huge capital to set up"
-    ],
-    "answer": "requires huge capital to set up"
+    "question": "Which of the following procedures comes first in constructing a building?",
+    "options": ["concreting", "excavation", "leveling", "site clearance."],
+    "answer": "site clearance."
   },
   {
     "number": 42,
-    "question": "Earning specified rate of interest higher than the interest on savings account is one of the features of ______.",
-    "options": ["bank overdraft", "current account", "fixed deposit account", "foreign exchange"],
-    "answer": "fixed deposit account"
+    "question": "Any substance capable of holding or bonding two pieces of wooden material together is.",
+    "options": ["abrasives", "latex", "adhesives", "sap."],
+    "answer": "adhesives"
   },
   {
     "number": 43,
-    "question": "The market where consumer goods are bought and sold is called _____ market.",
-    "options": ["capital", "commodities", "foreign", "money"],
-    "answer": "commodities"
+    "question": "Holes can be produced in metals by these processes except.",
+    "options": ["punching", "boring", "drilling", "flame."],
+    "answer": "flame."
   },
   {
     "number": 44,
-    "question": "Offering door – to – door services is one of the advantages of ____ transportation.",
-    "options": ["air", "pipeline", "rail", "road"],
-    "answer": "road"
+    "question": "Which of these tools is used for curved edges in woodwork?",
+    "options": ["trying plane", "spoke shave", "fret saw", "smoothing plane."],
+    "answer": "spoke shave"
   },
   {
     "number": 45,
-    "question": "Purchasing what you did not plan to buy explains _____.",
-    "options": ["impulse buying", "rational buying", "seasonal shopping", "self service"],
-    "answer": "impulse buying"
+    "question": "The following tools are used for site preparation EXCEPT",
+    "options": ["axe", "tilting drum", "shovel", "spade"],
+    "answer": "tilting drum"
   },
   {
     "number": 46,
-    "question": "The provision made by business organizations against future event that may have negative effects on the continuity of a business is referred to as _____.",
-    "options": ["brokerage", "credit", "insurance", "loan"],
-    "answer": "insurance"
+    "question": "Which of the following is not required in transmission and distribution of power at low frequency?",
+    "options": ["amplifier", "circuit breaker", "control panel", "substation"],
+    "answer": "substation"
   },
   {
     "number": 47,
-    "question": "A compensation for loss resulting from goods stolen through breaking into the premises of an insured is called _____ insurance.",
-    "options": ["burglary", "fire", "life", "marine"],
-    "answer": "burglary"
+    "question": "The following devices make use of motor for their operations EXCEPT",
+    "options": ["bread toaster", "cassava grinder", "electric fan", "fruit blender"],
+    "answer": "bread toaster"
   },
   {
     "number": 48,
-    "question": "Consumers have the following rights except right to ______.",
-    "options": ["be informed", "choose", "healthy environment", "luxury"],
-    "answer": "luxury"
+    "question": "Timing chain drive can be found in?",
+    "options": ["bicycles", "motorcycles", "motor vehicles", "machine tools."],
+    "answer": "motor vehicles"
   },
   {
     "number": 49,
-    "question": "The buying and selling of goods and services between two or more countries is called ____ trade.",
-    "options": ["entrepot", "export", "foreign", "home"],
-    "answer": "foreign"
+    "question": "A regular polygon with nine sides is called a/an.",
+    "options": ["hexagon", "heptagon", "octagon", "nonagon"],
+    "answer": "nonagon"
   },
   {
     "number": 50,
-    "question": "The abbreviation TAP in book keeping ethics means transparency, accountability and ______.",
-    "options": ["probity", "problem", "process", "progress"],
-    "answer": "probity"
+    "question": "The following are quadrilaterals except.",
+    "options": ["square", "rectangle", "rhombus", "triangle."],
+    "answer": "triangle."
   }
 ]
 
