@@ -1,118 +1,338 @@
 [
-    { "number": 1, "question": "One of these diseases is not a communicable disease", "options": ["Tuberculosis", "Hepatitis", "Cancer", "Measles"], "answer": "Cancer" },
-    { "number": 2, "question": "The following are different ways of preventing diseases except", "options": ["Sanitation", "Immunization", "Blood Screening", "Hugging."], "answer": "Hugging." },
-    { "number": 3, "question": "One of the following is not a mode of transmission of diseases", "options": ["Air-borne transmission", "Fire transmission", "vector transmission", "contact transmission."], "answer": "Fire transmission" },
-    { "number": 4, "question": "The following are ways of controlling water pollution except", "options": ["sewage treatment", "Prohibition of the discharge of wastes", "indiscriminate dumping of refuse", "Avoidance of excess fertilizers"], "answer": "indiscriminate dumping of refuse" },
-    { "number": 5, "question": "All of these are effects of Air Pollution except", "options": ["Suffocation", "Damage to plants", "Spillage", "Lung cancer."], "answer": "Spillage" },
-    { "number": 6, "question": "Germs are tiny organisms that are called", "options": ["sickness", "Pathogens", "Malaria", "Headache."], "answer": "Pathogens" },
-    { "number": 7, "question": "The chemical formula for Carbon dioxide is", "options": ["Co2", "Co", "Co6", "Co12"], "answer": "Co2" },
-    { "number": 8, "question": "Taking of drugs without a doctor’s prescription is called", "options": ["Drug education", "Drug abuse", "Ignorance", "Treatment."], "answer": "Drug abuse" },
-    { "number": 9, "question": "Oxygen depletion in aquatic habitat causes", "options": ["growth of aquatic organisms", "The death of goats", "The death of aquatic organisms", "The death of ants."], "answer": "The death of aquatic organisms" },
-    { "number": 10, "question": "Water pollution may be caused by the following except", "options": ["Metallic containers", "domestic wastes", "oil spillage", "fishing."], "answer": "fishing." },
-    { "number": 11, "question": "Endoskeleton is found in the body of", "options": ["Insects", "Worms", "Vertebrates", "Invertebrates."], "answer": "Vertebrates" },
-    { "number": 12, "question": "One of the following is not a respiratory disease", "options": ["Stroke", "Pneumonia", "Tuberculosis", "Influenza"], "answer": "Stroke" },
-    { "number": 13, "question": "One of these is not part of the excretory system in human", "options": ["Lungs", "Liver", "Kidney", "Nose."], "answer": "Nose." },
-    { "number": 14, "question": "One of these is not an organ of the circulatory system", "options": ["Skin", "Heart", "Blood", "Vessels."], "answer": "Skin" },
-    { "number": 15, "question": "One of the following is not part of the digestive system", "options": ["Mouth", "Intestines", "Oesophagus", "Kidney."], "answer": "Kidney." },
-    { "number": 16, "question": "Digestion of food materials begin from", "options": ["Rectum", "Mouth", "Intestines", "Oesophagus."], "answer": "Mouth" },
-    { "number": 17, "question": "What type of reproduction do mammals undergo?", "options": ["Asexual", "Vegetative", "Sexual", "Budding."], "answer": "Sexual" },
-    { "number": 18, "question": "A hard rigid organ that constitutes part of the endoskeleton is known as", "options": ["Bones", "Muscles", "Joints", "Cartilage."], "answer": "Bones" },
-    { "number": 19, "question": "What is the S.I unit of power", "options": ["Watt(w)", "Newton(N)", "Joule(j)", "Meter(m)."], "answer": "Watt(w)" },
-    { "number": 20, "question": "What is the S.I unit of time", "options": ["minute(m)", "Second(s)", "Meter(m)", "Newton(N)."], "answer": "Second(s)" },
-    { "number": 21, "question": "The most common type of chain is?", "options": ["inverted tooth", "roller", "leaf", "conveyor"], "answer": "roller" },
-    { "number": 22, "question": "Which of these types of chains can be used for transporting materials?", "options": ["roller chain", "conveyor chain", "inverted tooth chain", "leaf chain"], "answer": "conveyor chain" },
-    { "number": 23, "question": "A power transmission element made as a series of pin-connected links is called?", "options": ["Iron", "Belt", "Chain", "magnet"], "answer": "Chain" },
-    { "number": 24, "question": "Which of the following offers smooth transmission of power between shafts at a considerable distance", "options": ["Belt drives", "Chain drives", "Magnetic drives", "Electrical drives"], "answer": "Belt drives" },
-    { "number": 25, "question": "Which of the following types of chain is used for lifting rather than power transmission", "options": ["roller chain", "conveyor chain", "inverted tooth chain", "leaf chain"], "answer": "leaf chain" },
-    { "number": 26, "question": "What can be used as overhead hoist", "options": ["Belt drives", "Chain drives", "Magnetic drives", "Electrical drives"], "answer": "Chain drives" },
-    { "number": 27, "question": "The sewing machine makes efficient use of?", "options": ["The flat belt", "synchronous timing belts", "cog belts", "V-belt"], "answer": "synchronous timing belts" },
-    { "number": 28, "question": "Which of the following require frequent lubrication?", "options": ["Series drives", "Parallel drives", "Belt drives", "Chain drives"], "answer": "Chain drives" },
-    { "number": 29, "question": "Automobiles also make use of the?", "options": ["timing belt/cam belt system", "Series/parallel system", "current/potential system", "hydraulic/lift system"], "answer": "timing belt/cam belt system" },
-    { "number": 30, "question": "Which of the following is used for transmitting drive between parallel shafts", "options": ["Bevel gears", "Spur gears", "Rack and pinion gears", "Lift"], "answer": "Spur gears" },
-    { "number": 31, "question": "Which of the following is used for transmitting power/drive between shafts at angles", "options": ["Spur gears", "Leaf gears", "Rack and pinion gears", "Bevel gears"], "answer": "Bevel gears" },
-    { "number": 32, "question": "In Rack and Pinion gears, what generate rotary motion", "options": ["rack", "spur", "lift", "pinion"], "answer": "pinion" },
-    { "number": 33, "question": "A wheel with teeth around its rim that mesh with the teeth of another wheel to transfer motion is called?", "options": ["Belt", "Chain", "Gear", "Clutch"], "answer": "Gear" },
-    { "number": 34, "question": "The most common type of chain is the chain.", "options": ["inverted tooth", "roller", "leaf", "conveyor"], "answer": "roller" },
-    { "number": 35, "question": "Which of these types of chains can be used for transporting materials?", "options": ["roller chain", "conveyor chain", "inverted tooth chain", "leaf chain"], "answer": "conveyor chain" },
-    { "number": 36, "question": "What is a power transmission element made as a series of pin-connected links?", "options": ["Iron", "Belt", "Chain", "magnet"], "answer": "Chain" },
-    { "number": 37, "question": "An instrument used for drawing parallel line is called ?", "options": ["compass", "ruler", "divider", "tee-square"], "answer": "tee-square" },
+    {
+      "number": 1,
+      "question": "What does the scale of a map represent?",
+      "options": ["The size of symbols on the map", "The distance between cities", "The ratio between map distance and actual ground distance", "The direction of north on the map"],
+      "answer": "The ratio between map distance and actual ground distance"
+    },
+    {
+      "number": 2,
+      "question": "A map has a scale of 1:100,000. What does this mean?",
+      "options": ["1 cm on the map equals 1 km on the ground", "1 cm on the map equals 100,000 cm on the ground", "1 km on the map equals 100,000 km on the ground", "1 m on the map equals 100,000 m on the ground"],
+      "answer": "1 cm on the map equals 100,000 cm on the ground"
+    },
+    {
+      "number": 3,
+      "question": "If the actual ground distance between two towns is 5 km, what would be the distance on a map with a scale of 1:50,000?",
+      "options": ["5 cm", "10 cm", "2.5 cm", "1 cm"],
+      "answer": "2.5 cm"
+    },
+    {
+      "number": 4,
+      "question": "Which of the following instruments is best for measuring curved distances on a map?",
+      "options": ["Compass", "Divider", "String or thread", "Protractor"],
+      "answer": "String or thread"
+    },
+    {
+      "number": 5,
+      "question": "If a rectangular field on the ground measures 5 km in length and 2 km in breadth, what would be its length on the map with a scale of 1:50,000?",
+      "options": ["10 cm", "5 cm", "100 cm", "15 cm"],
+      "answer": "10 cm"
+    },
+    {
+      "number": 6,
+      "question": "What would be the breadth on the map for the same field with an actual breadth of 2 km, using a 1:50,000 scale?",
+      "options": ["1 cm", "4 cm", "2 cm", "5 cm"],
+      "answer": "2 cm"
+    },
+    {
+      "number": 7,
+      "question": "What would be the area on the map (in cm²) of a rectangular plot that measures 5 km by 2 km on the ground, using a map scale of 1:50,000?",
+      "options": ["50 cm²", "40 cm²", "100 cm²", "20 cm²"],
+      "answer": "40 cm²"
+    },
+    {
+      "number": 8,
+      "question": "Which of the following is a type of land transportation?",
+      "options": ["Airplane", "Ship", "Train", "Submarine"],
+      "answer": "Train"
+    },
+    {
+      "number": 9,
+      "question": "A major advantage of land transport is:",
+      "options": ["Very fast for international travel", "Suitable for short-distance travel", "Cannot carry goods", "Very cheap over oceans"],
+      "answer": "Suitable for short-distance travel"
+    },
+    {
+      "number": 10,
+      "question": "Which of the following is a category of land transportation?",
+      "options": ["Road and Rail", "Sea and Canal", "Jet and Helicopter", "Drone and Submarine"],
+      "answer": "Road and Rail"
+    },
+    {
+      "number": 11,
+      "question": "One major limitation of land transportation is:",
+      "options": ["Traffic congestion and road accidents", "Too expensive for short trips", "Inaccessible in cities", "Cannot carry passengers"],
+      "answer": "Traffic congestion and road accidents"
+    },
+    {
+      "number": 12,
+      "question": "The fastest means of transportation is:",
+      "options": ["Train", "Ship", "Airplane", "Canoe"],
+      "answer": "Airplane"
+    },
+    {
+      "number": 13,
+      "question": "Which of these is a disadvantage of air transport?",
+      "options": ["Cannot carry passengers", "Slow and steady", "Expensive and weather-dependent", "Requires railways"],
+      "answer": "Expensive and weather-dependent"
+    },
+    {
+      "number": 14,
+      "question": "One advantage of air transportation is:",
+      "options": ["Not affected by weather", "Moves very slowly", "High speed for long-distance travel", "Suitable for bulky goods"],
+      "answer": "High speed for long-distance travel"
+    },
+    {
+      "number": 15,
+      "question": "A suitable solution to the high cost of air travel is:",
+      "options": ["Reduce fuel", "Government subsidy", "Ban air transport", "Use bicycles"],
+      "answer": "Government subsidy"
+    },
+    {
+      "number": 16,
+      "question": "Which of the following is a type of water transportation?",
+      "options": ["Helicopter", "Ship", "Train", "Bus"],
+      "answer": "Ship"
+    },
+    {
+      "number": 17,
+      "question": "Water transport is most effective for:",
+      "options": ["Speed", "Overhead delivery", "Moving large goods internationally", "Daily commuting"],
+      "answer": "Moving large goods internationally"
+    },
+    {
+      "number": 18,
+      "question": "A limitation of water transport is:",
+      "options": ["Cannot cross rivers", "Affected by weather and slow", "Too fast", "Doesn’t use engines"],
+      "answer": "Affected by weather and slow"
+    },
+    {
+      "number": 19,
+      "question": "One disadvantage of water transportation is:",
+      "options": ["Cannot carry goods", "High maintenance cost", "Limited to areas with water", "Used only for sports"],
+      "answer": "Limited to areas with water"
+    },
+    {
+      "number": 20,
+      "question": "Which of the following is a solution to slow water transport?",
+      "options": ["Reduce boat speed", "Build better ports and modern ships", "Use donkeys", "Ban shipping"],
+      "answer": "Build better ports and modern ships"
+    },
+    {
+      "number": 21,
+      "question": "Pipeline transportation is mainly used for transporting:",
+      "options": ["Cars", "Crude oil and natural gas", "Fruits", "Clothes"],
+      "answer": "Crude oil and natural gas"
+    },
+    {
+      "number": 22,
+      "question": "An advantage of pipeline transport is:",
+      "options": ["Very noisy", "No traffic", "Carries passengers", "Needs pilots"],
+      "answer": "No traffic"
+    },
+    {
+      "number": 23,
+      "question": "Which of the following is a limitation of pipeline transportation?",
+      "options": ["Traffic congestion", "Leakage and vandalism", "Flooding", "Poor air control"],
+      "answer": "Leakage and vandalism"
+    },
+    {
+      "number": 24,
+      "question": "A solution to pipeline vandalism is:",
+      "options": ["Ignore theft", "Use wooden pipes", "Increase security surveillance", "Move goods by hand"],
+      "answer": "Increase security surveillance"
+    },
+    {
+      "number": 25,
+      "question": "Which mode of transportation can transport goods without a driver or pilot?",
+      "options": ["Road", "Pipeline", "Water", "Air"],
+      "answer": "Pipeline"
+    },
+    {
+      "number": 26,
+      "question": "One major economic importance of transportation is:",
+      "options": ["Delays market activities", "Hinders trade", "Facilitates distribution of goods and services", "Causes accidents only"],
+      "answer": "Facilitates distribution of goods and services"
+    },
+    {
+      "number": 27,
+      "question": "Which transport type is best for remote areas with no road access?",
+      "options": ["Air", "Road", "Pipeline", "Train"],
+      "answer": "Air"
+    },
+  {
+    "number": 28,
+    "question": "Housing is determined by one of these factors",
+    "options": ["church", "ecosystem", "weather", "none of the above"],
+    "answer": "weather"
+  },
+  {
+    "number": 29,
+    "question": "Soil formation is the breaking down of parent rock which has been affected by",
+    "options": ["Climate", "environmental hazard", "Weather", "ozone layer"],
+    "answer": "Climate"
+  },
+  {
+    "number": 30,
+    "question": "Twilight is defined as _______.",
+    "options": [
+      "period between day and night",
+      "Period between sunrise and sunset",
+      "The period between evening and afternoon",
+      "The period between sunset and complete darkness"
+    ],
+    "answer": "The period between sunset and complete darkness"
+  },
+  {
+    "number": 31,
+    "question": "Dawn refers to a ______.",
+    "options": [
+      "period between morning and afternoon",
+      "Period between noon and evening",
+      "Period between night and day",
+      "Period between sunrise and complete daylight"
+    ],
+    "answer": "Period between night and day"
+  },
+  {
+    "number": 32,
+    "question": "Communication and transportation are the major factors of ______.",
+    "options": [
+      "Movement of animal",
+      "Transportation of environment",
+      "Invasion of aliens",
+      "Movement of human resources and raw materials"
+    ],
+    "answer": "Movement of human resources and raw materials"
+  },
+  {
+    "number": 33,
+    "question": "Latitude lines are used to ______.",
+    "options": [
+      "calculate distance between 2 places",
+      "calculate time it takes to arrive the sun",
+      "time between earth and other planet",
+      "none of the above"
+    ],
+    "answer": "calculate distance between 2 places"
+  },
+  {
+    "number": 34,
+    "question": "Standard time is the time generally adopted by",
+    "options": ["Nations", "World", "GMT", "a country"],
+    "answer": "a country"
+  },
+  {
+    "number": 35,
+    "question": "International Date Line is where the date changes by _______.",
+    "options": ["1 hour", "12 hours", "24hours", "2 hours"],
+    "answer": "24hours"
+  },
+  {
+    "number": 36,
+    "question": "Meridian is lines of _______.",
+    "options": ["Longitude", "latitude", "Confluence", "equator"],
+    "answer": "Longitude"
+  },
+  {
+    "number": 37,
+    "question": "During which one of the following does all area on earth have equal day and nights?",
+    "options": ["Solstices", "summer", "Equinoxes", "winter"],
+    "answer": "Equinoxes"
+  },
   {
     "number": 38,
-    "question": "Pencils for lettering in freehand sketching should be sharpened to a point.",
-    "options": ["chisel", "conical", "pointed", "curved"],
-    "answer": "chisel"
+    "question": "What lines divides the earth into parts?",
+    "options": ["Latitude", "Equator", "Longitude", "Diameter"],
+    "answer": "Equator"
   },
   {
     "number": 39,
-    "question": "What is also called margin?",
-    "options": ["leaf", "border lines", "centre lines", "thick line"],
-    "answer": "border lines"
+    "question": "All meridians form part of the?",
+    "options": ["Great circle", "longitude", "Equation", "latitude"],
+    "answer": "Great circle"
   },
   {
     "number": 40,
-    "question": "Thin continuous line can be used for?",
-    "options": ["edges", "construction lines", "hidden outlines", "path lines."],
-    "answer": "construction lines"
+    "question": "The movement of the earth around its axis is known as?",
+    "options": ["Rotation", "revolution", "Resolution", "evolving"],
+    "answer": "Rotation"
   },
   {
     "number": 41,
-    "question": "Which of the following procedures comes first in constructing a building?",
-    "options": ["concreting", "excavation", "leveling", "site clearance."],
-    "answer": "site clearance."
+    "question": "What does GIS stand for?",
+    "options": [
+      "Geographic Imaging Software",
+      "Global Integrated System",
+      "Geographic Information System",
+      "General Information Survey"
+    ],
+    "answer": "Geographic Information System"
   },
   {
     "number": 42,
-    "question": "Any substance capable of holding or bonding two pieces of wooden material together is.",
-    "options": ["abrasives", "latex", "adhesives", "sap."],
-    "answer": "adhesives"
+    "question": "Which of the following is a type of GIS data?",
+    "options": ["Word documents", "Vector and raster data", "Text messages", "Audio recordings"],
+    "answer": "Vector and raster data"
   },
   {
     "number": 43,
-    "question": "Holes can be produced in metals by these processes except.",
-    "options": ["punching", "boring", "drilling", "flame."],
-    "answer": "flame."
+    "question": "Raster data in GIS is made up of:",
+    "options": ["Points and lines", "Tables and charts", "Grid cells or pixels", "Words and paragraphs"],
+    "answer": "Grid cells or pixels"
   },
   {
     "number": 44,
-    "question": "Which of these tools is used for curved edges in woodwork?",
-    "options": ["trying plane", "spoke shave", "fret saw", "smoothing plane."],
-    "answer": "spoke shave"
+    "question": "Vector data in GIS represents features using:",
+    "options": ["Only text", "Images", "Points, lines, and polygons", "Waves and particles"],
+    "answer": "Points, lines, and polygons"
   },
   {
     "number": 45,
-    "question": "The following tools are used for site preparation EXCEPT",
-    "options": ["axe", "tilting drum", "shovel", "spade"],
-    "answer": "tilting drum"
+    "question": "Which of the following is a source of GIS data?",
+    "options": ["Social media posts", "Field surveys and satellite imagery", "Novels and stories", "Weather apps only"],
+    "answer": "Field surveys and satellite imagery"
   },
   {
     "number": 46,
-    "question": "Which of the following is not required in transmission and distribution of power at low frequency?",
-    "options": ["amplifier", "circuit breaker", "control panel", "substation"],
-    "answer": "substation"
+    "question": "What is an industry?",
+    "options": [
+      "A place where people live",
+      "A system of government",
+      "Economic activity concerned with processing raw materials and manufacturing goods",
+      "A type of climate"
+    ],
+    "answer": "Economic activity concerned with processing raw materials and manufacturing goods"
   },
   {
     "number": 47,
-    "question": "The following devices make use of motor for their operations EXCEPT",
-    "options": ["bread toaster", "cassava grinder", "electric fan", "fruit blender"],
-    "answer": "bread toaster"
+    "question": "Which of the following is a type of primary industry?",
+    "options": ["Banking", "Farming", "Car manufacturing", "Teaching"],
+    "answer": "Farming"
   },
   {
     "number": 48,
-    "question": "Timing chain drive can be found in?",
-    "options": ["bicycles", "motorcycles", "motor vehicles", "machine tools."],
-    "answer": "motor vehicles"
+    "question": "Which of these is a secondary industry?",
+    "options": ["Coal mining", "Fish farming", "Steel production", "Insurance services"],
+    "answer": "Steel production"
   },
   {
     "number": 49,
-    "question": "A regular polygon with nine sides is called a/an.",
-    "options": ["hexagon", "heptagon", "octagon", "nonagon"],
-    "answer": "nonagon"
+    "question": "Tertiary industries are best described as those that:",
+    "options": [
+      "Extract raw materials from nature",
+      "Provide services to people and businesses",
+      "Process food and raw materials",
+      "Involve high-level scientific research"
+    ],
+    "answer": "Provide services to people and businesses"
   },
   {
     "number": 50,
-    "question": "The following are quadrilaterals except.",
-    "options": ["square", "rectangle", "rhombus", "triangle."],
-    "answer": "triangle."
+    "question": "Which of the following is a quaternary industry?",
+    "options": ["Banking", "Mining", "Information technology services", "Textile production"],
+    "answer": "Information technology services"
   }
 ]
 
