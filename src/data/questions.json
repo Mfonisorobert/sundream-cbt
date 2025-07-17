@@ -1,338 +1,123 @@
-[
-    {
-      "number": 1,
-      "question": "What does the scale of a map represent?",
-      "options": ["The size of symbols on the map", "The distance between cities", "The ratio between map distance and actual ground distance", "The direction of north on the map"],
-      "answer": "The ratio between map distance and actual ground distance"
-    },
-    {
-      "number": 2,
-      "question": "A map has a scale of 1:100,000. What does this mean?",
-      "options": ["1 cm on the map equals 1 km on the ground", "1 cm on the map equals 100,000 cm on the ground", "1 km on the map equals 100,000 km on the ground", "1 m on the map equals 100,000 m on the ground"],
-      "answer": "1 cm on the map equals 100,000 cm on the ground"
-    },
-    {
-      "number": 3,
-      "question": "If the actual ground distance between two towns is 5 km, what would be the distance on a map with a scale of 1:50,000?",
-      "options": ["5 cm", "10 cm", "2.5 cm", "1 cm"],
-      "answer": "2.5 cm"
-    },
-    {
-      "number": 4,
-      "question": "Which of the following instruments is best for measuring curved distances on a map?",
-      "options": ["Compass", "Divider", "String or thread", "Protractor"],
-      "answer": "String or thread"
-    },
-    {
-      "number": 5,
-      "question": "If a rectangular field on the ground measures 5 km in length and 2 km in breadth, what would be its length on the map with a scale of 1:50,000?",
-      "options": ["10 cm", "5 cm", "100 cm", "15 cm"],
-      "answer": "10 cm"
-    },
-    {
-      "number": 6,
-      "question": "What would be the breadth on the map for the same field with an actual breadth of 2 km, using a 1:50,000 scale?",
-      "options": ["1 cm", "4 cm", "2 cm", "5 cm"],
-      "answer": "2 cm"
-    },
-    {
-      "number": 7,
-      "question": "What would be the area on the map (in cm²) of a rectangular plot that measures 5 km by 2 km on the ground, using a map scale of 1:50,000?",
-      "options": ["50 cm²", "40 cm²", "100 cm²", "20 cm²"],
-      "answer": "40 cm²"
-    },
-    {
-      "number": 8,
-      "question": "Which of the following is a type of land transportation?",
-      "options": ["Airplane", "Ship", "Train", "Submarine"],
-      "answer": "Train"
-    },
-    {
-      "number": 9,
-      "question": "A major advantage of land transport is:",
-      "options": ["Very fast for international travel", "Suitable for short-distance travel", "Cannot carry goods", "Very cheap over oceans"],
-      "answer": "Suitable for short-distance travel"
-    },
-    {
-      "number": 10,
-      "question": "Which of the following is a category of land transportation?",
-      "options": ["Road and Rail", "Sea and Canal", "Jet and Helicopter", "Drone and Submarine"],
-      "answer": "Road and Rail"
-    },
-    {
-      "number": 11,
-      "question": "One major limitation of land transportation is:",
-      "options": ["Traffic congestion and road accidents", "Too expensive for short trips", "Inaccessible in cities", "Cannot carry passengers"],
-      "answer": "Traffic congestion and road accidents"
-    },
-    {
-      "number": 12,
-      "question": "The fastest means of transportation is:",
-      "options": ["Train", "Ship", "Airplane", "Canoe"],
-      "answer": "Airplane"
-    },
-    {
-      "number": 13,
-      "question": "Which of these is a disadvantage of air transport?",
-      "options": ["Cannot carry passengers", "Slow and steady", "Expensive and weather-dependent", "Requires railways"],
-      "answer": "Expensive and weather-dependent"
-    },
-    {
-      "number": 14,
-      "question": "One advantage of air transportation is:",
-      "options": ["Not affected by weather", "Moves very slowly", "High speed for long-distance travel", "Suitable for bulky goods"],
-      "answer": "High speed for long-distance travel"
-    },
-    {
-      "number": 15,
-      "question": "A suitable solution to the high cost of air travel is:",
-      "options": ["Reduce fuel", "Government subsidy", "Ban air transport", "Use bicycles"],
-      "answer": "Government subsidy"
-    },
-    {
-      "number": 16,
-      "question": "Which of the following is a type of water transportation?",
-      "options": ["Helicopter", "Ship", "Train", "Bus"],
-      "answer": "Ship"
-    },
-    {
-      "number": 17,
-      "question": "Water transport is most effective for:",
-      "options": ["Speed", "Overhead delivery", "Moving large goods internationally", "Daily commuting"],
-      "answer": "Moving large goods internationally"
-    },
-    {
-      "number": 18,
-      "question": "A limitation of water transport is:",
-      "options": ["Cannot cross rivers", "Affected by weather and slow", "Too fast", "Doesn’t use engines"],
-      "answer": "Affected by weather and slow"
-    },
-    {
-      "number": 19,
-      "question": "One disadvantage of water transportation is:",
-      "options": ["Cannot carry goods", "High maintenance cost", "Limited to areas with water", "Used only for sports"],
-      "answer": "Limited to areas with water"
-    },
-    {
-      "number": 20,
-      "question": "Which of the following is a solution to slow water transport?",
-      "options": ["Reduce boat speed", "Build better ports and modern ships", "Use donkeys", "Ban shipping"],
-      "answer": "Build better ports and modern ships"
-    },
-    {
-      "number": 21,
-      "question": "Pipeline transportation is mainly used for transporting:",
-      "options": ["Cars", "Crude oil and natural gas", "Fruits", "Clothes"],
-      "answer": "Crude oil and natural gas"
-    },
-    {
-      "number": 22,
-      "question": "An advantage of pipeline transport is:",
-      "options": ["Very noisy", "No traffic", "Carries passengers", "Needs pilots"],
-      "answer": "No traffic"
-    },
-    {
-      "number": 23,
-      "question": "Which of the following is a limitation of pipeline transportation?",
-      "options": ["Traffic congestion", "Leakage and vandalism", "Flooding", "Poor air control"],
-      "answer": "Leakage and vandalism"
-    },
-    {
-      "number": 24,
-      "question": "A solution to pipeline vandalism is:",
-      "options": ["Ignore theft", "Use wooden pipes", "Increase security surveillance", "Move goods by hand"],
-      "answer": "Increase security surveillance"
-    },
-    {
-      "number": 25,
-      "question": "Which mode of transportation can transport goods without a driver or pilot?",
-      "options": ["Road", "Pipeline", "Water", "Air"],
-      "answer": "Pipeline"
-    },
-    {
-      "number": 26,
-      "question": "One major economic importance of transportation is:",
-      "options": ["Delays market activities", "Hinders trade", "Facilitates distribution of goods and services", "Causes accidents only"],
-      "answer": "Facilitates distribution of goods and services"
-    },
-    {
-      "number": 27,
-      "question": "Which transport type is best for remote areas with no road access?",
-      "options": ["Air", "Road", "Pipeline", "Train"],
-      "answer": "Air"
-    },
-  {
-    "number": 28,
-    "question": "Housing is determined by one of these factors",
-    "options": ["church", "ecosystem", "weather", "none of the above"],
-    "answer": "weather"
-  },
-  {
-    "number": 29,
-    "question": "Soil formation is the breaking down of parent rock which has been affected by",
-    "options": ["Climate", "environmental hazard", "Weather", "ozone layer"],
-    "answer": "Climate"
-  },
-  {
-    "number": 30,
-    "question": "Twilight is defined as _______.",
-    "options": [
-      "period between day and night",
-      "Period between sunrise and sunset",
-      "The period between evening and afternoon",
-      "The period between sunset and complete darkness"
-    ],
-    "answer": "The period between sunset and complete darkness"
-  },
-  {
-    "number": 31,
-    "question": "Dawn refers to a ______.",
-    "options": [
-      "period between morning and afternoon",
-      "Period between noon and evening",
-      "Period between night and day",
-      "Period between sunrise and complete daylight"
-    ],
-    "answer": "Period between night and day"
-  },
-  {
-    "number": 32,
-    "question": "Communication and transportation are the major factors of ______.",
-    "options": [
-      "Movement of animal",
-      "Transportation of environment",
-      "Invasion of aliens",
-      "Movement of human resources and raw materials"
-    ],
-    "answer": "Movement of human resources and raw materials"
-  },
-  {
-    "number": 33,
-    "question": "Latitude lines are used to ______.",
-    "options": [
-      "calculate distance between 2 places",
-      "calculate time it takes to arrive the sun",
-      "time between earth and other planet",
-      "none of the above"
-    ],
-    "answer": "calculate distance between 2 places"
-  },
-  {
-    "number": 34,
-    "question": "Standard time is the time generally adopted by",
-    "options": ["Nations", "World", "GMT", "a country"],
-    "answer": "a country"
-  },
-  {
-    "number": 35,
-    "question": "International Date Line is where the date changes by _______.",
-    "options": ["1 hour", "12 hours", "24hours", "2 hours"],
-    "answer": "24hours"
-  },
-  {
-    "number": 36,
-    "question": "Meridian is lines of _______.",
-    "options": ["Longitude", "latitude", "Confluence", "equator"],
-    "answer": "Longitude"
-  },
-  {
-    "number": 37,
-    "question": "During which one of the following does all area on earth have equal day and nights?",
-    "options": ["Solstices", "summer", "Equinoxes", "winter"],
-    "answer": "Equinoxes"
-  },
-  {
-    "number": 38,
-    "question": "What lines divides the earth into parts?",
-    "options": ["Latitude", "Equator", "Longitude", "Diameter"],
-    "answer": "Equator"
-  },
+ [
+    { "number": 1, "question": "Which of the following food is perishable?", "options": ["Rice", "Beans", "Meat", "Maize"], "answer": "Meat" },
+    { "number": 2, "question": "The process of keeping food cold in storage is called", "options": ["cooling", "refrigeration", "processing", "storage"], "answer": "refrigeration" },
+    { "number": 3, "question": "The term used collectively to include a variety of textile articles used in the home is household", "options": ["linen", "cotton", "calico", "fabric"], "answer": "linen" },
+    { "number": 4, "question": "Which of the following is not a human resource?", "options": ["Money", "Skill", "Knowledge", "Energy"], "answer": "Money" },
+    { "number": 5, "question": "The process of choosing among alternatives is called _____", "options": ["decision making", "alternating", "groups", "action making"], "answer": "decision making" },
+    { "number": 6, "question": "The struggle between two or more people who disagree is called", "options": ["conflict", "problem", "fault", "challenge"], "answer": "conflict" },
+    { "number": 7, "question": "Unresolved conflicts can lead to", "options": ["peace", "harmony", "negotiation", "hostility"], "answer": "hostility" },
+    { "number": 8, "question": "Persons who do strenuous jobs are called", "options": ["sedentary workers", "manual workers", "vegetarians", "adults"], "answer": "manual workers" },
+    { "number": 9, "question": "The doctor’s instruction must be followed when providing food for the", "options": ["young", "adolescent", "sick", "aged"], "answer": "sick" },
+    { "number": 10, "question": "Excessive consumption of sweets by children can lead to", "options": ["good teeth", "strong teeth", "decay tooth", "tooth growth"], "answer": "decay tooth" },
+    { "number": 11, "question": "Which of the following is a deficiency disease?", "options": ["Malaria", "Fever", "AIDS", "Kwashiorkor"], "answer": "Kwashiorkor" },
+    { "number": 12, "question": "Which of the following is very important for proper development of the bones?", "options": ["Minerals", "Oils", "Proteins", "Vitamins"], "answer": "Minerals" },
+    { "number": 13, "question": "The process of buying food in large quantities is called", "options": ["hire purchasing", "bulk purchasing", "good purchasing", "cheap purchasing"], "answer": "bulk purchasing" },
+    { "number": 14, "question": "Which of the following is not a tool for taking body measurement?", "options": ["Tape measure", "Pencil", "Paper", "String"], "answer": "String" },
+    { "number": 15, "question": "Surplus carbohydrates in the body is stored as", "options": ["starch", "acid", "water", "fat"], "answer": "fat" },
+    { "number": 16, "question": "Which of the following is a body builder?", "options": ["Yam", "Fat", "Roughage", "Beans"], "answer": "Beans" },
+    { "number": 17, "question": "------- supply the body with heat and energy", "options": ["carbohydrates and iron", "oils and calcium", "carbohydrates and fats", "carbohydrates and vegetables"], "answer": "carbohydrates and fats" },
+    { "number": 18, "question": "The field that deals with the food we eat and how it nourishes our body", "options": ["food technology", "Nutrition", "nutrients", "foods"], "answer": "Nutrition" },
+    { "number": 19, "question": "------- are for protecting the body from diseases", "options": ["starch", "carbohydrate", "oils", "vitamins"], "answer": "vitamins" },
+    { "number": 20, "question": "Not all conflict are", "options": ["poor", "bad", "loose", "hard"], "answer": "bad" },
+    { "number": 21, "question": "Decisions can easily be influenced by", "options": ["resources", "period", "time", "size"], "answer": "resources" },
+    { "number": 22, "question": "Clothes should not be stored in a", "options": ["box", "damp place", "wardrobe", "closet"], "answer": "damp place" },
+    { "number": 23, "question": "Clothes can be stored in all except", "options": ["box", "wardrobe", "closet", "bed"], "answer": "bed" },
+    { "number": 24, "question": "Conflict in families can arise from any of the following", "options": ["situations, personality, unity", "situations, personality, power struggles", "personality, situation, affection", "personality, power, struggles, love"], "answer": "situations, personality, power struggles" },
+    { "number": 25, "question": "The fabrics or materials used for decorating doors and windows are", "options": ["curtains and draperies", "curtains and sheets", "sheets and linens", "spreads and draperies"], "answer": "curtains and draperies" },
+    { "number": 26, "question": "Clothes should be aired before they are", "options": ["washed", "stored", "ironed", "bleached"], "answer": "ironed" },
+    { "number": 27, "question": "A type of pattern made to fit a particular person is", "options": ["drafted", "block", "print", "measured"], "answer": "drafted" },
+    { "number": 28, "question": "Which of the following is not a tool for pattern drafting?", "options": ["Tape measure", "Metre rule", "Needle", "Paper"], "answer": "Needle" },
+    { "number": 29, "question": "All can lead to family crisis except", "options": ["lost of job", "arrival of new born baby", "arrival of member of family from London", "relocation of family"], "answer": "arrival of member of family from London" },
+    { "number": 30, "question": "-------is important for body tissues and fluids", "options": ["fats", "maize", "water", "sugar"], "answer": "water" },
+    { "number": 31, "question": "The nutrients that supply the body with heat and energy are", "options": ["carbohydrates and iron", "carbohydrates and fats", "carbohydrates and vegetables", "proteins and iron"], "answer": "carbohydrates and fats" },
+    { "number": 32, "question": "One of the following may not influence meal planning", "options": ["age", "health", "money", "height"], "answer": "height" },
+    { "number": 33, "question": "Human resources is classified into", "options": ["five", "four", "three", "two"], "answer": "five" },
+    { "number": 34, "question": "Which of the following is not a human resources?", "options": ["Attitude", "Energy", "Knowledge", "Money"], "answer": "Money" },
+    { "number": 35, "question": "Adolescent boys and girls are usually very active, so their meals should be rich in", "options": ["active giving foods", "energy giving food", "protein giving foods", "vitamin giving food"], "answer": "energy giving food" },
+    { "number": 36, "question": "Wash every fruit properly before consuming it to avoid food", "options": ["contamination", "digestion", "good health", "hygiene"], "answer": "contamination" },
+    { "number": 37, "question": "Lack of proper storage and management can lead to food ____ in bulk purchasing", "options": ["losses", "gain", "grading", "storage"], "answer": "losses" },
+    { "number": 38, "question": "One of these can destroy maize or beans in storage", "options": ["cold", "weevils", "heat", "houseflies"], "answer": "weevils" },
   {
     "number": 39,
-    "question": "All meridians form part of the?",
-    "options": ["Great circle", "longitude", "Equation", "latitude"],
-    "answer": "Great circle"
+    "question": "Food spoilage can be prevented by storing foodstuff under ____ conditions",
+    "options": ["warm", "hot", "cold", "moist"],
+    "answer": "moist"
   },
   {
     "number": 40,
-    "question": "The movement of the earth around its axis is known as?",
-    "options": ["Rotation", "revolution", "Resolution", "evolving"],
-    "answer": "Rotation"
+    "question": "Raw meat should be stored in the",
+    "options": ["refrigerator compartment", "vegetable crisper", "freezer compartment", "middle shelf"],
+    "answer": "freezer compartment"
   },
   {
     "number": 41,
-    "question": "What does GIS stand for?",
-    "options": [
-      "Geographic Imaging Software",
-      "Global Integrated System",
-      "Geographic Information System",
-      "General Information Survey"
-    ],
-    "answer": "Geographic Information System"
+    "question": "Lactating mothers are ---- feeding their babies",
+    "options": ["bottle", "breast", "over", "under"],
+    "answer": "breast"
   },
   {
     "number": 42,
-    "question": "Which of the following is a type of GIS data?",
-    "options": ["Word documents", "Vector and raster data", "Text messages", "Audio recordings"],
-    "answer": "Vector and raster data"
+    "question": "Meals for children should be cooked by easily",
+    "options": ["accepted method", "manipulated method", "attracted method", "digested method"],
+    "answer": "digested method"
   },
   {
     "number": 43,
-    "question": "Raster data in GIS is made up of:",
-    "options": ["Points and lines", "Tables and charts", "Grid cells or pixels", "Words and paragraphs"],
-    "answer": "Grid cells or pixels"
+    "question": "Which of the following groups of people require increased intake of iron?",
+    "options": ["Adolescents", "Adolescent boys", "Adolescents girls", "Manual worker"],
+    "answer": "Manual worker"
   },
   {
     "number": 44,
-    "question": "Vector data in GIS represents features using:",
-    "options": ["Only text", "Images", "Points, lines, and polygons", "Waves and particles"],
-    "answer": "Points, lines, and polygons"
+    "question": "A card or sheet of paper that shows the meals or courses for breakfast, lunch and supper is a/an ____",
+    "options": ["menu card", "invitation card", "meal ticket", "food list"],
+    "answer": "menu card"
   },
   {
     "number": 45,
-    "question": "Which of the following is a source of GIS data?",
-    "options": ["Social media posts", "Field surveys and satellite imagery", "Novels and stories", "Weather apps only"],
-    "answer": "Field surveys and satellite imagery"
+    "question": "For the welfare of the family, conflicts are best",
+    "options": ["overlooked", "resolved", "ignored", "buried"],
+    "answer": "resolved"
   },
   {
     "number": 46,
-    "question": "What is an industry?",
+    "question": "HIV/AIDS is mainly contracted through ____",
     "options": [
-      "A place where people live",
-      "A system of government",
-      "Economic activity concerned with processing raw materials and manufacturing goods",
-      "A type of climate"
+      "eating together with an infected person",
+      "handshake",
+      "sex with infected person",
+      "touching the infected person"
     ],
-    "answer": "Economic activity concerned with processing raw materials and manufacturing goods"
+    "answer": "sex with infected person"
   },
   {
     "number": 47,
-    "question": "Which of the following is a type of primary industry?",
-    "options": ["Banking", "Farming", "Car manufacturing", "Teaching"],
-    "answer": "Farming"
+    "question": "Conflict resolution methods include all of these except",
+    "options": ["dialogue", "mediation", "family changes", "listening"],
+    "answer": "family changes"
   },
   {
     "number": 48,
-    "question": "Which of these is a secondary industry?",
-    "options": ["Coal mining", "Fish farming", "Steel production", "Insurance services"],
-    "answer": "Steel production"
+    "question": "One of the following may not influence meal planning",
+    "options": ["age", "health", "money", "height"],
+    "answer": "height"
   },
   {
     "number": 49,
-    "question": "Tertiary industries are best described as those that:",
+    "question": "Conflict in a family is a situation where family members are",
     "options": [
-      "Extract raw materials from nature",
-      "Provide services to people and businesses",
-      "Process food and raw materials",
-      "Involve high-level scientific research"
+      "feeding themselves",
+      "involved in sharing of food",
+      "involved in a serious disagreement",
+      "having a party"
     ],
-    "answer": "Provide services to people and businesses"
+    "answer": "involved in a serious disagreement"
   },
   {
     "number": 50,
-    "question": "Which of the following is a quaternary industry?",
-    "options": ["Banking", "Mining", "Information technology services", "Textile production"],
-    "answer": "Information technology services"
+    "question": "The process of buying food in large quantity is called",
+    "options": ["hire purchase", "wise purchase", "cheap purchase", "bulk purchase"],
+    "answer": "bulk purchase"
   }
 ]
 
