@@ -1,123 +1,327 @@
- [
-    { "number": 1, "question": "Which of the following food is perishable?", "options": ["Rice", "Beans", "Meat", "Maize"], "answer": "Meat" },
-    { "number": 2, "question": "The process of keeping food cold in storage is called", "options": ["cooling", "refrigeration", "processing", "storage"], "answer": "refrigeration" },
-    { "number": 3, "question": "The term used collectively to include a variety of textile articles used in the home is household", "options": ["linen", "cotton", "calico", "fabric"], "answer": "linen" },
-    { "number": 4, "question": "Which of the following is not a human resource?", "options": ["Money", "Skill", "Knowledge", "Energy"], "answer": "Money" },
-    { "number": 5, "question": "The process of choosing among alternatives is called _____", "options": ["decision making", "alternating", "groups", "action making"], "answer": "decision making" },
-    { "number": 6, "question": "The struggle between two or more people who disagree is called", "options": ["conflict", "problem", "fault", "challenge"], "answer": "conflict" },
-    { "number": 7, "question": "Unresolved conflicts can lead to", "options": ["peace", "harmony", "negotiation", "hostility"], "answer": "hostility" },
-    { "number": 8, "question": "Persons who do strenuous jobs are called", "options": ["sedentary workers", "manual workers", "vegetarians", "adults"], "answer": "manual workers" },
-    { "number": 9, "question": "The doctor’s instruction must be followed when providing food for the", "options": ["young", "adolescent", "sick", "aged"], "answer": "sick" },
-    { "number": 10, "question": "Excessive consumption of sweets by children can lead to", "options": ["good teeth", "strong teeth", "decay tooth", "tooth growth"], "answer": "decay tooth" },
-    { "number": 11, "question": "Which of the following is a deficiency disease?", "options": ["Malaria", "Fever", "AIDS", "Kwashiorkor"], "answer": "Kwashiorkor" },
-    { "number": 12, "question": "Which of the following is very important for proper development of the bones?", "options": ["Minerals", "Oils", "Proteins", "Vitamins"], "answer": "Minerals" },
-    { "number": 13, "question": "The process of buying food in large quantities is called", "options": ["hire purchasing", "bulk purchasing", "good purchasing", "cheap purchasing"], "answer": "bulk purchasing" },
-    { "number": 14, "question": "Which of the following is not a tool for taking body measurement?", "options": ["Tape measure", "Pencil", "Paper", "String"], "answer": "String" },
-    { "number": 15, "question": "Surplus carbohydrates in the body is stored as", "options": ["starch", "acid", "water", "fat"], "answer": "fat" },
-    { "number": 16, "question": "Which of the following is a body builder?", "options": ["Yam", "Fat", "Roughage", "Beans"], "answer": "Beans" },
-    { "number": 17, "question": "------- supply the body with heat and energy", "options": ["carbohydrates and iron", "oils and calcium", "carbohydrates and fats", "carbohydrates and vegetables"], "answer": "carbohydrates and fats" },
-    { "number": 18, "question": "The field that deals with the food we eat and how it nourishes our body", "options": ["food technology", "Nutrition", "nutrients", "foods"], "answer": "Nutrition" },
-    { "number": 19, "question": "------- are for protecting the body from diseases", "options": ["starch", "carbohydrate", "oils", "vitamins"], "answer": "vitamins" },
-    { "number": 20, "question": "Not all conflict are", "options": ["poor", "bad", "loose", "hard"], "answer": "bad" },
-    { "number": 21, "question": "Decisions can easily be influenced by", "options": ["resources", "period", "time", "size"], "answer": "resources" },
-    { "number": 22, "question": "Clothes should not be stored in a", "options": ["box", "damp place", "wardrobe", "closet"], "answer": "damp place" },
-    { "number": 23, "question": "Clothes can be stored in all except", "options": ["box", "wardrobe", "closet", "bed"], "answer": "bed" },
-    { "number": 24, "question": "Conflict in families can arise from any of the following", "options": ["situations, personality, unity", "situations, personality, power struggles", "personality, situation, affection", "personality, power, struggles, love"], "answer": "situations, personality, power struggles" },
-    { "number": 25, "question": "The fabrics or materials used for decorating doors and windows are", "options": ["curtains and draperies", "curtains and sheets", "sheets and linens", "spreads and draperies"], "answer": "curtains and draperies" },
-    { "number": 26, "question": "Clothes should be aired before they are", "options": ["washed", "stored", "ironed", "bleached"], "answer": "ironed" },
-    { "number": 27, "question": "A type of pattern made to fit a particular person is", "options": ["drafted", "block", "print", "measured"], "answer": "drafted" },
-    { "number": 28, "question": "Which of the following is not a tool for pattern drafting?", "options": ["Tape measure", "Metre rule", "Needle", "Paper"], "answer": "Needle" },
-    { "number": 29, "question": "All can lead to family crisis except", "options": ["lost of job", "arrival of new born baby", "arrival of member of family from London", "relocation of family"], "answer": "arrival of member of family from London" },
-    { "number": 30, "question": "-------is important for body tissues and fluids", "options": ["fats", "maize", "water", "sugar"], "answer": "water" },
-    { "number": 31, "question": "The nutrients that supply the body with heat and energy are", "options": ["carbohydrates and iron", "carbohydrates and fats", "carbohydrates and vegetables", "proteins and iron"], "answer": "carbohydrates and fats" },
-    { "number": 32, "question": "One of the following may not influence meal planning", "options": ["age", "health", "money", "height"], "answer": "height" },
-    { "number": 33, "question": "Human resources is classified into", "options": ["five", "four", "three", "two"], "answer": "five" },
-    { "number": 34, "question": "Which of the following is not a human resources?", "options": ["Attitude", "Energy", "Knowledge", "Money"], "answer": "Money" },
-    { "number": 35, "question": "Adolescent boys and girls are usually very active, so their meals should be rich in", "options": ["active giving foods", "energy giving food", "protein giving foods", "vitamin giving food"], "answer": "energy giving food" },
-    { "number": 36, "question": "Wash every fruit properly before consuming it to avoid food", "options": ["contamination", "digestion", "good health", "hygiene"], "answer": "contamination" },
-    { "number": 37, "question": "Lack of proper storage and management can lead to food ____ in bulk purchasing", "options": ["losses", "gain", "grading", "storage"], "answer": "losses" },
-    { "number": 38, "question": "One of these can destroy maize or beans in storage", "options": ["cold", "weevils", "heat", "houseflies"], "answer": "weevils" },
+[
   {
-    "number": 39,
-    "question": "Food spoilage can be prevented by storing foodstuff under ____ conditions",
-    "options": ["warm", "hot", "cold", "moist"],
-    "answer": "moist"
+    "question": "“Saul, Saul why do you persecute me”? Who made the above statement?",
+    "options": ["God", "Holy Spirit", "Angel of God", "Jesus Christ"],
+    "answer": "Jesus Christ"
   },
   {
-    "number": 40,
-    "question": "Raw meat should be stored in the",
-    "options": ["refrigerator compartment", "vegetable crisper", "freezer compartment", "middle shelf"],
-    "answer": "freezer compartment"
+    "question": "Where was the first place the name Christians was used to identify the followers of Christ?",
+    "options": ["Antioch in Pisidia", "Antioch in Syria", "Antioch in Cyrene", "Jerusalem"],
+    "answer": "Antioch in Syria"
   },
   {
-    "number": 41,
-    "question": "Lactating mothers are ---- feeding their babies",
-    "options": ["bottle", "breast", "over", "under"],
-    "answer": "breast"
+    "question": "Why did Paul separate from Barnabas on the second missionary? Because of",
+    "options": ["Philip", "John Mark", "Silas", "Timothy"],
+    "answer": "John Mark"
   },
   {
-    "number": 42,
-    "question": "Meals for children should be cooked by easily",
-    "options": ["accepted method", "manipulated method", "attracted method", "digested method"],
-    "answer": "digested method"
-  },
-  {
-    "number": 43,
-    "question": "Which of the following groups of people require increased intake of iron?",
-    "options": ["Adolescents", "Adolescent boys", "Adolescents girls", "Manual worker"],
-    "answer": "Manual worker"
-  },
-  {
-    "number": 44,
-    "question": "A card or sheet of paper that shows the meals or courses for breakfast, lunch and supper is a/an ____",
-    "options": ["menu card", "invitation card", "meal ticket", "food list"],
-    "answer": "menu card"
-  },
-  {
-    "number": 45,
-    "question": "For the welfare of the family, conflicts are best",
-    "options": ["overlooked", "resolved", "ignored", "buried"],
-    "answer": "resolved"
-  },
-  {
-    "number": 46,
-    "question": "HIV/AIDS is mainly contracted through ____",
+    "question": "Why was the first Christian council in Jerusalem held?",
     "options": [
-      "eating together with an infected person",
-      "handshake",
-      "sex with infected person",
-      "touching the infected person"
+      "appointment of the seven deacons",
+      "divided loyalty to the apostles",
+      "observance of the Jewish law by non Jews in the church",
+      "selection of leaders"
     ],
-    "answer": "sex with infected person"
+    "answer": "observance of the Jewish law by non Jews in the church"
   },
   {
-    "number": 47,
-    "question": "Conflict resolution methods include all of these except",
-    "options": ["dialogue", "mediation", "family changes", "listening"],
-    "answer": "family changes"
+    "question": "Which of these towns did Paul and Barnabas visit and preach in the Synagogue of the Jews immediately they sailed from Seleucia?",
+    "options": ["Antioch", "Paphos", "Salamis", "Antioch in Pisidia"],
+    "answer": "Antioch in Pisidia"
   },
   {
-    "number": 48,
-    "question": "One of the following may not influence meal planning",
-    "options": ["age", "health", "money", "height"],
-    "answer": "height"
+    "question": "Where was Paul when he had a vision of the man of Macedonia telling him to come over to Macedonia and help them?",
+    "options": ["Philippi", "Troas", "Athens", "Thessalonica"],
+    "answer": "Troas"
   },
   {
-    "number": 49,
-    "question": "Conflict in a family is a situation where family members are",
+    "question": "Who was the son of Philip of Macedonia, the founder of Philippi?",
+    "options": ["Mark Anthony", "Brutus", "Caesar Augustus", "Alexander the Great"],
+    "answer": "Alexander the Great"
+  },
+  {
+    "question": "What is the significance of the various names of God given by all tribes in Nigeria? It shows that God is",
+    "options": ["Great", "Omnipotent", "Universal", "Omniscience"],
+    "answer": "Universal"
+  },
+  {
+    "question": "Where did Paul meet Timothy and make him his disciple after he had circumcised him?",
+    "options": ["Lystra", "Salamis", "Iconium", "Ephesus"],
+    "answer": "Lystra"
+  },
+  {
+    "question": "Who did Pharaoh hang following Joseph’s interpretation of the dreams?",
+    "options": ["butler", "baker", "gardener", "guard"],
+    "answer": "baker"
+  },
+  {
+    "question": "Which of these prophets did God send to King David to condemn his adultery with Bathsheba?",
+    "options": ["Nathan", "Elijah", "Isaiah", "Amos"],
+    "answer": "Nathan"
+  },
+  {
+    "question": "Who was the prophet that first spoke about the coming of Jesus Christ?",
+    "options": ["Amos", "Ezekiel", "Isaiah", "Hosea"],
+    "answer": "Isaiah"
+  },
+  {
+    "question": "Who made the decree that the whole world under the Roman Empire should be enrolled in a head count according to St. Luke’s gospel?",
+    "options": ["Augustus Caesar", "King Herod", "King Agrippa I", "King Agrippa II"],
+    "answer": "Augustus Caesar"
+  },
+  {
+    "question": "Which of these best completes Paul’s teaching on obedience to constituted authority?",
+    "options": ["government", "Jesus Christ", "Holy Spirit", "God"],
+    "answer": "God"
+  },
+  {
+    "question": "Which of these books contains Paul’s teaching on the dignity of labour?",
     "options": [
-      "feeding themselves",
-      "involved in sharing of food",
-      "involved in a serious disagreement",
-      "having a party"
+      "Thessalonians and Colossians",
+      "Romans and Colossians",
+      "Thessalonians and Galatians",
+      "Corinthians and Thessalonians"
     ],
-    "answer": "involved in a serious disagreement"
+    "answer": "Thessalonians and Colossians"
   },
   {
-    "number": 50,
-    "question": "The process of buying food in large quantity is called",
-    "options": ["hire purchase", "wise purchase", "cheap purchase", "bulk purchase"],
-    "answer": "bulk purchase"
+    "question": "Which of these books of the Bible recorded Paul’s teaching on obedience to constituted authority?",
+    "options": ["Romans and Ephesians", "Romans and Colossians", "Corinthians and Galatians", "Ephesians and Thessalonians"],
+    "answer": "Romans and Ephesians"
+  },
+  {
+    "question": "One of these books was known for stressing on Paul’s message about the qualities of love",
+    "options": ["Galatians", "Corinthians", "Romans", "Ephesians"],
+    "answer": "Corinthians"
+  },
+  {
+    "question": "Whose death led to the massive increase in the persecution of Christians in Jerusalem?",
+    "options": ["James", "Jesus Christ", "Stephen", "John"],
+    "answer": "Stephen"
+  },
+  {
+    "question": "Who was the silversmith that organized the other silversmiths against Paul for destroying their profession and the worship of Artemis?",
+    "options": ["Alexander", "Demetrius", "Titus", "Barnabas"],
+    "answer": "Demetrius"
+  },
+  {
+    "question": "Where did Paul raise Eutychus from the dead?",
+    "options": ["Ephesus", "Philippi", "Greece", "Troas"],
+    "answer": "Troas"
+  },
+  {
+    "question": "Where did Paul deliver his farewell address to the elders of the Ephesians?",
+    "options": ["Ephesus", "Miletus", "Caesarea", "Phrygia"],
+    "answer": "Miletus"
+  },
+  {
+    "question": "Who was the Jew that was educated by Aquila and Priscilla on the gospel message and he became eloquent in it?",
+    "options": ["Apollos", "Achaia", "Theophilus", "Obadiah"],
+    "answer": "Apollos"
+  },
+  {
+    "question": "Which of these was the meeting place of the Supreme Council and the Supreme Court of the Athenians?",
+    "options": ["Mars", "Aeropagus", "Temple", "Synagogue"],
+    "answer": "Aeropagus"
+  },
+  {
+    "question": "Who was the chairman of the first Christian council in Jerusalem?",
+    "options": ["James", "John", "Peter", "Paul"],
+    "answer": "James"
+  },
+  {
+    "question": "On the fifth day, the manifestation of the power of God's word was evident in the creation of the",
+    "options": ["earth", "moon and stars", "fishes and birds", "vegetation"],
+    "answer": "fishes and birds"
+  },
+  {
+    "question": "Which of the following was God's instruction to Adam after creation? To eat",
+    "options": [
+      "of any tree except that of the knowledge of good and evil.",
+      "freely of every tree except the ones with apples.",
+      "from the tree in the middle of the garden.",
+      "any animal and plant in Eden."
+    ],
+    "answer": "of any tree except that of the knowledge of good and evil."
+  },
+  {
+    "question": "In which of the following ways did God evaluate His work after creation?",
+    "options": ["Very perfect", "Satisfactory", "Excellent", "Very good"],
+    "answer": "Very good"
+  },
+  {
+    "question": "What was the rationale behind Reuben placing Joseph into a dry well?",
+    "options": ["instill discipline", "send him back home", "prevent escape", "sell him later"],
+    "answer": "send him back home"
+  },
+  {
+    "question": "Which of the following was not a sign to convince the Israelites that Moses was sent by God?",
+    "options": [
+      "rod becoming a serpent",
+      "hand becoming leprous",
+      "Nile turning to blood",
+      "flowers growing from rod"
+    ],
+    "answer": "flowers growing from rod"
+  },
+  {
+    "question": "The dominant trait exhibited by the Israelites following the ill-report of the spies about Canaan was",
+    "options": ["boldness", "humility", "despair", "unfaithfulness"],
+    "answer": "unfaithfulness"
+  },
+  {
+    "question": "Moses gave a portion of his authority to Joshua so that he would",
+    "options": [
+      "be known by the Israelites",
+      "be obeyed by the Israelites",
+      "receive power from God",
+      "lead the Moabites to Egypt"
+    ],
+    "answer": "be obeyed by the Israelites"
+  },
+  {
+    "question": "Which attribute of Joshua and Caleb distinguished them from the other spies?",
+    "options": [
+      "confidence in themselves",
+      "knowledge of the land",
+      "preparedness to face challenge",
+      "absolute trust in God"
+    ],
+    "answer": "absolute trust in God"
+  },
+  {
+    "question": "“Up! For this is the day in which the Lord has given Sisera into your hands...” Who made this statement?",
+    "options": ["Barak", "Deborah", "Jabin", "Jael"],
+    "answer": "Deborah"
+  },
+  {
+    "question": "The plot against the rebuilding of the walls of Jerusalem by Nehemiah was hatched by",
+    "options": [
+      "Sanballat, Tobiah and the Arabs",
+      "Tobiah, Egyptians and Sanballat",
+      "Sanballat, Arabs and Samaritans",
+      "Tobiah, Samaritans and Ashdodites"
+    ],
+    "answer": "Sanballat, Tobiah and the Arabs"
+  },
+  {
+    "question": "The Holiness of God was mostly emphasized by",
+    "options": ["Amos", "Hosea", "Jeremiah", "Isaiah"],
+    "answer": "Isaiah"
+  },
+  {
+    "question": "During Josiah's reign, who found the Book of the Law?",
+    "options": ["Shaphan", "Hilkiah", "Isaiah", "Zedekiah"],
+    "answer": "Hilkiah"
+  },
+  {
+    "question": "When Nebuchadnezzar overran Jerusalem he spared the",
+    "options": ["temple", "children of the king", "poorest of the people", "wealthy men"],
+    "answer": "poorest of the people"
+  },
+{
+    "question": "I will, be clean. This statement was made by Jesus at the healing of",
+    "options": ["Bartimaeus", "The Paralytic", "the woman with the issue of blood", "the leper"],
+    "answer": " the leper "
+  },
+{
+    "question": "In the gospel of Matthew, Jesus sent the twelve disciples to",
+    "options": ["the Jews", "the Gentiles and Samaritans", "Tyre and Sidon", "the region of Gadara"],
+    "answer": " the Jews "
+  },
+  {
+    "question": "According to John, living water meant water that",
+    "options": ["Springs from Jacob’s well", "Is running", "wells up to eternal life", "quenches thirst"],
+    "answer": " wells up to eternal life "
+  },
+  {
+    "question": "According to the gospel of John, why did Jesus heal the man born blind?",
+    "options": [
+      "He wanted the Pharisees to recognise the power of God",
+      "He wanted his disciples to know that He is the Son of God",
+      "He wanted to ensure that the work of God is made manifest by Him",
+      "He wanted the blind to see"
+    ],
+    "answer": "He wanted to ensure that the work of God is made manifest by Him"
+  },
+  {
+    "question": "Which of the following groups represents the gifts of the Holy Spirit?",
+    "options": [
+      "Utterance of wisdom and respect for elders",
+      "Worthy of miracles and fervent prayers",
+      "Prophecy and interpretation of tongues",
+      "Utterance of knowledge and giving gifts to the poor"
+    ],
+    "answer": "Prophecy and interpretation of tongues"
+  },
+  {
+    "question": "'But as to the time and seasons, brethren, you have no need to have anything written to you.' The 'times and seasons' refers to",
+    "options": ["Harvest time", "Wet and dry season", "The advent", "The coming of the Lord"],
+    "answer": "The coming of the Lord"
+  },
+  {
+    "question": "Concerning the dead in the Lord, Paul advises us",
+    "options": [
+      "not to grieve as others do who have no hope",
+      "not to be worried about their safety",
+      "to pray for the repose of their souls",
+      "to thank God that we are still alive"
+    ],
+    "answer": "not to grieve as others do who have no hope"
+  },
+  {
+    "question": "'If anyone will not work, let him not eat'. By this statement Paul implies that",
+    "options": [
+      "Work is essential for salvation",
+      "Faith alone will provide our needs",
+      "There is dignity in labour",
+      "Only the workers shall get a reward"
+    ],
+    "answer": "There is dignity in labour"
+  },
+  {
+    "question": "To attain true life in Christ, Paul advised the Colossians to put away",
+    "options": [
+      "Faith, Love and Charity",
+      "Kindness, Meekness and Patience",
+      "Wrath, Malice and Slander",
+      "Compassion, Humility and Forbearance"
+    ],
+    "answer": "Wrath, Malice and Slander"
+  },
+  {
+    "question": "According to Paul's teaching the relationship between wives and their husbands should be",
+    "options": [
+      "As the states demand",
+      "Fitting in the Lord",
+      "Written in the books of Moses",
+      "The husband's command"
+    ],
+    "answer": "Fitting in the Lord"
+  },
+  {
+    "question": "'For as many of you that were baptized in Christ have put on Christ'. This statement of Paul implies that all baptized in Christ",
+    "options": [
+      "Should always condemn sinners",
+      "Are no longer Abraham's sons",
+      "Should not discriminate",
+      "Are a new creation"
+    ],
+    "answer": "Are a new creation"
+  },
+  {
+    "question": "In his letter, James said '... but be doers of the word not the hearers only'. This advice means that you should",
+    "options": [
+      "Go to church regularly",
+      "Pay your tithe regularly",
+      "Give alms to the poor",
+      "Manifest your faith in good work"
+    ],
+    "answer": "Manifest your faith in good work"
+  },
+  {
+    "question": "The genuineness of faith according to Peter is tested through",
+    "options": ["Work", "Miracles", "Prayer", "Trials"],
+    "answer": "Trials"
   }
 ]
-
