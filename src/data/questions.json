@@ -1,503 +1,332 @@
 [
   {
-    "question": "Why was Paul confident in his epistle to Philemon that the letter would grant his request? Because",
-    "options": [
-      "Philemon was a Roman citizen like Paul",
-      "They were from the same town",
-      "Onesimus would no longer be a slave",
-      "They were partners in the faith of Christ"
-    ],
-    "answer": "They were partners in the faith of Christ"
+    "number": 1,
+    "question": "Anything that can be offered to the market for attention, acquisition, use or consumption is called",
+    "options": ["Product", "Asset", "Market", "Advertising"],
+    "answer": "Product"
   },
   {
-    "question": "Which of these was the greatest of all the commandments?",
-    "options": [
-      "Charity",
-      "Hope",
-      "Love",
-      "Faith"
-    ],
-    "answer": "Love"
+    "number": 2,
+    "question": "The industrial products include the following, except",
+    "options": ["Installations", "Raw materials", "Accessory equipment", "Unsorted products"],
+    "answer": "Unsorted products"
   },
   {
-    "question": "Which of these is not among the spiritual gifts as enumerated by Paul in the first Epistle to the Corinthians?",
-    "options": [
-      "Hearing",
-      "Wisdom",
-      "Healing",
-      "Speaking in tongues"
-    ],
-    "answer": "Hearing"
+    "number": 3,
+    "question": "The act of buying a product at a spot without previous knowledge of it, is known as",
+    "options": ["Emergency buying", "Shopping", "Impulse buying", "Special buying"],
+    "answer": "Impulse buying"
   },
   {
-    "question": "How does the various spiritual gifts work as stated by Paul in the letter to the Corinthians? The various spiritual gifts work for",
-    "options": [
-      "individual members",
-      "one body in Christ",
-      "both Jews and Gentiles",
-      "all organs of the body"
-    ],
-    "answer": "one body in Christ"
+    "number": 4,
+    "question": "A philosophy which sees the consumer as the central focus of all organizational activities",
+    "options": ["Product concept", "Consumer concept", "Marketing concept", "Selling concept"],
+    "answer": "Marketing concept"
   },
   {
-    "question": "What did Paul advise the Roman Christians concerning their individual talents? He advised them to use their talents with",
-    "options": [
-      "righteousness",
-      "cheerfulness",
-      "fear and trembling",
-      "soberness"
-    ],
-    "answer": "righteousness"
+    "number": 5,
+    "question": "Which of the following is not a component of marketing mix?",
+    "options": ["Price", "Product", "Profit", "Promotion"],
+    "answer": "Profit"
   },
   {
-    "question": "Why did Paul encourage Christians to desire prophecy more than speaking in tongues? Because",
-    "options": [
-      "prophecy appeals to unbelivers",
-      "speaking in tongue is based in self-righteousness",
-      "speaking in tongues always creates noise in the church",
-      "very few people have the gift of prophecy"
-    ],
-    "answer": "very few people have the gift of prophecy"
+    "number": 6,
+    "question": "Establishing and maintaining mutual understanding between an organization and its customers is known as",
+    "options": ["Marketing concept", "Advertising", "Public relations", "Sales promotion"],
+    "answer": "Public relations"
   },
   {
-    "question": "Why did Paul warned fathers not to provoke their children? Because they",
-    "options": [
-      "might become angry",
-      "could disrespect their fathers",
-      "could become discouraged",
-      "may become rebellious"
-    ],
-    "answer": "could become discouraged"
+    "number": 7,
+    "question": "Want backed by the ability to pay is called",
+    "options": ["Exchange", "Transaction", "Demand", "Needs"],
+    "answer": "Demand"
   },
   {
-    "question": "Who was the man James used as example of how the effective prayer of the righteous man works?",
-    "options": [
-      "Jesus Christ",
-      "Peter",
-      "Paul",
-      "Elijah"
-    ],
-    "answer": "Elijah"
+    "number": 8,
+    "question": "Communicating the benefit of a particular product to a customer is known as",
+    "options": ["Advertising", "Physical distribution", "Sales promotion", "Market research"],
+    "answer": "Advertising"
   },
   {
-    "question": "Which of these is the type of prayer on which we pray for others?",
-    "options": [
-      "Apprehension",
-      "appreciation",
-      "Intercession",
-      "interpretation"
-    ],
-    "answer": "Intercession"
+    "number": 9,
+    "question": "Promotion comprises the following except",
+    "options": ["Market research", "Personal selling", "Sales promotion", "Advertising"],
+    "answer": "Market research"
   },
   {
-    "question": "\u201cAnd the prayer of ______ shall save the sick. And the Lord shall raise him up, and if he hath committed sins, they shall be forgiven him\u201d which of these should be used to complete the above statement?",
-    "options": [
-      "Petition",
-      "Intercession",
-      "Hope",
-      "Faith"
-    ],
-    "answer": "Faith"
+    "number": 10,
+    "question": "Intangible products can also be called",
+    "options": ["Services", "Materials", "Viable products", "Accessory equipments"],
+    "answer": "Services"
   },
   {
-    "question": "What is the meaning of being baptized into Christ, according to the epistle of the Galatians?",
-    "options": [
-      "Discrimination among races",
-      "Descent from Abraham",
-      "Putting on Christ like life",
-      "Raising from companion"
-    ],
-    "answer": "Putting on Christ like life"
+    "number": 11,
+    "question": "Understanding of human needs is the core concept of",
+    "options": ["Demand", "Marketing", "Selling", "Supply"],
+    "answer": "Marketing"
   },
   {
-    "question": "What is the significance of the dove in the baptism of Jesus Christ?",
-    "options": [
-      "Word of God",
-      "Holy Spirit",
-      "Love of God",
-      "Glory of God"
-    ],
-    "answer": "Holy Spirit"
+    "number": 12,
+    "question": "The closest channel member to the consumer is",
+    "options": ["Retailer", "Wholesaler", "Agent", "Producer"],
+    "answer": "Retailer"
   },
   {
-    "question": "Which of these is not the quality of God\u2019s children?",
-    "options": [
-      "Love",
-      "Hatred",
-      "Kindness",
-      "Humanity"
-    ],
-    "answer": "Hatred"
+    "number": 13,
+    "question": "The amount deducted from a regular price of a product to ensure continual patronage from customers is regarded as",
+    "options": ["Bonus", "Commission", "Discount", "Credit"],
+    "answer": "Discount"
   },
   {
-    "question": "How did Christians become sons of God? By",
-    "options": [
-      "being Abraham\u2019s descendants",
-      "being Gentiles",
-      "the works of the law",
-      "adoption through faith"
-    ],
-    "answer": "adoption through faith"
+    "number": 14,
+    "question": "The path through which goods move from the producer to the consumer is called channel of",
+    "options": ["Consumption", "Distribution", "Marketing", "Production"],
+    "answer": "Distribution"
   },
   {
-    "question": "Which of the following groups represents the gift of the Holy Spirit?",
-    "options": [
-      "Utterance of wisdom and respect for elders",
-      "Prophecy and interpretation of tongues",
-      "Worthy of miracles and favour prayer",
-      "Going to church and fasting"
-    ],
-    "answer": "Prophecy and interpretation of tongues"
+    "number": 15,
+    "question": "Which of the following is not a stage in the product life cycle?",
+    "options": ["Growth stage", "Decline stage", "Market analysis", "Introduction stage"],
+    "answer": "Market analysis"
   },
   {
-    "question": "What did St. Paul say concerning how to make use of our individual talents? He instructed that Christians should",
-    "options": [
-      "make others know of their importance",
-      "think soberly according to the measure of their faith",
-      "act as if they are indispensable",
-      "deny others what they would gain from them"
-    ],
-    "answer": "think soberly according to the measure of their faith"
+    "number": 16,
+    "question": "An example of non-durable goods is",
+    "options": ["Shoe", "Bread", "Television", "Refrigerator"],
+    "answer": "Bread"
   },
   {
-    "question": "Which of these did Paul emphasize on when he was writing to the Corinthians on the metaphor of the body and the functions of the different parts? He emphasize the individual\u2019s",
-    "options": [
-      "rights",
-      "reward",
-      "pride",
-      "duties"
-    ],
-    "answer": "duties"
+    "number": 17,
+    "question": "The stage in the consumer buying decision process where the consumer assesses different products on the basis of what he has learnt is",
+    "options": ["Alternative evaluation", "Alternative search", "Need recognition stage", "Purchase decision"],
+    "answer": "Alternative evaluation"
   },
   {
-    "question": "How old was Abraham when God made a covenant with him in the land of Canaan?",
-    "options": [
-      "65",
-      "90",
-      "99",
-      "100"
-    ],
-    "answer": "99"
+    "number": 18,
+    "question": "An activity or process undertaken by a company to acquire raw material is",
+    "options": ["Consumer buying behaviour", "Marketing intelligence", "Organizational buying behavior", "Marketing research"],
+    "answer": "Organizational buying behavior"
   },
   {
-    "question": "Who was the first martyr among these disciples?",
-    "options": [
-      "James",
-      "Philip",
-      "Peter",
-      "Stephen"
-    ],
-    "answer": "Stephen"
+    "number": 19,
+    "question": "One of these is a consumer product:",
+    "options": ["Raw materials", "Convenience product", "Accessory equipment", "Installations"],
+    "answer": "Convenience product"
   },
   {
-    "question": "How did Jesus describe His father in His teaching on the true vine?",
-    "options": [
-      "Branch",
-      "Vine maker",
-      "Everlasting vine",
-      "Vine dresser"
-    ],
-    "answer": "Vine dresser"
+    "number": 20,
+    "question": "__________ and __________ are the two types of market:",
+    "options": ["Industrial and organizational oriented", "Consumer and organizational market", "Ijegun and industrial market", "Organizational and industrial market"],
+    "answer": "Consumer and organizational market"
   },
   {
-    "question": "How many days had Lazarus been in the tomb when Jesus reached Bethany?",
-    "options": [
-      "three",
-      "four",
-      "two",
-      "five"
-    ],
-    "answer": "four"
+    "number": 21,
+    "question": "A function of packaging is to:",
+    "options": ["Improve product quality", "Reduce competition", "Protect the product", "Prevent adulteration"],
+    "answer": "Protect the product"
   },
   {
-    "question": "What did John say concerning love? God is love and love is of Him. He who loves, knows God and is _____ of Him",
-    "options": [
-      "Born",
-      "begotten",
-      "created",
-      "adopted"
-    ],
-    "answer": "begotten"
+    "number": 22,
+    "question": "Branding in marketing means:",
+    "options": ["Padding a product for sale", "Giving unique name to a product", "Using another company’s name", "Classifying products into groups"],
+    "answer": "Giving unique name to a product"
   },
   {
-    "question": "How did Gods promise to Abraham and his descendants that they would inherit the world become a reality? Through",
-    "options": [
-      "strict observance of the law",
-      "the good works of Abraham",
-      "the circumcision of Isaac",
-      "righteous of faith"
-    ],
-    "answer": "righteous of faith"
+    "number": 23,
+    "question": "Iron ore is classified as",
+    "options": ["Secondary product", "Semi-finished product", "Consumer product", "Primary product"],
+    "answer": "Primary product"
   },
   {
-    "question": "What was the sign of God\u2019s covenant with Abraham?",
-    "options": [
-      "Circumcision",
-      "Birth of Isaac",
-      "Promised land",
-      "He changed his name from Abram to Abraham"
-    ],
-    "answer": "Circumcision"
+    "number": 24,
+    "question": "Marketing is defined as:",
+    "options": ["Buying and selling to customers", "Selling and distribution to customers", "Meeting customer needs profitably", "Advertising and promotion to customers"],
+    "answer": "Meeting customer needs profitably"
   },
   {
-    "question": "Which of these attributes of God is mostly revealed as regards the fact that whatever God said during the process of creation happened?",
-    "options": [
-      "loves all that He has made",
-      "wanted man to have dominion over all that He had created",
-      "had sovereignty over the universe",
-      "is merciful to His creatures"
-    ],
-    "answer": "had sovereignty over the universe"
+    "number": 25,
+    "question": "The first institution to introduce a degree programme in marketing in Nigeria is University of:",
+    "options": ["Ibadan", "Nigeria, Nsukka", "Lagos", "Jos"],
+    "answer": "Nigeria, Nsukka"
   },
   {
-    "question": "Who performed the function of giving names to all creatures in the creation story?",
-    "options": [
-      "God",
-      "Adam",
-      "The angels",
-      "Eve"
-    ],
-    "answer": "Adam"
+    "number": 26,
+    "question": "A reduction in general personal income which leads to a change in company's pricing strategy is an element of the:",
+    "options": ["Competitive environment", "Political environment", "Economic environment", "Technological environment"],
+    "answer": "Economic environment"
   },
   {
-    "question": "Why did Adam call Eve, \u201cwoman\u201d? Because she",
-    "options": [
-      "was the author of woes",
-      "caused the fall of man",
-      "was taken out of man",
-      "was a weaker vessel"
-    ],
-    "answer": "was taken out of man"
+    "number": 27,
+    "question": "Marketers are involved in production process because",
+    "options": ["They also work in the factory floor", "Their ideas are developed into products", "They set product price", "They purchase raw materials for production"],
+    "answer": "Their ideas are developed into products"
   },
   {
-    "question": "What is the significance of living water according to St. John?",
-    "options": [
-      "Spring from Jacob\u2019s well",
-      "Holy Spirit",
-      "Teachings of Christ",
-      "Spirit of God"
-    ],
-    "answer": "Holy Spirit"
+    "number": 28,
+    "question": "The differentiation of a firm’s product from other competing goods is",
+    "options": ["Packaging", "Labelling", "Coding", "Branding"],
+    "answer": "Branding"
   },
   {
-    "question": "One of these is not the attribute of the good shepherd as described by St. John",
-    "options": [
-      "He enters the sheepfold by the door",
-      "He lays down his life for his sheep",
-      "He enters the sheep fold through the locked gate",
-      "He knows the sheep by their names"
-    ],
-    "answer": "He enters the sheep fold through the locked gate"
+    "number": 29,
+    "question": "One of the influencing factors in an organization’s buying behaviour is",
+    "options": ["Taste", "Preference", "Company’s policy", "Company’s values"],
+    "answer": "Company’s values"
   },
   {
-    "question": "Who is the gatekeeper of the sheep fold according to St. John",
-    "options": [
-      "God",
-      "Jesus Christ",
-      "Good shepherd",
-      "Word of God"
-    ],
-    "answer": "God"
+    "number": 30,
+    "question": "Which of the following is not an example of institutional consumers?",
+    "options": ["Schools", "Hospitals", "Hotels", "Households"],
+    "answer": "Households"
   },
   {
-    "question": "Which of these best completes Paul\u2019s teaching on new life in Christ? \u201cIf you have been raised with Christ, seek the things that are?\u201d",
-    "options": [
-      "holy",
-      "pure",
-      "above",
-      "Christian"
-    ],
-    "answer": "above"
+    "number": 31,
+    "question": "The systematic analysis of a problem with the aim of improving decision making on sales is marketing",
+    "options": ["Research", "Planning", "Concept", "Forecasting"],
+    "answer": "Research"
   },
   {
-    "question": "In which of this incidence did Jesus explain Himself as the light of the world? When He",
-    "options": [
-      "healed the paralytic",
-      "healed the man born blind",
-      "casted out evil spirit",
-      "raised Lazarus from the dead"
-    ],
-    "answer": "healed the man born blind"
+    "number": 32,
+    "question": "In marketing research, data that is collected from the target market is",
+    "options": ["Secondary data", "Primary data", "Qualitative data", "Quantitative data"],
+    "answer": "Primary data"
   },
   {
-    "question": "In which city did Jesus has an encounter with the Samaritan woman?",
-    "options": [
-      "Capernaum",
-      "Sychar",
-      "Samaria",
-      "lystra"
-    ],
-    "answer": "Sychar"
+    "number": 33,
+    "question": "A source of primary data for marketing research is",
+    "options": ["Sales report", "Customer feedback", "Inventory report", "Marketing budget"],
+    "answer": "Customer feedback"
   },
   {
-    "question": "Why was the Samaritan woman surprise when Jesus told her to give him water? Because",
-    "options": [
-      "Jesus was not from the descendant of Jacob",
-      "She had not seen Jesus in her life",
-      "Jews did not associate with Samaritans",
-      "Jews were not allowed to drink from Jacob\u2019s well"
-    ],
-    "answer": "Jews did not associate with Samaritans"
+    "number": 34,
+    "question": "Competitive price in marketing is arrived at by",
+    "options": ["Considering competitive demand for the product", "Adding mark up to the cost price", "Setting price in relation to competitors’ price", "Adding margin to the best price"],
+    "answer": "Setting price in relation to competitors’ price"
   },
   {
-    "question": "Truly, truly, I say to you, you seek me not because you saw signs, but because you ate your fills of the loaves. When did Jesus make this statement? After the",
-    "options": [
-      "feeding of the four thousand",
-      "feeding of the five thousand",
-      "feeding of His disciples",
-      "last supper"
-    ],
-    "answer": "feeding of the five thousand"
+    "number": 35,
+    "question": "The pricing strategy which involves the addition of a margin to the total amount spent on production by a company is",
+    "options": ["Psychological pricing", "Cost-plus pricing", "Competitive pricing", "Geographical pricing"],
+    "answer": "Cost-plus pricing"
   },
   {
-    "question": "Truly, truly, I say to you, you seek me not because you saw signs, but because you ate your fills of the loaves. What is the meaning of this statement? This means that they were seeking Him because of",
-    "options": [
-      "spiritual bread that gives eternal life",
-      "His redemptive power",
-      "miracles",
-      "His heavenly inheritance"
-    ],
-    "answer": "miracles"
+    "number": 36,
+    "question": "Which pricing strategy is adopted by a company that sells its product for ₦200 when the prevailing market price for same product is ₦150?",
+    "options": ["Skimming pricing", "Penetration pricing", "Psychological pricing", "Competitive pricing"],
+    "answer": "Skimming pricing"
   },
   {
-    "question": "Which of these commandments did Jesus give to His disciples?",
-    "options": [
-      "Love for one another",
-      "Worship with one another",
-      "Pay homage to one another",
-      "Visit one another"
-    ],
-    "answer": "Love for one another"
+    "number": 37,
+    "question": "A place where the trading of goods takes place is called",
+    "options": ["Transaction", "Want", "Market", "Demand"],
+    "answer": "Market"
   },
   {
-    "question": "One of these is correct: the false shepherds had come to steal, kill and",
-    "options": [
-      "mislead",
-      "undermine",
-      "slay",
-      "destroy"
-    ],
-    "answer": "destroy"
+    "number": 38,
+    "question": "The information obtained from carrying out marketing research is",
+    "options": ["Data", "Turnover", "Demand", "Market"],
+    "answer": "Data"
   },
   {
-    "question": "Which of these people did Paul address his teaching on humility?",
-    "options": [
-      "Corinthians",
-      "Romans",
-      "Philippians",
-      "Ephesians"
-    ],
-    "answer": "Philippians"
+    "number": 39,
+    "question": "An entrepreneur is primarily engaged in",
+    "options": ["Transportation", "Innovation", "Distribution", "Promotion"],
+    "answer": "Innovation"
   },
   {
-    "question": "One of these is not among the teaching of Peter on humility",
-    "options": [
-      "younger Christians should be subject to elders",
-      "those who are proud receives God\u2019s opposition",
-      "younger Christians should cast their anxieties on the elders",
-      "they should always be watchful and ready to combat the actions of the devil, their enemy"
-    ],
-    "answer": "younger Christians should cast their anxieties on the elders"
+    "number": 40,
+    "question": "Which of the following factors is not a price determinant?",
+    "options": ["Cost of production", "Competitor’s price", "Level of demand", "Consumer’s culture"],
+    "answer": "Consumer’s culture"
   },
   {
-    "question": "What did Peter say concerning the humble in 1st Peter 5:5-11? The humble are gifted with the _____ of God",
+    "number": 41,
+    "question": "A distinction between advertising and publicity is that",
     "options": [
-      "grace",
-      "power",
-      "love",
-      "glory"
+      "Advertising is paid for while publicity is not",
+      "Publicity is more readily believed than advertising",
+      "Publicity is more thoroughly read than advertising",
+      "Advertising is usually done through an agency while publicity is not"
     ],
-    "answer": "grace"
+    "answer": "Advertising is paid for while publicity is not"
   },
   {
-    "question": "How did Christians become children of God according to Paul\u2019s letter to the Galatians? Through",
-    "options": [
-      "Faith",
-      "going to church",
-      "adoption",
-      "repentance"
-    ],
-    "answer": "Faith"
+    "number": 42,
+    "question": "Which of these means of advertising is an electronic medium?",
+    "options": ["Catalogue", "Television", "Magazine", "Newspaper"],
+    "answer": "Television"
   },
   {
-    "question": "What was the work of the law before the coming of Christ according to Paul\u2019s letter to the Galatians?",
-    "options": [
-      "The law is supreme",
-      "The law is binding",
-      "The law acted as a custodian",
-      "The law is not a respecter of persons"
-    ],
-    "answer": "The law acted as a custodian"
+    "number": 43,
+    "question": "The stage in a product life circle where advertising is needed most is",
+    "options": ["Decline stage", "Maturity stage", "Growth stage", "Introduction stage"],
+    "answer": "Growth stage"
   },
   {
-    "question": "Which of these completes this statement? \u201cThrough God, you are no longer a slave, but a son, and if a son, then an _____",
+    "number": 44,
+    "question": "A benefit the company would derive from advertising the product is",
     "options": [
-      "ambassador",
-      "heir",
-      "orator of Christ",
-      "editor"
+      "Increase in competition",
+      "Increase in market share",
+      "Decrease in production cost",
+      "Decrease in tax liabilities"
     ],
-    "answer": "heir"
+    "answer": "Increase in market share"
   },
   {
-    "question": "Which of these was not stated by Paul in his teaching on justification by faith?",
+    "number": 45,
+    "question": "Advertising carried out at giving facts about a product is",
     "options": [
-      "No human being would be justified in His sight by works of the law",
-      "Through the law comes the knowledge of sin",
-      "All have sinned and fallen short of the glory of God",
-      "Abraham was justified because he is the father of all nations"
+      "Competitive advertising",
+      "Persuasive advertising",
+      "Informative advertising",
+      "Direct advertising"
     ],
-    "answer": "Abraham was justified because he is the father of all nations"
+    "answer": "Informative advertising"
   },
   {
-    "question": "God is for the Jews and Gentiles. What is the meaning of this statement, God is",
+    "number": 46,
+    "question": "Which of the following activities is not a function of advertising?",
     "options": [
-      "Universal",
-      "Omnipotent",
-      "Omniscience",
-      "Omnipresence"
+      "Remind potential customers",
+      "Persuade potential customers",
+      "Interact with potential customers",
+      "Inform potential customers"
     ],
-    "answer": "Universal"
+    "answer": "Interact with potential customers"
   },
   {
-    "question": "Which of these gifts of the Holy Spirit could be regarded as vocal gifts?",
-    "options": [
-      "Healing, miracles and faith",
-      "Wisdom, knowledge and discernment",
-      "Prophecy, speaking in tongues and interpretation",
-      "Tongues, faith and wisdom"
-    ],
-    "answer": "Prophecy, speaking in tongues and interpretation"
+    "number": 47,
+    "question": "A medium of advertising that has the advantage of mass audience is",
+    "options": ["Newspaper", "Billboard", "Radio", "Magazine"],
+    "answer": "Radio"
   },
   {
-    "question": "Who was the former slave to Philemon?",
+    "number": 48,
+    "question": "An offer of free sample of goods is a form of",
     "options": [
-      "Jethro",
-      "Titus",
-      "Onesimus",
-      "Asa"
+      "Conditional sale",
+      "Tied buying",
+      "After-sales service",
+      "Sales promotion"
     ],
-    "answer": "Onesimus"
+    "answer": "Sales promotion"
   },
   {
-    "question": "What is the meaning of \u201cprocreation\u201d?",
+    "number": 49,
+    "question": "A toothbrush attached to a toothpaste is an example of",
     "options": [
-      "Adoption",
-      "Reproduction",
-      "Confirmation",
-      "Innovation"
+      "Premium offer",
+      "Price off",
+      "Loyalty scheme",
+      "Merchandising incentive"
     ],
-    "answer": "Reproduction"
+    "answer": "Loyalty scheme"
   },
   {
-    "question": "Which of these definition is necessary for the word, \u201cDivorce\u201d",
-    "options": [
-      "legal probation of marriage",
-      "legal suspension of marriage",
-      "family ending of a marriage",
-      "legal ending of a marriage"
-    ],
-    "answer": "legal ending of a marriage"
+    "number": 50,
+    "question": "A short-term incentive used to encourage consumers to buy a product is",
+    "options": ["Advertising", "Public relations", "Sales promotion", "Publicity"],
+    "answer": "Sales promotion"
   }
 ]
-
