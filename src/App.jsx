@@ -20,13 +20,13 @@ const [hasStarted, setHasStarted] = useState(false);
 
 // This is for shuffling of questions
 // Use this when you want to shuffle the questions
-useEffect(() => {
-  const randomized = shuffleArray(questionsData).map((q) => ({
-    ...q,
-    options: shuffleArray(q.options),
-  }));
-  setQuestions(randomized);
-}, []);
+// useEffect(() => {
+//   const randomized = shuffleArray(questionsData).map((q) => ({
+//     ...q,
+//     options: shuffleArray(q.options),
+//   }));
+//   setQuestions(randomized);
+// }, []);
 
 // Shuffling of questions ends here
 
@@ -37,14 +37,14 @@ useEffect(() => {
 
   
   // Use this when you don't want to randomized the questions and options
-  // useEffect(() => {
-  //   setQuestions(questionsData);
+  useEffect(() => {
+    setQuestions(questionsData);
   
-  //   const savedAnswers = localStorage.getItem("cbt-answers");
-  //   const savedIndex = localStorage.getItem("cbt-current-index");
-  //   if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
-  //   if (savedIndex) setCurrentQIndex(Number(savedIndex));
-  // }, []);
+    const savedAnswers = localStorage.getItem("cbt-answers");
+    const savedIndex = localStorage.getItem("cbt-current-index");
+    if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
+    if (savedIndex) setCurrentQIndex(Number(savedIndex));
+  }, []);
 
   // modified ends
 
@@ -239,7 +239,7 @@ if (!hasStarted) {
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
       {/* <h2 className="text-2xl font-bold text-center text-blue-950 mb-2">THIRD TERM EXAM</h2> */}
       {/* {showScore ? studentName : "HOW WELL DO YOU KNOW SUN DREAM?"} */}
-      {showScore ? studentName : "YEAR 10 - MARKETING"}
+      {showScore ? studentName : "YEAR 11 - COMPUTER STUDIES"}
       </h3>
 
       

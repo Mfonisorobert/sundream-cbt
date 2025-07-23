@@ -1,332 +1,339 @@
 [
   {
-    "number": 1,
-    "question": "Anything that can be offered to the market for attention, acquisition, use or consumption is called",
-    "options": ["Product", "Asset", "Market", "Advertising"],
-    "answer": "Product"
+    "question": "Which of this is NOT among the storage capacity of a flash drive",
+    "options": ["2GB", "8GB", "20GB", "32GB"],
+    "answer": "20GB"
   },
   {
-    "number": 2,
-    "question": "The industrial products include the following, except",
-    "options": ["Installations", "Raw materials", "Accessory equipment", "Unsorted products"],
-    "answer": "Unsorted products"
+    "question": "______ controls the way in which the computer system functions and provides a means by which users can interact with the computer.",
+    "options": ["The operating system", "The motherboard", "The platform", "Application software"],
+    "answer": "The operating system"
   },
   {
-    "number": 3,
-    "question": "The act of buying a product at a spot without previous knowledge of it, is known as",
-    "options": ["Emergency buying", "Shopping", "Impulse buying", "Special buying"],
-    "answer": "Impulse buying"
+    "question": "The difference between people with access to computer and the internet and those without this access is known as the",
+    "options": ["Digital divide", "Internet divide", "Web divide", "Cyber way divide"],
+    "answer": "Digital divide"
   },
   {
-    "number": 4,
-    "question": "A philosophy which sees the consumer as the central focus of all organizational activities",
-    "options": ["Product concept", "Consumer concept", "Marketing concept", "Selling concept"],
-    "answer": "Marketing concept"
+    "question": "Verification of a login name and password is known as",
+    "options": ["Configuration", "Accessibility", "Authentication", "Logging"],
+    "answer": "Authentication"
   },
   {
-    "number": 5,
-    "question": "Which of the following is not a component of marketing mix?",
-    "options": ["Price", "Product", "Profit", "Promotion"],
-    "answer": "Profit"
+    "question": "Word processing, spreadsheet and photo-editing are examples of",
+    "options": ["Application software", "System software", "Operating system", "Platform software"],
+    "answer": "Application software"
   },
   {
-    "number": 6,
-    "question": "Establishing and maintaining mutual understanding between an organization and its customers is known as",
-    "options": ["Marketing concept", "Advertising", "Public relations", "Sales promotion"],
-    "answer": "Public relations"
+    "question": "What is the full meaning of SMS",
+    "options": ["System Messaging Service", "Short Messaging Service", "Shot Messages Service", "Subscriber Messaging Service"],
+    "answer": "Short Messaging Service"
   },
   {
-    "number": 7,
-    "question": "Want backed by the ability to pay is called",
-    "options": ["Exchange", "Transaction", "Demand", "Needs"],
-    "answer": "Demand"
+    "question": "________ involves manual checking of the logic of a program for correctness",
+    "options": ["Testing", "Desk checking", "Coding", "Debugging"],
+    "answer": "Desk checking"
   },
   {
-    "number": 8,
-    "question": "Communicating the benefit of a particular product to a customer is known as",
-    "options": ["Advertising", "Physical distribution", "Sales promotion", "Market research"],
-    "answer": "Advertising"
+    "question": "The ability to recover and read deleted or damaged files from a criminal’s computer is an example of a law enforcement specialty called",
+    "options": ["Simulation", "Criminology", "Robotics", "Computer forensics"],
+    "answer": "Computer forensics"
   },
   {
-    "number": 9,
-    "question": "Promotion comprises the following except",
-    "options": ["Market research", "Personal selling", "Sales promotion", "Advertising"],
-    "answer": "Market research"
+    "question": "Data that are accumulated and processed in group are called",
+    "options": ["Group processing", "Batch processing", "Time sharing", "None of these"],
+    "answer": "Batch processing"
   },
   {
-    "number": 10,
-    "question": "Intangible products can also be called",
-    "options": ["Services", "Materials", "Viable products", "Accessory equipments"],
-    "answer": "Services"
+    "question": "Choose the ODD one",
+    "options": ["React", "C#", "JavaScript", "Picto Block"],
+    "answer": "Picto Block"
   },
   {
-    "number": 11,
-    "question": "Understanding of human needs is the core concept of",
-    "options": ["Demand", "Marketing", "Selling", "Supply"],
-    "answer": "Marketing"
-  },
-  {
-    "number": 12,
-    "question": "The closest channel member to the consumer is",
-    "options": ["Retailer", "Wholesaler", "Agent", "Producer"],
-    "answer": "Retailer"
-  },
-  {
-    "number": 13,
-    "question": "The amount deducted from a regular price of a product to ensure continual patronage from customers is regarded as",
-    "options": ["Bonus", "Commission", "Discount", "Credit"],
-    "answer": "Discount"
-  },
-  {
-    "number": 14,
-    "question": "The path through which goods move from the producer to the consumer is called channel of",
-    "options": ["Consumption", "Distribution", "Marketing", "Production"],
-    "answer": "Distribution"
-  },
-  {
-    "number": 15,
-    "question": "Which of the following is not a stage in the product life cycle?",
-    "options": ["Growth stage", "Decline stage", "Market analysis", "Introduction stage"],
-    "answer": "Market analysis"
-  },
-  {
-    "number": 16,
-    "question": "An example of non-durable goods is",
-    "options": ["Shoe", "Bread", "Television", "Refrigerator"],
-    "answer": "Bread"
-  },
-  {
-    "number": 17,
-    "question": "The stage in the consumer buying decision process where the consumer assesses different products on the basis of what he has learnt is",
-    "options": ["Alternative evaluation", "Alternative search", "Need recognition stage", "Purchase decision"],
-    "answer": "Alternative evaluation"
-  },
-  {
-    "number": 18,
-    "question": "An activity or process undertaken by a company to acquire raw material is",
-    "options": ["Consumer buying behaviour", "Marketing intelligence", "Organizational buying behavior", "Marketing research"],
-    "answer": "Organizational buying behavior"
-  },
-  {
-    "number": 19,
-    "question": "One of these is a consumer product:",
-    "options": ["Raw materials", "Convenience product", "Accessory equipment", "Installations"],
-    "answer": "Convenience product"
-  },
-  {
-    "number": 20,
-    "question": "__________ and __________ are the two types of market:",
-    "options": ["Industrial and organizational oriented", "Consumer and organizational market", "Ijegun and industrial market", "Organizational and industrial market"],
-    "answer": "Consumer and organizational market"
-  },
-  {
-    "number": 21,
-    "question": "A function of packaging is to:",
-    "options": ["Improve product quality", "Reduce competition", "Protect the product", "Prevent adulteration"],
-    "answer": "Protect the product"
-  },
-  {
-    "number": 22,
-    "question": "Branding in marketing means:",
-    "options": ["Padding a product for sale", "Giving unique name to a product", "Using another company’s name", "Classifying products into groups"],
-    "answer": "Giving unique name to a product"
-  },
-  {
-    "number": 23,
-    "question": "Iron ore is classified as",
-    "options": ["Secondary product", "Semi-finished product", "Consumer product", "Primary product"],
-    "answer": "Primary product"
-  },
-  {
-    "number": 24,
-    "question": "Marketing is defined as:",
-    "options": ["Buying and selling to customers", "Selling and distribution to customers", "Meeting customer needs profitably", "Advertising and promotion to customers"],
-    "answer": "Meeting customer needs profitably"
-  },
-  {
-    "number": 25,
-    "question": "The first institution to introduce a degree programme in marketing in Nigeria is University of:",
-    "options": ["Ibadan", "Nigeria, Nsukka", "Lagos", "Jos"],
-    "answer": "Nigeria, Nsukka"
-  },
-  {
-    "number": 26,
-    "question": "A reduction in general personal income which leads to a change in company's pricing strategy is an element of the:",
-    "options": ["Competitive environment", "Political environment", "Economic environment", "Technological environment"],
-    "answer": "Economic environment"
-  },
-  {
-    "number": 27,
-    "question": "Marketers are involved in production process because",
-    "options": ["They also work in the factory floor", "Their ideas are developed into products", "They set product price", "They purchase raw materials for production"],
-    "answer": "Their ideas are developed into products"
-  },
-  {
-    "number": 28,
-    "question": "The differentiation of a firm’s product from other competing goods is",
-    "options": ["Packaging", "Labelling", "Coding", "Branding"],
-    "answer": "Branding"
-  },
-  {
-    "number": 29,
-    "question": "One of the influencing factors in an organization’s buying behaviour is",
-    "options": ["Taste", "Preference", "Company’s policy", "Company’s values"],
-    "answer": "Company’s values"
-  },
-  {
-    "number": 30,
-    "question": "Which of the following is not an example of institutional consumers?",
-    "options": ["Schools", "Hospitals", "Hotels", "Households"],
-    "answer": "Households"
-  },
-  {
-    "number": 31,
-    "question": "The systematic analysis of a problem with the aim of improving decision making on sales is marketing",
-    "options": ["Research", "Planning", "Concept", "Forecasting"],
-    "answer": "Research"
-  },
-  {
-    "number": 32,
-    "question": "In marketing research, data that is collected from the target market is",
-    "options": ["Secondary data", "Primary data", "Qualitative data", "Quantitative data"],
-    "answer": "Primary data"
-  },
-  {
-    "number": 33,
-    "question": "A source of primary data for marketing research is",
-    "options": ["Sales report", "Customer feedback", "Inventory report", "Marketing budget"],
-    "answer": "Customer feedback"
-  },
-  {
-    "number": 34,
-    "question": "Competitive price in marketing is arrived at by",
-    "options": ["Considering competitive demand for the product", "Adding mark up to the cost price", "Setting price in relation to competitors’ price", "Adding margin to the best price"],
-    "answer": "Setting price in relation to competitors’ price"
-  },
-  {
-    "number": 35,
-    "question": "The pricing strategy which involves the addition of a margin to the total amount spent on production by a company is",
-    "options": ["Psychological pricing", "Cost-plus pricing", "Competitive pricing", "Geographical pricing"],
-    "answer": "Cost-plus pricing"
-  },
-  {
-    "number": 36,
-    "question": "Which pricing strategy is adopted by a company that sells its product for ₦200 when the prevailing market price for same product is ₦150?",
-    "options": ["Skimming pricing", "Penetration pricing", "Psychological pricing", "Competitive pricing"],
-    "answer": "Skimming pricing"
-  },
-  {
-    "number": 37,
-    "question": "A place where the trading of goods takes place is called",
-    "options": ["Transaction", "Want", "Market", "Demand"],
-    "answer": "Market"
-  },
-  {
-    "number": 38,
-    "question": "The information obtained from carrying out marketing research is",
-    "options": ["Data", "Turnover", "Demand", "Market"],
-    "answer": "Data"
-  },
-  {
-    "number": 39,
-    "question": "An entrepreneur is primarily engaged in",
-    "options": ["Transportation", "Innovation", "Distribution", "Promotion"],
-    "answer": "Innovation"
-  },
-  {
-    "number": 40,
-    "question": "Which of the following factors is not a price determinant?",
-    "options": ["Cost of production", "Competitor’s price", "Level of demand", "Consumer’s culture"],
-    "answer": "Consumer’s culture"
-  },
-  {
-    "number": 41,
-    "question": "A distinction between advertising and publicity is that",
+    "question": "The output of an AND gate is 1 when",
     "options": [
-      "Advertising is paid for while publicity is not",
-      "Publicity is more readily believed than advertising",
-      "Publicity is more thoroughly read than advertising",
-      "Advertising is usually done through an agency while publicity is not"
+      "All inputs are 0",
+      "All inputs are 1",
+      "Any of the input is 0",
+      "Any of the input is 1"
     ],
-    "answer": "Advertising is paid for while publicity is not"
+    "answer": "All inputs are 1"
   },
   {
-    "number": 42,
-    "question": "Which of these means of advertising is an electronic medium?",
-    "options": ["Catalogue", "Television", "Magazine", "Newspaper"],
-    "answer": "Television"
-  },
-  {
-    "number": 43,
-    "question": "The stage in a product life circle where advertising is needed most is",
-    "options": ["Decline stage", "Maturity stage", "Growth stage", "Introduction stage"],
-    "answer": "Growth stage"
-  },
-  {
-    "number": 44,
-    "question": "A benefit the company would derive from advertising the product is",
+    "question": "The function of the NOT gate is to",
     "options": [
-      "Increase in competition",
-      "Increase in market share",
-      "Decrease in production cost",
-      "Decrease in tax liabilities"
+      "Act as a universal signal",
+      "Invert an input or output signal",
+      "Do nothing to a signal",
+      "Implement logic addition"
     ],
-    "answer": "Increase in market share"
+    "answer": "Invert an input or output signal"
   },
   {
-    "number": 45,
-    "question": "Advertising carried out at giving facts about a product is",
+    "question": "Desk checking is also called_______",
+    "options": ["Manual walkthrough", "Code execution", "Code review", "Tracing"],
+    "answer": "Manual walkthrough"
+  },
+  {
+    "question": "Where are Registers located?",
+    "options": ["Hard disk", "Processor", "Monitor", "None of the above"],
+    "answer": "Processor"
+  },
+  {
+    "question": "The first stage of the SDLC is",
+    "options": ["Planning", "Analysis", "Design", "Testing"],
+    "answer": "Planning"
+  },
+  {
+    "question": "The process of transferring files from a local computer to a remote computer on the WWW is called?",
+    "options": ["Upload", "Download", "Browsing", "Surfing"],
+    "answer": "Upload"
+  },
+  {
+    "question": "Which of this is the correct link of your school website",
     "options": [
-      "Competitive advertising",
-      "Persuasive advertising",
-      "Informative advertising",
-      "Direct advertising"
+      "www.sundreaminternational.com.ng",
+      "www.sundreaminternational.sch.ng",
+      "www.sundreaminternational.edu.ng",
+      "www.sundreaminternationalschool.edu.ng"
     ],
-    "answer": "Informative advertising"
+    "answer": "www.sundreaminternational.com.ng"
   },
   {
-    "number": 46,
-    "question": "Which of the following activities is not a function of advertising?",
+    "question": "Which stage of the SDLC does the development team translate high-level plans and goals into actionable ideas?",
+    "options": ["Planning", "Analysis", "Design", "Testing"],
+    "answer": "Analysis"
+  },
+  {
+    "question": "What is the full meaning of COBOL?",
     "options": [
-      "Remind potential customers",
-      "Persuade potential customers",
-      "Interact with potential customers",
-      "Inform potential customers"
+      "Computer Boolean Language",
+      "Computer Basic Oriented Language",
+      "Common Business Oriented Language",
+      "Computer Business Oriented Language"
     ],
-    "answer": "Interact with potential customers"
+    "answer": "Common Business Oriented Language"
   },
   {
-    "number": 47,
-    "question": "A medium of advertising that has the advantage of mass audience is",
-    "options": ["Newspaper", "Billboard", "Radio", "Magazine"],
-    "answer": "Radio"
+    "question": "Which of this is NOT an output device?",
+    "options": ["Scanner", "Projector", "Printer", "Monitor"],
+    "answer": "Scanner"
   },
   {
-    "number": 48,
-    "question": "An offer of free sample of goods is a form of",
+    "question": "What is the full meaning of GUI?",
+    "options": ["Graphic User Interface", "Graphical User Interchange", "Graphic Usenet Interface", "Google User Interface"],
+    "answer": "Graphic User Interface"
+  },
+  {
+    "question": "What is the primary function of an input device?",
     "options": [
-      "Conditional sale",
-      "Tied buying",
-      "After-sales service",
-      "Sales promotion"
+      "To provide information to a computer system",
+      "To display information when inputted",
+      "To provide data to a computer system",
+      "All of the above"
     ],
-    "answer": "Sales promotion"
+    "answer": "To provide data to a computer system"
   },
   {
-    "number": 49,
-    "question": "A toothbrush attached to a toothpaste is an example of",
+    "question": "Another name for data gathering is ____",
+    "options": ["Data collection", "Data collation", "Gathering of data", "Data processing"],
+    "answer": "Data collection"
+  },
+  {
+    "question": "Which of these is NOT a method of gathering data",
+    "options": ["Interview", "Questionnaire", "Observation", "Talking"],
+    "answer": "Talking"
+  },
+  {
+    "question": "What is the easiest way to determine a file’s format?",
     "options": [
-      "Premium offer",
-      "Price off",
-      "Loyalty scheme",
-      "Merchandising incentive"
+      "Check the file size",
+      "Open the file in a text editor",
+      "Use file properties menu",
+      "Check the file extension"
     ],
-    "answer": "Loyalty scheme"
+    "answer": "Check the file extension"
   },
   {
-    "number": 50,
-    "question": "A short-term incentive used to encourage consumers to buy a product is",
-    "options": ["Advertising", "Public relations", "Sales promotion", "Publicity"],
-    "answer": "Sales promotion"
+    "question": "What is the full meaning of FTP?",
+    "options": [
+      "File Transfer Protocol",
+      "File Transfer Point",
+      "File Transfer Provider",
+      "Field Transfer Protocol"
+    ],
+    "answer": "File Transfer Protocol"
+  },
+  {
+    "question": "The size of a bus is known as",
+    "options": ["Length", "Breadth", "Height", "Width"],
+    "answer": "Width"
+  },
+  {
+    "question": "_________ refers to the ability of an application to run on different platforms",
+    "options": ["Portability", "Readability", "Generality", "Efficiency"],
+    "answer": "Portability"
+  },
+  {
+    "question": "All buses consist of two parts namely _______ and _______",
+    "options": [
+      "Index Bus and Data Bus",
+      "Address Bus and Data Bus",
+      "Data Bus and Control Bus",
+      "Address Bus and Control Bus"
+    ],
+    "answer": "Address Bus and Data Bus"
+  },
+  {
+    "question": "The two factors affecting the speed of data transfer",
+    "options": [
+      "Bus Speed and Bus Width",
+      "Data speed and bus width",
+      "Bus speed and data width",
+      "Bus width and index speed"
+    ],
+    "answer": "Bus Speed and Bus Width"
+  },
+  {
+    "question": "Which action of the mouse is used to display a set of command?",
+    "options": ["Left Click", "Right Click", "Double click", "Scrolling"],
+    "answer": "Right Click"
+  },
+  {
+    "question": "What is the full meaning of GPS?",
+    "options": [
+      "Global Positioning System",
+      "General Positioning System",
+      "Geographical Placement System",
+      "Sir you never taught us this thing nah, oooooo"
+    ],
+    "answer": "Global Positioning System"
+  },
+  {
+    "question": "HTTP means ____________",
+    "options": [
+      "Hypertext Transfer Protocol",
+      "Hyperlink Text Protocol",
+      "Hypertext Transmission Protocol",
+      "Hyper Transfer Text Protocol"
+    ],
+    "answer": "Hypertext Transfer Protocol"
+  },
+  {
+    "question": "What is a cell in MS Excel?",
+    "options": [
+      "Intersection of Rows and Columns",
+      "Smallest Unit of Life",
+      "A battery",
+      "A small rectangular box in PowerPoint"
+    ],
+    "answer": "Intersection of Rows and Columns"
+  },
+  {
+    "question": "What is the formula for Summation in MS Excel?",
+    "options": ["=SUM()", "+SUM()", "SUM()", "ADD()"],
+    "answer": "=SUM()"
+  },
+  {
+    "question": "______ is a detailed yet readable description of an Algorithm",
+    "options": ["Pseudocode", "Flowchart", "Array", "Algorithm"],
+    "answer": "Pseudocode"
+  },
+  {
+    "question": "What is the full meaning of PDF?",
+    "options": [
+      "Portable Document Format",
+      "Point Document File",
+      "Previewed Document File",
+      "Previewed Document Format"
+    ],
+    "answer": "Portable Document Format"
+  },
+  {
+    "question": "The features of word processing packages are the following except",
+    "options": ["Creating document", "Creating slide", "Formatting document", "Justifying text"],
+    "answer": "Creating slide"
+  },
+  {
+    "question": "Which of the following is a word processing software?",
+    "options": ["MS-Excel", "WordPad", "CorelDRAW", "PowerPoint"],
+    "answer": "WordPad"
+  },
+  {
+    "question": "Allocation of resources in a time dependent manner to several programs simultaneously is called",
+    "options": ["Multi user", "Multi-tasking", "Time sharing", "None of the above"],
+    "answer": "Multi-tasking"
+  },
+  {
+    "question": "What is the full meaning of URL?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Resource Link",
+      "Universal Retrieval Locator",
+      "Sir this thing too hard abeg"
+    ],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Another name for font is _________",
+    "options": ["Text", "Typeface", "Word", "Icon"],
+    "answer": "Typeface"
+  },
+  {
+    "question": "What’s the full meaning of WIFI?",
+    "options": [
+      "Window Finder",
+      "Wireless Internet Frequency Interference",
+      "Wireless Fidelity",
+      "MIFI"
+    ],
+    "answer": "Wireless Fidelity"
+  },
+  {
+    "question": "What is the full meaning of VPN?",
+    "options": [
+      "Virtual Public Network",
+      "Virtual Private Network",
+      "Virtual Protected Network",
+      "Visual Private Network"
+    ],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "question": "What will be the result of this computation 26\\8 in BASIC",
+    "options": ["3", ".25", "3.25", "4"],
+    "answer": "3"
+  },
+  {
+    "question": "In MS Excel, which symbol is used for Logical Operation",
+    "options": ["=", "+", "%", "$"],
+    "answer": "="
+  },
+  {
+    "question": "Choose the ODD one out",
+    "options": ["Google Meet", "Zoom", "Skype", "Google Sheet"],
+    "answer": "Google Sheet"
+  },
+  {
+    "question": "At what stage of the program development do we check whether input data will provide desired output or not",
+    "options": [
+      "Testing & Debugging",
+      "Coding",
+      "Desk Checking",
+      "Program Compilation"
+    ],
+    "answer": "Testing & Debugging"
+  },
+  {
+    "question": "_____ ensures that the program does what it is meant to do according to the design specification",
+    "options": ["Accuracy & Correctness", "Robustness", "Clarity", "Flexibility"],
+    "answer": "Accuracy & Correctness"
+  },
+  {
+    "question": "_______ involves sending unsolicited messages to individuals or network group through the internet",
+    "options": ["Spamming", "Scam", "Hacking", "Fraud"],
+    "answer": "Spamming"
   }
 ]
+
+
