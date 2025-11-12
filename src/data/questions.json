@@ -2,7 +2,8 @@
   {
     "question": "Which of this is NOT among the storage capacity of a flash drive",
     "options": ["2GB", "8GB", "20GB", "32GB"],
-    "answer": "20GB"
+    "answer": "20GB",
+    "image": "/images/handshake.png"
   },
   {
     "question": "______ controls the way in which the computer system functions and provides a means by which users can interact with the computer.",

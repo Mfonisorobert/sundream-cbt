@@ -21,6 +21,21 @@ const Question = ({ questionObj, questionIndex, selectedOption, handleOptionSele
 {/* The underlining stops here */}
 
           {questionIndex + 1}. {questionObj.question}
+
+          {/* This section is just for image */}
+
+          {questionObj.image && (
+  <div className="flex justify-center my-4">
+    <img
+      src={questionObj.image}
+      alt="question illustration"
+      className="max-w-xs rounded-lg shadow-md"
+    />
+  </div>
+)}
+
+{/* The image section ends here */}
+
         </h2>
         <div className="space-y-3">
           {questionObj.options.map((option, idx) => (
