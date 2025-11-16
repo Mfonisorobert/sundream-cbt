@@ -1,8 +1,8 @@
 [
   {
     "question": "Ahịrịokwu na-egosi nnabata, nkwenye na nkwado n’ihe a na-ekwu maka ya bụ ____?",
-    "options": ["Ahịrịnjụ", "Ahịrịnke", "Ahịrịmgbagwo"],
-    "answer": "Ahịrịnke"
+    "options": ["Ahịrịnjụ", "Ahịrịnkwe", "Ahịrịmgbagwo"],
+    "answer": "Ahịrịnkwe"
   },
   {
     "question": "‘O bịara’. Nke a bụ ọmụmaatụ ____?",
@@ -16,8 +16,8 @@
   },
   {
     "question": "Gịnị ka e ji egosikarị ahịrịnjụ?",
-    "options": ["Ee", "ọ bịara", "gụ"],
-    "answer": "gụ"
+    "options": ["Ee", "ọ bịara", "ghi"],
+    "answer": "ghi"
   },
   {
     "question": "Ọmụmaatụ ahịrịnjụ bụ?",
@@ -141,8 +141,8 @@
   },
   {
     "question": "Ebe gbara mmadụ okirikiri tụmadị ebe mmadụ no ka a na-akpọ?",
-    "options": ["ụlọ", "ogige", "gburịrị"],
-    "answer": "ogige"
+    "options": ["ụlọ", "ogige", "gburugburu"],
+    "answer": "gburugburu"
   },
   {
     "question": "Otu uru ilekọta gburugburu bara bụ? __________",
@@ -160,42 +160,42 @@
     "answer": "Azịza"
   },
   {
-    "question": "ịtụ asị (na Bekee)  __?",
+    "question": "Itu asi putara — na Bekee?",
     "options": ["Hunting", "Lying", "Crying"],
     "answer": "Lying"
   },
   {
-    "question": "Ịchụ nta (na Bekee)  __?",
+    "question": "Ichu nta putara — na Bekee?",
     "options": ["Hunting", "Cooking", "Flying"],
     "answer": "Hunting"
   },
   {
-    "question": "Kpọm (na Bekee)  __?",
+    "question": "Kpom bu — na Bekee?",
     "options": ["Hyphen", "fullstop", "Question Mark"],
     "answer": "fullstop"
   },
   {
-    "question": "Ube (na Bekee)  __?",
+    "question": "Ube putara — na Bekee?",
     "options": ["Orange", "Pear", "Grape"],
     "answer": "Pear"
   },
   {
-    "question": "Ụgbọala (na Bekee)  __?",
+    "question": "Uboala putara — na Bekee?",
     "options": ["Car", "flute", "horn"],
     "answer": "Car"
   },
   {
-    "question": "Mmadụ (na Bekee)  __?",
+    "question": "Mmadu putara — na Bekee?",
     "options": ["Human", "Goat", "Giraffe"],
     "answer": "Human"
   },
   {
-    "question": "Akaọrụ (na Bekee)  __?",
+    "question": "Akaoru putara — na Bekee?",
     "options": ["Profession", "Stealing", "Architecture"],
     "answer": "Profession"
   },
   {
-    "question": "Ụlọakwụkwọ (na Bekee)  __?",
+    "question": "Uloakwukwo putara — na Bekee?",
     "options": ["Church", "Market", "School"],
     "answer": "School"
   },
