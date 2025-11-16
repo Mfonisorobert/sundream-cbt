@@ -157,7 +157,7 @@
   {
     "question": "Otu ihe e ji edebe gburugburu ọcha bụ ______?",
     "options": ["Ite", "Ngajị", "Azịza"],
-    "answer": "Ngajị"
+    "answer": "Azịza"
   },
   {
     "question": "ịtụ asị (na Bekee)  __?",
@@ -217,7 +217,7 @@
   {
     "question": "Uda ụgbọala bụ _____?",
     "options": ["Pim pim", "Gbowaa!", "Gịrịm gịrịm"],
-    "answer": "Gbowaa!"
+    "answer": "Pim pim"
   },
   {
     "question": "Uda egbe bụ _______?",
@@ -247,6 +247,6 @@
   {
     "question": "Onyenkuzi ________ nwa akwụkwọ?",
     "options": [">", "<", "< >"],
-    "answer": "<"
+    "answer": ">"
   }
 ]
