@@ -1,340 +1,252 @@
 [
   {
-    "question": "Which of this is NOT among the storage capacity of a flash drive",
-    "options": ["2GB", "8GB", "20GB", "32GB"],
-    "answer": "20GB",
-    "image": "/images/handshake.png"
+    "question": "Ahịrịokwu na-egosi nnabata, nkwenye na nkwado n’ihe a na-ekwu maka ya bụ ____?",
+    "options": ["Ahịrịnjụ", "Ahịrịnke", "Ahịrịmgbagwo"],
+    "answer": "Ahịrịnke"
   },
   {
-    "question": "______ controls the way in which the computer system functions and provides a means by which users can interact with the computer.",
-    "options": ["The operating system", "The motherboard", "The platform", "Application software"],
-    "answer": "The operating system"
+    "question": "‘O bịara’. Nke a bụ ọmụmaatụ ____?",
+    "options": ["Ahịrịnkwe", "Ahịrịnjụ", "Ahịrịmgbagwo"],
+    "answer": "Ahịrịnkwe"
   },
   {
-    "question": "The difference between people with access to computer and the internet and those without this access is known as the",
-    "options": ["Digital divide", "Internet divide", "Web divide", "Cyber way divide"],
-    "answer": "Digital divide"
+    "question": "____ na-egosi ajụjụ a jụrụ ihe a na-ekwu maka ya?",
+    "options": ["Ụdamkpi", "Ụdaume", "Ahịrịnjụ"],
+    "answer": "Ahịrịnjụ"
   },
   {
-    "question": "Verification of a login name and password is known as",
-    "options": ["Configuration", "Accessibility", "Authentication", "Logging"],
-    "answer": "Authentication"
+    "question": "Gịnị ka e ji egosikarị ahịrịnjụ?",
+    "options": ["Ee", "ọ bịara", "gụ"],
+    "answer": "gụ"
   },
   {
-    "question": "Word processing, spreadsheet and photo-editing are examples of",
-    "options": ["Application software", "System software", "Operating system", "Platform software"],
-    "answer": "Application software"
+    "question": "Ọmụmaatụ ahịrịnjụ bụ?",
+    "options": ["ọ rịrị nrị", "ọ rịrị nrị", "ọ bịara"],
+    "answer": "ọ bịara"
   },
   {
-    "question": "What is the full meaning of SMS",
-    "options": ["System Messaging Service", "Short Messaging Service", "Shot Messages Service", "Subscriber Messaging Service"],
-    "answer": "Short Messaging Service"
+    "question": "E ji ____ egosi ole ihe dị?",
+    "options": ["Ọnụọgụgụ", "Mkpịrịaka", "Ụtara ji"],
+    "answer": "Ọnụọgụgụ"
   },
   {
-    "question": "________ involves manual checking of the logic of a program for correctness",
-    "options": ["Testing", "Desk checking", "Coding", "Debugging"],
-    "answer": "Desk checking"
+    "question": "Ọtụ narị bụ gịnị na fịgọ?",
+    "options": ["400", "1000", "100"],
+    "answer": "100"
   },
   {
-    "question": "The ability to recover and read deleted or damaged files from a criminal’s computer is an example of a law enforcement specialty called",
-    "options": ["Simulation", "Criminology", "Robotics", "Computer forensics"],
-    "answer": "Computer forensics"
+    "question": "480 bụ ____ na mkpụrụokwu?",
+    "options": ["Narị anọ na asatọ", "Narị anọ na iri asatọ", "Narị na anọ"],
+    "answer": "Narị anọ na iri asatọ"
   },
   {
-    "question": "Data that are accumulated and processed in group are called",
-    "options": ["Group processing", "Batch processing", "Time sharing", "None of these"],
-    "answer": "Batch processing"
+    "question": "250 bụ ____ na mkpụrụokwu?",
+    "options": ["Ise na abụọ", "Abụọ na ise", "Narị abụọ na iri ise"],
+    "answer": "Narị abụọ na iri ise"
   },
   {
-    "question": "Choose the ODD one",
-    "options": ["React", "C#", "JavaScript", "Picto Block"],
-    "answer": "Picto Block"
+    "question": "_____ na egosi ihe dị naanị otu?",
+    "options": ["Mkpolu", "Ụbara", "Omenaala"],
+    "answer": "Mkpolu"
   },
   {
-    "question": "The output of an AND gate is 1 when",
-    "options": [
-      "All inputs are 0",
-      "All inputs are 1",
-      "Any of the input is 0",
-      "Any of the input is 1"
-    ],
-    "answer": "All inputs are 1"
+    "question": "______ na-egosi ihe dị abụọ maọbụ karịa?",
+    "options": ["Ụbara", "Mkpolu", "Omenaala"],
+    "answer": "Ụbara"
   },
   {
-    "question": "The function of the NOT gate is to",
-    "options": [
-      "Act as a universal signal",
-      "Invert an input or output signal",
-      "Do nothing to a signal",
-      "Implement logic addition"
-    ],
-    "answer": "Invert an input or output signal"
+    "question": "Ubara 'Ya' bụ _____?",
+    "options": ["Anyị", "Ha", "Ndị"],
+    "answer": "Ha"
   },
   {
-    "question": "Desk checking is also called_______",
-    "options": ["Manual walkthrough", "Code execution", "Code review", "Tracing"],
-    "answer": "Manual walkthrough"
+    "question": "Ubara 'Nwa' bụ _____?",
+    "options": ["Ụmụ", "unu", "Anyị"],
+    "answer": "Ụmụ"
   },
   {
-    "question": "Where are Registers located?",
-    "options": ["Hard disk", "Processor", "Monitor", "None of the above"],
-    "answer": "Processor"
+    "question": "Mkpolu 'Ndị Ohi' bụ ______?",
+    "options": ["Ndị Ohis", "Onye Ohis", "Onye Ohi"],
+    "answer": "Onye Ohi"
   },
   {
-    "question": "The first stage of the SDLC is",
-    "options": ["Planning", "Analysis", "Design", "Testing"],
-    "answer": "Planning"
+    "question": "Mkpolu 'Unu' bụ _____?",
+    "options": ["Gị", "Mụ", "Onye"],
+    "answer": "Gị"
   },
   {
-    "question": "The process of transferring files from a local computer to a remote computer on the WWW is called?",
-    "options": ["Upload", "Download", "Browsing", "Surfing"],
-    "answer": "Upload"
+    "question": "Ihe mmadụ nụrụ na ntị maọbụ nke ọ gụtara n’akwụkwọ ma nwekwaa ike izatali ajụjụ ọ bụla siri na ya pụta bụ _____?",
+    "options": ["Ụdaume", "Abụ", "Aghọtazaa"],
+    "answer": "Aghọtazaa"
   },
   {
-    "question": "Which of this is the correct link of your school website",
-    "options": [
-      "www.sundreaminternational.com.ng",
-      "www.sundreaminternational.sch.ng",
-      "www.sundreaminternational.edu.ng",
-      "www.sundreaminternationalschool.edu.ng"
-    ],
-    "answer": "www.sundreaminternational.com.ng"
+    "question": "Anyị gụrụ aghotaazaa gbasara _______?",
+    "options": ["Ọrụ ugbo", "ịkwa akwa", "ịchụ nta"],
+    "answer": "ịchụ nta"
   },
   {
-    "question": "Which stage of the SDLC does the development team translate high-level plans and goals into actionable ideas?",
-    "options": ["Planning", "Analysis", "Design", "Testing"],
-    "answer": "Analysis"
+    "question": "Ịchụ nta pụtara gịnị na Bekee?",
+    "options": ["farming", "sewing", "Hunting"],
+    "answer": "Hunting"
   },
   {
-    "question": "What is the full meaning of COBOL?",
-    "options": [
-      "Computer Boolean Language",
-      "Computer Basic Oriented Language",
-      "Common Business Oriented Language",
-      "Computer Business Oriented Language"
-    ],
-    "answer": "Common Business Oriented Language"
+    "question": "E ji _____ achụ nta?",
+    "options": ["Egbe", "ofe", "aziza"],
+    "answer": "Egbe"
   },
   {
-    "question": "Which of this is NOT an output device?",
-    "options": ["Scanner", "Projector", "Printer", "Monitor"],
-    "answer": "Scanner"
+    "question": "Ịchu nta na enye_____?",
+    "options": ["Ego", "Ahụọkụ", "ogologondụ"],
+    "answer": "Ego"
   },
   {
-    "question": "What is the full meaning of GUI?",
-    "options": ["Graphic User Interface", "Graphical User Interchange", "Graphic Usenet Interface", "Google User Interface"],
-    "answer": "Graphic User Interface"
+    "question": "Iri na asatọ e wepụrụ atọ ga-afọd ozi_______?",
+    "options": ["Iri", "Iri na ise", "ise"],
+    "answer": "Iri na ise"
   },
   {
-    "question": "What is the primary function of an input device?",
-    "options": [
-      "To provide information to a computer system",
-      "To display information when inputted",
-      "To provide data to a computer system",
-      "All of the above"
-    ],
-    "answer": "To provide data to a computer system"
+    "question": "Ube iri asatọ e wepụrụ ube iri atọ pụtara_______?",
+    "options": ["Ube iri ise", "Ube atọ", "Ube Hoolu"],
+    "answer": "Ube iri ise"
   },
   {
-    "question": "Another name for data gathering is ____",
-    "options": ["Data collection", "Data collation", "Gathering of data", "Data processing"],
-    "answer": "Data collection"
+    "question": "Akara ise etinyere akara ise pụtara______?",
+    "options": ["Akara Hoolu", "Akara iri", "Akara otu narị"],
+    "answer": "Akara iri"
   },
   {
-    "question": "Which of these is NOT a method of gathering data",
-    "options": ["Interview", "Questionnaire", "Observation", "Talking"],
-    "answer": "Talking"
+    "question": "Ọtụ na ise pụtara______?",
+    "options": ["ise", "asaa", "isii"],
+    "answer": "isii"
   },
   {
-    "question": "What is the easiest way to determine a file’s format?",
-    "options": [
-      "Check the file size",
-      "Open the file in a text editor",
-      "Use file properties menu",
-      "Check the file extension"
-    ],
-    "answer": "Check the file extension"
+    "question": "Mmadụ na ibe ya ibikọta ọnụ n’enweghị nsogbu maọbụ esemokwu ọbụla bụ_____?",
+    "options": ["Ọgbaaghara", "Ibi n’udo", "Esemokwu"],
+    "answer": "Ibi n’udo"
   },
   {
-    "question": "What is the full meaning of FTP?",
-    "options": [
-      "File Transfer Protocol",
-      "File Transfer Point",
-      "File Transfer Provider",
-      "Field Transfer Protocol"
-    ],
-    "answer": "File Transfer Protocol"
+    "question": "Ọtụ ebe anyị chọrọ udo bụ________?",
+    "options": ["Ala mmụọ", "Eluigwe", "N’ụlọ ụka"],
+    "answer": "N’ụlọ ụka"
   },
   {
-    "question": "The size of a bus is known as",
-    "options": ["Length", "Breadth", "Height", "Width"],
-    "answer": "Width"
+    "question": "Udo na-eweta_________?",
+    "options": ["Ọgụ", "Mgba", "Ọganihu"],
+    "answer": "Ọganihu"
   },
   {
-    "question": "_________ refers to the ability of an application to run on different platforms",
-    "options": ["Portability", "Readability", "Generality", "Efficiency"],
-    "answer": "Portability"
+    "question": "Udo bụ mgbe______ adịghị?",
+    "options": ["Esemokwu", "Nri", "Ịke"],
+    "answer": "Esemokwu"
   },
   {
-    "question": "All buses consist of two parts namely _______ and _______",
-    "options": [
-      "Index Bus and Data Bus",
-      "Address Bus and Data Bus",
-      "Data Bus and Control Bus",
-      "Address Bus and Control Bus"
-    ],
-    "answer": "Address Bus and Data Bus"
+    "question": "Ebe gbara mmadụ okirikiri tụmadị ebe mmadụ no ka a na-akpọ?",
+    "options": ["ụlọ", "ogige", "gburịrị"],
+    "answer": "ogige"
   },
   {
-    "question": "The two factors affecting the speed of data transfer",
-    "options": [
-      "Bus Speed and Bus Width",
-      "Data speed and bus width",
-      "Bus speed and data width",
-      "Bus width and index speed"
-    ],
-    "answer": "Bus Speed and Bus Width"
+    "question": "Otu uru ilekọta gburugburu bara bụ? __________",
+    "options": ["Ahụike", "Ọrịa", "isi ike"],
+    "answer": "Ahụike"
   },
   {
-    "question": "Which action of the mouse is used to display a set of command?",
-    "options": ["Left Click", "Right Click", "Double click", "Scrolling"],
-    "answer": "Right Click"
+    "question": "Ebe dị ọcha na-enye ________?",
+    "options": ["Iwe", "Obi ụtọ", "Mgbakasị ahụ"],
+    "answer": "Obi ụtọ"
   },
   {
-    "question": "What is the full meaning of GPS?",
-    "options": [
-      "Global Positioning System",
-      "General Positioning System",
-      "Geographical Placement System",
-      "Sir you never taught us this thing nah, oooooo"
-    ],
-    "answer": "Global Positioning System"
+    "question": "Otu ihe e ji edebe gburugburu ọcha bụ ______?",
+    "options": ["Ite", "Ngajị", "Azịza"],
+    "answer": "Ngajị"
   },
   {
-    "question": "HTTP means ____________",
-    "options": [
-      "Hypertext Transfer Protocol",
-      "Hyperlink Text Protocol",
-      "Hypertext Transmission Protocol",
-      "Hyper Transfer Text Protocol"
-    ],
-    "answer": "Hypertext Transfer Protocol"
+    "question": "ịtụ asị (na Bekee)  __?",
+    "options": ["Hunting", "Lying", "Crying"],
+    "answer": "Lying"
   },
   {
-    "question": "What is a cell in MS Excel?",
-    "options": [
-      "Intersection of Rows and Columns",
-      "Smallest Unit of Life",
-      "A battery",
-      "A small rectangular box in PowerPoint"
-    ],
-    "answer": "Intersection of Rows and Columns"
+    "question": "Ịchụ nta (na Bekee)  __?",
+    "options": ["Hunting", "Cooking", "Flying"],
+    "answer": "Hunting"
   },
   {
-    "question": "What is the formula for Summation in MS Excel?",
-    "options": ["=SUM()", "+SUM()", "SUM()", "ADD()"],
-    "answer": "=SUM()"
+    "question": "Kpọm (na Bekee)  __?",
+    "options": ["Hyphen", "fullstop", "Question Mark"],
+    "answer": "fullstop"
   },
   {
-    "question": "______ is a detailed yet readable description of an Algorithm",
-    "options": ["Pseudocode", "Flowchart", "Array", "Algorithm"],
-    "answer": "Pseudocode"
+    "question": "Ube (na Bekee)  __?",
+    "options": ["Orange", "Pear", "Grape"],
+    "answer": "Pear"
   },
   {
-    "question": "What is the full meaning of PDF?",
-    "options": [
-      "Portable Document Format",
-      "Point Document File",
-      "Previewed Document File",
-      "Previewed Document Format"
-    ],
-    "answer": "Portable Document Format"
+    "question": "Ụgbọala (na Bekee)  __?",
+    "options": ["Car", "flute", "horn"],
+    "answer": "Car"
   },
   {
-    "question": "The features of word processing packages are the following except",
-    "options": ["Creating document", "Creating slide", "Formatting document", "Justifying text"],
-    "answer": "Creating slide"
+    "question": "Mmadụ (na Bekee)  __?",
+    "options": ["Human", "Goat", "Giraffe"],
+    "answer": "Human"
   },
   {
-    "question": "Which of the following is a word processing software?",
-    "options": ["MS-Excel", "WordPad", "CorelDRAW", "PowerPoint"],
-    "answer": "WordPad"
+    "question": "Akaọrụ (na Bekee)  __?",
+    "options": ["Profession", "Stealing", "Architecture"],
+    "answer": "Profession"
   },
   {
-    "question": "Allocation of resources in a time dependent manner to several programs simultaneously is called",
-    "options": ["Multi user", "Multi-tasking", "Time sharing", "None of the above"],
-    "answer": "Multi-tasking"
+    "question": "Ụlọakwụkwọ (na Bekee)  __?",
+    "options": ["Church", "Market", "School"],
+    "answer": "School"
   },
   {
-    "question": "What is the full meaning of URL?",
-    "options": [
-      "Uniform Resource Locator",
-      "Universal Resource Link",
-      "Universal Retrieval Locator",
-      "Sir this thing too hard abeg"
-    ],
-    "answer": "Uniform Resource Locator"
+    "question": "Ma mmadụ adịghị ọcha, ọ dị _____?",
+    "options": ["Ụcha", "Upe", "Oji"],
+    "answer": "Oji"
   },
   {
-    "question": "Another name for font is _________",
-    "options": ["Text", "Typeface", "Word", "Icon"],
-    "answer": "Typeface"
+    "question": "Onye adịghị mkpumkpu, o too _____?",
+    "options": ["Ogologo", "Obere", "akakpụ"],
+    "answer": "Ogologo"
   },
   {
-    "question": "What’s the full meaning of WIFI?",
-    "options": [
-      "Window Finder",
-      "Wireless Internet Frequency Interference",
-      "Wireless Fidelity",
-      "MIFI"
-    ],
-    "answer": "Wireless Fidelity"
+    "question": "Onye ataghị ahụ, o buo _____?",
+    "options": ["Gịrịgịrị", "Ibu", "Mkpumkpụ"],
+    "answer": "Ibu"
   },
   {
-    "question": "What is the full meaning of VPN?",
-    "options": [
-      "Virtual Public Network",
-      "Virtual Private Network",
-      "Virtual Protected Network",
-      "Visual Private Network"
-    ],
-    "answer": "Virtual Private Network"
+    "question": "Uda ụgbọala bụ _____?",
+    "options": ["Pim pim", "Gbowaa!", "Gịrịm gịrịm"],
+    "answer": "Gbowaa!"
   },
   {
-    "question": "What will be the result of this computation 26\\8 in BASIC",
-    "options": ["3", ".25", "3.25", "4"],
-    "answer": "3"
+    "question": "Uda egbe bụ _______?",
+    "options": ["Gbum!", "gbagam gbagam", "shiii"],
+    "answer": "Gbum!"
   },
   {
-    "question": "In MS Excel, which symbol is used for Logical Operation",
-    "options": ["=", "+", "%", "$"],
-    "answer": "="
+    "question": "Narị asaa __________iri itoolu na ise?",
+    "options": [">", "<", "< >"],
+    "answer": ">"
   },
   {
-    "question": "Choose the ODD one out",
-    "options": ["Google Meet", "Zoom", "Skype", "Google Sheet"],
-    "answer": "Google Sheet"
+    "question": "Iri ise _______narị anọ?",
+    "options": ["<", ">", "< >"],
+    "answer": "<"
   },
   {
-    "question": "At what stage of the program development do we check whether input data will provide desired output or not",
-    "options": [
-      "Testing & Debugging",
-      "Coding",
-      "Desk Checking",
-      "Program Compilation"
-    ],
-    "answer": "Testing & Debugging"
+    "question": "Puku atọ _______narị abụọ na iri atọ?",
+    "options": ["< >", ">", "<"],
+    "answer": ">"
   },
   {
-    "question": "_____ ensures that the program does what it is meant to do according to the design specification",
-    "options": ["Accuracy & Correctness", "Robustness", "Clarity", "Flexibility"],
-    "answer": "Accuracy & Correctness"
+    "question": "Oroma atọ ______ oroma iri?",
+    "options": [">", "<", "="],
+    "answer": "<"
   },
   {
-    "question": "_______ involves sending unsolicited messages to individuals or network group through the internet",
-    "options": ["Spamming", "Scam", "Hacking", "Fraud"],
-    "answer": "Spamming"
+    "question": "Onyenkuzi ________ nwa akwụkwọ?",
+    "options": [">", "<", "< >"],
+    "answer": "<"
   }
 ]
-
-
