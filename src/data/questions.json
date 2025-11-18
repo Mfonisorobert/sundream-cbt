@@ -1,252 +1,306 @@
 [
-  {
-    "question": "Ahịrịokwu na-egosi nnabata, nkwenye na nkwado n’ihe a na-ekwu maka ya bụ ____?",
-    "options": ["Ahịrịnjụ", "Ahịrịnkwe", "Ahịrịmgbagwo"],
-    "answer": "Ahịrịnkwe"
-  },
-  {
-    "question": "‘O bịara’. Nke a bụ ọmụmaatụ ____?",
-    "options": ["Ahịrịnkwe", "Ahịrịnjụ", "Ahịrịmgbagwo"],
-    "answer": "Ahịrịnkwe"
-  },
-  {
-    "question": "____ na-egosi ajụjụ a jụrụ ihe a na-ekwu maka ya?",
-    "options": ["Ụdamkpi", "Ụdaume", "Ahịrịnjụ"],
-    "answer": "Ahịrịnjụ"
-  },
-  {
-    "question": "Gịnị ka e ji egosikarị ahịrịnjụ?",
-    "options": ["Ee", "ọ bịara", "ghi"],
-    "answer": "ghi"
-  },
-  {
-    "question": "Ọmụmaatụ ahịrịnjụ bụ?",
-    "options": ["ọ rịrị nrị", "o rịghị nri", "ọ bịara"],
-    "answer": "o rịghị nri"
-  },
-  {
-    "question": "E ji ____ egosi ole ihe dị?",
-    "options": ["Ọnụọgụgụ", "Mkpịrịaka", "Ụtara ji"],
-    "answer": "Ọnụọgụgụ"
-  },
-  {
-    "question": "Ọtụ narị bụ gịnị na fịgọ?",
-    "options": ["400", "1000", "100"],
-    "answer": "100"
-  },
-  {
-    "question": "480 bụ ____ na mkpụrụokwu?",
-    "options": ["Narị anọ na asatọ", "Narị anọ na iri asatọ", "Narị na anọ"],
-    "answer": "Narị anọ na iri asatọ"
-  },
-  {
-    "question": "250 bụ ____ na mkpụrụokwu?",
-    "options": ["Ise na abụọ", "Abụọ na ise", "Narị abụọ na iri ise"],
-    "answer": "Narị abụọ na iri ise"
-  },
-  {
-    "question": "_____ na egosi ihe dị naanị otu?",
-    "options": ["Mkpolu", "Ụbara", "Omenaala"],
-    "answer": "Mkpolu"
-  },
-  {
-    "question": "______ na-egosi ihe dị abụọ maọbụ karịa?",
-    "options": ["Ụbara", "Mkpolu", "Omenaala"],
-    "answer": "Ụbara"
-  },
-  {
-    "question": "Ubara 'Ya' bụ _____?",
-    "options": ["Anyị", "Ha", "Ndị"],
-    "answer": "Ha"
-  },
-  {
-    "question": "Ubara 'Nwa' bụ _____?",
-    "options": ["Ụmụ", "unu", "Anyị"],
-    "answer": "Ụmụ"
-  },
-  {
-    "question": "Mkpolu 'Ndị Ohi' bụ ______?",
-    "options": ["Ndị Ohis", "Onye Ohis", "Onye Ohi"],
-    "answer": "Onye Ohi"
-  },
-  {
-    "question": "Mkpolu 'Unu' bụ _____?",
-    "options": ["Gị", "Mụ", "Onye"],
-    "answer": "Gị"
-  },
-  {
-    "question": "Ihe mmadụ nụrụ na ntị maọbụ nke ọ gụtara n’akwụkwọ ma nwekwaa ike izatali ajụjụ ọ bụla siri na ya pụta bụ _____?",
-    "options": ["Ụdaume", "Abụ", "Aghọtazaa"],
-    "answer": "Aghọtazaa"
-  },
-  {
-    "question": "Anyị gụrụ aghotaazaa gbasara _______?",
-    "options": ["Ọrụ ugbo", "ịkwa akwa", "ịchụ nta"],
-    "answer": "ịchụ nta"
-  },
-  {
-    "question": "Ịchụ nta pụtara gịnị na Bekee?",
-    "options": ["farming", "sewing", "Hunting"],
-    "answer": "Hunting"
-  },
-  {
-    "question": "E ji _____ achụ nta?",
-    "options": ["Egbe", "ofe", "aziza"],
-    "answer": "Egbe"
-  },
-  {
-    "question": "Ịchu nta na enye_____?",
-    "options": ["Ego", "Ahụọkụ", "ogologondụ"],
-    "answer": "Ego"
-  },
-  {
-    "question": "Iri na asatọ e wepụrụ atọ ga-afọduzi_______?",
-    "options": ["Iri", "Iri na ise", "ise"],
-    "answer": "Iri na ise"
-  },
-  {
-    "question": "Ube iri asatọ e wepụrụ ube iri atọ pụtara_______?",
-    "options": ["Ube iri ise", "Ube atọ", "Ube Hoolu"],
-    "answer": "Ube iri ise"
-  },
-  {
-    "question": "Akara ise etinyere akara ise pụtara______?",
-    "options": ["Akara Hoolu", "Akara iri", "Akara otu narị"],
-    "answer": "Akara iri"
-  },
-  {
-    "question": "Ọtụ na ise pụtara______?",
-    "options": ["ise", "asaa", "isii"],
-    "answer": "isii"
-  },
-  {
-    "question": "Mmadụ na ibe ya ibikọta ọnụ n’enweghị nsogbu maọbụ esemokwu ọbụla bụ_____?",
-    "options": ["Ọgbaaghara", "Ibi n’udo", "Esemokwu"],
-    "answer": "Ibi n’udo"
-  },
-  {
-    "question": "Ọtụ ebe anyị chọrọ udo bụ________?",
-    "options": ["Ala mmụọ", "Eluigwe", "N’ụlọ ụka"],
-    "answer": "N’ụlọ ụka"
-  },
-  {
-    "question": "Udo na-eweta_________?",
-    "options": ["Ọgụ", "Mgba", "Ọganihu"],
-    "answer": "Ọganihu"
-  },
-  {
-    "question": "Udo bụ mgbe______ adịghị?",
-    "options": ["Esemokwu", "Nri", "Ịke"],
-    "answer": "Esemokwu"
-  },
-  {
-    "question": "Ebe gbara mmadụ okirikiri tụmadị ebe mmadụ no ka a na-akpọ?",
-    "options": ["ụlọ", "ogige", "gburugburu"],
-    "answer": "gburugburu"
-  },
-  {
-    "question": "Otu uru ilekọta gburugburu bara bụ? __________",
-    "options": ["Ahụike", "Ọrịa", "isi ike"],
-    "answer": "Ahụike"
-  },
-  {
-    "question": "Ebe dị ọcha na-enye ________?",
-    "options": ["Iwe", "Obi ụtọ", "Mgbakasị ahụ"],
-    "answer": "Obi ụtọ"
-  },
-  {
-    "question": "Otu ihe e ji edebe gburugburu ọcha bụ ______?",
-    "options": ["Ite", "Ngajị", "Azịza"],
-    "answer": "Azịza"
-  },
-  {
-    "question": "Itu asi putara — na Bekee?",
-    "options": ["Hunting", "Lying", "Crying"],
-    "answer": "Lying"
-  },
-  {
-    "question": "Ichu nta putara — na Bekee?",
-    "options": ["Hunting", "Cooking", "Flying"],
-    "answer": "Hunting"
-  },
-  {
-    "question": "Kpom bu — na Bekee?",
-    "options": ["Hyphen", "fullstop", "Question Mark"],
-    "answer": "fullstop"
-  },
-  {
-    "question": "Ube putara — na Bekee?",
-    "options": ["Orange", "Pear", "Grape"],
-    "answer": "Pear"
-  },
-  {
-    "question": "Uboala putara — na Bekee?",
-    "options": ["Car", "flute", "horn"],
-    "answer": "Car"
-  },
-  {
-    "question": "Mmadu putara — na Bekee?",
-    "options": ["Human", "Goat", "Giraffe"],
-    "answer": "Human"
-  },
-  {
-    "question": "Akaoru putara — na Bekee?",
-    "options": ["Profession", "Stealing", "Architecture"],
-    "answer": "Profession"
-  },
-  {
-    "question": "Uloakwukwo putara — na Bekee?",
-    "options": ["Church", "Market", "School"],
-    "answer": "School"
-  },
-  {
-    "question": "Ma mmadụ adịghị ọcha, ọ dị _____?",
-    "options": ["Ụcha", "Upe", "Oji"],
-    "answer": "Oji"
-  },
-  {
-    "question": "Onye adịghị mkpumkpu, o too _____?",
-    "options": ["Ogologo", "Obere", "akakpụ"],
-    "answer": "Ogologo"
-  },
-  {
-    "question": "Onye ataghị ahụ, o buo _____?",
-    "options": ["Gịrịgịrị", "Ibu", "Mkpumkpụ"],
-    "answer": "Ibu"
-  },
-  {
-    "question": "Uda ụgbọala bụ _____?",
-    "options": ["Pim pim", "Gbowaa!", "Gịrịm gịrịm"],
-    "answer": "Pim pim"
-  },
-  {
-    "question": "Uda egbe bụ _______?",
-    "options": ["Gbum!", "gbagam gbagam", "shiii"],
-    "answer": "Gbum!"
-  },
-  {
-    "question": "Narị asaa __________iri itoolu na ise?",
-    "options": [">", "<", "< >"],
-    "answer": ">"
-  },
-  {
-    "question": "Iri ise _______narị anọ?",
-    "options": ["<", ">", "< >"],
-    "answer": "<"
-  },
-  {
-    "question": "Puku atọ _______narị abụọ na iri atọ?",
-    "options": ["< >", ">", "<"],
-    "answer": ">"
-  },
-  {
-    "question": "Oroma atọ ______ oroma iri?",
-    "options": [">", "<", "="],
-    "answer": "<"
-  },
-  {
-    "question": "Onyenkuzi ________ nwa akwụkwọ?",
-    "options": [">", "<", "< >"],
-    "answer": ">"
-  }
+  
+  
+    {
+      "number": 1,
+      "question": "Which of the following is the first step in growing crops?",
+      "options": ["Harvesting", "Planting", "Land preparation", "Storage"],
+      "answer": "Land preparation"
+    },
+    {
+      "number": 2,
+      "question": "Which tool is commonly used for tilling the soil?",
+      "options": ["Watering can", "Hoe", "Basket", "Bucket"],
+      "answer": "Hoe"
+    },
+    {
+      "number": 3,
+      "question": "What is the process of removing unwanted plants from a farm called?",
+      "options": ["Weeding", "Harvesting", "Watering", "Fertilizing"],
+      "answer": "Weeding"
+    },
+    {
+      "number": 4,
+      "question": "Crops need sunlight, water, and __________ to grow well.",
+      "options": ["Pesticides", "Fertile soil", "Weeds", "Stones"],
+      "answer": "Fertile soil"
+    },
+    {
+      "number": 5,
+      "question": "Which of these is an example of a cereal crop?",
+      "options": ["Tomato", "Yam", "Maize", "Orange"],
+      "answer": "Maize"
+    },
+    {
+      "number": 6,
+      "question": "The process of gathering crops from the farm is known as:",
+      "options": ["Sowing", "Harvesting", "Weeding", "Irrigation"],
+      "answer": "Harvesting"
+    },
+    {
+      "number": 7,
+      "question": "Fertilizers are used on crops to:",
+      "options": ["Kill pests", "Improve soil nutrients", "Drive away animals", "Make crops dry faster"],
+      "answer": "Improve soil nutrients"
+    },
+    {
+      "number": 8,
+      "question": "Which method is commonly used to supply water to crops in dry areas?",
+      "options": ["Irrigation", "Spraying", "Harvesting", "Clearing"],
+      "answer": "Irrigation"
+    },
+    {
+      "number": 9,
+      "question": "What is a nursery in crop production?",
+      "options": ["A place to store harvested crops", "A small area for raising young plants", "A place for selling farm tools", "A place to grow weeds"],
+      "answer": "A small area for raising young plants"
+    },
+    {
+      "number": 10,
+      "question": "Which of the following crops is grown mainly for its leaves?",
+      "options": ["Cassava", "Lettuce", "Carrot", "Yam"],
+      "answer": "Lettuce"
+    },
+    {
+      "number": 11,
+      "question": "Crops are plants that are grown mainly for:",
+      "options": ["Decoration", "Food and other useful products", "Shade only", "Fun"],
+      "answer": "Food and other useful products"
+    },
+    {
+      "number": 12,
+      "question": "A crop like cassava is classified as a:",
+      "options": ["Grain crop", "Vegetable crop", "Root crop", "Fruit crop"],
+      "answer": "Root crop"
+    },
+    {
+      "number": 13,
+      "question": "Which of the following is an example of a cereal crop?",
+      "options": ["Yam", "Maize", "Banana", "Tomato"],
+      "answer": "Maize"
+    },
+    {
+      "number": 14,
+      "question": "Crops grown mainly for their leaves include:",
+      "options": ["Carrot", "Lettuce", "Groundnut", "Rice"],
+      "answer": "Lettuce"
+    },
+    {
+      "number": 15,
+      "question": "Cocoa is an example of a:",
+      "options": ["Cash crop", "Staple food", "Beverage crop", "Vegetable crop"],
+      "answer": "Cash crop"
+    },
+    {
+      "number": 16,
+      "question": "What is the process of growing crops called?",
+      "options": ["Cultivation", "Construction", "Preservation", "Decoration"],
+      "answer": "Cultivation"
+    },
+    {
+      "number": 17,
+      "question": "Which of these crops is used to make cooking oil?",
+      "options": ["Beans", "Groundnut", "Yam", "Pepper"],
+      "answer": "Groundnut"
+    },
+    {
+      "number": 18,
+      "question": "Rice and millet are mainly grown for their:",
+      "options": ["Leaves", "Stems", "Seeds", "Roots"],
+      "answer": "Seeds"
+    },
+    {
+      "number": 19,
+      "question": "Which crop is commonly used to make flour?",
+      "options": ["Potato", "Wheat", "Orange", "Garden egg"],
+      "answer": "Wheat"
+    },
+    {
+      "number": 20,
+      "question": "Cash crops are mainly grown for:",
+      "options": ["Home consumption", "Export and sale", "Decoration", "Grazing animals"],
+      "answer": "Export and sale"
+    },
+    {
+      "number": 21,
+      "question": "Which of the following is a method of preserving farm produce?",
+      "options": ["Boiling", "Drying", "Planting", "Weeding"],
+      "answer": "Drying"
+    },
+    {
+      "number": 22,
+      "question": "Which storage structure is commonly used to store grains?",
+      "options": ["Barn", "Silo", "Shed", "Coop"],
+      "answer": "Silo"
+    },
+    {
+      "number": 23,
+      "question": "The process of removing moisture from farm produce to keep them longer is called:",
+      "options": ["Harvesting", "Drying", "Irrigation", "Sorting"],
+      "answer": "Drying"
+    },
+    {
+      "number": 24,
+      "question": "Fruits and vegetables can be preserved by making them into:",
+      "options": ["Juice or jam", "Manure", "Animal feed", "Fertilizer"],
+      "answer": "Juice or jam"
+    },
+    {
+      "number": 25,
+      "question": "Which of these is a chemical used to prevent spoilage in stored produce?",
+      "options": ["Pesticide", "Preservative", "Fertilizer", "Herbicide"],
+      "answer": "Preservative"
+    },
+    {
+      "number": 26,
+      "question": "Which preservation method uses cold temperatures to keep food fresh?",
+      "options": ["Smoking", "Freezing", "Salting", "Drying"],
+      "answer": "Freezing"
+    },
+    {
+      "number": 27,
+      "question": "The act of applying salt to farm produce like meat or fish to preserve it is called:",
+      "options": ["Salting", "Smoking", "Fermenting", "Frying"],
+      "answer": "Salting"
+    },
+    {
+      "number": 28,
+      "question": "Which of the following crops is commonly stored in barns?",
+      "options": ["Beans", "Yam", "Rice", "Tomato"],
+      "answer": "Yam"
+    },
+    {
+      "number": 29,
+      "question": "Canning is an example of food preservation that involves:",
+      "options": ["Wrapping food in leaves", "Placing food in sealed containers", "Hanging food in open air", "Spraying chemicals on food"],
+      "answer": "Placing food in sealed containers"
+    },
+    {
+      "number": 30,
+      "question": "Why is farm produce preserved?",
+      "options": ["To make it grow faster", "To prevent spoilage", "To attract pests", "To reduce the price"],
+      "answer": "To prevent spoilage"
+    },
+    {
+      "number": 31,
+      "question": "Which of the following is the best example of a need?",
+      "options": ["Designer shoes", "Food", "Video games", "Ice cream"],
+      "answer": "Food"
+    },
+    {
+      "number": 32,
+      "question": "A wise buyer should always compare __________ before making a purchase.",
+      "options": ["Advertisements", "Prices", "Brands only", "Packaging"],
+      "answer": "Prices"
+    },
+    {
+      "number": 33,
+      "question": "What is a budget?",
+      "options": ["A plan for spending money", "A way of borrowing money", "A list of things to buy", "A record of debts"],
+      "answer": "A plan for spending money"
+    },
+    {
+      "number": 34,
+      "question": "Buying more than you need can lead to:",
+      "options": ["Saving money", "Waste", "Relaxation", "Bonuses"],
+      "answer": "Waste"
+    },
+    {
+      "number": 35,
+      "question": "Which of the following is a wise practice when shopping?",
+      "options": ["Buying items during a sale", "Shopping without a list", "Borrowing money to buy everything", "Buying only expensive products"],
+      "answer": "Buying items during a sale"
+    },
+    {
+      "number": 36,
+      "question": "To avoid impulse buying, you should:",
+      "options": ["Buy items on credit", "Make a shopping list", "Go shopping when hungry", "Buy items you see first"],
+      "answer": "Make a shopping list"
+    },
+    {
+      "number": 37,
+      "question": "Which of these is an example of wise spending?",
+      "options": ["Spending more than you earn", "Saving part of your income", "Buying things you don’t need", "Borrowing to shop"],
+      "answer": "Saving part of your income"
+    },
+    {
+      "number": 38,
+      "question": "What does it mean to prioritize spending?",
+      "options": ["Spending money on items you want first", "Buying everything at once", "Spending on needs before wants", "Buying the cheapest items always"],
+      "answer": "Spending on needs before wants"
+    },
+    {
+      "number": 39,
+      "question": "Which method helps in controlling spending?",
+      "options": ["Using credit cards always", "Keeping receipts", "Buying on impulse", "Ignoring your budget"],
+      "answer": "Keeping receipts"
+    },
+    {
+      "number": 40,
+      "question": "Why is it important to save money?",
+      "options": ["To waste later", "To prepare for the future", "To show off wealth", "To lend to others"],
+      "answer": "To prepare for the future"
+    },
+    {
+      "number": 41,
+      "question": "A healthy home environment is one that is:",
+      "options": ["Dirty and noisy", "Clean and safe", "Crowded and smelly", "Unventilated"],
+      "answer": "Clean and safe"
+    },
+    {
+      "number": 42,
+      "question": "Proper waste disposal helps to prevent:",
+      "options": ["Fresh air", "Diseases", "Cleaning", "Plant growth"],
+      "answer": "Diseases"
+    },
+    {
+      "number": 43,
+      "question": "Which of these is needed for good ventilation in a home?",
+      "options": ["Closed windows", "Open windows", "Loud music", "Bright lights"],
+      "answer": "Open windows"
+    },
+    {
+      "number": 44,
+      "question": "Which of the following helps to keep a bathroom clean?",
+      "options": ["Leaving water on the floor", "Washing the floor regularly", "Keeping the door closed always", "Using dirty water"],
+      "answer": "Washing the floor regularly"
+    },
+    {
+      "number": 45,
+      "question": "Stagnant water around the house can cause the breeding of:",
+      "options": ["Butterflies", "Mosquitoes", "Birds", "Dogs"],
+      "answer": "Mosquitoes"
+    },
+    {
+      "number": 46,
+      "question": "Which of these items is useful for cleaning the home?",
+      "options": ["Broom", "Kerosene", "Radio", "Chalk"],
+      "answer": "Broom"
+    },
+    {
+      "number": 47,
+      "question": "A home becomes overcrowded when:",
+      "options": ["Too many people live in a small space", "There are big windows", "The rooms are clean", "There are enough beds"],
+      "answer": "Too many people live in a small space"
+    },
+    {
+      "number": 48,
+      "question": "Why is it important to keep food covered in the home?",
+      "options": ["To make it dry", "To prevent contamination", "To stop it from being cooked", "To sell it easily"],
+      "answer": "To prevent contamination"
+    },
+    {
+      "number": 49,
+      "question": "Which of the following is a sign of an unhealthy home environment?",
+      "options": ["Clean water supply", "Dirt everywhere", "Enough ventilation", "Proper drainage"],
+      "answer": "Dirt everywhere"
+    },
+    {
+      "number": 50,
+      "question": "Which of the following helps control pests in the home?",
+      "options": ["Keeping food open", "Storing waste indoors", "Keeping the house clean", "Leaving windows broken"],
+      "answer": "Keeping the house clean"
+    }
+  
+
 ]
