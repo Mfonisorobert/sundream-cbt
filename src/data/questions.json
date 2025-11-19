@@ -1,306 +1,693 @@
 [
-  
-  
+{
+  "questions": [
     {
       "number": 1,
-      "question": "Which of the following is the first step in growing crops?",
-      "options": ["Harvesting", "Planting", "Land preparation", "Storage"],
-      "answer": "Land preparation"
+      "question": "Something is wrong with the school driver, he is _____ today.",
+      "options": [
+        "rather driving carelessly",
+        "carelessly driver rather",
+        "driving rather carelessly",
+        "rather carelessly driving"
+      ],
+      "answer": "driving rather carelessly"
     },
     {
       "number": 2,
-      "question": "Which tool is commonly used for tilling the soil?",
-      "options": ["Watering can", "Hoe", "Basket", "Bucket"],
-      "answer": "Hoe"
+      "question": "The woman walked ______ fast that the little girl couldn’t catch up with her.",
+      "options": [
+        "too",
+        "very",
+        "so",
+        "quite"
+      ],
+      "answer": "so"
     },
     {
       "number": 3,
-      "question": "What is the process of removing unwanted plants from a farm called?",
-      "options": ["Weeding", "Harvesting", "Watering", "Fertilizing"],
-      "answer": "Weeding"
+      "question": "How did you arrive at ______ wonderful idea?",
+      "options": [
+        "that a",
+        "such a",
+        "a such",
+        "that such"
+      ],
+      "answer": "such a"
     },
     {
       "number": 4,
-      "question": "Crops need sunlight, water, and __________ to grow well.",
-      "options": ["Pesticides", "Fertile soil", "Weeds", "Stones"],
-      "answer": "Fertile soil"
+      "question": "It is most ______ that the company spent five million naira on that fragile fence.",
+      "options": [
+        "outstanding",
+        "wonderful",
+        "remarkable",
+        "astonishing"
+      ],
+      "answer": "astonishing"
     },
     {
       "number": 5,
-      "question": "Which of these is an example of a cereal crop?",
-      "options": ["Tomato", "Yam", "Maize", "Orange"],
-      "answer": "Maize"
+      "question": "Many members of political parties ______ to opposing parties before elections.",
+      "options": [
+        "depart",
+        "defect",
+        "change",
+        "go"
+      ],
+      "answer": "defect"
     },
     {
       "number": 6,
-      "question": "The process of gathering crops from the farm is known as:",
-      "options": ["Sowing", "Harvesting", "Weeding", "Irrigation"],
-      "answer": "Harvesting"
+      "question": "The boy must have _______ the disease from the school.",
+      "options": [
+        "received",
+        "taken",
+        "contracted",
+        "carried"
+      ],
+      "answer": "contracted"
     },
     {
       "number": 7,
-      "question": "Fertilizers are used on crops to:",
-      "options": ["Kill pests", "Improve soil nutrients", "Drive away animals", "Make crops dry faster"],
-      "answer": "Improve soil nutrients"
+      "question": "I know it’s a secret, so I _______ tell anyone.",
+      "options": [
+        "couldn’t",
+        "shan’t",
+        "needn’t",
+        "mightn’t"
+      ],
+      "answer": "shan’t"
     },
     {
       "number": 8,
-      "question": "Which method is commonly used to supply water to crops in dry areas?",
-      "options": ["Irrigation", "Spraying", "Harvesting", "Clearing"],
-      "answer": "Irrigation"
+      "question": "The Supreme Court ______ the ruling of the court.",
+      "options": [
+        "nullified",
+        "abused",
+        "proclaimed",
+        "cancelled"
+      ],
+      "answer": "nullified"
     },
     {
       "number": 9,
-      "question": "What is a nursery in crop production?",
-      "options": ["A place to store harvested crops", "A small area for raising young plants", "A place for selling farm tools", "A place to grow weeds"],
-      "answer": "A small area for raising young plants"
+      "question": "They were given an ______ either to pay the rent or vacate the premises.",
+      "options": [
+        "ultimatum",
+        "injunction",
+        "admonition",
+        "undertaking"
+      ],
+      "answer": "ultimatum"
     },
     {
       "number": 10,
-      "question": "Which of the following crops is grown mainly for its leaves?",
-      "options": ["Cassava", "Lettuce", "Carrot", "Yam"],
-      "answer": "Lettuce"
+      "question": "The newly elected chairman has been _____ into office.",
+      "options": [
+        "sworn",
+        "installed",
+        "admitted",
+        "inaugurate"
+      ],
+      "answer": "inaugurate"
     },
     {
       "number": 11,
-      "question": "Crops are plants that are grown mainly for:",
-      "options": ["Decoration", "Food and other useful products", "Shade only", "Fun"],
-      "answer": "Food and other useful products"
+      "question": "The teacher, together with her students, ___ going on an excursion tomorrow.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "be"
+      ],
+      "answer": "is"
     },
     {
       "number": 12,
-      "question": "A crop like cassava is classified as a:",
-      "options": ["Grain crop", "Vegetable crop", "Root crop", "Fruit crop"],
-      "answer": "Root crop"
+      "question": "If I ___ rich, I would help the needy.",
+      "options": [
+        "am",
+        "was",
+        "were",
+        "be"
+      ],
+      "answer": "am"
     },
     {
       "number": 13,
-      "question": "Which of the following is an example of a cereal crop?",
-      "options": ["Yam", "Maize", "Banana", "Tomato"],
-      "answer": "Maize"
+      "question": "Neither the boy nor his friends ___ ready for the test.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "be"
+      ],
+      "answer": "are"
     },
     {
       "number": 14,
-      "question": "Crops grown mainly for their leaves include:",
-      "options": ["Carrot", "Lettuce", "Groundnut", "Rice"],
-      "answer": "Lettuce"
+      "question": "The thief ran away ___ the police could catch him.",
+      "options": [
+        "before",
+        "until",
+        "when",
+        "unless"
+      ],
+      "answer": "before"
     },
     {
       "number": 15,
-      "question": "Cocoa is an example of a:",
-      "options": ["Cash crop", "Staple food", "Beverage crop", "Vegetable crop"],
-      "answer": "Cash crop"
+      "question": "She prefers tea ___ coffee.",
+      "options": [
+        "from",
+        "than",
+        "to",
+        "over"
+      ],
+      "answer": "to"
     },
     {
       "number": 16,
-      "question": "What is the process of growing crops called?",
-      "options": ["Cultivation", "Construction", "Preservation", "Decoration"],
-      "answer": "Cultivation"
+      "question": "We shall continue the meeting ___ it starts raining.",
+      "options": [
+        "though",
+        "unless",
+        "until",
+        "if"
+      ],
+      "answer": "unless"
     },
     {
       "number": 17,
-      "question": "Which of these crops is used to make cooking oil?",
-      "options": ["Beans", "Groundnut", "Yam", "Pepper"],
-      "answer": "Groundnut"
+      "question": "I have not seen him ___ he left for Abuja.",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "before"
+      ],
+      "answer": "since"
     },
     {
       "number": 18,
-      "question": "Rice and millet are mainly grown for their:",
-      "options": ["Leaves", "Stems", "Seeds", "Roots"],
-      "answer": "Seeds"
+      "question": "The child is too young ___ understand such matters.",
+      "options": [
+        "to",
+        "for",
+        "that",
+        "in order to"
+      ],
+      "answer": "to"
     },
     {
       "number": 19,
-      "question": "Which crop is commonly used to make flour?",
-      "options": ["Potato", "Wheat", "Orange", "Garden egg"],
-      "answer": "Wheat"
+      "question": "The manager demanded to know who ___ the report.",
+      "options": [
+        "have written",
+        "has written",
+        "write",
+        "written"
+      ],
+      "answer": "has written"
     },
     {
       "number": 20,
-      "question": "Cash crops are mainly grown for:",
-      "options": ["Home consumption", "Export and sale", "Decoration", "Grazing animals"],
-      "answer": "Export and sale"
-    },
+      "question": "By this time next week, we ___ our final exams.",
+      "options": [
+        "will be writing",
+        "wrote",
+        "are writing",
+        "have written"
+      ],
+      "answer": "will be writing"
+    }
+  ]
+},
+{
+  "questions": [
     {
       "number": 21,
-      "question": "Which of the following is a method of preserving farm produce?",
-      "options": ["Boiling", "Drying", "Planting", "Weeding"],
-      "answer": "Drying"
+      "question": "Demonstrator — choose the option with the correct stress.",
+      "options": [
+        "DEmonstrator",
+        "deMONstrator",
+        "demonSTRAtor",
+        "demonstraTOR"
+      ],
+      "answer": "DEmonstrator"
     },
     {
       "number": 22,
-      "question": "Which storage structure is commonly used to store grains?",
-      "options": ["Barn", "Silo", "Shed", "Coop"],
-      "answer": "Silo"
+      "question": "Presidency — choose the option with the correct stress.",
+      "options": [
+        "PREsidency",
+        "preSIdency",
+        "presiDENcy",
+        "presidenCY"
+      ],
+      "answer": "PREsidency"
     },
     {
       "number": 23,
-      "question": "The process of removing moisture from farm produce to keep them longer is called:",
-      "options": ["Harvesting", "Drying", "Irrigation", "Sorting"],
-      "answer": "Drying"
+      "question": "Diplomatic — choose the option with the correct stress.",
+      "options": [
+        "DIplomatic",
+        "diPLOmatic",
+        "diploMAtic",
+        "diplomaTIC"
+      ],
+      "answer": "diploMAtic"
     },
     {
       "number": 24,
-      "question": "Fruits and vegetables can be preserved by making them into:",
-      "options": ["Juice or jam", "Manure", "Animal feed", "Fertilizer"],
-      "answer": "Juice or jam"
+      "question": "Technology — choose the option with the correct stress.",
+      "options": [
+        "TECHnology",
+        "techNOlogy",
+        "technoLOgy",
+        "technoloGY"
+      ],
+      "answer": "techNOlogy"
     },
     {
       "number": 25,
-      "question": "Which of these is a chemical used to prevent spoilage in stored produce?",
-      "options": ["Pesticide", "Preservative", "Fertilizer", "Herbicide"],
-      "answer": "Preservative"
+      "question": "Negotiation — choose the option with the correct stress.",
+      "options": [
+        "NEgotiation",
+        "neGOtiation",
+        "negoTIAtion",
+        "negotiaTION"
+      ],
+      "answer": "negoTIAtion"
     },
     {
       "number": 26,
-      "question": "Which preservation method uses cold temperatures to keep food fresh?",
-      "options": ["Smoking", "Freezing", "Salting", "Drying"],
-      "answer": "Freezing"
+      "question": "Beneficial — choose the option with the correct stress.",
+      "options": [
+        "BENificial",
+        "benEficial",
+        "beneFIcial",
+        "benefiCIAL"
+      ],
+      "answer": "beneFIcial"
     },
     {
       "number": 27,
-      "question": "The act of applying salt to farm produce like meat or fish to preserve it is called:",
-      "options": ["Salting", "Smoking", "Fermenting", "Frying"],
-      "answer": "Salting"
-    },
+      "question": "Superstitious — choose the option with the correct stress.",
+      "options": [
+        "SUperstitious",
+        "suPERstitious",
+        "superSTItious",
+        "superstiTIOUS"
+      ],
+      "answer": "superSTItious"
+    }
+  ]
+},
+{
+  "questions": [
     {
       "number": 28,
-      "question": "Which of the following crops is commonly stored in barns?",
-      "options": ["Beans", "Yam", "Rice", "Tomato"],
-      "answer": "Yam"
+      "question": "Choose the word that has the same sound as the underlined part in 'Obey'.",
+      "options": [
+        "plumber",
+        "tomb",
+        "rubber",
+        "comb"
+      ],
+      "answer": "rubber"
     },
     {
       "number": 29,
-      "question": "Canning is an example of food preservation that involves:",
-      "options": ["Wrapping food in leaves", "Placing food in sealed containers", "Hanging food in open air", "Spraying chemicals on food"],
-      "answer": "Placing food in sealed containers"
+      "question": "Choose the word that has the same sound as the underlined part in 'Flame'.",
+      "options": [
+        "dough",
+        "pillar",
+        "psyche",
+        "photo"
+      ],
+      "answer": "photo"
     },
     {
       "number": 30,
-      "question": "Why is farm produce preserved?",
-      "options": ["To make it grow faster", "To prevent spoilage", "To attract pests", "To reduce the price"],
-      "answer": "To prevent spoilage"
+      "question": "Choose the word that has the same sound as the underlined part in 'Get'.",
+      "options": [
+        "ledger",
+        "germane",
+        "ghastly",
+        "neighbour"
+      ],
+      "answer": "germane"
     },
     {
       "number": 31,
-      "question": "Which of the following is the best example of a need?",
-      "options": ["Designer shoes", "Food", "Video games", "Ice cream"],
-      "answer": "Food"
+      "question": "Choose the word that has the same sound as the underlined part in 'Anchor'.",
+      "options": [
+        "cease",
+        "chaff",
+        "such",
+        "come"
+      ],
+      "answer": "come"
     },
     {
       "number": 32,
-      "question": "A wise buyer should always compare __________ before making a purchase.",
-      "options": ["Advertisements", "Prices", "Brands only", "Packaging"],
-      "answer": "Prices"
+      "question": "Choose the word that has the same sound as the underlined part in 'Carve'.",
+      "options": [
+        "laugh",
+        "half",
+        "new",
+        "vein"
+      ],
+      "answer": "laugh"
     },
     {
       "number": 33,
-      "question": "What is a budget?",
-      "options": ["A plan for spending money", "A way of borrowing money", "A list of things to buy", "A record of debts"],
-      "answer": "A plan for spending money"
+      "question": "Choose the word that has the same sound as the underlined part in 'Unite'.",
+      "options": [
+        "untie",
+        "uncover",
+        "you",
+        "until"
+      ],
+      "answer": "you"
     },
     {
       "number": 34,
-      "question": "Buying more than you need can lead to:",
-      "options": ["Saving money", "Waste", "Relaxation", "Bonuses"],
-      "answer": "Waste"
+      "question": "Choose the word that has the same sound as the underlined part in 'Tough'.",
+      "options": [
+        "though",
+        "dough-nut",
+        "plough",
+        "offer"
+      ],
+      "answer": "offer"
     },
     {
       "number": 35,
-      "question": "Which of the following is a wise practice when shopping?",
-      "options": ["Buying items during a sale", "Shopping without a list", "Borrowing money to buy everything", "Buying only expensive products"],
-      "answer": "Buying items during a sale"
-    },
+      "question": "Choose the word that has the same sound as the underlined part in 'Parent'.",
+      "options": [
+        "pious",
+        "physics",
+        "psalm",
+        "corps"
+      ],
+      "answer": "pious"
+    }
+  ]
+},
+{  "instruction": "Fill in the gaps with the correct form of auxiliary verbs.",
+  "questions": [
     {
       "number": 36,
-      "question": "To avoid impulse buying, you should:",
-      "options": ["Buy items on credit", "Make a shopping list", "Go shopping when hungry", "Buy items you see first"],
-      "answer": "Make a shopping list"
+      "question": "I fell asleep in the train and was ______ to Kano.",
+      "options": [
+        "taken",
+        "taking",
+        "being taken",
+        "took"
+      ],
+      "answer": "taken"
     },
     {
       "number": 37,
-      "question": "Which of these is an example of wise spending?",
-      "options": ["Spending more than you earn", "Saving part of your income", "Buying things you don’t need", "Borrowing to shop"],
-      "answer": "Saving part of your income"
+      "question": "My pencil ______ stolen before I woke up.",
+      "options": [
+        "have been",
+        "had been",
+        "has been",
+        "is been"
+      ],
+      "answer": "had been"
     },
     {
       "number": 38,
-      "question": "What does it mean to prioritize spending?",
-      "options": ["Spending money on items you want first", "Buying everything at once", "Spending on needs before wants", "Buying the cheapest items always"],
-      "answer": "Spending on needs before wants"
+      "question": "Audu says that he ______ up at 6:00am every morning.",
+      "options": [
+        "has woken",
+        "wake",
+        "wakes",
+        "woke"
+      ],
+      "answer": "wakes"
     },
     {
       "number": 39,
-      "question": "Which method helps in controlling spending?",
-      "options": ["Using credit cards always", "Keeping receipts", "Buying on impulse", "Ignoring your budget"],
-      "answer": "Keeping receipts"
+      "question": "I _____ that you were upset.",
+      "options": [
+        "knew",
+        "knows",
+        "known",
+        "know"
+      ],
+      "answer": "knew"
     },
     {
       "number": 40,
-      "question": "Why is it important to save money?",
-      "options": ["To waste later", "To prepare for the future", "To show off wealth", "To lend to others"],
-      "answer": "To prepare for the future"
-    },
+      "question": "The man left the office at 5:00pm after he _____ writing his report.",
+      "options": [
+        "finishes",
+        "had finished",
+        "has finished",
+        "have finished"
+      ],
+      "answer": "had finished"
+    }
+  ]
+},
+{
+"Instruction" : "From the words lettered A to D below each of the following sentences, choose the word or group of words that is NEAREST IN MEANING to the underlined expression as it is used in the sentence.",
+  "questions": [
     {
       "number": 41,
-      "question": "A healthy home environment is one that is:",
-      "options": ["Dirty and noisy", "Clean and safe", "Crowded and smelly", "Unventilated"],
-      "answer": "Clean and safe"
+      "question": "Mamie complains that her husband often <u>relegates</u> her to the position of a housemaid.",
+      "options": [
+        "compares",
+        "relates",
+        "forces",
+        "reduces"
+      ],
+      "answer": "reduces"
     },
     {
       "number": 42,
-      "question": "Proper waste disposal helps to prevent:",
-      "options": ["Fresh air", "Diseases", "Cleaning", "Plant growth"],
-      "answer": "Diseases"
+      "question": "There is no <u>vacancy</u>, so the company no longer recruits staff.",
+      "options": [
+        "position",
+        "opening",
+        "room",
+        "place"
+      ],
+      "answer": "opening"
     },
     {
       "number": 43,
-      "question": "Which of these is needed for good ventilation in a home?",
-      "options": ["Closed windows", "Open windows", "Loud music", "Bright lights"],
-      "answer": "Open windows"
+      "question": "The police could not <u>apprehend</u> all the gamblers.",
+      "options": [
+        "charge",
+        "interrogate",
+        "arrest",
+        "prosecute"
+      ],
+      "answer": "arrest"
     },
     {
       "number": 44,
-      "question": "Which of the following helps to keep a bathroom clean?",
-      "options": ["Leaving water on the floor", "Washing the floor regularly", "Keeping the door closed always", "Using dirty water"],
-      "answer": "Washing the floor regularly"
+      "question": "The principal <u>endorsed</u> my travelling documents without delay.",
+      "options": [
+        "corrected",
+        "checked",
+        "reviewed",
+        "approved"
+      ],
+      "answer": "approved"
     },
     {
       "number": 45,
-      "question": "Stagnant water around the house can cause the breeding of:",
-      "options": ["Butterflies", "Mosquitoes", "Birds", "Dogs"],
-      "answer": "Mosquitoes"
+      "question": "I think his essay is <u>impeccable.</u>",
+      "options": [
+        "erroneous",
+        "correct",
+        "satisfactory",
+        "faultless"
+      ],
+      "answer": "faultless"
     },
     {
       "number": 46,
-      "question": "Which of these items is useful for cleaning the home?",
-      "options": ["Broom", "Kerosene", "Radio", "Chalk"],
-      "answer": "Broom"
-    },
+      "question": "That rock is a <u>potential</u> danger to fishing boats.",
+      "options": [
+        "possible",
+        "unexpected",
+        "obvious",
+        "serious"
+      ],
+      "answer": "possible"
+    }
+  ]
+},
+{
+ "instruction": "From the words lettered A to D below each of the following sentences, choose the word or group of words that is OPPOSITE IN MEANING to the underlined expression as it is used in the sentence.",
+   "questions": [
     {
       "number": 47,
-      "question": "A home becomes overcrowded when:",
-      "options": ["Too many people live in a small space", "There are big windows", "The rooms are clean", "There are enough beds"],
-      "answer": "Too many people live in a small space"
+      "question": "The crops the farmer <u>planted</u> were ______ by some naughty boys.",
+      "options": [
+        "sowed",
+        "weeded",
+        "destroyed",
+        "uprooted"
+      ],
+      "answer": "uprooted"
     },
     {
       "number": 48,
-      "question": "Why is it important to keep food covered in the home?",
-      "options": ["To make it dry", "To prevent contamination", "To stop it from being cooked", "To sell it easily"],
-      "answer": "To prevent contamination"
+      "question": "Last night, uncle Joe was <u>blind</u> drunk but this morning he is as _______ as a judge.",
+      "options": [
+        "alert",
+        "saintly",
+        "strong",
+        "sober"
+      ],
+      "answer": "alert"
     },
     {
       "number": 49,
-      "question": "Which of the following is a sign of an unhealthy home environment?",
-      "options": ["Clean water supply", "Dirt everywhere", "Enough ventilation", "Proper drainage"],
-      "answer": "Dirt everywhere"
+      "question": "The leader denied that he held very <u>rigid</u> opinions and mentioned instances when he had been ______.",
+      "options": [
+        "tolerant",
+        "compromising",
+        "friendly",
+        "flexible"
+      ],
+      "answer": "flexible"
     },
     {
       "number": 50,
-      "question": "Which of the following helps control pests in the home?",
-      "options": ["Keeping food open", "Storing waste indoors", "Keeping the house clean", "Leaving windows broken"],
-      "answer": "Keeping the house clean"
+      "question": "The old car is <u>durable</u> while the new one looks",
+      "options": [
+        "haggard",
+        "fragile",
+        "strong",
+        "unreliable"
+      ],
+      "answer": "fragile"
+    },
+    {
+      "number": 51,
+      "question": "A bank clerk should be able to tell easily the difference between ______ notes and <u>counterfeit</u> ones.",
+      "options": [
+        "crisp",
+        "good",
+        "correct",
+        "genuine"
+      ],
+      "answer": "genuine"
+    },
+    {
+      "number": 52,
+      "question": "Most people thought the accused would be <u>convicted</u> but surprisingly, he was _______.",
+      "options": [
+        "acquitted",
+        "released",
+        "sentenced",
+        "jailed"
+      ],
+      "answer": "acquitted"
     }
-  
-
+  ]
+},
+{
+  "instruction": "From the words lettered A to D choose the option that best suits the sentences below.",
+  "questions": [
+    {
+      "number": 53,
+      "question": "All the final year students will attend ____ party.",
+      "options": [
+        "tomorrow’s",
+        "tomorrows’",
+        "tomorrows",
+        "tomorrow"
+      ],
+      "answer": "tomorrow’s"
+    },
+    {
+      "number": 54,
+      "question": "You have the ______ to remain silent.",
+      "options": [
+        "rite",
+        "write",
+        "right",
+        "wright"
+      ],
+      "answer": "right"
+    },
+    {
+      "number": 55,
+      "question": "This isn’t your ring, it is your ______.",
+      "options": [
+        "daughter-in-law",
+        "daughter-in-law’s",
+        "daughters-in-law",
+        "daughter-in-laws"
+      ],
+      "answer": "daughter-in-law’s"
+    },
+    {
+      "number": 56,
+      "question": "I guess he holds _____ sensitize position in the company.",
+      "options": [
+        "some kind",
+        "many kind of",
+        "some kind of",
+        "many kind"
+      ],
+      "answer": "some kind of"
+    },
+    {
+      "number": 57,
+      "question": "The principal will come back in ______ time.",
+      "options": [
+        "two week’s",
+        "two week",
+        "two weeks",
+        "two weeks’"
+      ],
+      "answer": "two weeks’"
+    },
+    {
+      "number": 58,
+      "question": "The judge restrained the landlord from _____ the tenant.",
+      "options": [
+        "ejecting",
+        "sacking",
+        "dismissing",
+        "punishing"
+      ],
+      "answer": "ejecting"
+    },
+    {
+      "number": 59,
+      "question": "The politician ran to another country to seek _____.",
+      "options": [
+        "refuge",
+        "safeguard",
+        "retreat",
+        "safety"
+      ],
+      "answer": "refuge"
+    },
+    {
+      "number": 60,
+      "question": "Many players have complained about biase ____ by referees.",
+      "options": [
+        "officiating",
+        "control",
+        "direction",
+        "handling"
+      ],
+      "answer": "officiating"
+    }
+  ]
+}
 ]
