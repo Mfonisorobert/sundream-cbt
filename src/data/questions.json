@@ -1,692 +1,113 @@
 [
+  {
+      "instruction": "Answer the following questions.",
+      "questions": [
+  {"number":1,"question":"All the girls in the party quarrelled with _______.","options":["each other","one another","theirselves","themselves"],"answer":"one another"},
+  {"number":2,"question":"The chairman and chief executive _______ invited me for a dinner.","options":["has","have","having","was"],"answer":"have"},
+  {"number":3,"question":"Grace took her sister _______ she went to the office.","options":["if","so that","until","before"],"answer":"until"},
+  {"number":4,"question":"Paul did not like fetching water for his grandfather, _______ his mother made him do it.","options":["otherwise","nevertheless","even","moreover"],"answer":"nevertheless"},
+  {"number":5,"question":"I was informed that ________ Jane and her sister will be employed.","options":["neither","both","either","not only"],"answer":"both"},
+  {"number":6,"question":"The new road was completed on time ________ the difficulties involved.","options":["although","despite","besides"],"answer":"despite"},
+  {"number":7,"question":"She will not be able to go with us ________ her father arrives.","options":["except","provided that","but","unless"],"answer":"unless"},
+  {"number":8,"question":"The secretary must have been ill, _______ he would have attended the meeting.","options":["otherwise","unless","although","still"],"answer":"otherwise"},
+  {"number":9,"question":"We _____ the lesson two weeks ago.","options":["begun","began","begin","have began"],"answer":"began"},
+  {"number":10,"question":"The principal has nominated _____and _____ to represent the school.","options":["he/I","he/me","him/me","we/me"],"answer":"him/me"},
+  {"number":11,"question":"Was it ____ you were talking about?","options":["he","him","himself","his"],"answer":"him"},
+  {"number":12,"question":"The two friends hugged _____ at the party.","options":["each one","each other","one another","themselves"],"answer":"each other"},
+  {"number":13,"question":"The children were told to share the sweets _____ the three of them.","options":["against","among","between","for"],"answer":"among"},
+  {"number":14,"question":"Thank you _____ much for the moral support you have given me.","options":["quite","so","too","very"],"answer":"so"},
+  {"number":15,"question":"I fell asleep in the train and was _______ to Kano.","options":["taken","taking","being taken","took"],"answer":"taken"},
+  {"number":16,"question":"The turn-up of participants at the programme was poor because the timing _____ not conducive.","options":["are","is","was","were"],"answer":"was"},
+  {"number":17,"question":"As a team, we need ______ effort to win the trophy.","options":["each other’s","everybody","everyone’s","one another’s"],"answer":"everyone’s"},
+  {"number":18,"question":"I added _______ sugar to the baby's pap because it was tasteless.","options":["few","less","more","small"],"answer":"more"},
+  {"number":19,"question":"They did the work ______.","options":["ourselves","ourself","themselves","themself"],"answer":"themselves"},
+  {"number":20,"question":"The teacher and the parents ______ meeting later today.","options":["will be","is","are","can be"],"answer":"are"},
+  {"number":21,"question":"Tolu and Wunmi could not kill the rat because it escaped _____ the rear door.","options":["from","in","through","on"],"answer":"through"},
+  {"number":22,"question":"The man with his wife _________ coming to visit the family today.","options":["are","is","were","was"],"answer":"is"},
+  {"number":23,"question":"The girl seems to be ________ today than yesterday.","options":["more neat","very neater","neater","neatest"],"answer":"neater"},
+  {"number":24,"question":"I bought ______ mangoes for my sons.","options":["ripe some sweet","sweet ripe some","some sweet riped","sweet some ripe"],"answer":"some sweet riped"},
+  {"number":25,"question":"A dog _____ Mary yesterday.","options":["bite","bit","bitten","beat"],"answer":"bit"},
+  {"number":26,"question":"Why have you _______ the red biro?","options":["choosen","chose","chosen","choosing"],"answer":"chosen"},
+  {"number":27,"question":"The news was ________ on Channels TV.","options":["broadcast","broadcasted","broadcastted","broadcasten"],"answer":"broadcast"},
+  {"number":28,"question":"The police officer ordered the driver to pull _____ for a thorough check.","options":["over","away","in","out"],"answer":"over"},
+  {"number":29,"question":"The student failed the examination because he __________ went to school.","options":["always","regularly","rarely","usually"],"answer":"rarely"},
+  {"number":30,"question":"The sentence,' She is preparing the meal' rewritten in passive voice becomes, The meal _________ by her","options":["has been prepared","is been prepared","is being prepared","was being prepared"],"answer":"is being prepared"},
+  {"number":31,"question":"The sentence, \"I have sewn the dress,\" said the seamstress, rewritten in the indirect speech form becomes, The seamstress said that she ______ the cloth.","options":["had sewn","has being sewing","has sewn","have sewn"],"answer":"had sewn"},
+  {"number":32,"question":"Thepoliceofficerorderedthedrivertopull_________forathoroughcheck.","options":["out","over","through","off"],"answer":"over"},
+  {"number":33,"question":"The council of elders was present at the_____of the new king.","options":["enrolment","induction","coronation","swearing in"],"answer":"coronation"},
+  {"number":34,"question":"The large group of people________the occasion.","options":["attend","attended","attends","attending"],"answer":"attended"},
+  {"number":35,"question":"The fisherman caught a big fish and dropped it at the river________","options":["bank","base","shore","edge"],"answer":"bank"},
+  {"number":36,"question":"Tolu lost his golden pen _______ he has found it now.","options":["as","but","so","yet"],"answer":"but"},
+  {"number":37,"question":"As an advertiser I always decide on the most suitable medium to reach my target ______.","options":["audience","congregation","fans","crowd"],"answer":"audience"},
+  {"number":38,"question":"The current law on human trafficking was_____ by the 8th National Assembly.","options":["annulled","composed","enacted","imposed"],"answer":"enacted"},
+  {"number":39,"question":"You need to be careful while walking on the tiles ________ you slip.","options":["and","then","lest","when"],"answer":"lest"},
+  {"number":40,"question":"Mr. William’s _____ was written by his friend.","options":["autobiography","biography","history","story"],"answer":"biography"}  
+      ]
+    },
+
 {
-  "questions": [
-    {
-      "number": 1,
-      "question": "Something is wrong with the school driver, he is _____ today.",
-      "options": [
-        "rather driving carelessly",
-        "carelessly driver rather",
-        "driving rather carelessly",
-        "rather carelessly driving"
-      ],
-      "answer": "driving rather carelessly"
-    },
-    {
-      "number": 2,
-      "question": "The woman walked ______ fast that the little girl couldn’t catch up with her.",
-      "options": [
-        "too",
-        "very",
-        "so",
-        "quite"
-      ],
-      "answer": "so"
-    },
-    {
-      "number": 3,
-      "question": "How did you arrive at ______ wonderful idea?",
-      "options": [
-        "that a",
-        "such a",
-        "a such",
-        "that such"
-      ],
-      "answer": "such a"
-    },
-    {
-      "number": 4,
-      "question": "It is most ______ that the company spent five million naira on that fragile fence.",
-      "options": [
-        "outstanding",
-        "wonderful",
-        "remarkable",
-        "astonishing"
-      ],
-      "answer": "astonishing"
-    },
-    {
-      "number": 5,
-      "question": "Many members of political parties ______ to opposing parties before elections.",
-      "options": [
-        "depart",
-        "defect",
-        "change",
-        "go"
-      ],
-      "answer": "defect"
-    },
-    {
-      "number": 6,
-      "question": "The boy must have _______ the disease from the school.",
-      "options": [
-        "received",
-        "taken",
-        "contracted",
-        "carried"
-      ],
-      "answer": "contracted"
-    },
-    {
-      "number": 7,
-      "question": "I know it’s a secret, so I _______ tell anyone.",
-      "options": [
-        "couldn’t",
-        "shan’t",
-        "needn’t",
-        "mightn’t"
-      ],
-      "answer": "shan’t"
-    },
-    {
-      "number": 8,
-      "question": "The Supreme Court ______ the ruling of the court.",
-      "options": [
-        "nullified",
-        "abused",
-        "proclaimed",
-        "cancelled"
-      ],
-      "answer": "nullified"
-    },
-    {
-      "number": 9,
-      "question": "They were given an ______ either to pay the rent or vacate the premises.",
-      "options": [
-        "ultimatum",
-        "injunction",
-        "admonition",
-        "undertaking"
-      ],
-      "answer": "ultimatum"
-    },
-    {
-      "number": 10,
-      "question": "The newly elected chairman has been _____ into office.",
-      "options": [
-        "sworn",
-        "installed",
-        "admitted",
-        "inaugurate"
-      ],
-      "answer": "inaugurate"
-    },
-    {
-      "number": 11,
-      "question": "The teacher, together with her students, ___ going on an excursion tomorrow.",
-      "options": [
-        "are",
-        "were",
-        "is",
-        "be"
-      ],
-      "answer": "is"
-    },
-    {
-      "number": 12,
-      "question": "If I ___ rich, I would help the needy.",
-      "options": [
-        "am",
-        "was",
-        "were",
-        "be"
-      ],
-      "answer": "am"
-    },
-    {
-      "number": 13,
-      "question": "Neither the boy nor his friends ___ ready for the test.",
-      "options": [
-        "is",
-        "are",
-        "was",
-        "be"
-      ],
-      "answer": "are"
-    },
-    {
-      "number": 14,
-      "question": "The thief ran away ___ the police could catch him.",
-      "options": [
-        "before",
-        "until",
-        "when",
-        "unless"
-      ],
-      "answer": "before"
-    },
-    {
-      "number": 15,
-      "question": "She prefers tea ___ coffee.",
-      "options": [
-        "from",
-        "than",
-        "to",
-        "over"
-      ],
-      "answer": "to"
-    },
-    {
-      "number": 16,
-      "question": "We shall continue the meeting ___ it starts raining.",
-      "options": [
-        "though",
-        "unless",
-        "until",
-        "if"
-      ],
-      "answer": "unless"
-    },
-    {
-      "number": 17,
-      "question": "I have not seen him ___ he left for Abuja.",
-      "options": [
-        "since",
-        "for",
-        "from",
-        "before"
-      ],
-      "answer": "since"
-    },
-    {
-      "number": 18,
-      "question": "The child is too young ___ understand such matters.",
-      "options": [
-        "to",
-        "for",
-        "that",
-        "in order to"
-      ],
-      "answer": "to"
-    },
-    {
-      "number": 19,
-      "question": "The manager demanded to know who ___ the report.",
-      "options": [
-        "have written",
-        "has written",
-        "write",
-        "written"
-      ],
-      "answer": "has written"
-    },
-    {
-      "number": 20,
-      "question": "By this time next week, we ___ our final exams.",
-      "options": [
-        "will be writing",
-        "wrote",
-        "are writing",
-        "have written"
-      ],
-      "answer": "will be writing"
-    }
-  ]
-},
-{
-  "questions": [
-    {
-      "number": 21,
-      "question": "Demonstrator — choose the option with the correct stress.",
-      "options": [
-        "DEmonstrator",
-        "deMONstrator",
-        "demonSTRAtor",
-        "demonstraTOR"
-      ],
-      "answer": "DEmonstrator"
-    },
-    {
-      "number": 22,
-      "question": "Presidency — choose the option with the correct stress.",
-      "options": [
-        "PREsidency",
-        "preSIdency",
-        "presiDENcy",
-        "presidenCY"
-      ],
-      "answer": "PREsidency"
-    },
-    {
-      "number": 23,
-      "question": "Diplomatic — choose the option with the correct stress.",
-      "options": [
-        "DIplomatic",
-        "diPLOmatic",
-        "diploMAtic",
-        "diplomaTIC"
-      ],
-      "answer": "diploMAtic"
-    },
-    {
-      "number": 24,
-      "question": "Technology — choose the option with the correct stress.",
-      "options": [
-        "TECHnology",
-        "techNOlogy",
-        "technoLOgy",
-        "technoloGY"
-      ],
-      "answer": "techNOlogy"
-    },
-    {
-      "number": 25,
-      "question": "Negotiation — choose the option with the correct stress.",
-      "options": [
-        "NEgotiation",
-        "neGOtiation",
-        "negoTIAtion",
-        "negotiaTION"
-      ],
-      "answer": "negoTIAtion"
-    },
-    {
-      "number": 26,
-      "question": "Beneficial — choose the option with the correct stress.",
-      "options": [
-        "BENificial",
-        "benEficial",
-        "beneFIcial",
-        "benefiCIAL"
-      ],
-      "answer": "beneFIcial"
-    },
-    {
-      "number": 27,
-      "question": "Superstitious — choose the option with the correct stress.",
-      "options": [
-        "SUperstitious",
-        "suPERstitious",
-        "superSTItious",
-        "superstiTIOUS"
-      ],
-      "answer": "superSTItious"
-    }
-  ]
-},
-{
-  "questions": [
-    {
-      "number": 28,
-      "question": "Choose the word that has the same sound as the underlined part in 'Ob<u>e</u>y'.",
-      "options": [
-        "plumber",
-        "tomb",
-        "rubber",
-        "comb"
-      ],
-      "answer": "rubber"
-    },
-    {
-      "number": 29,
-      "question": "Choose the word that has the same sound as the underlined part in '<u>F</u>lame'.",
-      "options": [
-        "dough",
-        "pillar",
-        "psyche",
-        "photo"
-      ],
-      "answer": "photo"
-    },
-    {
-      "number": 30,
-      "question": "Choose the word that has the same sound as the underlined part in '<u>G</u>et'.",
-      "options": [
-        "ledger",
-        "germane",
-        "ghastly",
-        "neighbour"
-      ],
-      "answer": "germane"
-    },
-    {
-      "number": 31,
-      "question": "Choose the word that has the same sound as the underlined part in 'An<u>ch</u>or'.",
-      "options": [
-        "cease",
-        "chaff",
-        "such",
-        "come"
-      ],
-      "answer": "come"
-    },
-    {
-      "number": 32,
-      "question": "Choose the word that has the same sound as the underlined part in 'C<u>ar</u>ve'.",
-      "options": [
-        "laugh",
-        "half",
-        "new",
-        "vein"
-      ],
-      "answer": "laugh"
-    },
-    {
-      "number": 33,
-      "question": "Choose the word that has the same sound as the underlined part in '<u>U</u>nite'.",
-      "options": [
-        "untie",
-        "uncover",
-        "you",
-        "until"
-      ],
-      "answer": "you"
-    },
-    {
-      "number": 34,
-      "question": "Choose the word that has the same sound as the underlined part in 'T<u>ou</u>gh'.",
-      "options": [
-        "though",
-        "dough-nut",
-        "plough",
-        "offer"
-      ],
-      "answer": "offer"
-    },
-    {
-      "number": 35,
-      "question": "Choose the word that has the same sound as the underlined part in '<u>P</u>arent'.",
-      "options": [
-        "pious",
-        "physics",
-        "psalm",
-        "corps"
-      ],
-      "answer": "pious"
-    }
-  ]
-},
-{  "instruction": "Fill in the gaps with the correct form of auxiliary verbs.",
-  "questions": [
-    {
-      "number": 36,
-      "question": "I fell asleep in the train and was ______ to Kano.",
-      "options": [
-        "taken",
-        "taking",
-        "being taken",
-        "took"
-      ],
-      "answer": "taken"
-    },
-    {
-      "number": 37,
-      "question": "My pencil ______ stolen before I woke up.",
-      "options": [
-        "have been",
-        "had been",
-        "has been",
-        "is been"
-      ],
-      "answer": "had been"
-    },
-    {
-      "number": 38,
-      "question": "Audu says that he ______ up at 6:00am every morning.",
-      "options": [
-        "has woken",
-        "wake",
-        "wakes",
-        "woke"
-      ],
-      "answer": "wakes"
-    },
-    {
-      "number": 39,
-      "question": "I _____ that you were upset.",
-      "options": [
-        "knew",
-        "knows",
-        "known",
-        "know"
-      ],
-      "answer": "knew"
-    },
-    {
-      "number": 40,
-      "question": "The man left the office at 5:00pm after he _____ writing his report.",
-      "options": [
-        "finishes",
-        "had finished",
-        "has finished",
-        "have finished"
-      ],
-      "answer": "had finished"
-    }
-  ]
-},
-{
-"Instruction" : "From the words lettered A to D below each of the following sentences, choose the word or group of words that is NEAREST IN MEANING to the underlined expression as it is used in the sentence.",
+  "instruction": "In the passage below, the numbered gaps indicate missing words. Against each number (41–50), four options are offered in columns A–D. Fill each numbered gap with the correct option. ....Environmental 41 refers to the activities aimed at improving and 42 the standard of basic environmental conditions affecting the 43 of people. You can achieve a 44 environmental by regularly clearing and 45 your house and 46, properly 47 your 48 through covered trash 49 or disposable waste bags rather than 50.",
+  
   "questions": [
     {
       "number": 41,
-      "question": "Mamie complains that her husband often <u>relegates</u> her to the position of a housemaid.",
-      "options": [
-        "compares",
-        "relates",
-        "forces",
-        "reduces"
-      ],
-      "answer": "reduces"
+      "question":"________",
+      "options": ["care", "hazard", "sanitation", "health"],
+      "answer": "sanitation"
     },
     {
       "number": 42,
-      "question": "There is no <u>vacancy</u>, so the company no longer recruits staff.",
-      "options": [
-        "position",
-        "opening",
-        "room",
-        "place"
-      ],
-      "answer": "opening"
+      "question":"________",
+      "options": ["defending", "regulating", "developing", "maintaining"],
+      "answer": "maintaining"
     },
     {
       "number": 43,
-      "question": "The police could not <u>apprehend</u> all the gamblers.",
-      "options": [
-        "charge",
-        "interrogate",
-        "arrest",
-        "prosecute"
-      ],
-      "answer": "arrest"
+      "question":"________",
+      "options": ["wellbeing", "attitude", "habit", "progress"],
+      "answer": "wellbeing"
     },
     {
       "number": 44,
-      "question": "The principal <u>endorsed</u> my travelling documents without delay.",
-      "options": [
-        "corrected",
-        "checked",
-        "reviewed",
-        "approved"
-      ],
-      "answer": "approved"
+      "question":"________",
+      "options": ["friendly", "hygienic", "serene", "peaceful"],
+      "answer": "hygienic"
     },
     {
       "number": 45,
-      "question": "I think his essay is <u>impeccable.</u>",
-      "options": [
-        "erroneous",
-        "correct",
-        "satisfactory",
-        "faultless"
-      ],
-      "answer": "faultless"
+      "question":"________",
+      "options": ["clearing", "disinfecting", "painting", "renovating"],
+      "answer": "disinfecting"
     },
     {
       "number": 46,
-      "question": "That rock is a <u>potential</u> danger to fishing boats.",
-      "options": [
-        "possible",
-        "unexpected",
-        "obvious",
-        "serious"
-      ],
-      "answer": "possible"
-    }
-  ]
-},
-{
- "instruction": "From the words lettered A to D below each of the following sentences, choose the word or group of words that is OPPOSITE IN MEANING to the underlined expression as it is used in the sentence.",
-   "questions": [
+      "question":"________",
+      "options": ["garden", "locality", "neighborhood", "surrounding"],
+      "answer": "surrounding"
+    },
     {
       "number": 47,
-      "question": "The crops the farmer <u>planted</u> were ______ by some naughty boys.",
-      "options": [
-        "sowed",
-        "weeded",
-        "destroyed",
-        "uprooted"
-      ],
-      "answer": "uprooted"
+      "question":"________",
+      "options": ["burning", "disposing", "preserving", "sanitizing"],
+      "answer": "disposing"
     },
     {
       "number": 48,
-      "question": "Last night, uncle Joe was <u>blind</u> drunk but this morning he is as _______ as a judge.",
-      "options": [
-        "alert",
-        "saintly",
-        "strong",
-        "sober"
-      ],
-      "answer": "alert"
+      "question":"________",
+      "options": ["chaff", "debris", "garbage", "materials"],
+      "answer": "garbage"
     },
     {
       "number": 49,
-      "question": "The leader denied that he held very <u>rigid</u> opinions and mentioned instances when he had been ______.",
-      "options": [
-        "tolerant",
-        "compromising",
-        "friendly",
-        "flexible"
-      ],
-      "answer": "flexible"
+      "question":"________",
+      "options": ["barns", "cans", "ditches", "vessels"],
+      "answer": "cans"
     },
     {
       "number": 50,
-      "question": "The old car is <u>durable</u> while the new one looks",
-      "options": [
-        "haggard",
-        "fragile",
-        "strong",
-        "unreliable"
-      ],
-      "answer": "fragile"
-    },
-    {
-      "number": 51,
-      "question": "A bank clerk should be able to tell easily the difference between ______ notes and <u>counterfeit</u> ones.",
-      "options": [
-        "crisp",
-        "good",
-        "correct",
-        "genuine"
-      ],
-      "answer": "genuine"
-    },
-    {
-      "number": 52,
-      "question": "Most people thought the accused would be <u>convicted</u> but surprisingly, he was _______.",
-      "options": [
-        "acquitted",
-        "released",
-        "sentenced",
-        "jailed"
-      ],
-      "answer": "acquitted"
-    }
-  ]
-},
-{
-  "instruction": "From the words lettered A to D choose the option that best suits the sentences below.",
-  "questions": [
-    {
-      "number": 53,
-      "question": "All the final year students will attend ____ party.",
-      "options": [
-        "tomorrow’s",
-        "tomorrows’",
-        "tomorrows",
-        "tomorrow"
-      ],
-      "answer": "tomorrow’s"
-    },
-    {
-      "number": 54,
-      "question": "You have the ______ to remain silent.",
-      "options": [
-        "rite",
-        "write",
-        "right",
-        "wright"
-      ],
-      "answer": "right"
-    },
-    {
-      "number": 55,
-      "question": "This isn’t your ring, it is your ______.",
-      "options": [
-        "daughter-in-law",
-        "daughter-in-law’s",
-        "daughters-in-law",
-        "daughter-in-laws"
-      ],
-      "answer": "daughter-in-law’s"
-    },
-    {
-      "number": 56,
-      "question": "I guess he holds _____ sensitize position in the company.",
-      "options": [
-        "some kind",
-        "many kind of",
-        "some kind of",
-        "many kind"
-      ],
-      "answer": "some kind of"
-    },
-    {
-      "number": 57,
-      "question": "The principal will come back in ______ time.",
-      "options": [
-        "two week’s",
-        "two week",
-        "two weeks",
-        "two weeks’"
-      ],
-      "answer": "two weeks’"
-    },
-    {
-      "number": 58,
-      "question": "The judge restrained the landlord from _____ the tenant.",
-      "options": [
-        "ejecting",
-        "sacking",
-        "dismissing",
-        "punishing"
-      ],
-      "answer": "ejecting"
-    },
-    {
-      "number": 59,
-      "question": "The politician ran to another country to seek _____.",
-      "options": [
-        "refuge",
-        "safeguard",
-        "retreat",
-        "safety"
-      ],
-      "answer": "refuge"
-    },
-    {
-      "number": 60,
-      "question": "Many players have complained about biase ____ by referees.",
-      "options": [
-        "officiating",
-        "control",
-        "direction",
-        "handling"
-      ],
-      "answer": "officiating"
+      "question":"________",
+      "options": ["burning", "drying", "burying", "spreading"],
+      "answer": "burning"
     }
   ]
 }
