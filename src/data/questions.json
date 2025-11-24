@@ -1,114 +1,305 @@
 [
-  {
-      "instruction": "Answer the following questions.",
-      "questions": [
-  {"number":1,"question":"All the girls in the party quarrelled with _______.","options":["each other","one another","theirselves","themselves"],"answer":"one another"},
-  {"number":2,"question":"The chairman and chief executive _______ invited me for a dinner.","options":["has","have","having","was"],"answer":"have"},
-  {"number":3,"question":"Grace took her sister _______ she went to the office.","options":["if","so that","until","before"],"answer":"until"},
-  {"number":4,"question":"Paul did not like fetching water for his grandfather, _______ his mother made him do it.","options":["otherwise","nevertheless","even","moreover"],"answer":"nevertheless"},
-  {"number":5,"question":"I was informed that ________ Jane and her sister will be employed.","options":["neither","both","either","not only"],"answer":"both"},
-  {"number":6,"question":"The new road was completed on time ________ the difficulties involved.","options":["although","despite","besides"],"answer":"despite"},
-  {"number":7,"question":"She will not be able to go with us ________ her father arrives.","options":["except","provided that","but","unless"],"answer":"unless"},
-  {"number":8,"question":"The secretary must have been ill, _______ he would have attended the meeting.","options":["otherwise","unless","although","still"],"answer":"otherwise"},
-  {"number":9,"question":"We _____ the lesson two weeks ago.","options":["begun","began","begin","have began"],"answer":"began"},
-  {"number":10,"question":"The principal has nominated _____and _____ to represent the school.","options":["he/I","he/me","him/me","we/me"],"answer":"him/me"},
-  {"number":11,"question":"Was it ____ you were talking about?","options":["he","him","himself","his"],"answer":"him"},
-  {"number":12,"question":"The two friends hugged _____ at the party.","options":["each one","each other","one another","themselves"],"answer":"each other"},
-  {"number":13,"question":"The children were told to share the sweets _____ the three of them.","options":["against","among","between","for"],"answer":"among"},
-  {"number":14,"question":"Thank you _____ much for the moral support you have given me.","options":["quite","so","too","very"],"answer":"so"},
-  {"number":15,"question":"I fell asleep in the train and was _______ to Kano.","options":["taken","taking","being taken","took"],"answer":"taken"},
-  {"number":16,"question":"The turn-up of participants at the programme was poor because the timing _____ not conducive.","options":["are","is","was","were"],"answer":"was"},
-  {"number":17,"question":"As a team, we need ______ effort to win the trophy.","options":["each other’s","everybody","everyone’s","one another’s"],"answer":"everyone’s"},
-  {"number":18,"question":"I added _______ sugar to the baby's pap because it was tasteless.","options":["few","less","more","small"],"answer":"more"},
-  {"number":19,"question":"They did the work ______.","options":["ourselves","ourself","themselves","themself"],"answer":"themselves"},
-  {"number":20,"question":"The teacher and the parents ______ meeting later today.","options":["will be","is","are","can be"],"answer":"are"},
-  {"number":21,"question":"Tolu and Wunmi could not kill the rat because it escaped _____ the rear door.","options":["from","in","through","on"],"answer":"through"},
-  {"number":22,"question":"The man with his wife _________ coming to visit the family today.","options":["are","is","were","was"],"answer":"is"},
-  {"number":23,"question":"The girl seems to be ________ today than yesterday.","options":["more neat","very neater","neater","neatest"],"answer":"neater"},
-  {"number":24,"question":"I bought ______ mangoes for my sons.","options":["ripe some sweet","sweet ripe some","some sweet riped","sweet some ripe"],"answer":"some sweet riped"},
-  {"number":25,"question":"A dog _____ Mary yesterday.","options":["bite","bit","bitten","beat"],"answer":"bit"},
-  {"number":26,"question":"Why have you _______ the red biro?","options":["choosen","chose","chosen","choosing"],"answer":"chosen"},
-  {"number":27,"question":"The news was ________ on Channels TV.","options":["broadcast","broadcasted","broadcastted","broadcasten"],"answer":"broadcast"},
-  {"number":28,"question":"The police officer ordered the driver to pull _____ for a thorough check.","options":["over","away","in","out"],"answer":"over"},
-  {"number":29,"question":"The student failed the examination because he __________ went to school.","options":["always","regularly","rarely","usually"],"answer":"rarely"},
-  {"number":30,"question":"The sentence,' She is preparing the meal' rewritten in passive voice becomes, The meal _________ by her","options":["has been prepared","is been prepared","is being prepared","was being prepared"],"answer":"is being prepared"},
-  {"number":31,"question":"The sentence, \"I have sewn the dress,\" said the seamstress, rewritten in the indirect speech form becomes, The seamstress said that she ______ the cloth.","options":["had sewn","has being sewing","has sewn","have sewn"],"answer":"had sewn"},
-  {"number":32,"question":"Thepoliceofficerorderedthedrivertopull_________forathoroughcheck.","options":["out","over","through","off"],"answer":"over"},
-  {"number":33,"question":"The council of elders was present at the_____of the new king.","options":["enrolment","induction","coronation","swearing in"],"answer":"coronation"},
-  {"number":34,"question":"The large group of people________the occasion.","options":["attend","attended","attends","attending"],"answer":"attended"},
-  {"number":35,"question":"The fisherman caught a big fish and dropped it at the river________","options":["bank","base","shore","edge"],"answer":"bank"},
-  {"number":36,"question":"Tolu lost his golden pen _______ he has found it now.","options":["as","but","so","yet"],"answer":"but"},
-  {"number":37,"question":"As an advertiser I always decide on the most suitable medium to reach my target ______.","options":["audience","congregation","fans","crowd"],"answer":"audience"},
-  {"number":38,"question":"The current law on human trafficking was_____ by the 8th National Assembly.","options":["annulled","composed","enacted","imposed"],"answer":"enacted"},
-  {"number":39,"question":"You need to be careful while walking on the tiles ________ you slip.","options":["and","then","lest","when"],"answer":"lest"},
-  {"number":40,"question":"Mr. William’s _____ was written by his friend.","options":["autobiography","biography","history","story"],"answer":"biography"}  
-      ]
-    },
-
-{
-  "instruction": "In the passage below, the numbered gaps indicate missing words. Against each number (41–50), four options are offered in columns A–D. Fill each numbered gap with the correct option. ....Environmental 41 refers to the activities aimed at improving and 42 the standard of basic environmental conditions affecting the 43 of people. You can achieve a 44 environmental by regularly clearing and 45 your house and 46, properly 47 your 48 through covered trash 49 or disposable waste bags rather than 50.",
+    {
   
-  "questions": [
+      "number": 1,
+      "question": "Round off 27689 to the nearest ten",
+      "options": ["28000", "27700", "27690", "27680"],
+      "answer": "27690"
+    },
+    {
+      "number": 2,
+      "question": "Express 0.00402 in standard form",
+      "options": ["4.02×10^(-3)", "4.02×10^(-2)", "4.02×10^(-1)", "4.02×10^3"],
+      "answer": "4.02×10^(-3)"
+    },
+    {
+      "number": 3,
+      "question": "Subtract 1002 from 3001, leave your answer in 3 significant figures",
+      "options": ["1900", "1990", "1999", "2000"],
+      "answer": "2000"
+    },
+    {
+      "number": 4,
+      "question": "Express 240cm as a percentage of 600cm",
+      "options": ["16", "24", "30", "40"],
+      "answer": "40"
+    },
+    {
+      "number": 5,
+      "question": "The sum of three consecutive numbers is 60. What is the smallest number?",
+      "options": ["18", "19", "20", "21"],
+      "answer": "19"
+    },
+    {
+      "number": 6,
+      "question": "A telephone company charges 40kobo per second for the first minutes of a call and 20kobo per second for subsequent minutes. How much will a caller spend on a two minutes call?",
+      "options": ["N24.00", "N30.00", "N36.00", "N40.00"],
+      "answer": "N36.00"
+    },
+    {
+      "number": 7,
+      "question": "An estate agent gets a commission 5% for selling a house. How much does he get on a house worth 3Million Naira?",
+      "options": ["N120,000.00", "N150,000.00", "N300,000.00", "N600,000.00"],
+      "answer": "N150,000.00"
+    },
+    {
+      "number": 8,
+      "question": "Mr. Gambo’s salary per annum is N720,000.00. If he pays 2% monthly as income tax, how much does he take home at the end of the month?",
+      "options": ["N14,400.00", "N45,600.00", "N58,800.00", "N705,600.00"],
+      "answer": "N705,600.00"
+    },
+    {
+      "number": 9,
+      "question": "If 2,400 is increased by 15%, the result is",
+      "options": ["2,364", "2,415", "2,436", "2,760"],
+      "answer": "2,760"
+    },
+    {
+      "number": 10,
+      "question": "Find the simple interest on N20,000.00 for 3 years at 5% per annum.",
+      "options": ["N3,000.00", "N3,500.00", "N4,000.00", "N4,200.00"],
+      "answer": "N3,000.00"
+    },
+    {
+      "number": 11,
+      "question": "An article was bought at N2,500.00 and sold at N3,000.00. Calculate the percentage profit.",
+      "options": ["17", "20", "25", "30"],
+      "answer": "20"
+    },
+    {
+      "number": 12,
+      "question": "12 men can plough a farmland in 5 hours. How many hours will it take 15 men to do the same work if they are working at the same rate?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "number": 13,
+      "question": "Find the multiplicative inverse of -5",
+      "options": ["3/5", "2/5", "1/5", "-1/5"],
+      "answer": "-1/5"
+    },
+    {
+      "number": 14,
+      "question": "Zara treks 3x km to school, then 4x km to her uncle’s house and 2x km back home. Find the total distance covered.",
+      "options": ["24x km", "12x km", "9x km", "7x km"],
+      "answer": "9x km"
+    },
+    {
+      "number": 15,
+      "question": "Pascal’s monthly pocket money is N2,500.00. If he spends 4/5 of it monthly, how much does he save in 6 months?",
+      "options": ["N500.00", "N2,000.00", "N2,500.00", "N3,000.00"],
+      "answer": "N3,000.00"
+    },
+    {
+      "number": 16,
+      "question": "A bicycle that costs Nx was sold for Ny. Express the percentage loss in terms of x and y",
+      "options": ["(y-x)/x×100", "(x+y)/y×100", "(x-y)/x×100", "(x-y)/y×100"],
+      "answer": "(x-y)/x×100"
+    },
+    {
+      "number": 17,
+      "question": "Express 0.00019 in standard form",
+      "options": ["1.9×10^5", "1.9×10^(-5)", "1.9×10^(-4)", "1.9×10^4"],
+      "answer": "1.9×10^(-4)"
+    },
+    {
+      "number": 18,
+      "question": "Express 50000000 in terms of power of 10",
+      "options": ["5×10^6", "5×10^7", "5×10^8", "5×10^9"],
+      "answer": "5×10^7"
+    },
+    {
+      "number": 19,
+      "question": "Correct 6.912 to 3 significant figures",
+      "options": ["6.91", "6.912", "6.92", "6.93"],
+      "answer": "6.91"
+    },
+    {
+      "number": 20,
+      "question": "Simplify (12×10)^8 / (4×10^5) and leave your answer in ordinary form",
+      "options": ["3", "30", "300", "3000"],
+      "answer": "3000"
+    },
+    {
+      "number": 21,
+      "question": "Expand (-1/2)^3",
+      "options": ["1/8", "-1/8", "1/6", "-1/6"],
+      "answer": "-1/8"
+    },
+    {
+      "number": 22,
+      "question": "Simplify 4×8c^0",
+      "options": ["4", "16", "32", "32C"],
+      "answer": "32"
+    },
+    {
+      "number": 23,
+      "question": "Approximate 0.00256 to two significant figures",
+      "options": ["0.002", "0.0025", "0.0021", "0.003"],
+      "answer": "0.0025"
+    },
+    {
+      "number": 24,
+      "question": "If P=3 and q=-2, evaluate P^2+q",
+      "options": ["7", "9", "11", "13"],
+      "answer": "7"
+    },
+    {
+      "number": 25,
+      "question": "Simplify 6^y × 6^(2y+5)",
+      "options": ["6^3y", "6^8y", "36^(3y+5)", "6^(3y+5)"],
+      "answer": "6^(3y+5)"
+    },
+    {
+      "number": 26,
+      "question": "Express 301.6 in standard form",
+      "options": ["3.016×10^2", "3.016×10^1", "3.016×10^(-1)", "3.016×10^(-2)"],
+      "answer": "3.016×10^2"
+    },
+    {
+      "number": 27,
+      "question": "Simplify (1/49)^(-1/2)",
+      "options": ["-7", "7", "1/7", "49"],
+      "answer": "7"
+    },
+    {
+      "number": 28,
+      "question": "Evaluate (8.5×10^6) + (3.2×10^3)",
+      "options": ["8.5032×10^1", "8.5032×10^3", "8.5032×10^5", "8.5032×10^6"],
+      "answer": "8.5032×10^6"
+    },
+    {
+      "number": 29,
+      "question": "Express 0.00007 as a fraction",
+      "options": ["7/100000", "7/10000", "7/1000", "7/100"],
+      "answer": "7/100000"
+    },
+    {
+      "number": 30,
+      "question": "Approximate 8.5346 to the nearest thousandth",
+      "options": ["8.53", "8.54", "8.534", "8.535"],
+      "answer": "8.535"
+    },
+    {
+      "number": 31,
+      "question": "Simplify 7a^2 b^3 × 4ab",
+      "options": ["28a^3 b^4", "28a^4 b^3", "28ab^2", "28ab"],
+      "answer": "28a^3 b^4"
+    },
+    {
+      "number": 32,
+      "question": "A man spent 2/3 of his salary on his family and 1/4 on himself. If he saved the rest of his money, what fraction did he save?",
+      "options": ["3/4", "1/6", "1/2", "1/12"],
+      "answer": "1/12"
+    },
+    {
+      "number": 33,
+      "question": "Simplify (15r)^5 ÷ (5r)^2",
+      "options": ["3r", "3r^3", "3r^7", "5r^3"],
+      "answer": "3r^3"
+    },
+    {
+      "number": 34,
+      "question": "Evaluate -2 - (-5)",
+      "options": ["3", "-3", "7", "-7"],
+      "answer": "3"
+    },
+    {
+      "number": 35,
+      "question": "Calculate the simple interest on N650 for 2 years at 6% per annum",
+      "options": ["N39", "N65", "N78", "N780"],
+      "answer": "N78"
+    },
+    {
+      "number": 36,
+      "question": "Find the positive difference between 31 and product of 4 and 14",
+      "options": ["17", "25", "27", "56"],
+      "answer": "25"
+    },
+    {
+      "number": 37,
+      "question": "A book was bought for 250 and sold for N200. What is the gain percent?",
+      "options": ["5%", "15%", "25%", "50%"],
+      "answer": "25%"
+    },
+    {
+      "number": 38,
+      "question": "Find the profit of 15kg of fish bought at N150 per kg and sold at the cost of N500 per kg.",
+      "options": ["N2250", "N5250", "N5750", "N7500"],
+      "answer": "N5250"
+    },
+    {
+      "number": 39,
+      "question": "Calculate the commission received by a land agent on N360,000 at a commission of 5%",
+      "options": ["N6,000", "N12,000", "N15,000", "N18,000"],
+      "answer": "N18,000"
+    },
+    {
+      "number": 40,
+      "question": "Increase 63 in the ratio of 4:3",
+      "options": ["12", "21", "72", "84"],
+      "answer": "72"
+    },
     {
       "number": 41,
-      "question":"________",
-      "options": ["care", "hazard", "sanitation", "health"],
-      "answer": "sanitation"
+      "question": "Find the value of y in the ratio y:24 = 3:4",
+      "options": ["12", "18", "24", "72"],
+      "answer": "18"
     },
     {
       "number": 42,
-      "question":"________",
-      "options": ["defending", "regulating", "developing", "maintaining"],
-      "answer": "maintaining"
+      "question": "What is the additive inverse of -5×-8",
+      "options": ["5", "8", "40", "-40"],
+      "answer": "-40"
     },
     {
       "number": 43,
-      "question":"________",
-      "options": ["wellbeing", "attitude", "habit", "progress"],
-      "answer": "wellbeing"
+      "question": "Simplify -30 ÷ (-1/6)",
+      "options": ["-5", "5", "180", "-180"],
+      "answer": "180"
     },
     {
       "number": 44,
-      "question":"________",
-      "options": ["friendly", "hygienic", "serene", "peaceful"],
-      "answer": "hygienic"
+      "question": "Increase 51cm in the ratio 5:3",
+      "options": ["31", "51", "85", "136"],
+      "answer": "85"
     },
     {
       "number": 45,
-      "question":"________",
-      "options": ["clearing", "disinfecting", "painting", "renovating"],
-      "answer": "disinfecting"
+      "question": "40 apples are shared between Delight and Divine in the ratio 4:1. Find the number of apples that Delight has",
+      "options": ["4", "8", "32", "40"],
+      "answer": "32"
     },
     {
       "number": 46,
-      "question":"________",
-      "options": ["garden", "locality", "neighborhood", "surrounding"],
-      "answer": "surrounding"
+      "question": "It takes 18 hours for 10 men to do a piece of job. How long will it take 15 men to do the same piece of job?",
+      "options": ["12 hours", "15 hours", "18 hours", "20 hours"],
+      "answer": "12 hours"
     },
     {
       "number": 47,
-      "question":"________",
-      "options": ["burning", "disposing", "preserving", "sanitizing"],
-      "answer": "disposing"
+      "question": "Find 75% of 1000g",
+      "options": ["250g", "500g", "750g", "900g"],
+      "answer": "750g"
     },
     {
       "number": 48,
-      "question":"________",
-      "options": ["chaff", "debris", "garbage", "materials"],
-      "answer": "garbage"
+      "question": "Increase 70m by 40%",
+      "options": ["28m", "42m", "70m", "98m"],
+      "answer": "98m"
     },
     {
       "number": 49,
-      "question":"________",
-      "options": ["barns", "cans", "ditches", "vessels"],
-      "answer": "cans"
+      "question": "Simplify: 32y^9 ÷ 8y^5",
+      "options": ["4y^4", "4y^3", "2y", "y"],
+      "answer": "4y^4"
     },
     {
       "number": 50,
-      "question":"________",
-      "options": ["burning", "drying", "burying", "spreading"],
-      "answer": "burning"
+      "question": "Evaluate -5 + (-3)",
+      "options": ["8", "-8", "2", "-2"],
+      "answer": "-8"
     }
   ]
-}
-]
+
+
