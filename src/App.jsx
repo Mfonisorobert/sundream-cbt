@@ -20,13 +20,14 @@ const [hasStarted, setHasStarted] = useState(false);
 
 // This is for shuffling of questions
 // Use this when you want to shuffle the questions
-// useEffect(() => {
-//   const randomized = shuffleArray(questionsData).map((q) => ({
-//     ...q,
-//     options: shuffleArray(q.options),
-//   }));
-//   setQuestions(randomized);
-// }, []);
+
+useEffect(() => {
+  const randomized = shuffleArray(questionsData).map((q) => ({
+    ...q,
+    options: shuffleArray(q.options),
+  }));
+  setQuestions(randomized);
+}, []);
 
 // Shuffling of questions ends here
 
@@ -37,14 +38,14 @@ const [hasStarted, setHasStarted] = useState(false);
 
   
   // Use this when you don't want to randomized the questions and options
-  useEffect(() => {
-    setQuestions(questionsData);
+  // useEffect(() => {
+  //   setQuestions(questionsData);
   
-    const savedAnswers = localStorage.getItem("cbt-answers");
-    const savedIndex = localStorage.getItem("cbt-current-index");
-    if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
-    if (savedIndex) setCurrentQIndex(Number(savedIndex));
-  }, []);
+  //   const savedAnswers = localStorage.getItem("cbt-answers");
+  //   const savedIndex = localStorage.getItem("cbt-current-index");
+  //   if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
+  //   if (savedIndex) setCurrentQIndex(Number(savedIndex));
+  // }, []);
 
   // modified ends
 
@@ -299,7 +300,7 @@ if (!hasStarted) {
 
 {/* This portion shows the result after submission */}
 
-{showScore && (
+{/* {showScore && (
   <div className="text-center mt-6">
     <h3 className="text-xl font-semibold mt-6 mb-2">Review:</h3>
     <div className="space-y-4 text-left mt-4">
@@ -317,7 +318,7 @@ if (!hasStarted) {
       })}
     </div>
   </div>
-)}
+)} */}
 
 
 </div>
