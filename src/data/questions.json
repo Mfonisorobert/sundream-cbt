@@ -1,305 +1,553 @@
 [
     {
-  
       "number": 1,
-      "question": "Round off 27689 to the nearest ten",
-      "options": ["28000", "27700", "27690", "27680"],
-      "answer": "27690"
+      "question": "The story of a person’s life written by another person is",
+      "options": [
+        "history",
+        "autobiography",
+        "biography",
+        "memoir"
+      ],
+      "answer": "biography"
     },
     {
       "number": 2,
-      "question": "Express 0.00402 in standard form",
-      "options": ["4.02×10^(-3)", "4.02×10^(-2)", "4.02×10^(-1)", "4.02×10^3"],
-      "answer": "4.02×10^(-3)"
+      "question": "The geographical location where events in a work of art takes place is known as",
+      "options": [
+        "setting",
+        "location",
+        "timing",
+        "plot"
+      ],
+      "answer": "setting"
     },
     {
       "number": 3,
-      "question": "Subtract 1002 from 3001, leave your answer in 3 significant figures",
-      "options": ["1900", "1990", "1999", "2000"],
-      "answer": "2000"
+      "question": "‘Some sad signs seem sore’ is an example of",
+      "options": [
+        "Metonymy",
+        "Assonance",
+        "Metaphor",
+        "Alliteration"
+      ],
+      "answer": "Alliteration"
     },
     {
       "number": 4,
-      "question": "Express 240cm as a percentage of 600cm",
-      "options": ["16", "24", "30", "40"],
-      "answer": "40"
+      "question": "“Tomorrow will run swiftly”; This statement expresses",
+      "options": [
+        "simile",
+        "epigram",
+        "paradox",
+        "personification"
+      ],
+      "answer": "personification"
     },
     {
       "number": 5,
-      "question": "The sum of three consecutive numbers is 60. What is the smallest number?",
-      "options": ["18", "19", "20", "21"],
-      "answer": "19"
+      "question": "The expression: ‘The zoom of a car’ shows the use of",
+      "options": [
+        "alliteration",
+        "assonance",
+        "onomatopoeia",
+        "simile"
+      ],
+      "answer": "onomatopoeia"
     },
     {
       "number": 6,
-      "question": "A telephone company charges 40kobo per second for the first minutes of a call and 20kobo per second for subsequent minutes. How much will a caller spend on a two minutes call?",
-      "options": ["N24.00", "N30.00", "N36.00", "N40.00"],
-      "answer": "N36.00"
+      "question": "The cold hands of death snatched her; is an example of",
+      "options": [
+        "personification",
+        "irony",
+        "simile",
+        "metaphor"
+      ],
+      "answer": "personification"
     },
     {
       "number": 7,
-      "question": "An estate agent gets a commission 5% for selling a house. How much does he get on a house worth 3Million Naira?",
-      "options": ["N120,000.00", "N150,000.00", "N300,000.00", "N600,000.00"],
-      "answer": "N150,000.00"
+      "question": "Pick out the odd item",
+      "options": [
+        "Biography",
+        "novel",
+        "memoir",
+        "autobiography"
+      ],
+      "answer": "novel"
     },
     {
       "number": 8,
-      "question": "Mr. Gambo’s salary per annum is N720,000.00. If he pays 2% monthly as income tax, how much does he take home at the end of the month?",
-      "options": ["N14,400.00", "N45,600.00", "N58,800.00", "N705,600.00"],
-      "answer": "N705,600.00"
+      "question": "There are many smart brains here. What figure of speech does the above expression portray?",
+      "options": [
+        "synecdoche",
+        "simile",
+        "hyperbole",
+        "oxymoron"
+      ],
+      "answer": "synecdoche"
     },
     {
       "number": 9,
-      "question": "If 2,400 is increased by 15%, the result is",
-      "options": ["2,364", "2,415", "2,436", "2,760"],
-      "answer": "2,760"
+      "question": "What does it imply when a speaker/writer says/writes something contrary to his mind, hoping it will be understood?",
+      "options": [
+        "Euphemism",
+        "Irony",
+        "Paradox",
+        "Oxymoron"
+      ],
+      "answer": "Irony"
     },
     {
       "number": 10,
-      "question": "Find the simple interest on N20,000.00 for 3 years at 5% per annum.",
-      "options": ["N3,000.00", "N3,500.00", "N4,000.00", "N4,200.00"],
-      "answer": "N3,000.00"
+      "question": "Stories with deep cultural and religious significance are referred to as",
+      "options": [
+        "legends",
+        "folktales",
+        "myths",
+        "folklores"
+      ],
+      "answer": "myths"
     },
     {
       "number": 11,
-      "question": "An article was bought at N2,500.00 and sold at N3,000.00. Calculate the percentage profit.",
-      "options": ["17", "20", "25", "30"],
-      "answer": "20"
+      "question": "A prologue serves the purpose of",
+      "options": [
+        "Introducing the play’s background and themes",
+        "Concluding the story",
+        "Dividing the acts of the play",
+        "Highlighting the main conflict"
+      ],
+      "answer": "Introducing the play’s background and themes"
     },
     {
       "number": 12,
-      "question": "12 men can plough a farmland in 5 hours. How many hours will it take 15 men to do the same work if they are working at the same rate?",
-      "options": ["3", "4", "5", "6"],
-      "answer": "4"
+      "question": "A dramatic work that uses sarcasm or irony to criticize society or human behavior is called",
+      "options": [
+        "Satire",
+        "Comedy",
+        "Parody",
+        "Tragicomedy"
+      ],
+      "answer": "Satire"
     },
     {
       "number": 13,
-      "question": "Find the multiplicative inverse of -5",
-      "options": ["3/5", "2/5", "1/5", "-1/5"],
-      "answer": "-1/5"
+      "question": "The Yoruba creation story is regarded as a",
+      "options": [
+        "myth",
+        "legend",
+        "folktale",
+        "story"
+      ],
+      "answer": "myth"
     },
     {
       "number": 14,
-      "question": "Zara treks 3x km to school, then 4x km to her uncle’s house and 2x km back home. Find the total distance covered.",
-      "options": ["24x km", "12x km", "9x km", "7x km"],
-      "answer": "9x km"
+      "question": "The emotional atmosphere a writer creates in his/her work is",
+      "options": [
+        "mood",
+        "tone",
+        "allusion",
+        "diction"
+      ],
+      "answer": "mood"
     },
     {
       "number": 15,
-      "question": "Pascal’s monthly pocket money is N2,500.00. If he spends 4/5 of it monthly, how much does he save in 6 months?",
-      "options": ["N500.00", "N2,000.00", "N2,500.00", "N3,000.00"],
-      "answer": "N3,000.00"
+      "question": "Stories based on historical events, real individuals or places with elements of exaggeration is known as",
+      "options": [
+        "comedy",
+        "origins",
+        "legends",
+        "myths"
+      ],
+      "answer": "legends"
     },
     {
       "number": 16,
-      "question": "A bicycle that costs Nx was sold for Ny. Express the percentage loss in terms of x and y",
-      "options": ["(y-x)/x×100", "(x+y)/y×100", "(x-y)/x×100", "(x-y)/y×100"],
-      "answer": "(x-y)/x×100"
+      "question": "Literature is categorized into three",
+      "options": [
+        "branches",
+        "genres",
+        "types",
+        "divisions"
+      ],
+      "answer": "genres"
     },
     {
       "number": 17,
-      "question": "Express 0.00019 in standard form",
-      "options": ["1.9×10^5", "1.9×10^(-5)", "1.9×10^(-4)", "1.9×10^4"],
-      "answer": "1.9×10^(-4)"
+      "question": "The literary device that makes reference to past events is",
+      "options": [
+        "expository",
+        "flash cross",
+        "foreshadowing",
+        "flashback"
+      ],
+      "answer": "flashback"
     },
     {
       "number": 18,
-      "question": "Express 50000000 in terms of power of 10",
-      "options": ["5×10^6", "5×10^7", "5×10^8", "5×10^9"],
-      "answer": "5×10^7"
+      "question": "A writer’s choice of words is",
+      "options": [
+        "diction",
+        "language",
+        "plot",
+        "style"
+      ],
+      "answer": "diction"
     },
     {
       "number": 19,
-      "question": "Correct 6.912 to 3 significant figures",
-      "options": ["6.91", "6.912", "6.92", "6.93"],
-      "answer": "6.91"
+      "question": "I feel a million times better than I felt yesterday is a/an",
+      "options": [
+        "apostrophe",
+        "euphemism",
+        "irony",
+        "hyperbole"
+      ],
+      "answer": "hyperbole"
     },
     {
       "number": 20,
-      "question": "Simplify (12×10)^8 / (4×10^5) and leave your answer in ordinary form",
-      "options": ["3", "30", "300", "3000"],
-      "answer": "3000"
+      "question": "A person who writes a poem is usually referred to as",
+      "options": [
+        "a poet",
+        "a novelist",
+        "a playwright",
+        "an artist"
+      ],
+      "answer": "a poet"
     },
     {
       "number": 21,
-      "question": "Expand (-1/2)^3",
-      "options": ["1/8", "-1/8", "1/6", "-1/6"],
-      "answer": "-1/8"
+      "question": "The form of drama remains",
+      "options": [
+        "Acts and chapters",
+        "Acts and paragraphs",
+        "Acts and scenes",
+        "Acts and stanzas"
+      ],
+      "answer": "Acts and scenes"
     },
     {
       "number": 22,
-      "question": "Simplify 4×8c^0",
-      "options": ["4", "16", "32", "32C"],
-      "answer": "32"
+      "question": "Drama is a genre of literature primarily intended to be",
+      "options": [
+        "Read silently",
+        "Performed on stage",
+        "Studied academically",
+        "Written as poetry"
+      ],
+      "answer": "Performed on stage"
     },
     {
       "number": 23,
-      "question": "Approximate 0.00256 to two significant figures",
-      "options": ["0.002", "0.0025", "0.0021", "0.003"],
-      "answer": "0.0025"
+      "question": "The person who writes a drama is called",
+      "options": [
+        "Poet",
+        "Playwright",
+        "Novelist",
+        "Narrator"
+      ],
+      "answer": "Playwright"
     },
     {
       "number": 24,
-      "question": "If P=3 and q=-2, evaluate P^2+q",
-      "options": ["7", "9", "11", "13"],
-      "answer": "7"
+      "question": "The main division of a play is called",
+      "options": [
+        "Scene",
+        "Act",
+        "Chapter",
+        "Verse"
+      ],
+      "answer": "Act"
     },
     {
       "number": 25,
-      "question": "Simplify 6^y × 6^(2y+5)",
-      "options": ["6^3y", "6^8y", "36^(3y+5)", "6^(3y+5)"],
-      "answer": "6^(3y+5)"
+      "question": "A long speech given by a character while alone on stage is a/an",
+      "options": [
+        "Monologue",
+        "Soliloquy",
+        "Dialogue",
+        "Aside"
+      ],
+      "answer": "Soliloquy"
     },
     {
       "number": 26,
-      "question": "Express 301.6 in standard form",
-      "options": ["3.016×10^2", "3.016×10^1", "3.016×10^(-1)", "3.016×10^(-2)"],
-      "answer": "3.016×10^2"
+      "question": "A conversation between two or more characters in a drama is",
+      "options": [
+        "Dialogue",
+        "Monologue",
+        "Soliloquy",
+        "Narration"
+      ],
+      "answer": "Dialogue"
     },
     {
       "number": 27,
-      "question": "Simplify (1/49)^(-1/2)",
-      "options": ["-7", "7", "1/7", "49"],
-      "answer": "7"
+      "question": "The emotional atmosphere a writer creates in his/her work is referred to as",
+      "options": [
+        "Mood",
+        "Tone",
+        "Allusion",
+        "Diction"
+      ],
+      "answer": "Mood"
     },
     {
       "number": 28,
-      "question": "Evaluate (8.5×10^6) + (3.2×10^3)",
-      "options": ["8.5032×10^1", "8.5032×10^3", "8.5032×10^5", "8.5032×10^6"],
-      "answer": "8.5032×10^6"
+      "question": "The term for the written text of a play is",
+      "options": [
+        "Script",
+        "Manuscript",
+        "Scene",
+        "Act"
+      ],
+      "answer": "Script"
     },
     {
       "number": 29,
-      "question": "Express 0.00007 as a fraction",
-      "options": ["7/100000", "7/10000", "7/1000", "7/100"],
-      "answer": "7/100000"
+      "question": "A humorous play that often ends happily is called a",
+      "options": [
+        "Tragedy",
+        "Comedy",
+        "Farce",
+        "Melodrama"
+      ],
+      "answer": "Comedy"
     },
     {
       "number": 30,
-      "question": "Approximate 8.5346 to the nearest thousandth",
-      "options": ["8.53", "8.54", "8.534", "8.535"],
-      "answer": "8.535"
+      "question": "What is the full meaning of AIDS?",
+      "options": [
+        "Always Insist on Drug Solution",
+        "Acquired Immune Deficiency Syndrome",
+        "Acquired Immunity Defect Style",
+        "Acquired Immunity Dead System"
+      ],
+      "answer": "Acquired Immune Deficiency Syndrome"
     },
     {
       "number": 31,
-      "question": "Simplify 7a^2 b^3 × 4ab",
-      "options": ["28a^3 b^4", "28a^4 b^3", "28ab^2", "28ab"],
-      "answer": "28a^3 b^4"
+      "question": "HIV means __________.",
+      "options": [
+        "Human Immune Virus",
+        "Human Immunodeficiency Virus",
+        "Human inside the Virus",
+        "Human Immunity Dead Virus"
+      ],
+      "answer": "Human Immunodeficiency Virus"
     },
     {
       "number": 32,
-      "question": "A man spent 2/3 of his salary on his family and 1/4 on himself. If he saved the rest of his money, what fraction did he save?",
-      "options": ["3/4", "1/6", "1/2", "1/12"],
-      "answer": "1/12"
+      "question": "Who was wrongly informed to be HIV positive?",
+      "options": [
+        "Kelechi",
+        "Ola",
+        "Tiwa",
+        "Nkiru"
+      ],
+      "answer": "Nkiru"
     },
     {
       "number": 33,
-      "question": "Simplify (15r)^5 ÷ (5r)^2",
-      "options": ["3r", "3r^3", "3r^7", "5r^3"],
-      "answer": "3r^3"
+      "question": "Tiwa and Nkiru were referred to as twin sisters because __________.",
+      "options": [
+        "They are twin sisters",
+        "They live in the same compound",
+        "They were born the same day",
+        "They were born by different women but by the same man"
+      ],
+      "answer": "They were born the same day"
     },
     {
       "number": 34,
-      "question": "Evaluate -2 - (-5)",
-      "options": ["3", "-3", "7", "-7"],
-      "answer": "3"
+      "question": "What killed Lanre’s father?",
+      "options": [
+        "Prostate cancer",
+        "Lung cancer",
+        "Diabetes",
+        "Kidney failure"
+      ],
+      "answer": "Lung cancer"
     },
     {
       "number": 35,
-      "question": "Calculate the simple interest on N650 for 2 years at 6% per annum",
-      "options": ["N39", "N65", "N78", "N780"],
-      "answer": "N78"
+      "question": "Lanre has __________ brothers.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "None of the above"
+      ],
+      "answer": "2"
     },
     {
       "number": 36,
-      "question": "Find the positive difference between 31 and product of 4 and 14",
-      "options": ["17", "25", "27", "56"],
-      "answer": "25"
+      "question": "Nkiru met __________ soup and stew at home.",
+      "options": [
+        "Nsala and beef",
+        "Okazi and chicken",
+        "Owerri and beef",
+        "Pepper and chicken"
+      ],
+      "answer": "Owerri and beef"
     },
     {
       "number": 37,
-      "question": "A book was bought for 250 and sold for N200. What is the gain percent?",
-      "options": ["5%", "15%", "25%", "50%"],
-      "answer": "25%"
+      "question": "Nkiru’s family lives at __________.",
+      "options": [
+        "Lagos Island",
+        "Victoria Island",
+        "Oshodi",
+        "Iyana-Ipaja"
+      ],
+      "answer": "Iyana-Ipaja"
     },
     {
       "number": 38,
-      "question": "Find the profit of 15kg of fish bought at N150 per kg and sold at the cost of N500 per kg.",
-      "options": ["N2250", "N5250", "N5750", "N7500"],
-      "answer": "N5250"
+      "question": "What is the meaning of Nnaayin?",
+      "options": [
+        "Brother",
+        "Uncle",
+        "Nephew",
+        "Father"
+      ],
+      "answer": "Father"
     },
     {
       "number": 39,
-      "question": "Calculate the commission received by a land agent on N360,000 at a commission of 5%",
-      "options": ["N6,000", "N12,000", "N15,000", "N18,000"],
-      "answer": "N18,000"
+      "question": "At the beginning of the novel, before Mama’s disappearance, she is meant to teach the people about",
+      "options": [
+        "the clock",
+        "gender equality",
+        "sex",
+        "change"
+      ],
+      "answer": "gender equality"
     },
     {
       "number": 40,
-      "question": "Increase 63 in the ratio of 4:3",
-      "options": ["12", "21", "72", "84"],
-      "answer": "72"
+      "question": "Akamu community is famous for her",
+      "options": [
+        "folktales",
+        "agricultural production",
+        "story telling",
+        "quest"
+      ],
+      "answer": "story telling"
     },
     {
       "number": 41,
-      "question": "Find the value of y in the ratio y:24 = 3:4",
-      "options": ["12", "18", "24", "72"],
-      "answer": "18"
+      "question": "Akamu community has a local calendar of ______ days in the week.",
+      "options": [
+        "four days",
+        "six days",
+        "seven days",
+        "two days"
+      ],
+      "answer": "four days"
     },
     {
       "number": 42,
-      "question": "What is the additive inverse of -5×-8",
-      "options": ["5", "8", "40", "-40"],
-      "answer": "-40"
+      "question": "“I’ll make sure your life will change for better.” Whom was this statement made to?",
+      "options": [
+        "Chioma",
+        "Mama and Mgbafor",
+        "Dr. Nkechi and Dr. Nkiru",
+        "none of the above"
+      ],
+      "answer": "Dr. Nkechi and Dr. Nkiru"
     },
     {
       "number": 43,
-      "question": "Simplify -30 ÷ (-1/6)",
-      "options": ["-5", "5", "180", "-180"],
-      "answer": "180"
+      "question": "Dr. Nkechi was a school ______ to Mgbafor.",
+      "options": [
+        "daughter",
+        "mate",
+        "friend",
+        "benefactor"
+      ],
+      "answer": "daughter"
     },
     {
       "number": 44,
-      "question": "Increase 51cm in the ratio 5:3",
-      "options": ["31", "51", "85", "136"],
-      "answer": "85"
+      "question": "Mama Nwankwo is diagnosed of ______ at the hospital.",
+      "options": [
+        "acute malaria",
+        "hypertension",
+        "fever",
+        "HIV"
+      ],
+      "answer": "hypertension"
     },
     {
       "number": 45,
-      "question": "40 apples are shared between Delight and Divine in the ratio 4:1. Find the number of apples that Delight has",
-      "options": ["4", "8", "32", "40"],
-      "answer": "32"
+      "question": "The drama opens when",
+      "options": [
+        "Femi throws away his oga’s food",
+        "Baba Tunde visits his friend",
+        "Baba Femi is poised to punish his son",
+        "Jejelola campaigns"
+      ],
+      "answer": "Baba Femi is poised to punish his son"
     },
     {
       "number": 46,
-      "question": "It takes 18 hours for 10 men to do a piece of job. How long will it take 15 men to do the same piece of job?",
-      "options": ["12 hours", "15 hours", "18 hours", "20 hours"],
-      "answer": "12 hours"
+      "question": "FFAP stands for",
+      "options": [
+        "Freedom Financial Alliance Party",
+        "Free and Fair Autonomy Party",
+        "Food For All Party",
+        "Financial Fair Accredited Party"
+      ],
+      "answer": "Food For All Party"
     },
     {
       "number": 47,
-      "question": "Find 75% of 1000g",
-      "options": ["250g", "500g", "750g", "900g"],
-      "answer": "750g"
+      "question": "Who among the following was disqualified for the election?",
+      "options": [
+        "Baba Tunde",
+        "Jejelola",
+        "Koroo",
+        "Jesinmi"
+      ],
+      "answer": "Jejelola"
     },
     {
       "number": 48,
-      "question": "Increase 70m by 40%",
-      "options": ["28m", "42m", "70m", "98m"],
-      "answer": "98m"
+      "question": "Why was your choice in the previous question disqualified?",
+      "options": [
+        "Wealth",
+        "Lack of vision",
+        "Illiteracy",
+        "Lack of power"
+      ],
+      "answer": "Illiteracy"
     },
     {
       "number": 49,
-      "question": "Simplify: 32y^9 ÷ 8y^5",
-      "options": ["4y^4", "4y^3", "2y", "y"],
-      "answer": "4y^4"
+      "question": "Who is regarded as the thinking head?",
+      "options": [
+        "Femi",
+        "Baba Tunde",
+        "Koroo",
+        "Afolabi"
+      ],
+      "answer": "Koroo"
     },
     {
       "number": 50,
-      "question": "Evaluate -5 + (-3)",
-      "options": ["8", "-8", "2", "-2"],
-      "answer": "-8"
+      "question": "The treasurer of FFAP is",
+      "options": [
+        "Mama Ajani",
+        "Jesinmi",
+        "Koroo",
+        "Afolabi"
+      ],
+      "answer": "Mama Ajani"
     }
   ]
-
 
