@@ -1,553 +1,392 @@
 [
     {
       "number": 1,
-      "question": "The story of a person’s life written by another person is",
-      "options": [
-        "history",
-        "autobiography",
-        "biography",
-        "memoir"
-      ],
-      "answer": "biography"
+      "question": "The farm structure that can be used to process agricultural produce is ______.",
+      "options": ["crib", "fish pond", "rhombus", "rice mill"],
+      "answer": "rice mill"
     },
     {
       "number": 2,
-      "question": "The geographical location where events in a work of art takes place is known as",
-      "options": [
-        "setting",
-        "location",
-        "timing",
-        "plot"
-      ],
-      "answer": "setting"
+      "question": "In a modern farm with organized building farm inputs and simple farm tools are kept in the ______.",
+      "options": ["farm office", "farm store", "farm work", "utility building"],
+      "answer": "farm store"
     },
     {
       "number": 3,
-      "question": "‘Some sad signs seem sore’ is an example of",
+      "question": "Propagation of crops by asexual means is disadvantageous because ______.",
       "options": [
-        "Metonymy",
-        "Assonance",
-        "Metaphor",
-        "Alliteration"
+        "it makes crops to fruit and mature late",
+        "it requires skills and techniques",
+        "the crops exhaust soil nutrients",
+        "the crops usually grow vigorously"
       ],
-      "answer": "Alliteration"
+      "answer": "it requires skills and techniques"
     },
     {
       "number": 4,
-      "question": "“Tomorrow will run swiftly”; This statement expresses",
+      "question": "The purpose of erecting farm structure and building by a farmer is to ______.",
       "options": [
-        "simile",
-        "epigram",
-        "paradox",
-        "personification"
+        "control cost of farm produce",
+        "increase the farmer’s income",
+        "make the farm operations easier",
+        "reduce cost of production"
       ],
-      "answer": "personification"
+      "answer": "make the farm operations easier"
     },
     {
       "number": 5,
-      "question": "The expression: ‘The zoom of a car’ shows the use of",
+      "question": "Farmers prefer asexual propagation to sexual propagation because",
       "options": [
-        "alliteration",
-        "assonance",
-        "onomatopoeia",
-        "simile"
+        "it is not possible to produce new varieties of plants",
+        "it requires special skills",
+        "plants are not usually very vigorous and does not live long enough",
+        "plants are true to type and uniform in quality, growth habit and yield"
       ],
-      "answer": "onomatopoeia"
+      "answer": "plants are true to type and uniform in quality, growth habit and yield"
     },
     {
       "number": 6,
-      "question": "The cold hands of death snatched her; is an example of",
+      "question": "The harmony of soil is an operation that is carried out by a farmer in order to _____.",
       "options": [
-        "personification",
-        "irony",
-        "simile",
-        "metaphor"
+        "encourage survival of tree crop",
+        "ensure proper break up of soil mode",
+        "reduce water content of the soil",
+        "turn the soil colour dark"
       ],
-      "answer": "personification"
+      "answer": "ensure proper break up of soil mode"
     },
     {
       "number": 7,
-      "question": "Pick out the odd item",
-      "options": [
-        "Biography",
-        "novel",
-        "memoir",
-        "autobiography"
-      ],
-      "answer": "novel"
+      "question": "The following are post-planting operations except",
+      "options": ["ploughing", "pruning", "supplying", "none of the above"],
+      "answer": "ploughing"
     },
     {
       "number": 8,
-      "question": "There are many smart brains here. What figure of speech does the above expression portray?",
+      "question": "The best time to applying fertilizer in a farm is after weeding because it __________.",
       "options": [
-        "synecdoche",
-        "simile",
-        "hyperbole",
-        "oxymoron"
+        "discourage disturbance of crops roots",
+        "encourage damages of crop roots",
+        "facilitate fertilizer fixation in the soil",
+        "reduces competition between crops and weeds"
       ],
-      "answer": "synecdoche"
+      "answer": "reduces competition between crops and weeds"
     },
     {
       "number": 9,
-      "question": "What does it imply when a speaker/writer says/writes something contrary to his mind, hoping it will be understood?",
+      "question": "Which of the following statements is true about supplying in crop productivity? It is the replacement of seeds that",
       "options": [
-        "Euphemism",
-        "Irony",
-        "Paradox",
-        "Oxymoron"
+        "contain high impurities",
+        "failed to germinate",
+        "have high dormancy period",
+        "have low resistance to disease"
       ],
-      "answer": "Irony"
+      "answer": "failed to germinate"
     },
     {
       "number": 10,
-      "question": "Stories with deep cultural and religious significance are referred to as",
+      "question": "Which of the following is not a daily maintenance practice for farm machinery?",
       "options": [
-        "legends",
-        "folktales",
-        "myths",
-        "folklores"
+        "Changing of oil",
+        "Checking of radiator water level",
+        "Replacement of worn out tyres",
+        "tightening of bolts and nuts"
       ],
-      "answer": "myths"
+      "answer": "Replacement of worn out tyres"
     },
     {
       "number": 11,
-      "question": "A prologue serves the purpose of",
-      "options": [
-        "Introducing the play’s background and themes",
-        "Concluding the story",
-        "Dividing the acts of the play",
-        "Highlighting the main conflict"
-      ],
-      "answer": "Introducing the play’s background and themes"
+      "question": "The following are the importance of sitting farm structure and building except",
+      "options": ["ease transportation", "promote efficiency", "increase production", "all of the above"],
+      "answer": "all of the above"
     },
     {
       "number": 12,
-      "question": "A dramatic work that uses sarcasm or irony to criticize society or human behavior is called",
-      "options": [
-        "Satire",
-        "Comedy",
-        "Parody",
-        "Tragicomedy"
-      ],
-      "answer": "Satire"
+      "question": "A farm centre is very important in a farm layout because, it is a place to ______.",
+      "options": ["present gifts", "produce crops", "purchase farm produce", "rear animals"],
+      "answer": "produce crops"
     },
     {
       "number": 13,
-      "question": "The Yoruba creation story is regarded as a",
-      "options": [
-        "myth",
-        "legend",
-        "folktale",
-        "story"
-      ],
-      "answer": "myth"
+      "question": "A farm storage structure that is commonly made of mud in a circular or rectangular shape is known as _______.",
+      "options": ["barn", "crib", "dam", "rhombus"],
+      "answer": "crib"
     },
     {
       "number": 14,
-      "question": "The emotional atmosphere a writer creates in his/her work is",
-      "options": [
-        "mood",
-        "tone",
-        "allusion",
-        "diction"
-      ],
-      "answer": "mood"
+      "question": "The top layer of earth’s crust from which plants derive water and mineral nutrients is called",
+      "options": ["field", "land", "rock", "soil"],
+      "answer": "soil"
     },
     {
       "number": 15,
-      "question": "Stories based on historical events, real individuals or places with elements of exaggeration is known as",
+      "question": "Which of the following is not true about loamy soil formation and compositions? It",
       "options": [
-        "comedy",
-        "origins",
-        "legends",
-        "myths"
+        "allows erosion during dry season",
+        "contains air and water",
+        "contains mineral matter",
+        "is rich in organic matter"
       ],
-      "answer": "legends"
+      "answer": "allows erosion during dry season"
     },
     {
       "number": 16,
-      "question": "Literature is categorized into three",
+      "question": "A good soil for production must have",
       "options": [
-        "branches",
-        "genres",
-        "types",
-        "divisions"
+        "adequate organic matter",
+        "balances volume of air and water",
+        "high micro nutrient content",
+        "large soil particles and nut"
       ],
-      "answer": "genres"
+      "answer": "balances volume of air and water"
     },
     {
       "number": 17,
-      "question": "The literary device that makes reference to past events is",
-      "options": [
-        "expository",
-        "flash cross",
-        "foreshadowing",
-        "flashback"
-      ],
-      "answer": "flashback"
+      "question": "Assuming the vegetative propagation of cocoa by layering done by a peasant farmer was successful, new shoots and roots will develop from the ______.",
+      "options": ["buds", "nodes", "leaves", "rumen"],
+      "answer": "nodes"
     },
     {
       "number": 18,
-      "question": "A writer’s choice of words is",
-      "options": [
-        "diction",
-        "language",
-        "plot",
-        "style"
-      ],
-      "answer": "diction"
+      "question": "Which of the following crops is planted with vine?",
+      "options": ["Cassava", "Cowpea", "Groundnut", "Yam"],
+      "answer": "Cassava"
     },
     {
       "number": 19,
-      "question": "I feel a million times better than I felt yesterday is a/an",
+      "question": "The advantage of vegetative propagation is that it leads to the production of offspring which ______.",
       "options": [
-        "apostrophe",
-        "euphemism",
-        "irony",
-        "hyperbole"
+        "develop, matures and reproduces fast",
+        "dies off after every maturity year",
+        "does not produce fruits and seed",
+        "reproduces after pollination and fertilization"
       ],
-      "answer": "hyperbole"
+      "answer": "develop, matures and reproduces fast"
     },
     {
       "number": 20,
-      "question": "A person who writes a poem is usually referred to as",
-      "options": [
-        "a poet",
-        "a novelist",
-        "a playwright",
-        "an artist"
-      ],
-      "answer": "a poet"
+      "question": "An example of plant propagated by the vegetative organ includes the following except",
+      "options": ["banana", "cassava", "cocoyam", "onion"],
+      "answer": "onion"
     },
     {
       "number": 21,
-      "question": "The form of drama remains",
-      "options": [
-        "Acts and chapters",
-        "Acts and paragraphs",
-        "Acts and scenes",
-        "Acts and stanzas"
-      ],
-      "answer": "Acts and scenes"
+      "question": "Which of the following is not a post planting operation for yam?",
+      "options": ["Detuberisation", "Mulching", "Prunning", "Staking"],
+      "answer": "Prunning"
     },
     {
       "number": 22,
-      "question": "Drama is a genre of literature primarily intended to be",
-      "options": [
-        "Read silently",
-        "Performed on stage",
-        "Studied academically",
-        "Written as poetry"
-      ],
-      "answer": "Performed on stage"
+      "question": "The following are cultural practices in maize production except",
+      "options": ["pest control", "staking", "supplying", "weeding"],
+      "answer": "staking"
     },
     {
       "number": 23,
-      "question": "The person who writes a drama is called",
+      "question": "If a glass cylinder which is partly filled with soil and fully filled with water is shaken thoroughly and allowed to settled for a night, what will be observation be in the morning",
       "options": [
-        "Poet",
-        "Playwright",
-        "Novelist",
-        "Narrator"
+        "Clay particles will sink down first",
+        "Gravels will float on top of water",
+        "Soil particles will appear in layers",
+        "Glass cylinder will crack with lines"
       ],
-      "answer": "Playwright"
+      "answer": "Soil particles will appear in layers"
     },
     {
       "number": 24,
-      "question": "The main division of a play is called",
+      "question": "The following are effects of soil acidity except that it ______.",
       "options": [
-        "Scene",
-        "Act",
-        "Chapter",
-        "Verse"
+        "causes nutrient deficiency",
+        "leads to soil toxility",
+        "increases soil organic matter content",
+        "reduces growth and yield of crop"
       ],
-      "answer": "Act"
+      "answer": "increases soil organic matter content"
     },
     {
       "number": 25,
-      "question": "A long speech given by a character while alone on stage is a/an",
-      "options": [
-        "Monologue",
-        "Soliloquy",
-        "Dialogue",
-        "Aside"
-      ],
-      "answer": "Soliloquy"
+      "question": "The following are example of farm structure except",
+      "options": ["composite pit", "drainage canal", "farm office", "open shed"],
+      "answer": "composite pit"
     },
     {
       "number": 26,
-      "question": "A conversation between two or more characters in a drama is",
+      "question": "When planning a farm, the following factors should be considered except",
       "options": [
-        "Dialogue",
-        "Monologue",
-        "Soliloquy",
-        "Narration"
+        "availability of labour is required",
+        "location of the farm buildings and structure",
+        "size of the available farmland",
+        "type of animals to be reared"
       ],
-      "answer": "Dialogue"
+      "answer": "type of animals to be reared"
     },
     {
       "number": 27,
-      "question": "The emotional atmosphere a writer creates in his/her work is referred to as",
+      "question": "Which of the following is a function of a harrow?",
       "options": [
-        "Mood",
-        "Tone",
-        "Allusion",
-        "Diction"
+        "Breaking of soil lump",
+        "Coning seeds and fertilizers",
+        "Covering seeds and fertilizers",
+        "Making of ridges"
       ],
-      "answer": "Mood"
+      "answer": "Covering seeds and fertilizers"
     },
     {
       "number": 28,
-      "question": "The term for the written text of a play is",
-      "options": [
-        "Script",
-        "Manuscript",
-        "Scene",
-        "Act"
-      ],
-      "answer": "Script"
+      "question": "Farm machines can be maintained in the following ways except by",
+      "options": ["fueling the tank", "sharpening the bladder", "greasing the moveable parts", "replacing worn–out nuts"],
+      "answer": "fueling the tank"
     },
     {
       "number": 29,
-      "question": "A humorous play that often ends happily is called a",
+      "question": "The disadvantages of propagation by seed includes the following except that",
       "options": [
-        "Tragedy",
-        "Comedy",
-        "Farce",
-        "Melodrama"
+        "it may produce plants possess undesirable qualities",
+        "it reduces the quality of seeds for consumption",
+        "seeds may not germinate on time due to dormancy",
+        "seeds can remain viable for a long period"
       ],
-      "answer": "Comedy"
+      "answer": "seeds can remain viable for a long period"
     },
     {
       "number": 30,
-      "question": "What is the full meaning of AIDS?",
-      "options": [
-        "Always Insist on Drug Solution",
-        "Acquired Immune Deficiency Syndrome",
-        "Acquired Immunity Defect Style",
-        "Acquired Immunity Dead System"
-      ],
-      "answer": "Acquired Immune Deficiency Syndrome"
+      "question": "Ginger is propagated by the use of",
+      "options": ["crowns", "rhizomes", "runners", "suckers"],
+      "answer": "rhizomes"
     },
     {
       "number": 31,
-      "question": "HIV means __________.",
-      "options": [
-        "Human Immune Virus",
-        "Human Immunodeficiency Virus",
-        "Human inside the Virus",
-        "Human Immunity Dead Virus"
-      ],
-      "answer": "Human Immunodeficiency Virus"
+      "question": "Which of the following is vegetatively propagated by leaf cutting?",
+      "options": ["Bread fruit", "Bryo phyllum", "Cassava", "Sugar cane"],
+      "answer": "Bryo phyllum"
     },
     {
       "number": 32,
-      "question": "Who was wrongly informed to be HIV positive?",
-      "options": [
-        "Kelechi",
-        "Ola",
-        "Tiwa",
-        "Nkiru"
-      ],
-      "answer": "Nkiru"
+      "question": "Pre-planting operations include the following except",
+      "options": ["bush cleaning", "pruning", "harrowing", "farm layout"],
+      "answer": "pruning"
     },
     {
       "number": 33,
-      "question": "Tiwa and Nkiru were referred to as twin sisters because __________.",
-      "options": [
-        "They are twin sisters",
-        "They live in the same compound",
-        "They were born the same day",
-        "They were born by different women but by the same man"
-      ],
-      "answer": "They were born the same day"
+      "question": "During planting operations, a farmer would preferably select the following seeds for fast growth and maturity except seeds that are",
+      "options": ["free from insect holes", "large in size", "newly harvested", "stored for long time"],
+      "answer": "free from insect holes"
     },
     {
       "number": 34,
-      "question": "What killed Lanre’s father?",
-      "options": [
-        "Prostate cancer",
-        "Lung cancer",
-        "Diabetes",
-        "Kidney failure"
-      ],
-      "answer": "Lung cancer"
+      "question": "The act of breaking up the soil clods and destroying weed seeds is termed",
+      "options": ["clearing", "harrowing", "ridging", "ploughing"],
+      "answer": "harrowing"
     },
     {
       "number": 35,
-      "question": "Lanre has __________ brothers.",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "None of the above"
-      ],
-      "answer": "2"
+      "question": "The farm structures and building include the following except",
+      "options": ["plough", "barn", "security house", "workshop"],
+      "answer": "plough"
     },
     {
       "number": 36,
-      "question": "Nkiru met __________ soup and stew at home.",
-      "options": [
-        "Nsala and beef",
-        "Okazi and chicken",
-        "Owerri and beef",
-        "Pepper and chicken"
-      ],
-      "answer": "Owerri and beef"
+      "question": "A building that is located at the entrance of a standard farm is called _______.",
+      "options": ["utility building", "store house", "pen", "security post"],
+      "answer": "security post"
     },
     {
       "number": 37,
-      "question": "Nkiru’s family lives at __________.",
-      "options": [
-        "Lagos Island",
-        "Victoria Island",
-        "Oshodi",
-        "Iyana-Ipaja"
-      ],
-      "answer": "Iyana-Ipaja"
+      "question": "The multiplication of crops through the use of vegetative parts of plants is called ______.",
+      "options": ["seed", "binary", "sexual", "asexual"],
+      "answer": "asexual"
     },
     {
       "number": 38,
-      "question": "What is the meaning of Nnaayin?",
-      "options": [
-        "Brother",
-        "Uncle",
-        "Nephew",
-        "Father"
-      ],
-      "answer": "Father"
+      "question": "The method through which plants reproduce their own kind is known as _______.",
+      "options": ["propagation", "pruning", "staking", "mulching"],
+      "answer": "propagation"
     },
     {
       "number": 39,
-      "question": "At the beginning of the novel, before Mama’s disappearance, she is meant to teach the people about",
-      "options": [
-        "the clock",
-        "gender equality",
-        "sex",
-        "change"
-      ],
-      "answer": "gender equality"
+      "question": "Cassava is best propagated by the use of",
+      "options": ["root", "sucker", "stem cutting", "seed"],
+      "answer": "stem cutting"
     },
     {
       "number": 40,
-      "question": "Akamu community is famous for her",
-      "options": [
-        "folktales",
-        "agricultural production",
-        "story telling",
-        "quest"
-      ],
-      "answer": "story telling"
+      "question": "Artificial vegetative propagation include the following except",
+      "options": ["runners", "layering", "cutting", "grafting"],
+      "answer": "grafting"
     },
     {
       "number": 41,
-      "question": "Akamu community has a local calendar of ______ days in the week.",
-      "options": [
-        "four days",
-        "six days",
-        "seven days",
-        "two days"
-      ],
-      "answer": "four days"
+      "question": "Natural vegetative propagation include the following except",
+      "options": ["suckers", "bulb", "rhizome", "budding"],
+      "answer": "budding"
     },
     {
       "number": 42,
-      "question": "“I’ll make sure your life will change for better.” Whom was this statement made to?",
-      "options": [
-        "Chioma",
-        "Mama and Mgbafor",
-        "Dr. Nkechi and Dr. Nkiru",
-        "none of the above"
-      ],
-      "answer": "Dr. Nkechi and Dr. Nkiru"
+      "question": "Storage structures include the following except",
+      "options": ["harrow", "barn", "silos", "rhombus"],
+      "answer": "harrow"
     },
     {
       "number": 43,
-      "question": "Dr. Nkechi was a school ______ to Mgbafor.",
-      "options": [
-        "daughter",
-        "mate",
-        "friend",
-        "benefactor"
-      ],
-      "answer": "daughter"
+      "question": "A place where grains are stored is called",
+      "options": ["fence", "silo", "barn", "pen"],
+      "answer": "fence"
     },
     {
       "number": 44,
-      "question": "Mama Nwankwo is diagnosed of ______ at the hospital.",
+      "question": "When tomatoes planted in a school farm are harvested and stored before they mature, the fruits will _______.",
       "options": [
-        "acute malaria",
-        "hypertension",
-        "fever",
-        "HIV"
+        "be infected with disease in the store",
+        "begins to germinate in the store",
+        "dry up and taste bitter",
+        "turn green and swell up"
       ],
-      "answer": "hypertension"
+      "answer": "turn green and swell up"
     },
     {
       "number": 45,
-      "question": "The drama opens when",
+      "question": "If a school wishes to employ an agricultural superintendent for the upgrading of a goals in her school farm, which of the following professionals will be employed",
       "options": [
-        "Femi throws away his oga’s food",
-        "Baba Tunde visits his friend",
-        "Baba Femi is poised to punish his son",
-        "Jejelola campaigns"
+        "animal breeder",
+        "animal health technologists",
+        "animal nutritionist",
+        "veterinary doctor"
       ],
-      "answer": "Baba Femi is poised to punish his son"
+      "answer": "animal breeder"
     },
     {
       "number": 46,
-      "question": "FFAP stands for",
-      "options": [
-        "Freedom Financial Alliance Party",
-        "Free and Fair Autonomy Party",
-        "Food For All Party",
-        "Financial Fair Accredited Party"
-      ],
-      "answer": "Food For All Party"
+      "question": "In monocotyledons, proper roots develop from the ______.",
+      "options": ["culum", "radicle", "root hair", "root"],
+      "answer": "root"
     },
     {
       "number": 47,
-      "question": "Who among the following was disqualified for the election?",
+      "question": "A student observed that a maize plant sown under a shade was fallen, weak and bent away from the shade while the same variety of maize plants in the school farm were shorter, healthy and straight during the rainy season. What will be an agricultural teacher’s explanation to the student’s observations",
       "options": [
-        "Baba Tunde",
-        "Jejelola",
-        "Koroo",
-        "Jesinmi"
+        "Heavy rainfall led to the fast and tall growth of the maize plant",
+        "High temperature under the shade weakened the maize calls",
+        "Light intensity under the shade caused was not sufficient for photosynthesis",
+        "Low pressure under the shade caused extreme transpiration on the maize"
       ],
-      "answer": "Jejelola"
+      "answer": "Light intensity under the shade caused was not sufficient for photosynthesis"
     },
     {
       "number": 48,
-      "question": "Why was your choice in the previous question disqualified?",
-      "options": [
-        "Wealth",
-        "Lack of vision",
-        "Illiteracy",
-        "Lack of power"
-      ],
-      "answer": "Illiteracy"
+      "question": "The following are forms of agriculture except",
+      "options": ["apiculture", "crop farming", "horticulture", "agriculture"],
+      "answer": "agriculture"
     },
     {
       "number": 49,
-      "question": "Who is regarded as the thinking head?",
-      "options": [
-        "Femi",
-        "Baba Tunde",
-        "Koroo",
-        "Afolabi"
-      ],
-      "answer": "Koroo"
+      "question": "The methods of replenishing lost soil nutrient include the following except",
+      "options": ["bush burning", "cover cropping", "crop rotation", "organic manuring"],
+      "answer": "bush burning"
     },
     {
       "number": 50,
-      "question": "The treasurer of FFAP is",
-      "options": [
-        "Mama Ajani",
-        "Jesinmi",
-        "Koroo",
-        "Afolabi"
-      ],
-      "answer": "Mama Ajani"
+      "question": "Fingerling is the name given to a young ____.",
+      "options": ["crab", "crocodile", "shrimp", "fish"],
+      "answer": "fish"
     }
   ]
-
