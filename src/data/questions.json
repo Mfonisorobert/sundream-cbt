@@ -1,392 +1,367 @@
 [
     {
       "number": 1,
-      "question": "The farm structure that can be used to process agricultural produce is ______.",
-      "options": ["crib", "fish pond", "rhombus", "rice mill"],
-      "answer": "rice mill"
+      "question": "Equinox occurs when",
+      "options": [
+        "The Sun is directly overhead the equator",
+        "The Sun is at its hottest point",
+        "The Moon affects the Earth’s gravity",
+        "The Earth collides with the Moon"
+      ],
+      "answer": "The Sun is directly overhead the equator"
     },
     {
       "number": 2,
-      "question": "In a modern farm with organized building farm inputs and simple farm tools are kept in the ______.",
-      "options": ["farm office", "farm store", "farm work", "utility building"],
-      "answer": "farm store"
+      "question": "Solstice occurs when",
+      "options": [
+        "The Sun is overhead at the Tropic of Cancer or Capricorn",
+        "The Sun shines below the Earth",
+        "The Earth collides with the Moon",
+        "The Moon reflects sunlight"
+      ],
+      "answer": "The Sun is overhead at the Tropic of Cancer or Capricorn"
     },
     {
       "number": 3,
-      "question": "Propagation of crops by asexual means is disadvantageous because ______.",
+      "question": "GMT means",
       "options": [
-        "it makes crops to fruit and mature late",
-        "it requires skills and techniques",
-        "the crops exhaust soil nutrients",
-        "the crops usually grow vigorously"
+        "Greenwich Meridian Time",
+        "Greenwich Mean Time",
+        "Greenwich Max Time",
+        "Greenwich Main Time"
       ],
-      "answer": "it requires skills and techniques"
+      "answer": "Greenwich Mean Time"
     },
     {
       "number": 4,
-      "question": "The purpose of erecting farm structure and building by a farmer is to ______.",
+      "question": "Latitude is",
       "options": [
-        "control cost of farm produce",
-        "increase the farmer’s income",
-        "make the farm operations easier",
-        "reduce cost of production"
+        "The angular distance north or south of the equator",
+        "The northern and southern hemisphere",
+        "The time difference between two regions",
+        "The great circle of the Earth"
       ],
-      "answer": "make the farm operations easier"
+      "answer": "The angular distance north or south of the equator"
     },
     {
       "number": 5,
-      "question": "Farmers prefer asexual propagation to sexual propagation because",
+      "question": "A solar eclipse occurs when",
       "options": [
-        "it is not possible to produce new varieties of plants",
-        "it requires special skills",
-        "plants are not usually very vigorous and does not live long enough",
-        "plants are true to type and uniform in quality, growth habit and yield"
+        "The Moon blocks sunlight from reaching the Earth",
+        "The Earth blocks the Sun",
+        "The Sun blocks the Moon",
+        "None of the above"
       ],
-      "answer": "plants are true to type and uniform in quality, growth habit and yield"
+      "answer": "The Moon blocks sunlight from reaching the Earth"
     },
     {
       "number": 6,
-      "question": "The harmony of soil is an operation that is carried out by a farmer in order to _____.",
+      "question": "Twilight refers to",
       "options": [
-        "encourage survival of tree crop",
-        "ensure proper break up of soil mode",
-        "reduce water content of the soil",
-        "turn the soil colour dark"
+        "The brief period between sunset and darkness",
+        "The brief period between time zones",
+        "The brief period between day and night",
+        "Eclipse"
       ],
-      "answer": "ensure proper break up of soil mode"
+      "answer": "The brief period between sunset and darkness"
     },
     {
       "number": 7,
-      "question": "The following are post-planting operations except",
-      "options": ["ploughing", "pruning", "supplying", "none of the above"],
-      "answer": "ploughing"
+      "question": "Lines of latitude are used to",
+      "options": [
+        "Calculate distances between two places",
+        "Calculate time difference",
+        "Determine location east or west",
+        "Determine local time"
+      ],
+      "answer": "Calculate distances between two places"
     },
     {
       "number": 8,
-      "question": "The best time to applying fertilizer in a farm is after weeding because it __________.",
-      "options": [
-        "discourage disturbance of crops roots",
-        "encourage damages of crop roots",
-        "facilitate fertilizer fixation in the soil",
-        "reduces competition between crops and weeds"
-      ],
-      "answer": "reduces competition between crops and weeds"
+      "question": "The International Date Line is where the date changes by",
+      "options": ["1 hour", "12 hours", "24 hours", "2 hours"],
+      "answer": "24 hours"
     },
     {
       "number": 9,
-      "question": "Which of the following statements is true about supplying in crop productivity? It is the replacement of seeds that",
-      "options": [
-        "contain high impurities",
-        "failed to germinate",
-        "have high dormancy period",
-        "have low resistance to disease"
-      ],
-      "answer": "failed to germinate"
+      "question": "Lines of meridian are lines of",
+      "options": ["Longitude", "Latitude", "Confluence", "Equator"],
+      "answer": "Longitude"
     },
     {
       "number": 10,
-      "question": "Which of the following is not a daily maintenance practice for farm machinery?",
-      "options": [
-        "Changing of oil",
-        "Checking of radiator water level",
-        "Replacement of worn out tyres",
-        "tightening of bolts and nuts"
-      ],
-      "answer": "Replacement of worn out tyres"
+      "question": "All meridians are of",
+      "options": ["Equal length", "Different sizes", "Unequal length", "Variable shape"],
+      "answer": "Equal length"
     },
     {
       "number": 11,
-      "question": "The following are the importance of sitting farm structure and building except",
-      "options": ["ease transportation", "promote efficiency", "increase production", "all of the above"],
-      "answer": "all of the above"
+      "question": "Lines of longitude are used to",
+      "options": [
+        "Calculate local time between two places",
+        "Calculate imaginary lines",
+        "Calculate distances",
+        "Calculate height"
+      ],
+      "answer": "Calculate local time between two places"
     },
     {
       "number": 12,
-      "question": "A farm centre is very important in a farm layout because, it is a place to ______.",
-      "options": ["present gifts", "produce crops", "purchase farm produce", "rear animals"],
-      "answer": "produce crops"
+      "question": "A similarity between latitude and longitude lines is that",
+      "options": [
+        "Both are imaginary lines drawn on the globe",
+        "Both are measured in degrees",
+        "Both help locate positions on the Earth’s surface",
+        "All of the above"
+      ],
+      "answer": "All of the above"
     },
     {
       "number": 13,
-      "question": "A farm storage structure that is commonly made of mud in a circular or rectangular shape is known as _______.",
-      "options": ["barn", "crib", "dam", "rhombus"],
-      "answer": "crib"
+      "question": "Lines of latitude are also called",
+      "options": ["Full lines", "Parallel lines", "Long lines", "Half lines"],
+      "answer": "Parallel lines"
     },
     {
       "number": 14,
-      "question": "The top layer of earth’s crust from which plants derive water and mineral nutrients is called",
-      "options": ["field", "land", "rock", "soil"],
-      "answer": "soil"
+      "question": "Parallel lines never",
+      "options": ["Meet", "Converge", "Align", "Curve"],
+      "answer": "Meet"
     },
     {
       "number": 15,
-      "question": "Which of the following is not true about loamy soil formation and compositions? It",
-      "options": [
-        "allows erosion during dry season",
-        "contains air and water",
-        "contains mineral matter",
-        "is rich in organic matter"
-      ],
-      "answer": "allows erosion during dry season"
+      "question": "The Earth rotates 360° in 24 hours. How many degrees does it rotate per hour?",
+      "options": ["10°", "15°", "30°", "20°"],
+      "answer": "15°"
     },
     {
       "number": 16,
-      "question": "A good soil for production must have",
-      "options": [
-        "adequate organic matter",
-        "balances volume of air and water",
-        "high micro nutrient content",
-        "large soil particles and nut"
-      ],
-      "answer": "balances volume of air and water"
+      "question": "If it is 12:00 noon at longitude 0°, what will be the time at longitude 30°E?",
+      "options": ["10:00 a.m.", "12:00 noon", "2:00 p.m.", "4:00 p.m."],
+      "answer": "2:00 p.m."
     },
     {
       "number": 17,
-      "question": "Assuming the vegetative propagation of cocoa by layering done by a peasant farmer was successful, new shoots and roots will develop from the ______.",
-      "options": ["buds", "nodes", "leaves", "rumen"],
-      "answer": "nodes"
+      "question": "The distance between two latitudes is approximately",
+      "options": ["60 km", "90 km", "111 km", "150 km"],
+      "answer": "111 km"
     },
     {
       "number": 18,
-      "question": "Which of the following crops is planted with vine?",
-      "options": ["Cassava", "Cowpea", "Groundnut", "Yam"],
-      "answer": "Cassava"
+      "question": "The time difference between two longitudes 45° apart is",
+      "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+      "answer": "3 hours"
     },
     {
       "number": 19,
-      "question": "The advantage of vegetative propagation is that it leads to the production of offspring which ______.",
-      "options": [
-        "develop, matures and reproduces fast",
-        "dies off after every maturity year",
-        "does not produce fruits and seed",
-        "reproduces after pollination and fertilization"
-      ],
-      "answer": "develop, matures and reproduces fast"
+      "question": "If the time at 15°E is 6:00 a.m., what will be the time at 45°W?",
+      "options": ["2:00 a.m.", "12:00 midnight", "3:00 a.m.", "9:00 p.m. (previous day)"],
+      "answer": "9:00 p.m. (previous day)"
     },
     {
       "number": 20,
-      "question": "An example of plant propagated by the vegetative organ includes the following except",
-      "options": ["banana", "cassava", "cocoyam", "onion"],
-      "answer": "onion"
+      "question": "Rocks are naturally occurring solid materials made up of",
+      "options": ["Minerals", "Soil", "Sand", "Stones"],
+      "answer": "Minerals"
     },
     {
       "number": 21,
-      "question": "Which of the following is not a post planting operation for yam?",
-      "options": ["Detuberisation", "Mulching", "Prunning", "Staking"],
-      "answer": "Prunning"
+      "question": "The three major types of rocks are",
+      "options": [
+        "Sedimentary, Igneous, and Metamorphic",
+        "Hard, Soft, and Medium",
+        "Volcanic, Sandy, and Clayey",
+        "Compact, Loose, and Soft"
+      ],
+      "answer": "Sedimentary, Igneous, and Metamorphic"
     },
     {
       "number": 22,
-      "question": "The following are cultural practices in maize production except",
-      "options": ["pest control", "staking", "supplying", "weeding"],
-      "answer": "staking"
+      "question": "Rocks formed from the cooling and solidification of molten magma are",
+      "options": ["Sedimentary", "Igneous", "Metamorphic", "Crystalline"],
+      "answer": "Igneous"
     },
     {
       "number": 23,
-      "question": "If a glass cylinder which is partly filled with soil and fully filled with water is shaken thoroughly and allowed to settled for a night, what will be observation be in the morning",
-      "options": [
-        "Clay particles will sink down first",
-        "Gravels will float on top of water",
-        "Soil particles will appear in layers",
-        "Glass cylinder will crack with lines"
-      ],
-      "answer": "Soil particles will appear in layers"
+      "question": "Rocks formed from the accumulation and cementation of sediments are",
+      "options": ["Igneous", "Metamorphic", "Sedimentary", "Volcanic"],
+      "answer": "Sedimentary"
     },
     {
       "number": 24,
-      "question": "The following are effects of soil acidity except that it ______.",
+      "question": "Metamorphic rocks are formed by",
       "options": [
-        "causes nutrient deficiency",
-        "leads to soil toxility",
-        "increases soil organic matter content",
-        "reduces growth and yield of crop"
+        "Heat and pressure acting on existing rocks",
+        "Cooling of magma",
+        "Deposition of sediments",
+        "Chemical weathering"
       ],
-      "answer": "increases soil organic matter content"
+      "answer": "Heat and pressure acting on existing rocks"
     },
     {
       "number": 25,
-      "question": "The following are example of farm structure except",
-      "options": ["composite pit", "drainage canal", "farm office", "open shed"],
-      "answer": "composite pit"
+      "question": "Granite is an example of",
+      "options": ["Sedimentary rock", "Igneous rock", "Metamorphic rock", "Volcanic ash"],
+      "answer": "Igneous rock"
     },
     {
       "number": 26,
-      "question": "When planning a farm, the following factors should be considered except",
-      "options": [
-        "availability of labour is required",
-        "location of the farm buildings and structure",
-        "size of the available farmland",
-        "type of animals to be reared"
-      ],
-      "answer": "type of animals to be reared"
+      "question": "Marble is formed from",
+      "options": ["Sandstone", "Limestone", "Shale", "Clay"],
+      "answer": "Limestone"
     },
     {
       "number": 27,
-      "question": "Which of the following is a function of a harrow?",
-      "options": [
-        "Breaking of soil lump",
-        "Coning seeds and fertilizers",
-        "Covering seeds and fertilizers",
-        "Making of ridges"
-      ],
-      "answer": "Covering seeds and fertilizers"
+      "question": "Which of the following is a sedimentary rock?",
+      "options": ["Basalt", "Granite", "Limestone", "Gneiss"],
+      "answer": "Limestone"
     },
     {
       "number": 28,
-      "question": "Farm machines can be maintained in the following ways except by",
-      "options": ["fueling the tank", "sharpening the bladder", "greasing the moveable parts", "replacing worn–out nuts"],
-      "answer": "fueling the tank"
+      "question": "Which of the following rocks can be used for building and road construction?",
+      "options": ["Limestone", "Basalt", "Clay", "Chalk"],
+      "answer": "Basalt"
     },
     {
       "number": 29,
-      "question": "The disadvantages of propagation by seed includes the following except that",
+      "question": "The main difference between sedimentary and igneous rocks is that",
       "options": [
-        "it may produce plants possess undesirable qualities",
-        "it reduces the quality of seeds for consumption",
-        "seeds may not germinate on time due to dormancy",
-        "seeds can remain viable for a long period"
+        "Sedimentary rocks are layered, igneous are not",
+        "Igneous rocks are layered, sedimentary are not",
+        "Both are formed by heat",
+        "Both are formed by cooling"
       ],
-      "answer": "seeds can remain viable for a long period"
+      "answer": "Sedimentary rocks are layered, igneous are not"
     },
     {
       "number": 30,
-      "question": "Ginger is propagated by the use of",
-      "options": ["crowns", "rhizomes", "runners", "suckers"],
-      "answer": "rhizomes"
+      "question": "Which of the following rock types may contain fossils?",
+      "options": ["Igneous", "Sedimentary", "Metamorphic", "Volcanic"],
+      "answer": "Sedimentary"
     },
     {
       "number": 31,
-      "question": "Which of the following is vegetatively propagated by leaf cutting?",
-      "options": ["Bread fruit", "Bryophyllum", "Cassava", "Sugar cane"],
-      "answer": "Bryophyllum"
+      "question": "Slate is formed from",
+      "options": ["Shale", "Limestone", "Basalt", "Chalk"],
+      "answer": "Shale"
     },
     {
       "number": 32,
-      "question": "Pre-planting operations include the following except",
-      "options": ["bush cleaning", "pruning", "harrowing", "farm layout"],
-      "answer": "pruning"
+      "question": "Rocks formed inside the Earth’s crust are called",
+      "options": ["Extrusive", "Intrusive", "Volcanic", "Surface rocks"],
+      "answer": "Intrusive"
     },
     {
       "number": 33,
-      "question": "During planting operations, a farmer would preferably select the following seeds for fast growth and maturity except seeds that are",
-      "options": ["free from insect holes", "large in size", "newly harvested", "stored for long time"],
-      "answer": "free from insect holes"
+      "question": "An example of an extrusive igneous rock is",
+      "options": ["Basalt", "Granite", "Gneiss", "Marble"],
+      "answer": "Basalt"
     },
     {
       "number": 34,
-      "question": "The act of breaking up the soil clods and destroying weed seeds is termed",
-      "options": ["clearing", "harrowing", "ridging", "ploughing"],
-      "answer": "harrowing"
+      "question": "The innermost layer of the earth is called the",
+      "options": ["Mantle", "Crust", "Core", "Moho"],
+      "answer": "Core"
     },
     {
       "number": 35,
-      "question": "The farm structures and building include the following except",
-      "options": ["plough", "barn", "security house", "workshop"],
-      "answer": "plough"
+      "question": "The boundary separating the crust from the mantle is known as the",
+      "options": ["Asthenosphere", "Lithosphere", "Moho discontinuity", "Tropopause"],
+      "answer": "Moho discontinuity"
     },
     {
       "number": 36,
-      "question": "A building that is located at the entrance of a standard farm is called _______.",
-      "options": ["utility building", "store house", "pen", "security post"],
-      "answer": "security post"
+      "question": "Which of the following is the thinnest layer of the earth?",
+      "options": ["Core", "Mantle", "Crust", "Outer core"],
+      "answer": "Crust"
     },
     {
       "number": 37,
-      "question": "The multiplication of crops through the use of vegetative parts of plants is called ______.",
-      "options": ["seed", "binary", "sexual", "asexual"],
-      "answer": "asexual"
+      "question": "The layer of the earth that is responsible for volcanic activities is the",
+      "options": ["Inner core", "Mantle", "Crust", "Hydrosphere"],
+      "answer": "Mantle"
     },
     {
       "number": 38,
-      "question": "The method through which plants reproduce their own kind is known as _______.",
-      "options": ["propagation", "pruning", "staking", "mulching"],
-      "answer": "propagation"
+      "question": "The zone of contact between the lithosphere, hydrosphere and atmosphere where life exists is called",
+      "options": ["Biosphere", "Troposphere", "Exosphere", "Thermosphere"],
+      "answer": "Biosphere"
     },
     {
       "number": 39,
-      "question": "Cassava is best propagated by the use of",
-      "options": ["root", "sucker", "stem cutting", "seed"],
-      "answer": "stem cutting"
+      "question": "The part of the earth made up of rocks and minerals is called the",
+      "options": ["Atmosphere", "Hydrosphere", "Lithosphere", "Biosphere"],
+      "answer": "Lithosphere"
     },
     {
       "number": 40,
-      "question": "Artificial vegetative propagation include the following except",
-      "options": ["runners", "layering", "cutting", "grafting"],
-      "answer": "grafting"
+      "question": "The atmosphere interacts with the hydrosphere mainly through the process of",
+      "options": ["Erosion", "Evaporation and precipitation", "Photosynthesis", "Sedimentation"],
+      "answer": "Evaporation and precipitation"
     },
     {
       "number": 41,
-      "question": "Natural vegetative propagation include the following except",
-      "options": ["suckers", "bulb", "rhizome", "budding"],
-      "answer": "budding"
+      "question": "The relationship between plants and soil nutrients best explains the interaction between",
+      "options": [
+        "Biosphere and lithosphere",
+        "Hydrosphere and atmosphere",
+        "Atmosphere and mantle",
+        "Lithosphere and core"
+      ],
+      "answer": "Biosphere and lithosphere"
     },
     {
       "number": 42,
-      "question": "Storage structures include the following except",
-      "options": ["harrow", "barn", "silos", "rhombus"],
-      "answer": "harrow"
+      "question": "Which of the following provides evidence that the earth is spherical?",
+      "options": ["Existence of oceans", "Satellite photographs", "Change in weather", "Shape of valleys"],
+      "answer": "Satellite photographs"
     },
     {
       "number": 43,
-      "question": "A place where grains are stored is called",
-      "options": ["fence", "silo", "barn", "pen"],
-      "answer": "fence"
+      "question": "The appearance of ships disappearing hull-first over the horizon is evidence that the earth is",
+      "options": ["Flat", "Cuboid", "Spherical", "Irregular"],
+      "answer": "Spherical"
     },
     {
       "number": 44,
-      "question": "When tomatoes planted in a school farm are harvested and stored before they mature, the fruits will _______.",
-      "options": [
-        "be infected with disease in the store",
-        "begins to germinate in the store",
-        "dry up and taste bitter",
-        "turn green and swell up"
-      ],
-      "answer": "turn green and swell up"
+      "question": "The circular shadow cast by the earth on the moon during a lunar eclipse shows that the earth is",
+      "options": ["Flat", "Spherical", "Square", "Conical"],
+      "answer": "Spherical"
     },
     {
       "number": 45,
-      "question": "If a school wishes to employ an agricultural superintendent for the upgrading of a goals in her school farm, which of the following professionals will be employed",
-      "options": [
-        "animal breeder",
-        "animal health technologists",
-        "animal nutritionist",
-        "veterinary doctor"
-      ],
-      "answer": "animal breeder"
+      "question": "Time differences between places on the earth’s surface are caused by its",
+      "options": ["Revolution around the sun", "Rotation on its axis", "Tilt on its orbit", "Gravitational pull"],
+      "answer": "Rotation on its axis"
     },
     {
       "number": 46,
-      "question": "In monocotyledons, proper roots develop from the ______.",
-      "options": ["culum", "radicle", "root hair", "root"],
-      "answer": "root"
+      "question": "Which planet is often referred to as the 'Red Planet'?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "answer": "Mars"
     },
     {
       "number": 47,
-      "question": "A student observed that a maize plant sown under a shade was fallen, weak and bent away from the shade while the same variety of maize plants in the school farm were shorter, healthy and straight during the rainy season. What will be an agricultural teacher’s explanation to the student’s observations",
-      "options": [
-        "Heavy rainfall led to the fast and tall growth of the maize plant",
-        "High temperature under the shade weakened the maize calls",
-        "Light intensity under the shade caused was not sufficient for photosynthesis",
-        "Low pressure under the shade caused extreme transpiration on the maize"
-      ],
-      "answer": "Light intensity under the shade caused was not sufficient for photosynthesis"
+      "question": "Which of the following planets is known for its prominent ring system?",
+      "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+      "answer": "Saturn"
     },
     {
       "number": 48,
-      "question": "The following are forms of agriculture except",
-      "options": ["apiculture", "crop farming", "horticulture", "agriculture"],
-      "answer": "agriculture"
+      "question": "The largest planet in the solar system is",
+      "options": ["Earth", "Jupiter", "Venus", "Uranus"],
+      "answer": "Jupiter"
     },
     {
       "number": 49,
-      "question": "The methods of replenishing lost soil nutrient include the following except",
-      "options": ["bush burning", "cover cropping", "crop rotation", "organic manuring"],
-      "answer": "bush burning"
+      "question": "Which planet is most similar to the Earth in size and composition?",
+      "options": ["Venus", "Mars", "Neptune", "Mercury"],
+      "answer": "Venus"
     },
     {
       "number": 50,
-      "question": "Fingerling is the name given to a young ____.",
-      "options": ["crab", "crocodile", "shrimp", "fish"],
-      "answer": "fish"
+      "question": "The zone of life on earth where the three spheres meet is called",
+      "options": ["Lithosphere", "Biosphere", "Atmosphere", "Hydrosphere"],
+      "answer": "Biosphere"
     }
   ]
