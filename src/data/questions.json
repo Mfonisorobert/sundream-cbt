@@ -1,367 +1,302 @@
 [
     {
       "number": 1,
-      "question": "Equinox occurs when",
-      "options": [
-        "The Sun is directly overhead the equator",
-        "The Sun is at its hottest point",
-        "The Moon affects the Earth’s gravity",
-        "The Earth collides with the Moon"
-      ],
-      "answer": "The Sun is directly overhead the equator"
+      "question": "The angel declared to Mary that her child would be called:",
+      "options": ["Joseph", "Emmanuel", "John the Baptist", "Herod"],
+      "answer": "Emmanuel"
     },
     {
       "number": 2,
-      "question": "Solstice occurs when",
-      "options": [
-        "The Sun is overhead at the Tropic of Cancer or Capricorn",
-        "The Sun shines below the Earth",
-        "The Earth collides with the Moon",
-        "The Moon reflects sunlight"
-      ],
-      "answer": "The Sun is overhead at the Tropic of Cancer or Capricorn"
+      "question": "The Wise Men (Magi) brought gifts of gold, frankincense and:",
+      "options": ["Myrrh", "Silver", "Incense", "Water"],
+      "answer": "Myrrh"
     },
     {
       "number": 3,
-      "question": "GMT means",
-      "options": [
-        "Greenwich Meridian Time",
-        "Greenwich Mean Time",
-        "Greenwich Max Time",
-        "Greenwich Main Time"
-      ],
-      "answer": "Greenwich Mean Time"
+      "question": "The shepherds were told of Jesus’ birth by:",
+      "options": ["The Magi", "Herod", "Simeon", "An angel"],
+      "answer": "An angel"
     },
     {
       "number": 4,
-      "question": "Latitude is",
-      "options": [
-        "The angular distance north or south of the equator",
-        "The northern and southern hemisphere",
-        "The time difference between two regions",
-        "The great circle of the Earth"
-      ],
-      "answer": "The angular distance north or south of the equator"
+      "question": "The meaning of the name “Emmanuel” is:",
+      "options": ["Son of man", "God our helper", "God with us", "Chosen one"],
+      "answer": "God with us"
     },
     {
       "number": 5,
-      "question": "A solar eclipse occurs when",
-      "options": [
-        "The Moon blocks sunlight from reaching the Earth",
-        "The Earth blocks the Sun",
-        "The Sun blocks the Moon",
-        "None of the above"
-      ],
-      "answer": "The Moon blocks sunlight from reaching the Earth"
+      "question": "One moral lesson from Jesus’ birth is that:",
+      "options": ["Wealth is the most important gift", "God humbles the proud", "Only kings can meet Jesus", "Angels don’t announce births"],
+      "answer": "God humbles the proud"
     },
     {
       "number": 6,
-      "question": "Twilight refers to",
-      "options": [
-        "The brief period between sunset and darkness",
-        "The brief period between time zones",
-        "The brief period between day and night",
-        "Eclipse"
-      ],
-      "answer": "The brief period between sunset and darkness"
+      "question": "The one who baptised Jesus in the River Jordan was:",
+      "options": ["Peter", "Simon", "Joseph", "John the Baptist"],
+      "answer": "John the Baptist"
     },
     {
       "number": 7,
-      "question": "Lines of latitude are used to",
-      "options": [
-        "Calculate distances between two places",
-        "Calculate time difference",
-        "Determine location east or west",
-        "Determine local time"
-      ],
-      "answer": "Calculate distances between two places"
+      "question": "At Jesus’ baptism a voice from heaven said:",
+      "options": ["This is my beloved Son", "Take my place", "Go away", "You are forgiven"],
+      "answer": "This is my beloved Son"
     },
     {
       "number": 8,
-      "question": "The International Date Line is where the date changes by",
-      "options": ["1 hour", "12 hours", "24 hours", "2 hours"],
-      "answer": "24 hours"
+      "question": "The dove that descended during the baptism symbolised:",
+      "options": ["The Holy Spirit", "A messenger from John", "Herod’s guard", "An angel"],
+      "answer": "The Holy Spirit"
     },
     {
       "number": 9,
-      "question": "Lines of meridian are lines of",
-      "options": ["Longitude", "Latitude", "Confluence", "Equator"],
-      "answer": "Longitude"
+      "question": "What is baptism?",
+      "options": ["The act of joining a political group", "The act of washing the body for cleanliness", "The Christian rite of being cleansed from sin and admitted into the Church", "The celebration of a new year"],
+      "answer": "The Christian rite of being cleansed from sin and admitted into the Church"
     },
     {
       "number": 10,
-      "question": "All meridians are of",
-      "options": ["Equal length", "Different sizes", "Unequal length", "Variable shape"],
-      "answer": "Equal length"
+      "question": "The role of John the Baptist was to:",
+      "options": ["Write the Gospels", "Be the forerunner of Jesus", "Replace Jesus", "Build the Temple"],
+      "answer": "Be the forerunner of Jesus"
     },
     {
       "number": 11,
-      "question": "Lines of longitude are used to",
-      "options": [
-        "Calculate local time between two places",
-        "Calculate imaginary lines",
-        "Calculate distances",
-        "Calculate height"
-      ],
-      "answer": "Calculate local time between two places"
+      "question": "After his baptism, Jesus was led into the:",
+      "options": ["Sea", "Garden", "Wilderness", "Temple"],
+      "answer": "Wilderness"
     },
     {
       "number": 12,
-      "question": "A similarity between latitude and longitude lines is that",
-      "options": [
-        "Both are imaginary lines drawn on the globe",
-        "Both are measured in degrees",
-        "Both help locate positions on the Earth’s surface",
-        "All of the above"
-      ],
-      "answer": "All of the above"
+      "question": "One of the temptations offered to Jesus was to turn stones into:",
+      "options": ["Water", "Silver", "Pigeons", "Bread"],
+      "answer": "Bread"
     },
     {
       "number": 13,
-      "question": "Lines of latitude are also called",
-      "options": ["Full lines", "Parallel lines", "Long lines", "Half lines"],
-      "answer": "Parallel lines"
+      "question": "Jesus responded to temptation by quoting:",
+      "options": ["The Roman law", "Scriptures", "The words of Satan", "His own thoughts"],
+      "answer": "Scriptures"
     },
     {
       "number": 14,
-      "question": "Parallel lines never",
-      "options": ["Meet", "Converge", "Align", "Curve"],
-      "answer": "Meet"
+      "question": "The word “temptation” means:",
+      "options": ["A joyful gift", "A test of faith", "An easy path", "A reward"],
+      "answer": "A test of faith"
     },
     {
       "number": 15,
-      "question": "The Earth rotates 360° in 24 hours. How many degrees does it rotate per hour?",
-      "options": ["10°", "15°", "30°", "20°"],
-      "answer": "15°"
+      "question": "The Wise Men came from the _______ to visit baby Jesus.",
+      "options": ["West", "South", "East", "North"],
+      "answer": "East"
     },
     {
       "number": 16,
-      "question": "If it is 12:00 noon at longitude 0°, what will be the time at longitude 30°E?",
-      "options": ["10:00 a.m.", "12:00 noon", "2:00 p.m.", "4:00 p.m."],
-      "answer": "2:00 p.m."
+      "question": "The star that guided the Wise Men stopped over _______.",
+      "options": ["The palace of Herod", "The temple in Jerusalem", "The house where Jesus was", "The River Jordan"],
+      "answer": "The house where Jesus was"
     },
     {
       "number": 17,
-      "question": "The distance between two latitudes is approximately",
-      "options": ["60 km", "90 km", "111 km", "150 km"],
-      "answer": "111 km"
+      "question": "The shepherds first heard about the birth of Jesus from _______.",
+      "options": ["The Wise Men", "King Herod", "The angel of the Lord", "The high priest"],
+      "answer": "The angel of the Lord"
     },
     {
       "number": 18,
-      "question": "The time difference between two longitudes 45° apart is",
-      "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
-      "answer": "3 hours"
+      "question": "The visit of the Wise Men and the shepherds shows that Jesus came for _______.",
+      "options": ["Only the Jews", "Both the rich and the poor", "Only the rich", "Only the prophets"],
+      "answer": "Both the rich and the poor"
     },
     {
       "number": 19,
-      "question": "If the time at 15°E is 6:00 a.m., what will be the time at 45°W?",
-      "options": ["2:00 a.m.", "12:00 midnight", "3:00 a.m.", "9:00 p.m. (previous day)"],
-      "answer": "9:00 p.m. (previous day)"
+      "question": "In the Christian teaching, virginity before marriage shows a person’s _______.",
+      "options": ["Disobedience to parents", "Loyalty and self-control", "Laziness and pride", "Lack of confidence"],
+      "answer": "Loyalty and self-control"
     },
     {
       "number": 20,
-      "question": "Rocks are naturally occurring solid materials made up of",
-      "options": ["Minerals", "Soil", "Sand", "Stones"],
-      "answer": "Minerals"
+      "question": "God wants young people to keep their bodies pure because _______.",
+      "options": ["Our bodies are the temple of the Holy Spirit", "It makes them look holy before others", "It makes them better than others", "It helps them gain wealth"],
+      "answer": "Our bodies are the temple of the Holy Spirit"
     },
     {
       "number": 21,
-      "question": "The three major types of rocks are",
-      "options": [
-        "Sedimentary, Igneous, and Metamorphic",
-        "Hard, Soft, and Medium",
-        "Volcanic, Sandy, and Clayey",
-        "Compact, Loose, and Soft"
-      ],
-      "answer": "Sedimentary, Igneous, and Metamorphic"
+      "question": "Virginity after marriage means _______.",
+      "options": ["Being faithful to one’s husband or wife", "Living in separation from one’s spouse", "Avoiding having children", "Ignoring family duties"],
+      "answer": "Being faithful to one’s husband or wife"
     },
     {
       "number": 22,
-      "question": "Rocks formed from the cooling and solidification of molten magma are",
-      "options": ["Sedimentary", "Igneous", "Metamorphic", "Crystalline"],
-      "answer": "Igneous"
+      "question": "One value of keeping virginity before marriage is that it _______.",
+      "options": ["Leads to unwanted pregnancy", "Brings shame and regret", "Promotes self-respect and honor", "Causes hatred among friends"],
+      "answer": "Promotes self-respect and honor"
     },
     {
       "number": 23,
-      "question": "Rocks formed from the accumulation and cementation of sediments are",
-      "options": ["Igneous", "Metamorphic", "Sedimentary", "Volcanic"],
-      "answer": "Sedimentary"
+      "question": "According to Christian teaching, sexual purity is important because _______.",
+      "options": ["It pleases God and strengthens marriages", "It makes people more beautiful", "It helps people get rich quickly", "It prevents friendship with others"],
+      "answer": "It pleases God and strengthens marriages"
     },
     {
       "number": 24,
-      "question": "Metamorphic rocks are formed by",
-      "options": [
-        "Heat and pressure acting on existing rocks",
-        "Cooling of magma",
-        "Deposition of sediments",
-        "Chemical weathering"
-      ],
-      "answer": "Heat and pressure acting on existing rocks"
+      "question": "One major danger of premarital sex is _______.",
+      "options": ["Academic success", "Unwanted pregnancy", "Good moral reputation", "Long life"],
+      "answer": "Unwanted pregnancy"
     },
     {
       "number": 25,
-      "question": "Granite is an example of",
-      "options": ["Sedimentary rock", "Igneous rock", "Metamorphic rock", "Volcanic ash"],
-      "answer": "Igneous rock"
+      "question": "Premarital sex is against God’s command because _______.",
+      "options": ["It promotes holiness", "It increases respect in society", "It encourages true love", "It leads to sin and moral corruption"],
+      "answer": "It leads to sin and moral corruption"
     },
     {
       "number": 26,
-      "question": "Marble is formed from",
-      "options": ["Sandstone", "Limestone", "Shale", "Clay"],
-      "answer": "Limestone"
+      "question": "One disease that can be contracted through premarital sex is _______.",
+      "options": ["Malaria", "Cholera", "Gonorrhea", "Typhoid"],
+      "answer": "Gonorrhea"
     },
     {
       "number": 27,
-      "question": "Which of the following is a sedimentary rock?",
-      "options": ["Basalt", "Granite", "Limestone", "Gneiss"],
-      "answer": "Limestone"
+      "question": "Premarital sex can destroy a young person’s _______.",
+      "options": ["Faith and future plans", "Education and marriage prospects", "Both parents’ life", "Friends"],
+      "answer": "Faith and future plans"
     },
     {
       "number": 28,
-      "question": "Which of the following rocks can be used for building and road construction?",
-      "options": ["Limestone", "Basalt", "Clay", "Chalk"],
-      "answer": "Basalt"
+      "question": "According to Christian teaching, the best way to avoid the dangers of premarital sex is to _______.",
+      "options": ["Ignore God’s word", "Keep company with immoral friends", "Remain sexually pure and obedient to God", "Always attend parties"],
+      "answer": "Remain sexually pure and obedient to God"
     },
     {
       "number": 29,
-      "question": "The main difference between sedimentary and igneous rocks is that",
-      "options": [
-        "Sedimentary rocks are layered, igneous are not",
-        "Igneous rocks are layered, sedimentary are not",
-        "Both are formed by heat",
-        "Both are formed by cooling"
-      ],
-      "answer": "Sedimentary rocks are layered, igneous are not"
+      "question": "One major effect of HIV/AIDS is that it _______.",
+      "options": ["Makes a person very rich", "Gives long life", "Improves memory", "Weakens the body’s immune system"],
+      "answer": "Weakens the body’s immune system"
     },
     {
       "number": 30,
-      "question": "Which of the following rock types may contain fossils?",
-      "options": ["Igneous", "Sedimentary", "Metamorphic", "Volcanic"],
-      "answer": "Sedimentary"
+      "question": "People living with HIV/AIDS should be treated with _______.",
+      "options": ["Hatred", "Love and care", "Fear", "Isolation only"],
+      "answer": "Love and care"
     },
     {
       "number": 31,
-      "question": "Slate is formed from",
-      "options": ["Shale", "Limestone", "Basalt", "Chalk"],
-      "answer": "Shale"
+      "question": "A Christian should respond to people with HIV/AIDS by _______.",
+      "options": ["Avoiding them completely", "Mocking them", "Showing compassion and support", "Spreading rumours about them"],
+      "answer": "Showing compassion and support"
     },
     {
       "number": 32,
-      "question": "Rocks formed inside the Earth’s crust are called",
-      "options": ["Extrusive", "Intrusive", "Volcanic", "Surface rocks"],
-      "answer": "Intrusive"
+      "question": "One sure way to avoid teenage pregnancy is _______.",
+      "options": ["Attending night parties", "Abstaining from sex before marriage", "Keeping bad company", "Watching immoral films"],
+      "answer": "Abstaining from sex before marriage"
     },
     {
       "number": 33,
-      "question": "An example of an extrusive igneous rock is",
-      "options": ["Basalt", "Granite", "Gneiss", "Marble"],
-      "answer": "Basalt"
+      "question": "STDs can be avoided by _______.",
+      "options": ["Practicing sexual purity", "Changing partners often", "Ignoring personal hygiene", "Engaging in premarital sex"],
+      "answer": "Practicing sexual purity"
     },
     {
       "number": 34,
-      "question": "The innermost layer of the earth is called the",
-      "options": ["Mantle", "Crust", "Core", "Moho"],
-      "answer": "Core"
+      "question": "Teenage pregnancy often leads to _______.",
+      "options": ["Church leadership positions", "Promotion in school", "Better job opportunities", "School dropout and shame"],
+      "answer": "School dropout and shame"
     },
     {
       "number": 35,
-      "question": "The boundary separating the crust from the mantle is known as the",
-      "options": ["Asthenosphere", "Lithosphere", "Moho discontinuity", "Tropopause"],
-      "answer": "Moho discontinuity"
+      "question": "A Christian way of avoiding immorality is to _______.",
+      "options": ["Pray and obey God’s word", "Copy bad friends", "Disobey parents", "Skip church services"],
+      "answer": "Pray and obey God’s word"
     },
     {
       "number": 36,
-      "question": "Which of the following is the thinnest layer of the earth?",
-      "options": ["Core", "Mantle", "Crust", "Outer core"],
-      "answer": "Crust"
+      "question": "One disease that can result from immoral behaviour is _______.",
+      "options": ["Tuberculosis", "Flu", "Measles", "HIV/AIDS"],
+      "answer": "HIV/AIDS"
     },
     {
       "number": 37,
-      "question": "The layer of the earth that is responsible for volcanic activities is the",
-      "options": ["Inner core", "Mantle", "Crust", "Hydrosphere"],
-      "answer": "Mantle"
+      "question": "Premarital sex means _______.",
+      "options": ["Helping each other with homework", "Friendship between boys and girls", "Sexual relationship before marriage", "Attending youth fellowship"],
+      "answer": "Sexual relationship before marriage"
     },
     {
       "number": 38,
-      "question": "The zone of contact between the lithosphere, hydrosphere and atmosphere where life exists is called",
-      "options": ["Biosphere", "Troposphere", "Exosphere", "Thermosphere"],
-      "answer": "Biosphere"
+      "question": "Virginity means _______.",
+      "options": ["Staying away from food", "Keeping one’s body pure until marriage", "Living in another country", "Avoiding marriage forever"],
+      "answer": "Keeping one’s body pure until marriage"
     },
     {
       "number": 39,
-      "question": "The part of the earth made up of rocks and minerals is called the",
-      "options": ["Atmosphere", "Hydrosphere", "Lithosphere", "Biosphere"],
-      "answer": "Lithosphere"
+      "question": "Christians are encouraged to keep their virginity because _______.",
+      "options": ["It honours God and promotes holiness", "It makes people proud", "It is a way to please parents only", "It leads to riches"],
+      "answer": "It honours God and promotes holiness"
     },
     {
       "number": 40,
-      "question": "The atmosphere interacts with the hydrosphere mainly through the process of",
-      "options": ["Erosion", "Evaporation and precipitation", "Photosynthesis", "Sedimentation"],
-      "answer": "Evaporation and precipitation"
+      "question": "The Bible teaches that our bodies are the _______.",
+      "options": ["Property of friends", "Gift of society", "Belonging of parents", "Temple of the Holy Spirit"],
+      "answer": "Temple of the Holy Spirit"
     },
     {
       "number": 41,
-      "question": "The relationship between plants and soil nutrients best explains the interaction between",
-      "options": [
-        "Biosphere and lithosphere",
-        "Hydrosphere and atmosphere",
-        "Atmosphere and mantle",
-        "Lithosphere and core"
-      ],
-      "answer": "Biosphere and lithosphere"
+      "question": "A person who avoids premarital sex will enjoy _______.",
+      "options": ["Peace of mind and self-respect", "Fear and guilt", "Shame and regret", "Mockery from others"],
+      "answer": "Peace of mind and self-respect"
     },
     {
       "number": 42,
-      "question": "Which of the following provides evidence that the earth is spherical?",
-      "options": ["Existence of oceans", "Satellite photographs", "Change in weather", "Shape of valleys"],
-      "answer": "Satellite photographs"
+      "question": "What does Jesus’ statement, “Whoever does the will of my Father in heaven is my brother and sister and mother,” mean?",
+      "options": ["Only blood relatives are family", "True family is based on doing God’s will", "Family is only important in childhood", "Family members must all live together"],
+      "answer": "True family is based on doing God’s will"
     },
     {
       "number": 43,
-      "question": "The appearance of ships disappearing hull-first over the horizon is evidence that the earth is",
-      "options": ["Flat", "Cuboid", "Spherical", "Irregular"],
-      "answer": "Spherical"
+      "question": "What is temptation?",
+      "options": ["A blessing from God", "A reward for doing good", "A situation that tests a person’s ability to do good or evil", "A punishment for sin"],
+      "answer": "A situation that tests a person’s ability to do good or evil"
     },
     {
       "number": 44,
-      "question": "The circular shadow cast by the earth on the moon during a lunar eclipse shows that the earth is",
-      "options": ["Flat", "Spherical", "Square", "Conical"],
-      "answer": "Spherical"
+      "question": "Which of the following is a common form of temptation among students in Nigeria today?",
+      "options": ["Studying hard for exams", "Helping classmates with homework", "Attending church regularly", "Cheating during examinations"],
+      "answer": "Cheating during examinations"
     },
     {
       "number": 45,
-      "question": "Time differences between places on the earth’s surface are caused by its",
-      "options": ["Revolution around the sun", "Rotation on its axis", "Tilt on its orbit", "Gravitational pull"],
-      "answer": "Rotation on its axis"
+      "question": "One major way to overcome temptation is to—",
+      "options": ["Depend on God and pray always", "Follow bad friends", "Do whatever feels right", "Hide from everyone"],
+      "answer": "Depend on God and pray always"
     },
     {
       "number": 46,
-      "question": "Which planet is often referred to as the 'Red Planet'?",
-      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
-      "answer": "Mars"
+      "question": "Which of these is an example of temptation in Nigerian society?",
+      "options": ["Refusing to take a bribe", "Telling the truth in court", "Being offered money to vote for the wrong person", "Obeying school rules"],
+      "answer": "Being offered money to vote for the wrong person"
     },
     {
       "number": 47,
-      "question": "Which of the following planets is known for its prominent ring system?",
-      "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
-      "answer": "Saturn"
+      "question": "According to Christian teaching, who helps believers resist temptation?",
+      "options": ["The government", "The Holy Spirit", "The teacher", "The pastor alone"],
+      "answer": "The Holy Spirit"
     },
     {
       "number": 48,
-      "question": "The largest planet in the solar system is",
-      "options": ["Earth", "Jupiter", "Venus", "Uranus"],
-      "answer": "Jupiter"
+      "question": "Where did young Jesus receive His early religious education?",
+      "options": ["In the synagogue", "In the palace", "In the market", "At home only"],
+      "answer": "In the synagogue"
     },
     {
       "number": 49,
-      "question": "Which planet is most similar to the Earth in size and composition?",
-      "options": ["Venus", "Mars", "Neptune", "Mercury"],
-      "answer": "Venus"
+      "question": "What did Jesus learn from His father, Joseph?",
+      "options": ["Teaching", "Carpentry", "Fishing", "Farming"],
+      "answer": "Carpentry"
     },
     {
       "number": 50,
-      "question": "The zone of life on earth where the three spheres meet is called",
-      "options": ["Lithosphere", "Biosphere", "Atmosphere", "Hydrosphere"],
-      "answer": "Biosphere"
+      "question": "Which one of these is not an STI?",
+      "options": ["Gonorrhea", "Syphilis", "HIV", "Headache"],
+      "answer": "Headache"
     }
   ]
